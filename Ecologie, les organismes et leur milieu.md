@@ -5,14 +5,14 @@
 
 ### I) Un peu d'histoire 
 
-Discipline ancienne, remontant aux premiers hommes ayant développé la chasse, la pêche, collecte : besoin de connaissance sur quand et où trouver leurs ressources. Vers le dvp de la sédentarisation et des pratiques agricoles : besoin de comprendes le dvp des plantes et le comportement des animaux.
+Discipline ancienne, remontant aux premiers hommes ayant développé la chasse, la pêche, collecte : besoin de connaissance sur quand et où trouver leurs ressources. Vers le dvp de la sédentarisation et des pratiques agricoles : besoin de comprendre le dvp des plantes et le comportement des animaux.
 Traces d'écrits datant des Egyptiens, Babyloniens concernant les récoltes (centre de passage de commerces très importants)
 
 Ecrits du 4e siècle par Aristote traitant des fléaux de mulots et de criquets.
 
 A partir du 17e siècle, beaucoup d'étude sont entreprises sur les pop humaines (dynamique des pop) et en histoire naturelle (diversité du vivant)
 
-La pomme de terre été une très grosse ressource, tomates, maïs, riz. Elles vont être apportés au fur et à mesure des découvertes. L'homme a aider les espèces à se développer, ce qui a pu provoquer des espèces invasives créant la disparition d'espèces.
+La pomme de terre a été une très grosse ressource de même pour les tomates, maïs, riz. Elles vont être apportées au fur et à mesure des découvertes. L'homme a aidé les espèces à se développer, ce qui a pu provoquer des espèces invasives créant la disparition d'espèces.
 
 **GRAUNT** en **1662** décrit les changements quantitatifs de la pop humaine de Londres et estime qu'elle peut doubler en 64 ans.
 
@@ -28,14 +28,18 @@ La pomme de terre été une très grosse ressource, tomates, maïs, riz. Elles v
 **BUFFON** 1756 : écrit l'ouvrage *Histoire naturelle* qui est l'une des plus importantes entreprises de publication scientifique du Siècle des Lumières
 
 **1805: ALEXANDER VON HUMBOLDT** géographe et naturaliste travaille sur la *géographie des plantes* Nombreuses expéditions pour les Amériques
-* étape de la végétation : met en relation végétation - climat)
+* étape de la végétation : met en relation végétation - climat
 
-**G. SAINT HILAIRE** dvp le ssciens du comportement (Ethologie)
+**G. SAINT HILAIRE** dvp le sciences du comportement (Ethologie)
+
 **ERNST HECKEL** propose en 1866 le terme **ECOLOGIE***
+
 **FLAHAUT** propose le concept d'association végétale*
 
 **1913** fondation de la British Ecological Society
+
 **1916** : fondation de la Ecological Society Américaine
+
 **1992** : Nations Unies - **Sommet de la Terre à Rio de Janeiro**
 * préservation de la diversité biologique
 
@@ -48,7 +52,6 @@ La pomme de terre été une très grosse ressource, tomates, maïs, riz. Elles v
 
 L'écologie à besoin de biologie, science comportementale (ex type de musique), l'évolution, la génétique (ex :retrouver les ancêtres communs) et la physiologie. (*schéma de KREBS 2009*)
 
-µ 2TUDIER LE MONDE VIVANT 0 DIFF DEGR2S D4ORGANISATION
 * étudier le fonctionnement et l'évolution de chaque système ou niveau d'organisation
 * mettre en évidence les relations:
 	* entre organismes vivants et leur milieu
@@ -69,15 +72,15 @@ NIVEAUX D ORGANISATION
 
 Atome -> Molécule -> Organite -> Cellule -> Organe -> **Organisme = individu -> Pop -> Communauté = Peuplement -> Ecosystème -> Biome -> Biosphère**
 
-Ecologie, science qui étudie les ** les relations entre les organismes vivants et leur milieu ** -> conditions d'existence
+**Ecologie**, science qui étudie les ** les relations entre les organismes vivants et leur milieu ** -> conditions d'existence
 
 Science des faits de l'évolution notion rajoutée suite à la parution de l'ouvrage de DARWIN 
 
 Travaux de WALLACE
 
 * monde non immuable
-* processus évolutifs était garduels
-* postulat  d'une ascendance commune (l'homme descend du singe)
+* processus évolutifs garduels
+* postulat d'une ascendance commune (l'Homme descend du singe)
 * existence d'une selection naturelle
 Def modifiée par KREBS en 1972
  
@@ -86,9 +89,9 @@ Etude des écosystèmes:
  * identifier les facteurs influençant l'organisation et la répartition des organismes 
  * cerner les relations s'établissant entre les organismes
 
-Ecoloie = science qui peut contribuer à résoudre certains problèmes environnementaux (souvent liés aux politiques menées n'envisage en aucun cas de les résoudre tous à elle seule)
+Ecologie = science qui peut contribuer à résoudre certains problèmes environnementaux (souvent liés aux politiques menées n'envisage en aucun cas de les résoudre tous à elle seule)
 
-2003 -> réchauffement climatique -> baisse du taux d'O dans les rivières -> augmentation de mortalité de certains poissons
+2003 -> réchauffement climatique -> baisse du taux d'O dans les rivières -> augmentation de mortalité pour certains poissons
 
 **_Environnement_**
 
@@ -97,7 +100,7 @@ Concept très général se concrétisant de façons diverses selon le niveau auq
 * local : préoccupation de la qualité des paysages, des milieux
 
 global: préoccupation environnemntal à l'échelle de grandes régions de la planète, qualité des océans, réchauffement climatique..
-Concept d'environnement s'articule avec celui de dvp -> DVP DURABLE
+Concept d'environnement s'articule avec celui de dvp -> **dvp durable**
 
 *"Le dvp durable et le dvp qiu répond aux besoins présent sans compromettre la capacité des générations futures à répondre à leurs propre besoin"* Nations Unies
 
@@ -106,8 +109,7 @@ Concept d'environnement s'articule avec celui de dvp -> DVP DURABLE
 1e étape: décrire à l'échelle de la Terre
 * répartition des êtres vivants
 * leur abondance 
-* identifier déjà les facteurs globaux à l'origne de leur distribution
-Approche biogéographie
+* identifier déjà les facteurs globaux à l'origne de leur distribution = Approche biogéographie
 
 Afin de connaître l'environnement des espèces, étudier la distribution des systèmes bio par rapport aux variations géo de l'environnement et en fonction de l'échelle que l'on prend (diff facteurs)
 
@@ -144,10 +146,10 @@ Sinon elle est rejetée
 L'expérimentation peut également être tournée vers les conséquences 
 (ajout d'espèces exotiques)
 
-Ex lapin en Australie -> 27 lapins introduits -> 5 milliards d'individus 1 siècle plus tard -> contrôle de la prolifération par l'introduction du virus de myxomatose
+*ex lapin en Australie -> 27 lapins introduits -> 5 milliards d'individus 1 siècle plus tard -> contrôle de la prolifération par l'introduction du virus de myxomatose*
 
-Ex Millepertuis d'Europe
-Introduction en Amérique -> colonisation de millions d'hectares de culture -> enrayé par une chrysomèle européenne
+*ex Millepertuis d'Europe
+Introduction en Amérique -> colonisation de millions d'hectares de culture -> enrayé par une chrysomèle européenne*
 
 ou retrait d'éspèces
 * disparition des éléphants en Inde, ou dans certaines parties d'Afrique
@@ -159,13 +161,13 @@ ou modification de facteurs écologiques
 
 Deux apporches dans la démarche expérimentale
 
-* Suivi diachronique : au cours du temps, comparaison Ei ET Ef, suivi des trajectoires de chgmt = dynamique du syst, établissement d'une chronoséquence
+* Suivi diachronique : au cours du temps, comparaison Etat initial ET Etat final, suivi des trajectoires de chgmt = dynamique du syst, établissement d'une chronoséquence
 
--> pas toujours réalisable à l'échelle humaine (ex semis de chêne : 120 ans = syst arrive à maturité)
+-> pas toujours réalisable à l'échelle humaine (*ex semis de chêne : 120 ans = syst arrive à maturité*)
 
 * Suivi synchronique : reconstituer la trajectoire su système, échantillonnage conditionné par le facteur étudié
 
--> démarche gérable à l'échelle humaine , comparaison à un temps t de stades de maturité différents (ex étude simultanée de plusieurs parcelles de forêt d'âge différent soumises à un traitement T)
+-> démarche gérable à l'échelle humaine , comparaison à un temps t de stades de maturité différents (*ex étude simultanée de plusieurs parcelles de forêt d'âge différent soumises à un traitement T*)
 
 Inconvénient : comparaison de choses différentes -> stades de dvp différents -> facteurs différents 
 
@@ -186,13 +188,13 @@ Inconvénient : comparaison de choses différentes -> stades de dvp différents 
 
 **Cox & Moore (2000)** :" *La biogéographie est l'étude des objets vivants dans l'espace et dans le temps* "
 
-## II)Causes des distributions actuelles
+## II) Causes des distributions actuelles
 
-Tous les organismes ne sont pas répartis uniformément à la surface du globe. Les caractéristiques de l'air de répartition ou distribution d'une espèce sont dépendantes de l'influence tant passé que présente de facteurs propres aux organismes et/ ou de facteurs externes aux organismes. 
+Tous les organismes ne sont pas répartis uniformément à la surface du globe. Les caractéristiques de l'aire de répartition ou distribution d'une espèce sont dépendantes de l'influence tant passé que présente de facteurs propres aux organismes et/ou de facteurs externes aux organismes. 
 
-### 1) Les fateurs internes 
+### 1) Les facteurs internes 
 
-Lorsqu'un nouveau taxon se différencie à la surface du globe (dû à une spéciation, sympatrique ou allopatrique), l'expension de son air de répartition va dépendre en premier lieu de ses potentiellités intrasèques
+Lorsqu'un nouveau taxon se différencie à la surface du globe (dû à une spéciation, sympatrique ou allopatrique), l'expension de son aire de répartition va dépendre en premier lieu de ses potentiellités intrasèques
 * les capacité de propagation
 * l'amplitude écologique
 * les aptitudes évolutives
@@ -201,12 +203,12 @@ Elles sont liées au patrimoine génétique du taxon.
 
 #### A)La capacité de propagation
 
-Théoriquement, l'expansion d'une espèce dépend tout d'abord de son potentiel de reproduction (taux de fécondité -> nombre de descendant, données par unité de temps dans les meilleures conditions environnementales) et de son pouvoir de dissémination (faculté de se déplacer ou d'être dispersés à des distances plus ou moins importantes). Elles sont très variables entre les taxons.
+Théoriquement, l'expansion d'une espèce dépend tout d'abord de son potentiel de reproduction (taux de fécondité -> nombre de descendant, donné par unité de temps dans les meilleures conditions environnementales) et de son pouvoir de dissémination (faculté de se déplacer ou d'être dispersé à des distances plus ou moins importantes). Elles sont très variables entre les taxons.
 Il n'y a pas relation de précise entre entre les potentiellités reproductrices et augmenter son air de distribution.
 Le nombre de descendant produit n'est pas le nb de taxons qui se reproduiront (pas de liaison à la potentiellités reproductrices de la génération suivante)
 
 La dissémination représente la faculté qu'on les organismes eux mêmes ou une partie de ces organismes de se déplacer ou d'être dispersé. Elle s'effectue par des processus divers:
-* dissémination active (par ses propres moyens se déplace ex stolon des fraisiers)
+* dissémination active (par ses propres moyens se déplace *ex stolon des fraisiers*)
 * dissémination passive : action d'un facteur externe qui va entraîner au loin les individus, différents types (anémogories, hydrogorie, zoochorie, barochorie, anthropochorie)
 
 #### B) Amplitude écologique du taxon
@@ -238,7 +240,7 @@ La plasticité phénotypique n'est pas toujours adaptative.
 
 **Sélection et stratégie adaptatives (génotype)**
 
-Les variations les plus conséquentes, concerne les aptitudes à l'expansion sont le résultats de la sélection exercée par les facteurs environnementaux sur la diversité génétique des pop. Il n'y a jamais de génotype favorisé, seulement des défavorisé par les facteurs environnementaux -> Tri des génotypes par sélection -> Diversité génétique
+Les variations les plus conséquentes, concerne les aptitudes à l'expension sont le résultats de la sélection exercée par les facteurs environnementaux sur la diversité génétique des pop. Il n'y a jamais de génotype favorisés, seulement des défavorisés par les facteurs environnementaux -> Tri des génotypes par sélection -> Diversité génétique
 
 Des taxons vont choisir pour perpetuer l'espèce, de faire un grand nombre de descendant très rapidement(**_r_**). D'autres vont choisir de miser sur la durer et de faire moins de descendant d'un coup mais plus sur la durer (tenir dans le temps) -> Environnement plutot favorable.(**_K_**)
 
@@ -246,7 +248,7 @@ Une espèce est **_r_** si on la compare à une autre espèce. Cas extrême mamm
 
 ### 2) Les facteurs externes
 
-Le dvp de l'aire de répartition de chaque taxon, il se trouve tôt ou tard limiter par l'intervention d'un facteur environnemental défavorable. C'est en parti pourquoi la très grande majorité des taxons présente des aires de distribution réel inf à leur aire potentiel avec de grandes catégories de facteurs externes:
+Le dvp de l'aire de répartition de chaque taxon, il se trouve tôt ou tard limiter par l'intervention d'un facteur environnemental défavorable. C'est en partie pourquoi la très grande majorité des taxons présente des aires de distribution réelles inf à leur aire potentielle avec de grandes catégories de facteurs externes:
 * géographiques
 * géologiques
 * biotique (compétiteur et intervention humaine)
@@ -254,12 +256,12 @@ Le dvp de l'aire de répartition de chaque taxon, il se trouve tôt ou tard limi
 
 **La techtonique des plaques**
 
-Plus la masse terrestre est fragmenté, plus la diversité est importante à l'échelle géologique. -> processus de spéciation
+Plus la masse terrestre est fragmentée, plus la diversité est importante à l'échelle géologique. -> processus de spéciation
 
 **Les crises climatiques**
 
-Périodes glaciaires: extension des espèces boréales et recul (disparition des espèces tempérées)
-Périodes interglaciaires : Mvmt inverses, mixité de la faune et flore et aires disjointes
+Périodes glaciaires: extension des espèces boréales et recul/disparition des espèces tempérées
+Périodes interglaciaires : Mvmts inverses, mixité de la faune et flore et aires disjointes
 
 **Facteurs biotiques**
 
@@ -273,7 +275,7 @@ Calcul du taux d'extinction sur 100/5M = 0,02%*
 
 Aires de répartitions des:
 * espèces spécialistes se contractent
-* espèces généralistes s'étendent (bambou)
+* espèces généralistes s'étendent (*ex bambou*)
 
 ### C) Evolution des aires de répartition
 
@@ -288,14 +290,14 @@ Il existe une très grande diversité d'aires de distribution mais on peut les c
 
 ### 1) Aires cosmopolites
 
-Ce sont des aires qui recouvrent l'ensemble de la surface du globe, ce sont des taxons représenter soit sur la surface majorité émmergé soit sur la surface majorité immergé. Il y en existe que peu d'espèces
+Ce sont des aires qui recouvrent l'ensemble de la surface du globe, ce sont des taxons représentés soit sur la surface majorité émmergé soit sur la surface majorité immergé. Il y en existe que peu d'espèces
 * genre festuca sp
 * rotifères
 * potannogeton notanus
 
-Les espèces se rapprochant d'une aire cosmopolites se rapporchent à l'Homme (rat, mouche)
+Les espèces se rapprochant d'une aire cosmopolite se rapprochent à l'Homme (rat, mouche)
 
-### 2)Aires circumterrestres
+### 2) Aires circumterrestres
 
 Aires s'étendant autour du globe par des latitudes données
 * aire circum boréale Manchot
@@ -313,13 +315,13 @@ Hypothèse quant à la mise en place d'aire disjointes : chaque espèce apparaî
 * *genre Lama en Amérique du Sud*
 * *genre Camelus en Afrique et en Asie*
 
-*ex Aire disjointe des genres vicariants Fagus et Nothofagus, ils ont le même rôle fonctionnel mais dans des lieux différents*
+*ex aires disjointes des genres vicariants Fagus et Nothofagus, ils ont le même rôle fonctionnel mais dans des lieux différents*
 
 ### 4) Aires endémiques
 
 Aire stricte à un territoire donné (*Violette de Rouen*)
 Peut être dans un continent donné (*Cactacées*)
-Le nombre de taxons endémique va nous permettre de terminer les territoires
+Le nombre de taxons endémique va nous permettre determiner les territoires
 
 * **Empires** = endémisme d'ordre ou de famille
 * **Régions** = endémime des famille ou genre
@@ -331,16 +333,17 @@ Le nombre de taxons endémique va nous permettre de terminer les territoires
 #### A) Le Cline de diversité
 
 On a plus d'espèce dans les basses latitudes que vers les pôles. 
+
 * le niveau de productivité primaire -> energie lumineuse plus importante, chance d'avoir le plus de productivité primaire donc subvenir aux besoin de plus d'espèces
+
 * le temps de spéciation plus important dans les zones tropicales -> equateur, maximum de zone terrestre et celle qui a été le moins impacté par le temps et étant un masse terrestre importante, ce qui a donc permis un taux de spéciation plus important
+
 * taux de spéciation plus important et un taux d'extinction plus faible dû à la grandeur du territoire et découle du temps de spéciation plus important
 
 
 #### B) Gradient altitudinaux
 
-La biodiversité a tendance à diminuer avec l'altitude car moins de productivité
-
-Même chose pour les profondeurs
+La biodiversité a tendance à diminuer avec l'altitude car moins de productivité. Même chose pour les profondeurs
 
 
 
