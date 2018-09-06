@@ -69,7 +69,7 @@ Ce sont pratiquement toujours des plantes herbacées (sauf le bambou) annuelles 
 
 L'**epillet** est une inflorescence élémentaire des poacées, 1 épillet = 2 fleures mâle et femelle
 
-![Epillet] (Images/épillet.jpg) 
+![Epillet](Images/épillet.jpg) 
 
  Un épillet peut être sessile: épi
 
