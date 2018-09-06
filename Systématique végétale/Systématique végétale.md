@@ -69,62 +69,14 @@ Ce sont pratiquement toujours des plantes herbacées (sauf le bambou) annuelles 
 
 L'**epillet** est une inflorescence élémentaire des poacées, 1 épillet = 2 fleures mâle et femelle
 
+
 cf schéma
 
  Un épillet peut être sessile: épi
-
-Un épillet pédicellés: grappe, cyme, panicule
+ Un épillet pédicellés: grappe, cyme, panicule
  
-Adaptation à l'anémogamie
-*stigmates plumeux
-* anthères oscillantes
-* pièces périanthe peu visible
-
-Fleurs chez les espèces primitives : (3+3)T + (3+3)E + (3C)
-
-0S + OP + 1-3 + 1C
-
-Le fruit est un **caryopse** est soudée à l'akène + Albumen
-
-# CYPERACEES
-
-## I) Generalités
-
-Ils sont voisins des poacées dans les zones humides. On a une convergence avec les poacées mais pas de filiation directe.
-C'est une plante **graminoïde**, les feuilles sont à **insertion tristiques** (3 directions différentes), la tige est à **section triangulaire**, ne possède **pas de noeud**. Les feuilles sont à **gaines non fendues** et ne possède **pas de ligules** (mais parfois **antiligules**). Les feuilles sont en "V"
-
-## III) Appareil reproducteur
-
-Inflorescence: grappe contractée d'épillets : épi
-
-Les fleurs sont réduites.
-Le périanthe est réduit à des soies ou écailles.
-La pollinisation anémophile.
-Le fruit est l'akène.
-
-
-Chez le carex, l'évolution de l'épillet en fleurs unisexuées.
-Le périanthe est une utricule. Il y a beaucoup d'inflorescences variables.
-Il est monostachiée.
-
-Hétérostachiée : plusieurs épis que mâle ou que femelle
-
-Homostachiée : plusieurs épis mâle et femelle
-
-## JUNCACEES
-
-### I) Generalités
-
-Une famille de 7 genres et 400 espèces. 
-
-L'appareil végétatif est herbacées, on a des rhizomes, les feuilles sont basales, alternes à limbe graminiforme ou cylindrique.
-
-La fleur a des tépales, l'inflorescenceest souvent en cymes ou en glomérules, les fleurs hermaphrodites et actinomorphes en générale verte ou brune
-
-3+ 3T + 3 + 3 E + (3C)
-
-
-
+ 
+ 
 
 
 
