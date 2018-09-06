@@ -26,7 +26,7 @@ La réduction des données, les méthodes de réduction des données font partie
 **Les populations**, l'étude des pop fait partie de la **statistique inférentielle** qui prend un échantillion et en tire des ccl pour toute la population
 Elle utilise des hypothèses de départ et des tests statistiques pour voir si les résultats obtenus diffèrent ou non de ce que l'on aurait par le simple effet du hasard.
 
-*cf 1*
+![Statistique](Images/1.jpg)
 
 ### B) Notion de variabilité
 
@@ -70,17 +70,19 @@ Les probabilités d'être échantillonné, ou d'appartenir à un groupe doivent 
 * Les variables ordonnées (cellle qu'on peut classer)
 * Les variables non ordonnées
 
-*cf 2
-cf 3*
+![Statistique](Images/2.jpg)
+
+![Statistique](Images/3.jpg)
 
 > Quand on fait un partiel garder le même nb de chiffre derrière la virgule
 
-*cf 4*
-*cf 5*
-*cf 6*
-*cf 7*
+![Statistique](Images/4.jpg)
 
+![Statistique](Images/5.jpg)
 
+![Statistique](Images/6.jpg)
+
+![Statistique](Images/7.jpg)
 
 ## II) Les statistiques descriptives
 
@@ -98,17 +100,23 @@ On utilise 2 types de paramètres:
 * **paramètre de position** (valeur centrale)
 * **paramètre de dispersion** (variabilité)
 
-*cf 8*
-*cf 9*
-*cf 10*
-*cf 11*
-*cf 12*
+![Statistique](Images/8.jpg)
+
+![Statistique](Images/9.jpg)
+
+![Statistique](Images/10.jpg)
+
+![Statistique](Images/11.jpg)
+
+![Statistique](Images/12.jpg)
 
 La variance représente la dispersion de la moyenne.
 
-*cf 13*
-*cf 14*
-*cf 15*
+![Statistique](Images/13.jpg)
+
+![Statistique](Images/14.jpg)
+
+![Statistique](Images/15.jpg)
 
 
 
