@@ -118,6 +118,120 @@ La variance représente la dispersion de la moyenne.
 
 ![Statistique](Images/15.jpg)
 
+![Statistique](Images/16.jpg)
+
+![Statistique](Images/17.jpg)
+
+![Statistique](Images/18.jpg)
+
+![Statistique](Images/19.jpg)
+
+## III) Les distributions de probabilité
+
+Au delà de la caractérisation d'un échantillon par un ou plusieurs paramètres, il est possible de décrire la façon dont les obeservations d'une variable sont distribués ou réparties.
+
+On construit alors une courbe de distribution des **fréquences** observée.
+
+La distribution permettra de définir les tests statistiques à utiliser par la suite.
+
+![Statistique](Images/20.jpg)
+
+![Statistique](Images/21.jpg)
+
+![Statistique](Images/22.jpg)
+
+![Statistique](Images/23.jpg)
+
+![Statistique](Images/24.jpg)
+
+Courbe 1 = fréquence et courbe 2 = fonction
+
+### D) Les lois de distribution théorique
+
+Connaître un échantillon c'est
+* connaître sa moyenne
+* connaître sa variance et donc son écart type
+* avoir une représentation des données par un histogramme ou un diagramme en bâtons (en fonction de la nature de la variable).
+
+Problématique:
+
+On veut connaître la pop de laquelle est issu l'échantillon, c'est à dire être capable de tracer l'histogramme représentant la pop.
+
+Observation des histogrammes:
+
+Les histogrammes illustrant des échantillons de pop présentent **tous** la particularité d'une forme de cloche quand on tend vers l'infini
+
+![Statistique](Images/25.jpg)
+
+![Statistique](Images/26.jpg)
+
+![Statistique](Images/27.jpg)
+
+![Statistique](Images/28.jpg)
+
+![Statistique](Images/29.jpg)
+
+![Statistique](Images/30.jpg)
+
+![Statistique](Images/31.jpg)
+
+![Statistique](Images/32.jpg)
+
+![Statistique](Images/33.jpg)
+
+![Statistique](Images/34.jpg)
+
+![Statistique](Images/35.jpg)
+
+![Statistique](Images/36.jpg)
+
+![Statistique](Images/37.jpg)
+
+![Statistique](Images/38.jpg)
+
+![Statistique](Images/39.jpg)
+
+![Statistique](Images/40.jpg)
+
+![Statistique](Images/41.jpg)
+
+![Statistique](Images/42.jpg)
+
+![Statistique](Images/43.jpg)
+
+![Statistique] (Images/44.jpg)
+
+![Statistique] (Images/45.jpg)
+
+![Statistique] (Images/46.jpg)
+
+![Statistique] (Images/47.jpg)
+
+![Statistique] (Images/48.jpg)
+
+![Statistique] (Images/49.jpg)
+
+![Statistique] (Images/50.jpg)
+
+![Statistique] (Images/51.jpg)
+
+![Statistique] (Images/52.jpg)
+
+![Statistique] (Images/53.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
