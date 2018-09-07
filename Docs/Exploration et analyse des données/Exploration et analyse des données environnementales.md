@@ -199,25 +199,25 @@ Les histogrammes illustrant des échantillons de pop présentent **tous** la par
 
 ![Statistique](Images/43.jpg)
 
-![Statistique] (Images/44.jpg)
+![Statistique](Images/44.jpg)
 
-![Statistique] (Images/45.jpg)
+![Statistique](Images/45.jpg)
 
-![Statistique] (Images/46.jpg)
+![Statistique](Images/46.jpg)
 
-![Statistique] (Images/47.jpg)
+![Statistique](Images/47.jpg)
 
-![Statistique] (Images/48.jpg)
+![Statistique](Images/48.jpg)
 
-![Statistique] (Images/49.jpg)
+![Statistique](Images/49.jpg)
 
-![Statistique] (Images/50.jpg)
+![Statistique](Images/50.jpg)
 
-![Statistique] (Images/51.jpg)
+![Statistique](Images/51.jpg)
 
-![Statistique] (Images/52.jpg)
+![Statistique](Images/52.jpg)
 
-![Statistique] (Images/53.jpg)
+![Statistique](Images/53.jpg)
 
 
 
