@@ -125,7 +125,8 @@ Protéines transformeurs vont agir sur le taux de transcription appellé double 
 
 ça se passe dans toutes les cellules de la drosophile 
 
-
+ > A revoir 
+ 
 ## D) Le contrôle environnemental de la détermination du sexe
 
 ### 1) Par des substances mascllinisantes ou féminisantes
