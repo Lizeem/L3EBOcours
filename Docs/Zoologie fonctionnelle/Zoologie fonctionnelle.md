@@ -124,8 +124,6 @@ Il y a une deuxième vague, le gène SXL va être exprimé parce qu'un autre pro
 Protéines transformeurs vont agir sur le taux de transcription appellé double sexe pour le X/A = 1. Sinon la protéine SXL ne servira à rien, ce qui ne pourra pas modifier le gène double sexe, donc il sera différent que celui de la femelle.
 
 ça se passe dans toutes les cellules de la drosophile 
-
- > A revoir 
  
 ## D) Le contrôle environnemental de la détermination du sexe
 
@@ -133,10 +131,10 @@ Protéines transformeurs vont agir sur le taux de transcription appellé double 
 
 Les facteurs environnementaux qui agissent sur le sexe sont très très variables:
 
-* substance environnementaleproduites par des individus de la même espèce
-*ex Boweilla virulis, animal dont la particularité est que la femelle est volumineuse et possède une trompe pouvant s'allonger jusqu'à un mètre de longueur. Le mâle est bcp plus petit, c'est un organisme allant de 1 à 3 mm qui vit en parasite sur la femelle; ces larves ne sont pas seules, au moment de la métamorphose, la larve va quitter son mode de vie et va migrer vers le fond; Si elle tombe sur un rocher, la larve va former une femelle, par contre si elle tombe sur un endroit ou il y a déjà une femmelle, elle deviendra un mâle.*
+* substance environnementale produites par des individus de la même espèce
+*ex Boweilla virulis, animal dont la particularité est que la femelle est volumineuse et possède une trompe pouvant s'allonger jusqu'à un mètre de longueur. Le mâle est bcp plus petit, c'est un organisme allant de 1 à 3 mm qui vit en parasite sur la femelle; ces larves ne sont pas seules, au moment de la métamorphose, la larve va quitter son mode de vie et va migrer vers le fond. Si elle tombe sur un rocher, la larve va former une femelle, par contre si elle tombe sur un endroit ou il y a déjà une femelle, elle deviendra un mâle.*
 
-*autre ex gastéropes étant des espèces invasives sur nos côtes, ils vivent en colonie, 6 peut être fixé les uns au dessus des autres. L'individu qui se trouve en dessous est une femelle, l'individu qui se trouve au dessus est un mâle et entre les deux ils sont à la fois mâle et femelle. Cette répartition favorise la reproduiction ,ils se reproduisent rapidement. Chaque individu va féconder celui qui est en dessous. La determination du sexe est donc dû à la répartition dans la colonie. Ils ont deux types de substances*
+*ex gastéropes étant des espèces invasives sur nos côtes, ils vivent en colonie, 6 peut être fixés les uns au dessus des autres. L'individu qui se trouve en dessous est une femelle, l'individu qui se trouve au dessus est un mâle et entre les deux ils sont à la fois mâle et femelle. Cette répartition favorise la reproduction ,ils se reproduisent rapidement. Chaque individu va féconder celui qui est en dessous. La determination du sexe est donc dû à la répartition dans la colonie. Ils ont deux types de substances:*
 
 * substances féminisante libéré par chaque individu vers le bas pour que ceux ci dvp le sexe femelle
 *  substance masculinisante libéré vers le haut de la colonie, les larves au centre possèdent les deux sexes. Il ne change pas naturellement de colonie
@@ -145,64 +143,66 @@ Les facteurs environnementaux qui agissent sur le sexe sont très très variable
 
 Chez bcp de vertébrés notamment les reptiles, c'est la température d'incubation des oeufs qui va determiner le sexe de la progéniture.
 
-*ex tortues, pour les plus faibles température, l'individu sera un mâle, arriver à la température de transition, on obtiendra les deux sexes, puis des femelle. On peut avoir le cas de figure inverse suivant les espèces. Il y a cependant qu'une seule température de transition.*
+*ex tortues, pour les plus faibles température, l'individu sera un mâle, arriver à la température de transition, on obtiendra les deux sexes, puis des femelle. On peut avoir le cas de figure inverse suivant les espèces. Il n'y a cependant qu'une seule température de transition.*
 
 Chez certaines crocodiles, on peut avoir deux températures de transition.
 
-*ex les aligatoire, il faut 5 femelles pour 1 mâle, les nids sont construits dans les zones humides entre 29 et 30 °C ne produisent que des mâles. Dans les zones sèches (34-35 °C) ce ne seront que des femelles.*
+*ex les alligator, il faut 5 femelles pour 1 mâle, les nids sont construits dans les zones humides entre 29 et 30 °C ne produisent que des mâles. Dans les zones sèches (34-35 °C) ce ne seront que des femelles.*
 
 Une enzyme (aromatase) capable de transformer l'andogène en omogène. Ches les reptiles, son activité dépend de la température d'incubation.
 
 ### E) L'hermaphrodisme
 
-Il existe bcp d'animaux qui sont hermaphrodite. L'hermaphrodisme est très peu simultannée, les fonctions mâles et femelles se déclenchent en même temps. Elle est donc en général, les individus sont d'abord mâle et ensuite femelle, c'est de l'hermaphrodisme **protandre**, autrement c'est de l'hermaphrodisme **protogyne**.
+Il existe bcp d'animaux qui sont hermaphrodites. L'hermaphrodisme est très peu simultanné. Ils se modifient au fur et à mesure du temps, les individus sont d'abord mâle et ensuite femelle, c'est de l'hermaphrodisme **protandre**, Si c'est simultané c'est de l'hermaphrodisme **protogyne**.
 
 ##  II) Les organes assurant la formation des gamètes
 
 ### A) Des régions indiff
 
-*Annélides polychètes, animaux marins, en général, les gamètes se forment au niveau de la paroi coelome (cavité se trouvant dans le mésoderme) des gamètes vont passer dans la cavité coelomique, chez certaines espèces, l'évacuation des gamète se fait par la cavité excrétrice, d'autres ont une cavité permettent de les libérés, parfois les les gamètes exploisent.*
+*Annélides polychètes, animaux marins, en général, les gamètes se forment au niveau de **la paroi coelome** (cavité se trouvant dans le **mésoderme**) des gamètes vont passer dans la cavité coelomique, chez certaines espèces, l'évacuation des gamète se fait par la cavité excrétrice, d'autres ont une cavité permettent de les libérer, parfois les gamètes explosent.*
 
-Chez les éponges, on une structure appellé la mésoglé, au moment de la reproduction, des cellules vont se spécialiser pour former des gamètes et vont s'entourer d'une petite membrane, se qui va former des petits sacs dans la mésoglé.Chez les métazoaire, ils ont des org gonades.
+Chez les éponges, on a une structure appellé la **mésoglé**, au moment de la reproduction, des cellules vont se spécialiser pour former des gamètes et vont s'entourer d'une petite membrane, ce qui va former des petits sacs dans la mésoglé. Chez les métazoaire, ils ont des gonades.
 
 ### C) Les gonades
 
 #### 1) Les gonades mâles 
 
 Deux grands types de testicules
-* le testicule cystiques (poissons et amphibiens), sac formé par des cellules aplatis, au sein de se sac sphérique va être retrouvé des cellules germinales entrain de se diff. Dans la périphérie du testicule on a des spermatogonies qui vont s'entourer d'une couche de cellule appellé folliculaire, ce sont des cellules somatiques. Cette spermatogonie va se diviser pour former plusieurs spermatogonies mais dans un même follicule toutes les spermatogonie vont être ensemble, la differenciation va se faire de façon synchrone. Une fois qu'il arrrive à maturité, ils éclatent pour libérer les spermatozoïdes.
+* le **testicule cystique** (poissons et amphibiens), sac formé par des cellules aplatie, au sein de ce sac sphérique va être retrouvé des cellules germinales entrain de se diff. Dans la périphérie du testicule on a des spermatogonies qui vont s'entourer d'une couche de cellule appellé **folliculaire**, ce sont des **cellules somatiques**. Cette spermatogonie va se diviser pour former plusieurs spermatogonies mais dans un même follicule toutes les spermatogonie vont être ensemble, la differenciation va se faire de façon synchrone. Une fois qu'il arrrive à maturité, ils éclatent pour libérer les spermatozoïdes.
 
-Dans ces cystes, en plus des cellules germinales, on trouve aussi des cellules qui vont rester dans cellules germinales, ce sont les cellules de Sertoli et entre les cystes on retrouve des cellules de Leydig qui produisent la testostérones.
+Dans ces **cystes**, en plus des **cellules germinales**, on trouve aussi d'autre type de cellules, ce sont les **cellules de Sertoli** et entre les cystes on retrouve des **cellules de Leydig** qui produisent **la testostérone**.
 
-* le testicule à tubes séminnifères, dans ce testicule les cellules de Leydig se retrouve entre les cellules de Leydig, on va retrouver des cellules germinales mâles qui sont associés aux cellules de Sertoli, elles forment un revêtement continu et elles entourent complètement les cellules germinales.
-L'évolution ne se fait pas de façon anarchique, les spermatogonies sont capable de se multiplier et quand certaines spermatogonies entre en diff, elles vont petit à petit miger vers le centre du tube séminiphère entouré de la cellule de Sertoli. Entre les cellules de Sertoli, il existe des jonctions  étanches, les substances qui circulent dans le sang et dans la lymphe arrive avant les substances à cause de la barrière hémato-testiculaire pour éviter que les cellules seraient détruite par l'organisme étant considérée comme  cellule étrangère.
+* le **testicule à tube séminnifère** dans ce testicule les cellules de Leydig se retrouve entre les cystes. On va retrouver des **cellules germinales mâles** qui sont associés aux **cellules de Sertoli**, elles forment un revêtement continu et elles entourent complètement les cellules germinales.
+L'évolution ne se fait pas de façon anarchique, **les spermatogonies** sont capable de se multiplier et quand certaines spermatogonies entre en différenciation, elles vont petit à petit migrer vers le centre du **tube séminiphère** entouré de la **cellule de Sertoli**. Entre les cellules de Sertoli, il existe des jonctions  étanches. les substances qui circulent dans le sang et dans la lymphe arrivent avant les spermatogonies à cause de la **barrière hémato-testiculaire** pour éviter que l'organisme ne les détruise car elles sont considérés comme des cellules étrangères.
 
 #### 2) Les gonades femelles = ovaires
 
-Ches les insectes, on distingues 3 types d'ovarioles (tube ouvert d'un côté mais pas de l'autre, à l'extrémité aveugle) 
+Ches les insectes, on distingues 3 types d'**ovarioles** (tube ouvert d'un côté mais pas de l'autre, à l'extrémité aveugle) 
 
-* on distingue des cellules germinales primordiales qui se divisent et vont débuter un homogénèse et vont migrer petit à petit vers l'autre extrémité de l'ovariole, elles vont s'entourer d'une cellule somatiques (folliculaire) qui vont nourir la cellule germinale formant dans l'ensemble un follicule ce sont des ovarioles de types panoïstique. 
-* Pour les autres en plus des cellules folliculaires on retrouve des cellules nourrissiaires cellules germinales qui vont se sacrifié, et vont assurer la nutrition. méoristique paloistique
-* Le dernier type, les cellule nourrisières restent à l'extrémité aveugle et sera lié à la cellule par des cordons qui sera entrain de migrer vers l'extrémité ouvert. méoristique athrotophique
+* On distingue des cellules germinales primordiales qui se divise et vont débuter **une homogénèse**, elles vont migrer petit à petit vers l'autre extrémité de l'ovariole et vont s'entourer d'une cellule somatique (folliculaire) qui va nourir la cellule germinale formant dans l'ensemble un follicule. Ce sont des ovarioles de types **panoïstique**. 
+
+* Pour les autres en plus des cellules folliculaires on retrouve des cellules nourrissiaires (cellules germinales qui vont se sacrifier), et vont assurer la nutrition. Ce sont des ovarioles de type **méoristique paloistique**.
+
+* Les cellules nourrisières restent à l'extrémité aveugle et sera lié à la cellule par des cordons. L'ovariole va migrer attachée au cordon vers l'extrémité ouvert. Ce sont des ovarioles de type **méoristique athrotophique**
 
 L'ovaire se forme à partir de cortex de l'ébauche gonatique. Chez les vertébré, la médula regresse presque complètement, un ovaire de poisson ou d'amphibien ou oiseaux, on verra pleins de creux, ovaire est donc considéré comme creux.
 Chez les mammifères, la médula persiste. 
 
 ## III) Origine des cellules germinales
 
-Les cellules germinales sont des cellules provenant d'autres territoires de l'embryon et migre dans les gonades.
+Les cellules germinales sont des cellules provenant d'autres territoires de l'embryon et migrent dans les gonades.
 
 ### A) Détermination précoce
 
 #### 1) La diminution chromosomique
 
-Cette diff entre cellule germinale et cellule somatique apparaît parfois très tôt. C'est ce qu'on va rencontrer chez les Ascaris, segmentation de la cellule oeuf, dans celle ci et dans des cellules de l'embryon on trouve un téritoire coloré, le plasma germinatif. Celui ci ne se sépare pas de façon équitable car ce plasma se trouve que dans une des deux cellules venant de se diviser etc.
-A chaque cycle de division, les cellules qui ne possedaient pas de plasma détruisait une partie de leur chromosomes. Les cellules germinales vont se former à partir des cellules qui vont garder la totalité des chromosomes.
-Les cellules somatiques ne vont pas hérité de tout le patrimoine génétique, seulement ce qui leur sert. Ce processus s'appelle une diminution chromosomique.
+Cette diff entre **cellule germinale** et **cellule somatique** apparaît parfois très tôt. C'est ce qu'on va rencontrer chez les Ascaris, segmentation de la cellule oeuf, dans celle ci et dans des cellules de l'embryon on trouve un territoire coloré, **le plasma germinatif**. Celui ci ne se sépare pas de façon équitable car ce plasma se trouve que dans une des deux cellules venant de se diviser etc.
+A chaque cycle de division, les cellules qui ne possedaient pas de plasma détruisait une partie de leur chromosomes. **Les cellules germinales vont se former à partir des cellules qui vont garder la totalité des chromosomes**.
+Les cellules somatiques ne vont pas hérité de tout le patrimoine génétique, seulement ce qui leur sert. Ce processus s'appelle une **diminution chromosomique**.
 
-Souvent, lorsque c'est précoce c'est lié à la présence de substances dans le cytoplasme va être distribué à certaines cellules mais pas à d'autres.
+Souvent, lorsque c'est précoce c'est lié à la présence de substances dans le cytoplasme qui va être distribué à certaines cellules mais pas à d'autres.
 
-*ex chez les amphi, dans la cellule on a au pôle végétatif un plasma germinale qui va être hérité par certaines cellules seulement. Quand on arrive au stade blastula, ils ont une paroi plus granuleuse et ces cellules vont migrer entre les autres cellules, ou emprunter la circulation sanguine*
+*ex chez les amphibiens, dans la cellule on a au pôle végétatif un plasma germinale qui va être hérité par certaines cellules seulement. Quand on arrive au stade blastula, ils ont une paroi plus granuleuse et ces cellules vont migrer entre les autres cellules, ou emprunter la circulation sanguine*
 
 ### B) La determination tardive des cellules germinales
 
@@ -212,19 +212,19 @@ Elle intervient chez l'adulte au moment de la reproduction.
 
 ### A) Chez les Annélides
 
-Chez certaines Annélides polyquètes (animaux marins benthiques), le passage à la reproduction s'accompagne par la transformation comportementale, de milieu de vie, de la physiologie ect. C'est sorte de métamorphose chez certaines espèce et l'hépitoquie. Lorsqu'elle passe de l'état atoque (avant la transf) à l'état épitoque, elle vienne nager près de la surface (un mode de vie **pélagique**), elle vont infecter la forme des parapodes, la forme des yeux, des fibres musculaire ect. 
+Chez certaines Annélides polyquètes (animaux marins benthiques), le passage à la reproduction s'accompagne par la transformation comportementale, de milieu de vie, de la physiologie ect. Cette sorte de métamorphose chez certaines espèces et l'**hépitoquie**. Lorsqu'il passe de l'état **atoque** (avant la transf) à l'état **épitoque**, l'animal vient nager près de la surface (un mode de vie **pélagique**), cela  va modifier la forme des parapodes, la forme des yeux, des fibres musculaire ect. 
 
-Quand elles vont se reproduire elles vont s'associer par deux et vont nager en cercle de plus en plus rapide et un moment donnée il libère leur gamète dans l'eau, fécondation externe.
+Lorsqu' ils vont se reproduire, ils vont s'associer par deux et vont nager en cercle de plus en plus rapidement. A un moment donné, il libère leur gamète dans l'eau, la fécondation est alors externe.
 
-La photopériode est un facteur qui a été utilisé pour les variation d'insité lumineuse la nuit. 
+La **photopériode** est un facteur qui a été utilisé pour les variations d'insité lumineuse la nuit: 
 
-Quand on a bcp de reproduction au moment de la nouvelle Lune.
+Lorsque cela se produit, c'est au moment de la nouvelle Lune.
 
-Chez les Néréis atoque, lorsqu'on les coupe en deux, tous les membres arrières de la section vont passer à l'état épitoque. On fait l'ablation du cerveau de l'animal, on observe qu'il devient épitoque. Quand on fait l'ablation du cerveau et qu'one le greffe vers l'arrière de l'animal, elle ne passe pas à l'étape épitoquie. C'est donc une substance sécrétée dans l'organisme. On appelle ça la neurohormone
+Chez les Néréis atoque, lorsqu'on les coupe en deux, tous les membres arrières de la section vont passer à l'état épitoque. On fait l'ablation du cerveau de l'animal, on observe qu'il devient épitoque. Quand on fait l'ablation du cerveau et qu'one le greffe vers l'arrière de l'animal, elle ne passe pas à l'étape épitoquie. **C'est donc une substance sécrétée dans l'organisme. On appelle ça la neurohormone**
 
-Plus on augmete la quantité d'hormone, plus le diamètre des ovocyte et grand. Elle inhibe le dvp de la maturité sexuelle.Si on injecte des ovocytes dans le coelome on a un fort taux d'épitoquie. Les organes reproducteurs va inhiber l'activité inhibitrice du cerveau. Les follicules sercètent une substence qui inhibe le cerveau.
+**Plus on augmente la quantité d'hormone, plus le diamètre des ovocyte et grand**. Elle inhibe le dvp de la maturité sexuelle.Si on injecte des ovocytes dans le coelome on a un fort taux d'épitoquie. **Les organes reproducteurs va inhiber l'activité inhibitrice du cerveau**. **Les follicules sercètent une substence qui inhibe le cerveau**.
 
-Les Néréis vivent plusieurs années, on a mesuré le taux de sécrétion durant la vie de celui ci. Il y a une variation cyclique de ce taux de sécrétion. On voit aussi que on a une diminution de ce taux au cours du temps. 
+Les Néréis vivent plusieurs années, on a mesuré le taux de sécrétion durant la vie de celui ci.** Il y a une variation cyclique de ce taux de sécrétion. On voit aussi que l'on a une diminution de ce taux au cours du temps**. 
 
 
 
