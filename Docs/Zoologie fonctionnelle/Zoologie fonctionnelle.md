@@ -278,7 +278,7 @@ La **pars intercerebralis** possède plusieurs cellules, lorsque l'on détruit u
 
 *schéma bilan du contrôle endocrine chez les insectes*
 
-![Zoologie](Images/Fig14.JPEG)
+![Zoologie](Images/Fig14.JPG)
 
 ### C) Chez les mammifères et les oiseaux
 
