@@ -73,7 +73,7 @@ Les voies génitales vont permettre aux gamètes de sortir.
 
 > On a d'abord formation d'une gonade indifférenciée et les deux canaux Miller/Wolff. Lorsque les gonades évoluent pour faire les testicules, le canal de Miller disparaît, si les gonades forment des ovaires, chez les mammifères le canal de Wolff disparaît.
 
-![Zoologie](Images/Fig3.JPEG)
+![Zoologie](Images/Fig3.JPG)
 
 ### 3) Contrôle de la différenciation des voies génitales
 
@@ -112,19 +112,19 @@ On a pu determiner la cascade d'expression des gènes.
 
 Pendant le dvp de la gonade, on a dans un premier temps l'expression de différents gènes qui vont servir à former l'ébauche de la gonade. Une fois que cette ébauche et assez avancée, si on a présence de Y dans les cellules, on a le gène SRY qui va servir à l'expression d'autres gènes. Le gène SF1 qui va permettre de contrôler le dvp d'autres structures et produire l'hormone anti mullerienne Cela va permettre le dvp des cellules de Leydig qui va permettre le dvp de la testostérone et permettre aussi la différentiation des organes génitaux, chez le mâle. En absence du gène SRY, on va dvp des voies génitales femelle.
 
-![Zoologie](Images/Fig5.JPEG)
+![Zoologie](Images/Fig5.JPG)
 
-![Zoologie](Images/Fig6.JPEG)
+![Zoologie](Images/Fig6.JPG)
 
 Chez les mammifères, la dertermination du sexe est dûe à un gène SRY présent dans toutes les cellules mais il ne s'exprimera que dans les gonades et aura des conséquences sur tout l'organisme.
 
-![Zoologie](Images/Fig4.JPEG)
+![Zoologie](Images/Fig4.JPG)
 
 ### 3) A l'echelle du gène des insectes
 
 Chez la drosophile, on a prit des insectes présentant des caractères femelle et mâle (gydengromorphe)
 
-![Zoologie](Images/Fig7.JPEG)
+![Zoologie](Images/Fig7.JPG)
 
 Drosophile partie gauche -> femelle et partie droite -> mâle
 
@@ -140,7 +140,7 @@ Protéines transformeurs vont agir sur le taux de transcription appellé double 
 
 ça se passe dans toutes les cellules de la drosophile 
 
-![Zoologie](Images/Fig8.JPEG)
+![Zoologie](Images/Fig8.JPG)
  
 ## D) Le contrôle environnemental de la détermination du sexe
 
@@ -156,7 +156,7 @@ Les facteurs environnementaux qui agissent sur le sexe sont très très variable
 * substances féminisante libéré par chaque individu vers le bas pour que ceux ci dvp le sexe femelle
 *  substance masculinisante libéré vers le haut de la colonie, les larves au centre possèdent les deux sexes. Il ne change pas naturellement de colonie
 
-![Zoologie](Images/Fig9.JPEG)
+![Zoologie](Images/Fig9.JPG)
 
 ### 2) Par la température d'incubation
 
@@ -182,7 +182,7 @@ Il existe bcp d'animaux qui sont hermaphrodites. L'hermaphrodisme est très peu 
 
 Chez les éponges, on a une structure appellé la **mésoglé**, au moment de la reproduction, des cellules vont se spécialiser pour former des gamètes et vont s'entourer d'une petite membrane, ce qui va former des petits sacs dans la mésoglé. Chez les métazoaire, ils ont des gonades.
 
-![Zoologie](Images/Fig10.JPEG)
+![Zoologie](Images/Fig10.JPG)
 
 ### C) Les gonades
 
@@ -196,7 +196,7 @@ Dans ces **cystes**, en plus des **cellules germinales**, on trouve aussi d'autr
 * le **testicule à tube séminnifère** dans ce testicule les cellules de Leydig se retrouve entre les cystes. On va retrouver des **cellules germinales mâles** qui sont associés aux **cellules de Sertoli**, elles forment un revêtement continu et elles entourent complètement les cellules germinales.
 L'évolution ne se fait pas de façon anarchique, **les spermatogonies** sont capable de se multiplier et quand certaines spermatogonies entre en différenciation, elles vont petit à petit migrer vers le centre du **tube séminiphère** entouré de la **cellule de Sertoli**. Entre les cellules de Sertoli, il existe des jonctions  étanches. les substances qui circulent dans le sang et dans la lymphe arrivent avant les spermatogonies à cause de la **barrière hémato-testiculaire** pour éviter que l'organisme ne les détruise car elles sont considérés comme des cellules étrangères.
 
-![Zoologie](Images/Fig11.JPEG)
+![Zoologie](Images/Fig11.JPG)
 
 #### 2) Les gonades femelles = ovaires
 
@@ -211,7 +211,7 @@ Ches les insectes, on distingues 3 types d'**ovarioles** (tube ouvert d'un côt�
 L'ovaire se forme à partir de cortex de l'ébauche gonatique. Chez les vertébré, la médula regresse presque complètement, un ovaire de poisson ou d'amphibien ou oiseaux, on verra pleins de creux, ovaire est donc considéré comme creux.
 Chez les mammifères, la médula persiste. 
 
-![Zoologie](Images/Fig12.JPEG)
+![Zoologie](Images/Fig12.JPG)
 
 ## III) Origine des cellules germinales
 
@@ -247,7 +247,7 @@ Lorsque cela se produit, c'est au moment de la nouvelle Lune.
 
 Chez les Néréis atoque, lorsqu'on les coupe en deux, tous les membres arrières de la section vont passer à l'état épitoque. On fait l'ablation du cerveau de l'animal, on observe qu'il devient épitoque. Quand on fait l'ablation du cerveau et qu'one le greffe vers l'arrière de l'animal, elle ne passe pas à l'étape épitoquie. **C'est donc une substance sécrétée dans l'organisme. On appelle ça la neurohormone**
 
-![Zoologie](Images/Fig13.JPEG)
+![Zoologie](Images/Fig13.JPG)
 
 **Plus on augmente la quantité d'hormone, plus le diamètre des ovocyte et grand**. Elle inhibe le dvp de la maturité sexuelle.Si on injecte des ovocytes dans le coelome on a un fort taux d'épitoquie. **Les organes reproducteurs va inhiber l'activité inhibitrice du cerveau**. **Les follicules sercètent une substence qui inhibe le cerveau**.
 
@@ -324,7 +324,7 @@ GABA est un inibiteur et la glutamate est un activateur
 La leptine est une hormonne produite par l'organisme est dépend de la masse corporelle. Elle évite que la personne se reproduise à un âge trop avancée.
 L'obésité peut retarder l'âge de la puberté. 
 
-![Zoologie](Images/Fig15.JPEG)
+![Zoologie](Images/Fig15.JPG)
 
 
 ## IV) Déroulement de la gamétogénèse
@@ -340,7 +340,7 @@ Le déroulement de l'ovogenèse
 
 Chez les vertébrés, la gmète libéré par la femelle est une cellule qui n'a pas terminer sa différenciattion et est bloquée en première division de méiose, c'est un ovocyte II. Dès le stade embryonnaire les cellules germinales vont former des ovogonies qui se multiplient (jusqu'à 7000000 dans les ovaires). Un petit peu avant la naissance, le nombre d'ovogonies diminuent fortement et reste 2 000000 d'ovogonies dans les ovaires. Après la naissance on arrive à quelques centaines de milliers au moment de la puberté.
 
-![Zoologie](Images/Fig17.JPEG)
+![Zoologie](Images/Fig17.JPG)
 
 Ches les amphibiens les ovogonies se reproduisent à chaque reproduction.
 
@@ -350,7 +350,7 @@ Cette cavité remplie de liquide va accuellir des oestrogènes. En même temps q
 La thèque interne secrète des substances mâle et sont convertis en oestrogène par une enzyme qui est l'aromatase. Cette cavité grandit. L'un des follicules qui commence sa différenciation va arriver au stade terminal. Le pédoncule est appelé le **cumulus oophorus**. **Corona radiata** L'ovule va éclater et est libéré de ce follicule et va se tranformer en **corps jaune** et secrète la progestérone.
 
 
-![Zoologie](Images/Fig18.JPEG)
+![Zoologie](Images/Fig18.JPG)
 
 Chez les amphibiens l'ovocyte va synthétiser lui même son vittelus, la quantité folliculaire autour est plus faible. Au niveau du noyau il y a bcp d'éléments de synthèse. Les chromosomes prennent un aspect très varié.
 
@@ -360,7 +360,7 @@ Ces chromosomes dans les ovocytes amphibiens sont des chromosomes en écouvillon
 
 L'ADN est décondensé au niveau des boucles.
 
-![Zoologie](Images/Fig20.JPEG)
+![Zoologie](Images/Fig20.JPG)
 
 Contrôle de l'ovogénèse
 
@@ -370,12 +370,12 @@ La FSH va aussi stimuler l'apparition de recepteur à la LH (voir diapo)
 
 l'apparaition d'un coprs jaune provoque une augmentation du temps de progestérone.
 
-![Zoologie](Images/Fig21.JPEG)
+![Zoologie](Images/Fig21.JPG)
 
 Gamétogénèse mâle
 
 
-![Zoologie](Images/Fig22.JPEG)
+![Zoologie](Images/Fig22.JPG)
 
 Les **protamines** vont permettre de condenser plus fortement l'ADN
 
@@ -383,7 +383,7 @@ Les **protamines** vont permettre de condenser plus fortement l'ADN
 
 Les spermatozoïdes ne vont pas finir leur maturation. D'abord dans les voies génitales mâles et elle se termine dans les voies génitales femelle **capacitation des spermatozoïdes**.  
 
-![Zoologie](Images/Fig23.JPEG)
+![Zoologie](Images/Fig23.JPG)
 
 
 
