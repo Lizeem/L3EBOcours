@@ -300,28 +300,33 @@ La **pars intercerebralis** possède plusieurs cellules, lorsque l'on détruit u
 
 3) Dans les mêmes conditions, des canards recouverts d'un casque de plomb sur la tête ne présentent pas de croissance testiculaire
 
-4) L'**épiphyse** (glande pinéale) antérieur est absolument nécessaire à la gonado stimulation photique
+4) L'**épiphyse** (glande pinéale) antérieur est absolument nécessaire à la gonadostimulation photique
 
-Cette épiphyse produit la **mélatomine** 
+Cette épiphyse produit la **mélatomine** (neurosécrétion précurseur de la **sérotonine**)
 
-Si on produit la sécrétion de mélatonine chez le Renne, la mélatonine est produite en mars et septembre est sécrétée seulement la nuit, (voir diapo)
+Si on produit la sécrétion de mélatonine. Chez le Renne, la mélatonine est produite en mars et septembre et est sécrétée seulement la nuit.
+
+Chez les non mammaliens, l'épiphyse est elle même photoreceptrice
 
 Chez les mammifères elle est reliée à la rétine. Chez le mouton, (reproduction en jours courts), le traitement à la mélatonine permet d'avancer la période de reproduction.
 
-La photopériode va contrôler la reproduction de certains vétébrés, mais aussi le régime alimentaire.
+La photopériode va contrôler la reproduction de certains vétébrés, comme le régime alimentaire.
 
 Croissance pubertaire : 7 cm/ an chez la fille, 9 cm/ an chez le garçon. Grâce au cartilage de croissance à l'extrémité des os longs. Les **oestrogènes**  stimulent la croissance et la différenciation des chondrocytes (soudure des cartilages de croissance). Les **androgènes** rendent les cellules hypophysaires plus sensibles au GHRH et sont transformés en oestrogènes dasn les tissus périphériques. 
-DHAS et DHA produits par la zone réticulée du cortex surrénalien (voir diapo)
+DHAS et DHA produits par la zone réticulée du cortex surrénalien entre 5 et 13 ans.
+La puberté surrénalienne est appelé l'**adrénarche**
+La **gonardache** précède la puberté gonadique.
+Cela n'existe pas chez les autres mammifères.
 
-La puberté est lié au dvp des gonades. La sécrétion lutinisante contrôle la sécrétion de testostérone.
+La puberté est liée au dvp des gonades. La sécrétion lutinisante contrôle la sécrétion de testostérone.
 
 Chez le poisson, pas d'influence de la présence des gonades, chez la femme aussi.
 
-Les variations de sécrétion des gonadotropines est indépendant de la présence des gonades, ce n'est pas la rétroaction négative des stéroïdes (voir diapo)
+Les variations de sécrétion des **gonadotropines** est indépendant de la présence des gonades, ce n'est pas la rétroaction négative des stéroïdes qui les contrôle.
 
 GABA est un inibiteur et la glutamate est un activateur
 
-La leptine est une hormonne produite par l'organisme est dépend de la masse corporelle. Elle évite que la personne se reproduise à un âge trop avancée.
+La **leptine** est une hormone produite par l'organisme est dépend de la masse corporelle. Elle évite que la personne se reproduise à un âge trop avancée.
 L'obésité peut retarder l'âge de la puberté. 
 
 ![Zoologie](Images/Fig15.JPG)
@@ -338,15 +343,15 @@ Ces reserves sont dans l'ovocyte, peuvent soit synthétiser directement dans l'o
 
 Le déroulement de l'ovogenèse
 
-Chez les vertébrés, la gmète libéré par la femelle est une cellule qui n'a pas terminer sa différenciattion et est bloquée en première division de méiose, c'est un ovocyte II. Dès le stade embryonnaire les cellules germinales vont former des ovogonies qui se multiplient (jusqu'à 7000000 dans les ovaires). Un petit peu avant la naissance, le nombre d'ovogonies diminuent fortement et reste 2 000000 d'ovogonies dans les ovaires. Après la naissance on arrive à quelques centaines de milliers au moment de la puberté.
+Chez les vertébrés, la gamète libérée par la femelle est une cellule qui n'a pas terminer sa différenciation et est bloquée en première division de méiose, c'est un ovocyte II. Dès le stade embryonnaire les cellules germinales vont former des ovogonies qui se multiplient (jusqu'à 7000000 dans les ovaires). Un petit peu avant la naissance, le nombre d'ovogonies diminuent fortement et reste 2 000000 d'ovogonies dans les ovaires. Après la naissance on arrive à quelques centaines de milliers au moment de la puberté.
 
 ![Zoologie](Images/Fig17.JPG)
 
 Ches les amphibiens les ovogonies se reproduisent à chaque reproduction.
 
-Dans l'ovaire des mammifères, les ovogonies quii ont terminer leur multiplications s'enroulent de **cellules folliculaires** qui vont former une couche de cellule aplatis autour de notre ovogonie, et l'**ovogonie** a subit des modificatiosn cytoplasmique est va être appelé **ovocyte**, **follicule primordiale**. Pendant l'enfance, les follicules arrivent à s'échapper de la réserve vont changer d'aspect et deviennent cubiques, et devient un **follicule primaire** et progressivement le nombre de follicule va augmenter et on va parler de folicule secondaire, un espace va se créer **zone pélucide** qui est une enveloppe qui entoure l'ovocyte. Autour des cellules folliculaires, des cellules conjonctif qui s'aplatisssent et vont former l'athèque. Il va apparaitre une cavité dans la **granulosa** on parle de **follicule tertiaire**. 
+Dans l'ovaire des mammifères, les ovogonies quii ont terminer leur multiplications s'enroulent de **cellules folliculaires** qui vont former une couche de cellule aplatis autour de notre ovogonie, et l'**ovogonie** a subit des modifications cytoplasmique est va être appelé **ovocyte**, **follicule primordiale**. Pendant l'enfance, les follicules arrivent à s'échapper de la réserve vont changer d'aspect et deviennent cubiques, et deviennent un **follicule primaire** et progressivement le nombre de follicule va augmenter et on va parler de **folicule secondaire**, un espace va se créer **zone pélucide** qui est une enveloppe qui entoure l'ovocyte. Autour des cellules folliculaires, des cellules conjonctif qui s'aplatisssent et vont former l'**athèque**. Il va apparaitre une cavité dans la **granulosa** on parle de **follicule tertiaire**. 
 
-Cette cavité remplie de liquide va accuellir des oestrogènes. En même temps que la thèque se divise en deux parties, une partie interne qui est très vascularisé, rôle sécrétoire et autour une partir riche en 
+Cette cavité remplie de liquide va accuellir des oestrogènes. En même temps que la thèque se divise en deux parties, une partie interne qui est très vascularisé, rôle sécrétoire et autour une partie riche en 
 La thèque interne secrète des substances mâle et sont convertis en oestrogène par une enzyme qui est l'aromatase. Cette cavité grandit. L'un des follicules qui commence sa différenciation va arriver au stade terminal. Le pédoncule est appelé le **cumulus oophorus**. **Corona radiata** L'ovule va éclater et est libéré de ce follicule et va se tranformer en **corps jaune** et secrète la progestérone.
 
 
@@ -364,11 +369,9 @@ L'ADN est décondensé au niveau des boucles.
 
 Contrôle de l'ovogénèse
 
-L'activité des gonades est modulé par les sécrétions dans l'hypophyse ou il y a des cellules capables de secreter des substances comme l'hormone fsh intervient à partir du stade follicule tertiaire. Les stades de la croissance sont stimulés par des sécrétions locales. Dans l'ovaire des cellules vont secreté EgF QUI STIMULE LA CROISSANCE DU FOLLICULE en passant de  l'étape primaire à secondaire et va stimuler les recepteurs de la FSH.
+L'activité des gonades est modulé par les sécrétions dans l'hypophyse ou il y a des cellules capables de secreter des substances comme l'hormone fsh intervient à partir du stade follicule tertiaire. Les stades de la croissance sont stimulés par des sécrétions locales. Dans l'ovaire des cellules vont secreté EGF qui stimule la croissance en passant de  l'étape primaire à secondaire et va stimuler les recepteurs de la FSH.
 
-La FSH va aussi stimuler l'apparition de recepteur à la LH (voir diapo)
-
-l'apparaition d'un coprs jaune provoque une augmentation du temps de progestérone.
+l'apparition d'un corps jaune provoque une augmentation du temps de progestérone.
 
 ![Zoologie](Images/Fig21.JPG)
 
@@ -379,9 +382,9 @@ Gamétogénèse mâle
 
 Les **protamines** vont permettre de condenser plus fortement l'ADN
 
-**Flagelle** former par l'un des deux **centrioles**
+**Flagelle** formée par l'un des deux **centrioles**
 
-Les spermatozoïdes ne vont pas finir leur maturation. D'abord dans les voies génitales mâles et elle se termine dans les voies génitales femelle **capacitation des spermatozoïdes**.  
+Les spermatozoïdes ne vont pas finir leur maturation. D'abord dans les voies génitales mâle et elle se termine dans les voies génitales femelle **capacitation des spermatozoïdes**.  
 
 ![Zoologie](Images/Fig23.JPG)
 
