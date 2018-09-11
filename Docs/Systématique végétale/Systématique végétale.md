@@ -24,7 +24,7 @@ Les tulipes venaient de Cocase et ont été importés en Hollande, elle est à l
 L'appareil végétatif est extrêmement variable (diversité des tiges) et souvent enterré comme les **bulbes** (tulipe oignon, ail) ou les **rhizomes** (muguet).
 Les tiges en forme de feuilles s'appellent des cladodes pour le *Ruscus aculeatus*
  
- ![Végétal](Images/Liliacees.jpg)
+ ![Végétal](Images/Liliacees.JPG)
  
 Les inflorescences (position des fleurs) très différentes pouvant appartenir à plusieurs types:
 * **épi** (fleurs sur l'axe)
@@ -32,7 +32,7 @@ Les inflorescences (position des fleurs) très différentes pouvant appartenir �
 * **ombelle**(axe qui se divise en rayon *ex ail*)
 * **fleur solitaire**
 
-![Végétal](Images/Liliacees2.jpg)
+![Végétal](Images/Liliacees2.JPG)
 
 Chez les liliacées, les fleurs sont hermaphrodites (**étamines** *organe mâle* + **pistil** *organe femelle*) actimorphes et possèdent des tépales (sépales + pétales)
 
@@ -41,7 +41,7 @@ Chez les liliacées, les fleurs sont hermaphrodites (**étamines** *organe mâle
 Le fruit est un ovaire c'est une capsule ou une baie.
 Les fleurs sont très voyantes, la pollinisation est entomophile (favorisé par les insectes)
 
-![Végétal](Images/Liliacees3.jpg)
+![Végétal](Images/Liliacees3.JPG)
 
 **Ovaire supère**: ovaire entouré de pièce floral
 
@@ -99,7 +99,7 @@ Le fruit est un **caryopse** est soudée à l'akène + Albumen
 Ils sont voisins des poacées. Se dvp dans les zones humides. On a une convergence avec les poacées mais pas de filiation directe.
 C'est une plante **graminoïde**, les feuilles sont à **insertion tristiques** (3 directions différentes), la tige est à **section triangulaire**, ne possède **pas de noeud**. Les feuilles sont à **gaines non fendues** et ne possède **pas de ligules** (mais parfois **antiligules**). Les feuilles sont en "V"
 
-![Végétal](Images/Cyperacees.jpg)
+![Végétal](Images/Cyperacees.JPG)
 
 Inflorescence: grappe contractée d'épillets : épi
 
