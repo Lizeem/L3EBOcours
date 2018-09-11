@@ -121,18 +121,18 @@ Il est **monostachiée**.
 
 Une famille de 7 genres et 400 espèces. 
 
-![Végétal](Images/Joncacees.jpg)
+![Végétal](Images/Joncacees.JPG)
 
 L'appareil végétatif est herbacées, on a des rhizomes, les feuilles sont basales, alternes à limbe graminiforme ou cylindrique.
 
 
 La fleur a des tépales, l'inflorescence est souvent en cymes ou en glomérules, les fleurs hermaphrodites et actinomorphes en générale verte ou brune
 
-![Végétal](Images/Joncacees1.jpg)
+![Végétal](Images/Joncacees1.JPG)
 
 > 3+ 3T + 3 + 3 E + (3C)
 
-![Végétal](Images/Joncacees2.jpg)
+![Végétal](Images/Joncacees2.JPG)
 
 ## PAPAVERAEES
 
@@ -151,7 +151,7 @@ Elles ne possèdent pas de stipule.
 
 ### II) Appareil végétatif et reproducteur
 
-![Végétal](Images/cyme.jpg)
+![Végétal](Images/cyme.JPG)
 
 L'inflorescence est terminale est une **cyme** ou une **grappe**. Elle sont **inodores** et **actimorphes**. Elles présentent un **calice à deux sépales** et de **nombreuses étamines** (de 16 à 60). Elles sont **entogames** et quelques une sont **anémogames**.
 
@@ -203,23 +203,23 @@ Elles sont surtout de formes arbusives en pays chaud.
 
 Elles ont une **importance économique** (alimentaire mais aussi bois et rôle ornementale). C'est la deuxième famille derrière les poacées qui a cette importance. Elles sont riche en protéïnes et contiennent des matières grasses interressantes.
 
-![Végétal](Images/Fabacees.jpg)
+![Végétal](Images/Fabacees.JPG)
 
 ### II) Appareil végétatif
 
 Les racines sont en symbiose avec des bactéries qui vont enrichir le sol en azote.
 
-![Végétal](Images/Fabacees2.jpg)
+![Végétal](Images/Fabacees2.JPG)
 
 Les feuilles sont :
 * primitives : composés **imparipennées**(un nombre impair de folioles) et **stipulées**
 * évolués : simple ou composée pennée
 
-![Végétal](Images/Fabacees4.jpg)
+![Végétal](Images/Fabacees4.JPG)
 
-![Végétal](Images/Fabacees5.jpg)
+![Végétal](Images/Fabacees5.JPG)
 
-![Végétal](Images/Fabacees3.jpg)
+![Végétal](Images/Fabacees3.JPG)
 
 ### 3) Appareil reproducteur
 
@@ -336,7 +336,7 @@ Elles possèdent des **glandes nectarifère**
 Le fruit est constitué de 3 **carpelles fermés**, la capsule est dite **tricoque** = très constant 
 Les graines riches en huile (Ricin) 
 
-![Végétal](Images/Euphorbiacees.jpg)
+![Végétal](Images/Euphorbiacees.JPG)
 
 ## VIOLACEES
 
@@ -402,7 +402,7 @@ Les plantes sont **herbacées annuelles ou vivaces**, il existe quelques petits 
 Les feuilles sont **découpées à composées, pennées** (erodium) ou **palmées** (geranium)..
 C'est une plante **glandulifère**
 
-![Végétal](Images/Geraniacees.jpg)
+![Végétal](Images/Geraniacees.JPG)
 
 ### Appareil reproducteur
 
@@ -417,9 +417,9 @@ A la maturité elle a des **méricarpes** (akènes, drupes, voire pseudo-samares
 
 Les fleurs sont essentiellement de milieu intertropical, quelques unes sont en milieu tempéré.(Mauves, hibiscus)
  
-![Végétal](Images/Malvacees.jpg)
+![Végétal](Images/Malvacees.JPG)
  
- ![Végétal](Images/Malvacees2.jpg)
+ ![Végétal](Images/Malvacees2.JPG)
  
  ### I) Appareil végétatif
 
@@ -447,21 +447,21 @@ Puis : carpelles disposés en part de gâteau, formant une couronne
 Fruit : Un ovule par carpelle -> akène 
 Pour les espèces des pays chauds -> capsule  
 
-![Végétal](Images/Malvacees3.jpg)
+![Végétal](Images/Malvacees3.JPG)
 
-![Végétal](Images/Malvacees4.jpg)
+![Végétal](Images/Malvacees4.JPG)
 
-![Végétal](Images/Malvacees5.jpg)
+![Végétal](Images/Malvacees5.JPG)
 
-![Végétal](Images/Malvacees6.jpg)
+![Végétal](Images/Malvacees6.JPG)
 
-![Végétal](Images/Malvacees7.jpg)
+![Végétal](Images/Malvacees7.JPG)
 
 ## CARYOPHYLLACEES
 
 Elles sont présentes dans les milieux froids, tempérés et en région méditerranéenne.
 
-![Végétal](Images/Caryophyllacees.jpg)
+![Végétal](Images/Caryophyllacees.JPG)
 
 Appareil végétatif :
 * **Herbes** vivaces ou annuelles 
@@ -482,6 +482,19 @@ Appareil reproducteur :
 
 ## POLYGONACEES
 
+Plantes dicotylédones. Ces plantes sont herbacéesqui ont une préférence marquée pour les zonestempérées et froides de l'hémisphère nord.
+
+Elles sont annuelles ou plus souvent vivaces. Les racines sont fibreuses. Elles forment chez les espèces vivaces des racines adventives secondaires latérales qui se ramifient et finissent par devenir à leur tour des racines principales. 
+
+Les feuilles simples sont généralement alternes. Le limbe entier diversement découpé est à nervation pénnée ou plus spécifiquement à nervation palmée.
+Les feuilles peuvent être réduites à des écailles, des cladoles les supléant dans leur fonction.
+
+La membrane tubuleuse entourant la tige au niveau des noeudq renflés est  une ochréa caractéristique de la famille.
+
+Les fleurs sont actimorphes et biséxuées, soit sont solitaire, soit regroupées en faux verticilles disposés en grappes ou en panicules. L'ovaire est supère
+
+Les fruits sont des akènes trigones , souvent protégés par une envelloppe membraneuse et constituant alors une samare.
+
 
 
 ## BORAGINACEES
@@ -489,7 +502,7 @@ Genres : Symphytum (consoude), Myosotis, Echium (vipérine), Borago (Bourrache) 
 Environ 2000 espèces
 Espèces, en régions tropicales et tempérées 
 
-![Végétal](Images/Boraginacees.jpg)
+![Végétal](Images/Boraginacees.JPG)
 
 Appareil végétatif :
 * **Herbes** le plus souvent, arbre (Cordia) 
@@ -503,7 +516,7 @@ Appareil reproducteur :
 * **Etamines** soudées aux pétales 
 * 2 **carpelles** (souvent avec 4 loges) sur disque nectarifère, uniovulé 
 
-![Végétal](Images/Boraginacees2.jpg)
+![Végétal](Images/Boraginacees2.JPG)
 
 > (5S) + [(5P) + 5E] + (2->4C) 
  
@@ -512,13 +525,23 @@ Appareil reproducteur :
 
 ## RUBIACEES
 
+Famille de plantes à fleur, qui comprend plus de 10 000 espèces réparties en 600 genres. Ce sont des arbres, des buissons, des lianes ou des plantes herbacées. Elles sont largement répendue dans les régions froides, tempérées, sub-tropicales ou tropicales.
+
+Elles sont, pour la plupart des plantes ligneuses (arbres ou arbustes)
+
+Elles ont généralement des feuilles opposées, décussées, simples, entières. La base du limbe est parfois tranformée en domaties myrmécophiles (symbiose avec les fourmis). Les stipules sont souvent grands et foliacés, parfois glanduleux. Les racines et les tiges souterraines sont assez souvent rougeâtres.
+
+Les fleurs sont discrètes sont parfois solitaires mais le plus souvent groupées en inflorescence très variable. En générale hermaphrodites, elles sont actimorphes avec des calices à lobes parfois réduit.
+
+Le fruit est très variable, c'est une capsule, baie, akène ou drupe. Les graines angulaires sont arrondies, aplaties et/ou ailés.
+
 ## LAMIACEES
 
 Genres : Lamium, Salvia (sauge), Stachys (épiaire), Thymus (thym), Teucrium (germandrées), Menthe ... 
 
-![Végétal](Images/Lamiacees.jpg)
+![Végétal](Images/Lamiacees.JPG)
 
-![Végétal](Images/Lamiacees2.jpg)
+![Végétal](Images/Lamiacees2.JPG)
 
 Appareil végétatif :
 * **Herbes ou arbustes**, aromatiques, poils/glandes 
