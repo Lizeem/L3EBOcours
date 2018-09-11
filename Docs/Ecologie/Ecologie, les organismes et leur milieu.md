@@ -203,7 +203,7 @@ Elles sont liées au patrimoine génétique du taxon.
 
 #### A)La capacité de propagation
 
-Théoriquement, l'expansion d'une espèce dépend tout d'abord de son potentiel de reproduction (taux de fécondité -> nombre de descendant, donné par unité de temps dans les meilleures conditions environnementales) et de son pouvoir de dissémination (faculté de se déplacer ou d'être dispersé à des distances plus ou moins importantes). Elles sont très variables entre les taxons.
+Théoriquement, l'expension d'une espèce dépend tout d'abord de son potentiel de reproduction (taux de fécondité -> nombre de descendant, donné par unité de temps dans les meilleures conditions environnementales) et de son pouvoir de dissémination (faculté de se déplacer ou d'être dispersé à des distances plus ou moins importantes). Elles sont très variables entre les taxons.
 Il n'y a pas relation de précise entre entre les potentiellités reproductrices et augmenter son air de distribution.
 Le nombre de descendant produit n'est pas le nb de taxons qui se reproduiront (pas de liaison à la potentiellités reproductrices de la génération suivante)
 
