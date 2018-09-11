@@ -75,7 +75,7 @@ Ce sont pratiquement toujours des plantes herbacées (sauf le bambou) annuelles 
 
 L'**epillet** est une inflorescence élémentaire des poacées, 1 épillet = 2 fleurs mâle et femelle
 
-![Epillet](Images/épillet.jpg) 
+![Epillet](Images/épillet.JPG) 
 
  Un épillet peut être sessile: **épi**
 
@@ -597,7 +597,7 @@ Genres : Plantago (plantain), Veronica (véronique), Digitalis (digitale), Linar
 * Entre 2000 et 2100 espèces 
 * **Cosmopolite**, surtout milieux tempérés 
 
-![Végétal](Images/Plantaginacees.jpg)
+![Végétal](Images/Plantaginacees.JPG)
 
 Appareil végétatif : 
 * **Herbes** 
@@ -657,11 +657,11 @@ Appareil reproducteur :
 * Présence d'un disque nectarifère, E insérée en dessous = **stylopode**
 * **Ovaire** infère
 
-![Végétal](Images/Apiacees2.jpg)
+![Végétal](Images/Apiacees2.JPG)
 
 > 5S + 5P + 5E + 2C 
 
-![Végétal](Images/Apiacees.jpg)
+![Végétal](Images/Apiacees.JPG)
     
 
 ## ASTERACEES (examen sûr)
@@ -687,14 +687,14 @@ Appareil reproducteur :
 * **Ovaire infère** 
 * **Fruit**: akène, présence de pappus restes du calice), dispersion entomophile  
 
-![Végétal](Images/Asteracees.jpg)
+![Végétal](Images/Asteracees.JPG)
 
 Une des familles les plus perfectionnée, montrant une évolution : 
 * **Primitifs** : réceptacle bombé, bractées en forme d'écailles, fleur 
 élémentaires toutes semblables 
 * **Evolués** : réceptacle plat à concave, bractées deviennent des paillettes voire disparaissent, les fleurs on leur  centre différent de la périphérie => rôle attractif 
 
-![Végétal](Images/Asteracees2.jpg)
+![Végétal](Images/Asteracees2.JPG)
 
 La plus évoluée : capitules de capitules : edelweiss 
 
