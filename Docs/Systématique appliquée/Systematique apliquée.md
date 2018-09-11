@@ -23,27 +23,37 @@ On aura des marches d'escaliers en fonction de l'échelle croissante.
 
 ### A) Les généralités
 
-Objectif de l'échantillonage est de permttre d'inférer à partir des propriétés d'un ensemble d'échantillons, celle de la *pop mère*
+Objectif de l'échantillonage est de permettre d'inférer à partir des propriétés d'un ensemble d'échantillons, celle de la *pop mère*
 
-Question méthodo: comment déterminer les caractéristiques d'un plan d'échantillonnage  (voir diapo)
+**Question méthodo**: comment déterminer les caractéristiques d'un plan d'échantillonnage  de façon à obtenir la maximum d'info pertinente en fonction du pb posé.
 
-## B) Problématique générale
+**Problème** : Choisir une méthode et une stratégie d'utilisation de cette méthode permettant d'obtenir une représentation satisfaisante de l'objet étudié.
 
-Prise en considération de la complexité etrême des systèmes bio
+**Domaine d'application**: échantillonage de groupes d'animaux à caractère bio-indicateur.
 
-Ils sont trop complexe pour être décrit dans leur ensemble, est un échantillon est aussi trop complexe. Il se limite à une image approximative, restreinte à un petit nb de *caractères* ou *descripteurs*. Souvent également restreinte à un petit nb d'echelle. (voir diapo)
+
+### B) Problématique générale
+
+**Prise en considération de la complexité extrême des systèmes bio**
+* Trop complexe pour être décrits dans leur ensemble
+* Un échantillon de ces systèmes est souvent lui même très complexe
+* Leur étude se limite à une image approximative, restreinte à un petit nombre de *caractères* ou *descripteurs* choisis en fonction d'une problématique précise
 
 *ex des milliers d'espèces dans certeins ecosystèmes tropicaux, les insectes sont très variés*
 
-Echantillon : Frangment d'un ensemble prelevé pour juger cet ensemble.
+### C) Définitions
 
-Descripteur : variable qualitative ou quantitative utilisée pour décrire un échantillon 
+**Echantillon**: Frangment d'un ensemble prelevé pour juger cet ensemble.
 
-Echantillonage : action de collecte des échantillons
+**Descripteur** : variable qualitative ou quantitative utilisée pour décrire un échantillon conformément aux préoccupations de l'étude 
 
-Plan d'échantillonage : ensemble de processus décisionnels qui aboutissent au plan d'échantillonage et à son amélioration en fonction des résultats.
+**Echantillonage** : action de collecte des échantillons
 
-## D) L'inférence stat
+**Plan d'échantillonage** : ensemble de processus décisionnels qui aboutissent au plan d'échantillonage et à son amélioration en fonction des résultats.
+
+### D) L'inférence stat
+
+**Le plan d'échantillonage doit permettre l'interférence statistique**
 
 L'estimation des propriétés *vraies* de l'objet global 
 
@@ -53,9 +63,11 @@ L'estimation des propriétés *vraies* de l'objet global
 
 On ne sait pas pour quel groupe l'échantillonage, le représentera le mieux.
 
+![Systématiqueappliquée](Images/Fig1.JPG)
+
 La meilleure estimation va être trouvé si:
 
-* On évite **le biais**
+* On évite **le biais** = info introduite non intentionnellement/ sans lien informatif avec la question dans les données lors de l'échantillonage et qui se retrouve en fin d'analyse 
 
 * On parvient à réduire l'intervalle d'incertitude
 
@@ -63,7 +75,7 @@ La meilleure estimation va être trouvé si:
 
 ## E) Les processus décisionnel
 
-(voir schéma)
+![Systématiqueappliquée](Images/Fig2.JPG)
 
 ## F)) Les échelles d'observation
 
