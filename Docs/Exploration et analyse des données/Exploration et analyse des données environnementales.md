@@ -219,26 +219,100 @@ Les histogrammes illustrant des échantillons de pop présentent **tous** la par
 
 ![Statistique](Images/53.jpg)
 
+![Statistique](Images/54.jpg)
+
+![Statistique](Images/55.jpg)
+
+![Statistique](Images/56.jpg)
+
+![Statistique](Images/57.jpg)
+
+![Statistique](Images/58.jpg)
+
+![Statistique](Images/59.jpg)
+
+![Statistique](Images/60.jpg)
+
+Loi de Ficher est toujours positive. Unilatérale à droite car la courbe n'est pas exactement symétrique. 
+
+![Statistique](Images/61.jpg)
+
+![Statistique](Images/62.jpg)
+
+![Statistique](Images/63.jpg)
+
+![Statistique](Images/64.jpg)
+
+![Statistique](Images/65.jpg)
+
+P joue sur la symétrie, et n sur la largeur
+
+![Statistique](Images/66.jpg)
+
+![Statistique](Images/67.jpg)
+
+Une loi binomiale, qu'on on augmente n et que la probabilité d'une deux issues, est très petit, cela devient une loi de Poisson.
 
 
+### III) Les distributions de proba
 
+#### g) Les intervalles de confiance
 
+Un I.C d'un paramètre est une estimation **par intervalle** de ce paramètre.
 
+*ex la moyenne de la variable X de la pop statistique se situe entre la valeur a et la valeur b*.
 
+Un coeff de risque (alpha) est attibrué aux estimations par intervalle de confiance
 
+*ex j'ai 5% de chances de me tromper lorsque je dis que la moyenne de la variable X de la pop stat se situe entre la valeur a et la valeur b*
 
+> En général, on prend: alpha = 0,05 ou alpha = 0,01 ou alpha = 0,001
 
+![Statistique](Images/68.jpg)
 
+![Statistique](Images/69.jpg)
+ 
+![Statistique](Images/70.jpg)
+ 
+![Statistique](Images/71.jpg) 
 
+![Statistique](Images/72.jpg)
 
+![Statistique](Images/73.jpg)
+ 
+![Statistique](Images/74.jpg)
+ 
+![Statistique](Images/75.jpg)
+ 
+![Statistique](Images/76.jpg)
 
+![Statistique](Images/77.jpg) 
 
+![Statistique](Images/78.jpg)
 
+![Statistique](Images/79.jpg)
 
+![Statistique](Images/80.jpg)
 
+![Statistique](Images/81.jpg)
 
+![Statistique](Images/82.jpg)
 
+![Statistique](Images/83.jpg)
 
+![Statistique](Images/84.jpg)
 
+![Statistique](Images/85.jpg)
 
+![Statistique](Images/86.jpg)
+
+### IV) La Statistique inférentielles 
+
+Les tests se présentent sous la forme d'un élément de réponse à la question suivante: 
+* la différence constatée est liée au hasard H<sub>0</sub> ou a une différence *réelle* entre les pop concernées H<sub>1</sub>?
+
+	* la réponse est probaliste
+    * la proba d'un *faus positif* est indiquée par alpha.
+    
+* Le test statistique calcule une valeur en fonction des moyennes et écart-types dans les échantillons.
 
