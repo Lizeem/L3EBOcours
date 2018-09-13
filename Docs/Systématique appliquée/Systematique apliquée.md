@@ -9,7 +9,7 @@
 
 **Biais** = erreur systématique
 
-## I) Bases fondamentales de l'échantillonage 
+## Les bases fondamentales de l'échantillonage 
 
 Un **échantillonage** est toujours construit pour répondre à une question, même si elle est formulée de manière non déclarative, doit -être rendue **apparente**, pour constuire l'outil permettant d'y répondre, le **plan d'échantillonage**.
 
@@ -18,31 +18,32 @@ Un **plan d'échantillonage** produit des **données** qui permettront de tester
 
 Nombre d'espèce = **richesse**
 
-Plus on grandit les espaces, plus la richesse augmente. Les ecosystèmes changent donc la liste des espèces s'accélère. L'orsuq'on arrive à la frontière régional on est dans la biogéographie. Le nombres d'espèces augmente mais plus faiblement.
+Plus on grandit les espaces, plus la richesse augmente. Les ecosystèmes changent donc la liste des espèces s'accélère. L'orsque l'on arrive à la frontière régionale, on est dans la biogéographie. Le nombre d'espèces augmente mais plus faiblement.
 
 On aura des marches d'escaliers en fonction de l'échelle croissante.
 
-### A) Les généralités
+### I) Les généralités
 
-Objectif de l'échantillonage est de permettre d'inférer à partir des propriétés d'un ensemble d'échantillons, celle de la *pop mère*
+L'objectif de l'échantillonage est de permettre d'inférer à partir des propriétés d'un ensemble d'échantillons, celle de la *pop mère*
 
-**Question méthodo**: comment déterminer les caractéristiques d'un plan d'échantillonnage  de façon à obtenir la maximum d'info pertinente en fonction du pb posé.
+**Question méthodo**: comment déterminer les caractéristiques d'un plan d'échantillonnage  de façon à obtenir le maximum d'info pertinentes en fonction du pb posé.
 
 **Problème** : Choisir une méthode et une stratégie d'utilisation de cette méthode permettant d'obtenir une représentation satisfaisante de l'objet étudié.
 
 **Domaine d'application**: échantillonage de groupes d'animaux à caractère bio-indicateur.
 
 
-### B) Problématique générale
+### II) Problématique générale
 
-**Prise en considération de la complexité extrême des systèmes bio**
+> Prise en considération de la complexité extrême des systèmes bio
+
 * Trop complexe pour être décrits dans leur ensemble
 * Un échantillon de ces systèmes est souvent lui même très complexe
 * Leur étude se limite à une image approximative, restreinte à un petit nombre de *caractères* ou *descripteurs* choisis en fonction d'une problématique précise
 
 *ex des milliers d'espèces dans certeins ecosystèmes tropicaux, les insectes sont très variés*
 
-### C) Définitions
+### II) Définitions
 
 **Echantillon**: Frangment d'un ensemble prelevé pour juger cet ensemble.
 
@@ -52,9 +53,9 @@ Objectif de l'échantillonage est de permettre d'inférer à partir des proprié
 
 **Plan d'échantillonage** : ensemble de processus décisionnels qui aboutissent au plan d'échantillonage et à son amélioration en fonction des résultats.
 
-### D) L'inférence stat
+### IV) L'inférence stat
 
-**Le plan d'échantillonage doit permettre l'interférence statistique**
+>Le plan d'échantillonage doit permettre l'interférence statistique
 
 L'estimation des propriétés *vraies* de l'objet global 
 
@@ -74,18 +75,17 @@ La meilleure estimation va être trouvé si:
 
 > Importance de la définition de la stratégie d'échantillonage
 
-## E) Les processus décisionnel
+## V) Les processus décisionnel
 
 ![Systématiqueappliquée](Images/Fig2.JPG)
 
-## F)) Les échelles d'observation
+## VI) Les échelles d'observation
 
 **Niveau d'organisation** = Unité hierarchique formellement identifée et délimitée dans le temps et dans l'espace : échelle à laquelle des propriétés fonctionnelles émergent.
 
-** Echelle d'observation** = domaine d'échelle choisi pour une étude donnée : échelle à laquelle on mesure
+**Echelle d'observation** = domaine d'échelle choisi pour une étude donnée : échelle à laquelle on mesure
 
-
-**Ecosystème** = niveau d'organisation mais échelle d'observation 
+**Ecosystème** = niveau d'organisation mais l'échelle d'observation est difficile
 
 **Profil de sol** = échelle d'observation 
 
@@ -95,46 +95,50 @@ La meilleure estimation va être trouvé si:
 
 ![Systématiqueappliquée](Images/Fig5.JPG)
 
-
 La réponse à une question peut vraiment dépendre de l'échelle à laquelle on la pose.
 
-## G) Les descripteurs
+## VII) Les descripteurs
 
 > Classification des descripteurs:
 
 * Les decripteurs quantitatifs
 	* définis comme des quantités véritables
     unités de mesures numériques, permettant le calcul de rapports, moyennes, variance ect...
-    * ex densité ou biomasse d'individu par taxon
+ 
+*ex densité ou biomasse d'individu par taxon*
     
 * Les descripteurs qualitatifs
 	* Catégories ou modalités définies sans assignation de mesure
-    * pas d'ordonisation possible
-    * pas de calcul possbles 
-    * ex présence/ absence d'un taxon dans une communauté
+    * pas d'ordre possible
+    * pas de calcul possible 
+    
+*ex présence/ absence d'un taxon dans une communauté*
     
 * Les descripteurs semi-qualitatifs
 	* Catégorie ou modalité par l'existence d'une relation d'ordre
     * Pas de calculs possibles
-    * ex : classes de densité par taxon
+    
+*ex  classes de densité par taxon*
 
 ![Systématiqueappliquée](Images/Fig6.JPG)
 
 ![Systématiqueappliquée](Images/Fig7.JPG)
 
-## H) Les méthodes
+## VIII) Les méthodes
 
 > Très fortement contraintes par les objets d'étude :
+
 * Par le comportement des espèces
 * Par le milieu échantilloné
 * Par la taille des espèces
 
 > Différents types de méthodes d'échantillonnage : 
+
 * Méthodes destructrices ( échantillonnage de sol, prélevement d'individus pour identification au laboratoire)
 * Méthode non destructrices ( comptage, libération d'individus, observations visuelles)
 
 
-## I) Les  contraintes naturelles
+## IX) Les  contraintes naturelles
 
 > Les contraintes naturelles
 
@@ -147,7 +151,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
    	* à l'echelle d'observation choisie
 
 
-## J) Les contraintes
+## X) Les contraintes
 
 > Les descripteurs ne sont généralement pas répartis de façon homogène dans l'espace
 
@@ -175,7 +179,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
     
 
 
-## K) Le plan d'échantillonnage
+## XI) Le plan d'échantillonnage
 
 > Plan d'échantillonnage aléatoire simple
 
@@ -187,11 +191,11 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
  * On introduit délibérément des informations en fonction d'une connaissance préalable, d'hypothèses de travail, d'une problématique, ect..
  * On utilise alors un *prémodèle*;forme de description recherchée à priori en fonction de laquelle le plan d'échantillonnage est défini
  
- > La nature du prémodèle implique une idée préalable du traitement ultérieur des données
+> La nature du prémodèle implique une idée préalable du traitement ultérieur des données
  
 ![Systématiqueappliquée](Images/Fig8.JPG) 
  
-## L) Les objetcifs scientifiques et pratiques
+## XII) Les objetcifs scientifiques et pratiques
  
 ![Systématiqueappliquée](Images/Fig9.JPG)
 
@@ -203,9 +207,9 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
  
 ![Systématiqueappliquée](Images/Fig13.JPG)
 
-## M) Les indices de diversité
+## XIII) Les indices de diversité
  
- > Diversité biologique = ensemble de toute les formes de vie présentes sur notre planète, ainsi que des complexes écologiques auxquels elles appartiennent.
+**Diversité biologique** = ensemble de toute les formes de vie présentes sur notre planète, ainsi que des complexes écologiques auxquels elles appartiennent.
  
  * Du gène, aux espèces et aux écosystèmes
  * Groupes taxonomiques, groupes fonctionnels, groupe de réponse
