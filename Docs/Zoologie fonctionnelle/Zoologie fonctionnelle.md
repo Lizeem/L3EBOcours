@@ -420,7 +420,7 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 **avec accouplement**
 
-* Chez les seiches, au moment de la reproduction les deux grandes tentacules du mâle va se différencier pour former ** l'hectocotyle** qui va servir d'organe copulateur. Il va collecter des spermatophores libérés dans sa cavité paléale et il va mettre son héctocotyle dans la femelle et va mettre les spermatophore juste en face de l'appareil génital de la femelle. Les spermatophores sont très élaboré. Les tuniques étant perméables à l'eau, l'eau va passer entre les deux tuniques se qui va gonfler le spermatophore et le mettre ssous pression, ce qui va faire sauter le bouchon et projetter le sperm vers les voies génitale de la femelle.
+* Chez les seiches, au moment de la reproduction les deux grandes tentacules du mâle va se différencier pour former **l'hectocotyle** qui va servir d'organe copulateur. Il va collecter des spermatophores libérés dans sa cavité paléale et il va mettre son héctocotyle dans la femelle et va mettre les spermatophore juste en face de l'appareil génital de la femelle. Les spermatophores sont très élaboré. Les tuniques étant perméables à l'eau, l'eau va passer entre les deux tuniques se qui va gonfler le spermatophore et le mettre ssous pression, ce qui va faire sauter le bouchon et projetter le sperm vers les voies génitale de la femelle.
 
 ![Zoologie](Images/Fig24.jpg)
 
@@ -470,7 +470,7 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 * Chez les insectes, 
 	* (cigales), les mâles vont faire des émissions sonores **stridulation** grâce à des tambours qui se trouve sur la face ventrale du thorax. Parfois le tambours sont recouverts par des opercules **cymbacalyptes**. Ils sont consitués d'une caisse de raisonnance avec au dessus des petites lamelles faites de cuticules. Leur mouvement va permettre le signal sonore
 
-	* sauterelles et grillions (Orthoptères), on observe, ce phénomène mais les organes sont différents de chez la cigale.  La stridulation est dû au frottement entre les ailes postérieurs et les ailes inférieurs. Sur l'aile antérieur, il y a une nervure possèdant des épines **harchée** va frotter contre une nervure spécalisée ** la corde**. Les vibrations émises sont amplifiées par une structure ** le miroir**. La femelle possède des organes **tympaniques** qui se trouve sur le tibia		
+	* sauterelles et grillions (Orthoptères), on observe, ce phénomène mais les organes sont différents de chez la cigale.  La stridulation est dû au frottement entre les ailes postérieurs et les ailes inférieurs. Sur l'aile antérieur, il y a une nervure possèdant des épines **harchée** va frotter contre une nervure spécalisée **la corde**. Les vibrations émises sont amplifiées par une structure **le miroir**. La femelle possède des organes **tympaniques** qui se trouve sur le tibia		
     
     * les criquets, le mâle utilise les ailes antérieurs qui vont frotter le fémur des pattes postérieur
     
