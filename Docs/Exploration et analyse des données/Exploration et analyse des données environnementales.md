@@ -308,11 +308,172 @@ Un coeff de risque (alpha) est attibrué aux estimations par intervalle de confi
 
 ### IV) La Statistique inférentielles 
 
-Les tests se présentent sous la forme d'un élément de réponse à la question suivante: 
-* la différence constatée est liée au hasard H<sub>0</sub> ou a une différence *réelle* entre les pop concernées H<sub>1</sub>?
+* Les tests se présentent sous la forme d'un élément de réponse à la question suivante: 
+	* la différence constatée est liée au hasard H<sub>0</sub> ou a une 		différence *réelle* entre les pop concernées H<sub>1</sub>?
 
 	* la réponse est probaliste
-    * la proba d'un *faus positif* est indiquée par alpha.
+    * la proba d'un *faux positif* est indiquée par alpha.
     
 * Le test statistique calcule une valeur en fonction des moyennes et écart-types dans les échantillons.
+
+![Statistique](Images/87.jpg)
+
+![Statistique](Images/88.jpg)
+
+![Statistique](Images/89.jpg)
+
+![Statistique](Images/90.jpg)
+
+![Statistique](Images/91.jpg)
+
+![Statistique](Images/92.jpg)
+
+Significativement = tester
+
+![Statistique](Images/93.jpg)
+
+Alpha tjs = 0,05
+
+![Statistique](Images/94.jpg)
+
+Ce graphe marche toujours, à mémoriser, ne marche que pour les lois continues (normale, student, ficher)
+
+![Statistique](Images/95.jpg)
+
+![Statistique](Images/96.jpg)
+
+![Statistique](Images/97.jpg)
+
+![Statistique](Images/98.jpg)
+
+![Statistique](Images/99.jpg)
+
+![Statistique](Images/100.jpg)
+
+## IV) Les stat inférentielles
+
+### B) Principe: 2 types de risques
+
+> 1) rejet, d'une hypothèse nulle H<sub>0</sub> correcte
+
+* On décide que les moyennes de 2 échantillons sont différentes alors qu'elles ne le sont pas 
+* Les deux échantillons sont issus d'une même pop 
+
+> 2) acceptation d'une hypothèse nulle H<sub>0</sub> incorrecte
+
+* On décide que les moyennes des 2 échantillons ne sont pas diff alors que'elle le sont
+
+* Les 2 échantillons ne sont pas issus d'une même pop
+
+![Statistique](Images/101.jpg)
+
+![Statistique](Images/102.jpg)
+
+![Statistique](Images/103.jpg)
+
+![Statistique](Images/104.jpg)
+
+![Statistique](Images/105.jpg)
+
+![Statistique](Images/106.jpg)
+
+![Statistique](Images/107.jpg)
+
+![Statistique](Images/108.jpg)
+
+![Statistique](Images/109.jpg)
+
+![Statistique](Images/110.jpg)
+
+![Statistique](Images/111.jpg)
+
+Ecart entre les extrémités
+
+![Statistique](Images/112.jpg)
+
+Il n'y a pas de diff significative entre ma série de données et ce que serait ma série si elle suivait une loi de distribution normale. Ma série alternative n'est pas normale. 
+
+![Statistique](Images/113.jpg)
+
+![Statistique](Images/114.jpg)
+
+![Statistique](Images/115.jpg)
+
+![Statistique](Images/116.jpg)
+
+![Statistique](Images/117.jpg)
+
+![Statistique](Images/118.jpg)
+
+![Statistique](Images/119.jpg)
+
+![Statistique](Images/120.jpg)
+
+![Statistique](Images/122.jpg)
+
+![Statistique](Images/123.jpg)
+
+![Statistique](Images/124.jpg)
+
+Au numérateur, on met la variance la plus grande
+
+![Statistique](Images/125.jpg)
+
+![Statistique](Images/126.jpg)
+
+![Statistique](Images/127.jpg)
+
+![Statistique](Images/128.jpg)
+
+![Statistique](Images/129.jpg)
+
+![Statistique](Images/130.jpg)
+
+![Statistique](Images/131.jpg)
+
+![Statistique](Images/132.jpg)
+
+![Statistique](Images/133.jpg)
+
+![Statistique](Images/134.jpg)
+
+![Statistique](Images/135.jpg)
+
+![Statistique](Images/136.jpg)
+
+![Statistique](Images/137.jpg)
+
+![Statistique](Images/138.jpg)
+
+![Statistique](Images/139.jpg)
+
+![Statistique](Images/140.jpg)
+
+![Statistique](Images/141.jpg)
+
+![Statistique](Images/142.jpg)
+
+![Statistique](Images/143.jpg)
+
+![Statistique](Images/144.jpg)
+
+![Statistique](Images/145.jpg)
+
+![Statistique](Images/146.jpg)
+
+![Statistique](Images/147.jpg)
+
+![Statistique](Images/148.jpg)
+
+![Statistique](Images/149.jpg)
+
+![Statistique](Images/150.jpg)
+
+![Statistique](Images/151.jpg)
+
+![Statistique](Images/152.jpg)
+
+![Statistique](Images/153.jpg)
+
+![Statistique](Images/154.jpg)
 
