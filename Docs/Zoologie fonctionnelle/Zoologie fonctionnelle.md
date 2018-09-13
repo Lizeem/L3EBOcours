@@ -422,11 +422,11 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 * Chez les seiches, au moment de la reproduction les deux grandes tentacules du mâle va se différencier pour former ** l'hectocotyle** qui va servir d'organe copulateur. Il va collecter des spermatophores libérés dans sa cavité paléale et il va mettre son héctocotyle dans la femelle et va mettre les spermatophore juste en face de l'appareil génital de la femelle. Les spermatophores sont très élaboré. Les tuniques étant perméables à l'eau, l'eau va passer entre les deux tuniques se qui va gonfler le spermatophore et le mettre ssous pression, ce qui va faire sauter le bouchon et projetter le sperm vers les voies génitale de la femelle.
 
-![Zoologie](Images/Fig24.JEPG)
+![Zoologie](Images/Fig24.JPG)
 
 * Ches les scorpions, la fécondation est précéder d'une parade nuptiale qui peut durer plus de 24h. Le mâle va maintenir la femelle par ses grosses pinces et le mâle va emmener la femelle en  promenade (souvent la femelle le tue et le mange). Si la femelle accepte, le mâle l'emmène dans son terrier, le mâle va déposer tout en reculant un spermatophore sur le sol avec une goutte de sperm dessus et va devoir faire avancer la femelle au dessus de ce spermatophore o ù la goutte passera dans l'orifice génital de la femelle. Une fois que la fécondation est effectuée, la femelle mange le mâle.
 
-![Zoologie](Images/Fig25.JEPG)
+![Zoologie](Images/Fig25.JPG)
 
 * Chez les amphibiens urodèle (queue à l'âge adulte ex salamdre). Il y a une parade niptiale avent la fécondation, le mâle avec déposer un spermatophore au sol qui sera repris par la femelle.
 
