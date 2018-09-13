@@ -89,8 +89,12 @@ La meilleure estimation va être trouvé si:
 
 **Profil de sol** = échelle d'observation 
 
+![Systématiqueappliquée](Images/Fig3.JPG)
 
-*les trois figures*
+![Systématiqueappliquée](Images/Fig4.JPG)
+
+![Systématiqueappliquée](Images/Fig5.JPG)
+
 
 La réponse à une question peut vraiment dépendre de l'échelle à laquelle on la pose.
 
@@ -113,6 +117,10 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 	* Catégorie ou modalité par l'existence d'une relation d'ordre
     * Pas de calculs possibles
     * ex : classes de densité par taxon
+
+![Systématiqueappliquée](Images/Fig6.JPG)
+
+![Systématiqueappliquée](Images/Fig7.JPG)
 
 ## H) Les méthodes
 
@@ -181,11 +189,20 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
  
  > La nature du prémodèle implique une idée préalable du traitement ultérieur des données
  
+![Systématiqueappliquée](Images/Fig8.JPG) 
+ 
 ## L) Les objetcifs scientifiques et pratiques
  
- *diff ex*
+![Systématiqueappliquée](Images/Fig9.JPG)
+
+![Systématiqueappliquée](Images/Fig10.JPG)
+
+![Systématiqueappliquée](Images/Fig11.JPG)
  
+![Systématiqueappliquée](Images/Fig12.JPG)
  
+![Systématiqueappliquée](Images/Fig13.JPG)
+
 ## M) Les indices de diversité
  
  > Diversité biologique = ensemble de toute les formes de vie présentes sur notre planète, ainsi que des complexes écologiques auxquels elles appartiennent.
@@ -198,7 +215,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 Ces indices sont des *propriétés* des communautés que l'on peut mesurer sur un échantillon donné
  Il rendent compte de différentes facettes de ce que l'on appelle la ***biodiversité***
  
-Diversité = une mesure qui intègre d'une manière ou d'une autre à la fois le nombre de catégories présentes et la répartition de leurs représentants dans la pop.
+**Diversité** = une mesure qui intègre d'une manière ou d'une autre à la fois le nombre de catégories présentes et la répartition de leurs représentants dans la pop.
  
 > La rareté moyenne des catégories
 
