@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="https://lizeem.github.io/L3/Exploration et analyse des données/Exploration et analyse des données environnementales/">
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>Exploration et analyse des données environnementales - Cours de Licence 3</title>
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="../..">Cours de Licence 3</a>
+                </div>
+
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Ecologie <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../Ecologie/Ecologie, les organismes et leur milieu/">Ecologie, les organismes et leur milieu</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown active">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Exploration et analyse des données <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li class="active">
+    <a href="./">Exploration et analyse des données environnementales</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Systématique appliquée <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../Systématique appliquée/Systematique apliquée/">Systematique apliquée</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Systématique végétale <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../Systématique végétale/Les angiospermes/">Les angiospermes</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#">Terrain</a>
+    <ul class="dropdown-menu">
+            
+<li >
+    <a href="../../Systématique végétale/Terrain/Sortie mare aux sangliers Canteleu/">Sortie mare aux sangliers Canteleu</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Zoologie fonctionnelle <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../Zoologie fonctionnelle/Zoologie fonctionnelle/">Zoologie fonctionnelle</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li >
+                                <a rel="next" href="../../Ecologie/Ecologie, les organismes et leur milieu/">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li >
+                                <a rel="prev" href="../../Systématique appliquée/Systematique apliquée/">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/Lizeem/L3cours/edit/master/docs/Exploration et analyse des données/Exploration et analyse des données environnementales.md">Edit on Edit on Github</a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#exploration-et-analyse-des-donnees-environnementales">Exploration et analyse des données environnementales</a></li>
+            <li><a href="#i-introduction-et-definitions">I) Introduction et définitions</a></li>
+            <li><a href="#ii-les-statistiques-descriptives">II) Les statistiques descriptives</a></li>
+            <li><a href="#iii-les-distributions-de-probabilite">III) Les distributions de probabilité</a></li>
+            <li><a href="#iv-les-stat-inferentielles">IV) Les stat inférentielles</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<p><em>Semestre 5</em></p>
+<h1 id="exploration-et-analyse-des-donnees-environnementales">Exploration et analyse des données environnementales</h1>
+<h2 id="i-introduction-et-definitions">I) Introduction et définitions</h2>
+<h3 id="a-la-statistique">A) La statistique</h3>
+<p>C'est un ensemble d'outils et de méthodes mathématiques pour quantifier des objets et des phénomènes à des fins analytiques.</p>
+<p>R.A Fisher : "<em>La discipline qui étudie les <strong>méthodes des réductions de données, la variabilité et les populations</strong>.</em>"</p>
+<p>La réduction des données, les méthodes de réduction des données font partie de la <strong>statistique descriptive</strong>, décrit unn jeu de donnée -&gt; graphique, moyenne (ou <strong>exploratoire</strong>).</p>
+<p><strong>Statistique descriptive</strong>
+<em> essayer de décrire de manière synthétique des tendances susceptibles d'exister dans des jeux de données
+</em>  essayer de caractériser des relations entre des variables</p>
+<p><strong>La variabilité</strong>, l'étude de la variabilité cherche à expliquer cette variabilité. Elle fait partie de la théorie de l'échantilllonage.</p>
+<p><strong>Théorie de l'échantillionnage</strong>, étude des liaisons existant entre une pop et les échantillions de cette Pop. Elle est fondamentale
+<em> estimer les paramètres de la pop à partir des paramètres correspondant de l'échantillion
+</em> savoir si les diff observées entre deux échantillions sont dues au hasard ou réellement significatives</p>
+<p><strong>Les populations</strong>, l'étude des pop fait partie de la <strong>statistique inférentielle</strong> qui prend un échantillion et en tire des ccl pour toute la population
+Elle utilise des hypothèses de départ et des tests statistiques pour voir si les résultats obtenus diffèrent ou non de ce que l'on aurait par le simple effet du hasard.</p>
+<p><img alt="Statistique" src="../Images/1.jpg" /></p>
+<h3 id="b-notion-de-variabilite">B) Notion de variabilité</h3>
+<p>La variabilité est inhérente à toute mesure et à tout système étudié.
+A cause de cette variabilité, l'expérimentateur se retrouve fréquemment dans une situation où il ne peut déterminer avec certitude à l'aide de ses résultats si l'effet qu'il cherche à mesurer est réellement présent, où s'il pourrait être le fruit du hasard.
+Or, l'expérimentateur doit poser un choix sur les résultats de son expérience.</p>
+<p><strong>La variabilité de la mesure:</strong>
+<em>ex essayer de mesurer plusieurs fois la taille de l'individu, des valeurs différentes seront trouvés alors que dans l'absolu, cet individu ne bouge pas.</em></p>
+<p><strong>La variabilité inter-individus:</strong>
+<em>ex observation de la taille des crapauds autour d'une mare, il y aura des diff de taille</em></p>
+<p><strong>La variabilité intra-individu:</strong>
+<em>ex essayer de mesurer la tension artérielle d'un individu à diff moments de la journée ou au même moment plusieurs jours de suite d'un individu, des valeurs diff seront trouvées</em></p>
+<p><strong>BCP D INCERTITUDES</strong></p>
+<h3 id="c-variable-pop-echantillion">C) Variable, pop, échantillion</h3>
+<p>Variable une grandeur mesurée (X) à laquelle on s'interresse.
+<em> une seule variable = <strong>statistique univariée</strong> (</em>taille, poids<em>)
+</em> deux ou plusieurs variablies = <strong>statistique multivarié</strong> (<em>la taille en fonction du poids</em>)</p>
+<p>Population est une ensemble de valeurs que peut prendre une variable
+<em> <strong>population finie</strong> 
+</em> <strong>population statistique</strong></p>
+<p><strong>Individu</strong>, une entité sur laquelle une ou plusieurs observations sont réalisées. C'est un élément de la pop.</p>
+<p><strong>Observation</strong>, mesure particulière d'une variable (x<sub>i</sub>) sur un individu</p>
+<p><strong>Echantillon</strong>, sous ensensemble de la pop statistique constitué des observations réalisées. La taille de l'échantillon est généralement notée <em>n</em>. Le processus qui mène à la création de l'échantillon se nomme simplement échantillionnage.</p>
+<p>Un des fondements des statistiques est de considérer que les échantillions sont <strong>aléatoires</strong>.
+Les probabilités d'être échantillonné, ou d'appartenir à un groupe doivent être identiques pour tous les individus étudiés.</p>
+<h3 id="d-les-types-de-variables-a-savoir">D) Les types de variables (à savoir)</h3>
+<ul>
+<li>Les variables ordonnées (cellle qu'on peut classer)</li>
+<li>Les variables non ordonnées</li>
+</ul>
+<p><img alt="Statistique" src="../Images/2.jpg" /></p>
+<p><img alt="Statistique" src="../Images/3.jpg" /></p>
+<blockquote>
+<p>Quand on fait un partiel garder le même nb de chiffre derrière la virgule</p>
+</blockquote>
+<p><img alt="Statistique" src="../Images/4.jpg" /></p>
+<p><img alt="Statistique" src="../Images/5.jpg" /></p>
+<p><img alt="Statistique" src="../Images/6.jpg" /></p>
+<p><img alt="Statistique" src="../Images/7.jpg" /></p>
+<h2 id="ii-les-statistiques-descriptives">II) Les statistiques descriptives</h2>
+<p>Comme le nom l'indique, les stat descriptives servent à décrire un jeu de données ou un échantillon.
+Un tableau brut et rarement compréhensible tel quel, comment présenter les données autrement pour les rendre plus compréhensibles ?</p>
+<p>Deux grands groupes, les méthodes numériques ( descripteurs statistiques) et les méthodes graphiques </p>
+<blockquote>
+<p>Elles sont complémentaires</p>
+</blockquote>
+<p>Distinction entre jeux de données <strong>univariés</strong> (une seule variable), <strong>bivariés</strong> (deux variables) et <strong>multivariés</strong> (plus de deux variables dans le jeu de données)</p>
+<p>On décrit  de façon synthétique une pop à l'aide de paramètres ou estimateurs statistiques tirés de l'échantillon.</p>
+<p>On utilise 2 types de paramètres:
+<em> <strong>paramètre de position</strong> (valeur centrale)
+</em> <strong>paramètre de dispersion</strong> (variabilité)</p>
+<p><img alt="Statistique" src="../Images/8.jpg" /></p>
+<p><img alt="Statistique" src="../Images/9.jpg" /></p>
+<p><img alt="Statistique" src="../Images/10.jpg" /></p>
+<p><img alt="Statistique" src="../Images/11.jpg" /></p>
+<p><img alt="Statistique" src="../Images/12.jpg" /></p>
+<p>La variance représente la dispersion de la moyenne.</p>
+<p><img alt="Statistique" src="../Images/13.jpg" /></p>
+<p><img alt="Statistique" src="../Images/14.jpg" /></p>
+<p><img alt="Statistique" src="../Images/15.jpg" /></p>
+<p><img alt="Statistique" src="../Images/16.jpg" /></p>
+<p><img alt="Statistique" src="../Images/17.jpg" /></p>
+<p><img alt="Statistique" src="../Images/18.jpg" /></p>
+<p><img alt="Statistique" src="../Images/19.jpg" /></p>
+<h2 id="iii-les-distributions-de-probabilite">III) Les distributions de probabilité</h2>
+<p>Au delà de la caractérisation d'un échantillon par un ou plusieurs paramètres, il est possible de décrire la façon dont les obeservations d'une variable sont distribués ou réparties.</p>
+<p>On construit alors une courbe de distribution des <strong>fréquences</strong> observée.</p>
+<p>La distribution permettra de définir les tests statistiques à utiliser par la suite.</p>
+<p><img alt="Statistique" src="../Images/20.jpg" /></p>
+<p><img alt="Statistique" src="../Images/21.jpg" /></p>
+<p><img alt="Statistique" src="../Images/22.jpg" /></p>
+<p><img alt="Statistique" src="../Images/23.jpg" /></p>
+<p><img alt="Statistique" src="../Images/24.jpg" /></p>
+<p>Courbe 1 = fréquence et courbe 2 = fonction</p>
+<h3 id="d-les-lois-de-distribution-theorique">D) Les lois de distribution théorique</h3>
+<p>Connaître un échantillon c'est
+<em> connaître sa moyenne
+</em> connaître sa variance et donc son écart type
+* avoir une représentation des données par un histogramme ou un diagramme en bâtons (en fonction de la nature de la variable).</p>
+<p>Problématique:</p>
+<p>On veut connaître la pop de laquelle est issu l'échantillon, c'est à dire être capable de tracer l'histogramme représentant la pop.</p>
+<p>Observation des histogrammes:</p>
+<p>Les histogrammes illustrant des échantillons de pop présentent <strong>tous</strong> la particularité d'une forme de cloche quand on tend vers l'infini</p>
+<p><img alt="Statistique" src="../Images/25.jpg" /></p>
+<p><img alt="Statistique" src="../Images/26.jpg" /></p>
+<p><img alt="Statistique" src="../Images/27.jpg" /></p>
+<p><img alt="Statistique" src="../Images/28.jpg" /></p>
+<p><img alt="Statistique" src="../Images/29.jpg" /></p>
+<p><img alt="Statistique" src="../Images/30.jpg" /></p>
+<p><img alt="Statistique" src="../Images/31.jpg" /></p>
+<p><img alt="Statistique" src="../Images/32.jpg" /></p>
+<p><img alt="Statistique" src="../Images/33.jpg" /></p>
+<p><img alt="Statistique" src="../Images/34.jpg" /></p>
+<p><img alt="Statistique" src="../Images/35.jpg" /></p>
+<p><img alt="Statistique" src="../Images/36.jpg" /></p>
+<p><img alt="Statistique" src="../Images/37.jpg" /></p>
+<p><img alt="Statistique" src="../Images/38.jpg" /></p>
+<p><img alt="Statistique" src="../Images/39.jpg" /></p>
+<p><img alt="Statistique" src="../Images/40.jpg" /></p>
+<p><img alt="Statistique" src="../Images/41.jpg" /></p>
+<p><img alt="Statistique" src="../Images/42.jpg" /></p>
+<p><img alt="Statistique" src="../Images/43.jpg" /></p>
+<p><img alt="Statistique" src="../Images/44.jpg" /></p>
+<p><img alt="Statistique" src="../Images/45.jpg" /></p>
+<p><img alt="Statistique" src="../Images/46.jpg" /></p>
+<p><img alt="Statistique" src="../Images/47.jpg" /></p>
+<p><img alt="Statistique" src="../Images/48.jpg" /></p>
+<p><img alt="Statistique" src="../Images/49.jpg" /></p>
+<p><img alt="Statistique" src="../Images/50.jpg" /></p>
+<p><img alt="Statistique" src="../Images/51.jpg" /></p>
+<p><img alt="Statistique" src="../Images/52.jpg" /></p>
+<p><img alt="Statistique" src="../Images/53.jpg" /></p>
+<p><img alt="Statistique" src="../Images/54.jpg" /></p>
+<p><img alt="Statistique" src="../Images/55.jpg" /></p>
+<p><img alt="Statistique" src="../Images/56.jpg" /></p>
+<p><img alt="Statistique" src="../Images/57.jpg" /></p>
+<p><img alt="Statistique" src="../Images/58.jpg" /></p>
+<p><img alt="Statistique" src="../Images/59.jpg" /></p>
+<p><img alt="Statistique" src="../Images/60.jpg" /></p>
+<p>Loi de Ficher est toujours positive. Unilatérale à droite car la courbe n'est pas exactement symétrique. </p>
+<p><img alt="Statistique" src="../Images/61.jpg" /></p>
+<p><img alt="Statistique" src="../Images/62.jpg" /></p>
+<p><img alt="Statistique" src="../Images/63.jpg" /></p>
+<p><img alt="Statistique" src="../Images/64.jpg" /></p>
+<p><img alt="Statistique" src="../Images/65.jpg" /></p>
+<p>P joue sur la symétrie, et n sur la largeur</p>
+<p><img alt="Statistique" src="../Images/66.jpg" /></p>
+<p><img alt="Statistique" src="../Images/67.jpg" /></p>
+<p>Une loi binomiale, qu'on on augmente n et que la probabilité d'une deux issues, est très petit, cela devient une loi de Poisson.</p>
+<h3 id="iii-les-distributions-de-proba">III) Les distributions de proba</h3>
+<h4 id="g-les-intervalles-de-confiance">g) Les intervalles de confiance</h4>
+<p>Un I.C d'un paramètre est une estimation <strong>par intervalle</strong> de ce paramètre.</p>
+<p><em>ex la moyenne de la variable X de la pop statistique se situe entre la valeur a et la valeur b</em>.</p>
+<p>Un coeff de risque (alpha) est attibrué aux estimations par intervalle de confiance</p>
+<p><em>ex j'ai 5% de chances de me tromper lorsque je dis que la moyenne de la variable X de la pop stat se situe entre la valeur a et la valeur b</em></p>
+<blockquote>
+<p>En général, on prend: alpha = 0,05 ou alpha = 0,01 ou alpha = 0,001</p>
+</blockquote>
+<p><img alt="Statistique" src="../Images/68.jpg" /></p>
+<p><img alt="Statistique" src="../Images/69.jpg" /></p>
+<p><img alt="Statistique" src="../Images/70.jpg" /></p>
+<p><img alt="Statistique" src="../Images/71.jpg" /> </p>
+<p><img alt="Statistique" src="../Images/72.jpg" /></p>
+<p><img alt="Statistique" src="../Images/73.jpg" /></p>
+<p><img alt="Statistique" src="../Images/74.jpg" /></p>
+<p><img alt="Statistique" src="../Images/75.jpg" /></p>
+<p><img alt="Statistique" src="../Images/76.jpg" /></p>
+<p><img alt="Statistique" src="../Images/77.jpg" /> </p>
+<p><img alt="Statistique" src="../Images/78.jpg" /></p>
+<p><img alt="Statistique" src="../Images/79.jpg" /></p>
+<p><img alt="Statistique" src="../Images/80.jpg" /></p>
+<p><img alt="Statistique" src="../Images/81.jpg" /></p>
+<p><img alt="Statistique" src="../Images/82.jpg" /></p>
+<p><img alt="Statistique" src="../Images/83.jpg" /></p>
+<p><img alt="Statistique" src="../Images/84.jpg" /></p>
+<p><img alt="Statistique" src="../Images/85.jpg" /></p>
+<p><img alt="Statistique" src="../Images/86.jpg" /></p>
+<h3 id="iv-la-statistique-inferentielles">IV) La Statistique inférentielles</h3>
+<ul>
+<li>
+<p>Les tests se présentent sous la forme d'un élément de réponse à la question suivante: </p>
+<ul>
+<li>
+<p>la différence constatée est liée au hasard H<sub>0</sub> ou a une         différence <em>réelle</em> entre les pop concernées H<sub>1</sub>?</p>
+</li>
+<li>
+<p>la réponse est probaliste</p>
+</li>
+<li>la proba d'un <em>faux positif</em> est indiquée par alpha.</li>
+</ul>
+</li>
+<li>
+<p>Le test statistique calcule une valeur en fonction des moyennes et écart-types dans les échantillons.</p>
+</li>
+</ul>
+<p><img alt="Statistique" src="../Images/87.jpg" /></p>
+<p><img alt="Statistique" src="../Images/88.jpg" /></p>
+<p><img alt="Statistique" src="../Images/89.jpg" /></p>
+<p><img alt="Statistique" src="../Images/90.jpg" /></p>
+<p><img alt="Statistique" src="../Images/91.jpg" /></p>
+<p><img alt="Statistique" src="../Images/92.jpg" /></p>
+<p>Significativement = tester</p>
+<p><img alt="Statistique" src="../Images/93.jpg" /></p>
+<p>Alpha tjs = 0,05</p>
+<p><img alt="Statistique" src="../Images/94.jpg" /></p>
+<p>Ce graphe marche toujours, à mémoriser, ne marche que pour les lois continues (normale, student, ficher)</p>
+<p><img alt="Statistique" src="../Images/95.jpg" /></p>
+<p><img alt="Statistique" src="../Images/96.jpg" /></p>
+<p><img alt="Statistique" src="../Images/97.jpg" /></p>
+<p><img alt="Statistique" src="../Images/98.jpg" /></p>
+<p><img alt="Statistique" src="../Images/99.jpg" /></p>
+<p><img alt="Statistique" src="../Images/100.jpg" /></p>
+<h2 id="iv-les-stat-inferentielles">IV) Les stat inférentielles</h2>
+<h3 id="b-principe-2-types-de-risques">B) Principe: 2 types de risques</h3>
+<blockquote>
+<p>1) rejet, d'une hypothèse nulle H<sub>0</sub> correcte</p>
+</blockquote>
+<ul>
+<li>On décide que les moyennes de 2 échantillons sont différentes alors qu'elles ne le sont pas </li>
+<li>Les deux échantillons sont issus d'une même pop </li>
+</ul>
+<blockquote>
+<p>2) acceptation d'une hypothèse nulle H<sub>0</sub> incorrecte</p>
+</blockquote>
+<ul>
+<li>
+<p>On décide que les moyennes des 2 échantillons ne sont pas diff alors que'elle le sont</p>
+</li>
+<li>
+<p>Les 2 échantillons ne sont pas issus d'une même pop</p>
+</li>
+</ul>
+<p><img alt="Statistique" src="../Images/101.jpg" /></p>
+<p><img alt="Statistique" src="../Images/102.jpg" /></p>
+<p><img alt="Statistique" src="../Images/103.jpg" /></p>
+<p><img alt="Statistique" src="../Images/104.jpg" /></p>
+<p><img alt="Statistique" src="../Images/105.jpg" /></p>
+<p><img alt="Statistique" src="../Images/106.jpg" /></p>
+<p><img alt="Statistique" src="../Images/107.jpg" /></p>
+<p><img alt="Statistique" src="../Images/108.jpg" /></p>
+<p><img alt="Statistique" src="../Images/109.jpg" /></p>
+<p><img alt="Statistique" src="../Images/110.jpg" /></p>
+<p><img alt="Statistique" src="../Images/111.jpg" /></p>
+<p>Ecart entre les extrémités</p>
+<p><img alt="Statistique" src="../Images/112.jpg" /></p>
+<p>Il n'y a pas de diff significative entre ma série de données et ce que serait ma série si elle suivait une loi de distribution normale. Ma série alternative n'est pas normale. </p>
+<p><img alt="Statistique" src="../Images/113.jpg" /></p>
+<p><img alt="Statistique" src="../Images/114.jpg" /></p>
+<p><img alt="Statistique" src="../Images/115.jpg" /></p>
+<p><img alt="Statistique" src="../Images/116.jpg" /></p>
+<p><img alt="Statistique" src="../Images/117.jpg" /></p>
+<p><img alt="Statistique" src="../Images/118.jpg" /></p>
+<p><img alt="Statistique" src="../Images/119.jpg" /></p>
+<p><img alt="Statistique" src="../Images/120.jpg" /></p>
+<p><img alt="Statistique" src="../Images/122.jpg" /></p>
+<p><img alt="Statistique" src="../Images/123.jpg" /></p>
+<p><img alt="Statistique" src="../Images/124.jpg" /></p>
+<p>Au numérateur, on met la variance la plus grande</p>
+<p><img alt="Statistique" src="../Images/125.jpg" /></p>
+<p><img alt="Statistique" src="../Images/126.jpg" /></p>
+<p><img alt="Statistique" src="../Images/127.jpg" /></p>
+<p><img alt="Statistique" src="../Images/128.jpg" /></p>
+<p><img alt="Statistique" src="../Images/129.jpg" /></p>
+<p><img alt="Statistique" src="../Images/130.jpg" /></p>
+<p><img alt="Statistique" src="../Images/131.jpg" /></p>
+<p><img alt="Statistique" src="../Images/132.jpg" /></p>
+<p><img alt="Statistique" src="../Images/133.jpg" /></p>
+<p><img alt="Statistique" src="../Images/134.jpg" /></p>
+<p><img alt="Statistique" src="../Images/135.jpg" /></p>
+<p><img alt="Statistique" src="../Images/136.jpg" /></p>
+<p><img alt="Statistique" src="../Images/137.jpg" /></p>
+<p><img alt="Statistique" src="../Images/138.jpg" /></p>
+<p><img alt="Statistique" src="../Images/139.jpg" /></p>
+<p><img alt="Statistique" src="../Images/140.jpg" /></p>
+<p><img alt="Statistique" src="../Images/141.jpg" /></p>
+<p><img alt="Statistique" src="../Images/142.jpg" /></p>
+<p><img alt="Statistique" src="../Images/143.jpg" /></p>
+<p><img alt="Statistique" src="../Images/144.jpg" /></p>
+<p><img alt="Statistique" src="../Images/145.jpg" /></p>
+<p><img alt="Statistique" src="../Images/146.jpg" /></p>
+<p><img alt="Statistique" src="../Images/147.jpg" /></p>
+<p><img alt="Statistique" src="../Images/148.jpg" /></p>
+<p><img alt="Statistique" src="../Images/149.jpg" /></p>
+<p><img alt="Statistique" src="../Images/150.jpg" /></p>
+<p><img alt="Statistique" src="../Images/151.jpg" /></p>
+<p><img alt="Statistique" src="../Images/152.jpg" /></p>
+<p><img alt="Statistique" src="../Images/153.jpg" /></p>
+<p><img alt="Statistique" src="../Images/154.jpg" /></p></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"search": 83, "next": 78, "help": 191, "previous": 80};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
