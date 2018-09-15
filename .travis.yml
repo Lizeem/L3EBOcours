@@ -1,8 +1,9 @@
 language: python
 install:
   - pip install mkdocs
+  - pip install mkdocs-material
 script:
-  - mkdocs gh-deploy
+  - mkdocs build --clean --strict
 deploy:
   provider: pages
   skip-cleanup: true
