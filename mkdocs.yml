@@ -1,2 +1,10 @@
 site_name: Cours de Licence 3
 docs_dir: Docs/
+
+theme:
+  name: material
+  palette:
+    primary: '#FFAD00'
+    accent: '#FFD378'
+  feature:
+    tabs: true
