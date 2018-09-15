@@ -4,7 +4,7 @@ docs_dir: Docs/
 theme:
   name: material
   palette:
-    primary: '#FFAD00'
-    accent: '#FFD378'
+    primary: 'Lime'
+    accent: 'Yellow'
   feature:
     tabs: true
