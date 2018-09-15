@@ -1,0 +1,11 @@
+language: python
+install:
+  - pip install mkdocs
+script:
+  - mkdocs build --verbose --clean --strict
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN_COURSL3
+  keep-history: true
+  local_dir: site
