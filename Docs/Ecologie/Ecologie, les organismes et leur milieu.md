@@ -1,9 +1,6 @@
-*Semestre5*
-# Ecologie, les organismes et leur milieu
-
 ## Introduction générale
 
-### I) Un peu d'histoire 
+## I) Un peu d'histoire 
 
 Discipline ancienne, remontant aux premiers hommes ayant développé la chasse, la pêche, collecte : besoin de connaissance sur quand et où trouver leurs ressources. Vers le dvp de la sédentarisation et des pratiques agricoles : besoin de comprendre le dvp des plantes et le comportement des animaux.
 Traces d'écrits datant des Egyptiens, Babyloniens concernant les récoltes (centre de passage de commerces très importants)
@@ -276,8 +273,6 @@ Calcul du taux d'extinction sur 100/5M = 0,02%*
 Aires de répartitions des:
 * espèces spécialistes se contractent
 * espèces généralistes s'étendent (*ex bambou*)
-
-### C) Evolution des aires de répartition
 
 Nombreux scénarios:
 * migration

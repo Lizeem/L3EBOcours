@@ -1,8 +1,3 @@
-*Semestre 5*
-
-# Exploration et analyse des données environnementales
-
-
 ## I) Introduction et définitions
 
 ### A) La statistique
@@ -254,9 +249,9 @@ P joue sur la symétrie, et n sur la largeur
 Une loi binomiale, qu'on on augmente n et que la probabilité d'une deux issues, est très petit, cela devient une loi de Poisson.
 
 
-### III) Les distributions de proba
+## III) Les distributions de proba
 
-#### g) Les intervalles de confiance
+### G) Les intervalles de confiance
 
 Un I.C d'un paramètre est une estimation **par intervalle** de ce paramètre.
 
@@ -306,7 +301,7 @@ Un coeff de risque (alpha) est attibrué aux estimations par intervalle de confi
 
 ![Statistique](Images/86.jpg)
 
-### IV) La Statistique inférentielles 
+## IV) La Statistique inférentielles 
 
 * Les tests se présentent sous la forme d'un élément de réponse à la question suivante: 
 	* la différence constatée est liée au hasard H<sub>0</sub> ou a une 		différence *réelle* entre les pop concernées H<sub>1</sub>?
@@ -352,7 +347,7 @@ Ce graphe marche toujours, à mémoriser, ne marche que pour les lois continues 
 
 ## IV) Les stat inférentielles
 
-### B) Principe: 2 types de risques
+### A) Principe: 2 types de risques
 
 > 1) rejet, d'une hypothèse nulle H<sub>0</sub> correcte
 

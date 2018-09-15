@@ -1,7 +1,3 @@
-*Semestre 5*	
-
-# Systématique végétale
-
 # Les Angiospermes
 
 ## La Taxonomie
@@ -24,7 +20,7 @@ Les tulipes venaient de Cocase et ont été importés en Hollande, elle est à l
 L'appareil végétatif est extrêmement variable (diversité des tiges) et souvent enterré comme les **bulbes** (tulipe oignon, ail) ou les **rhizomes** (muguet).
 Les tiges en forme de feuilles s'appellent des cladodes pour le *Ruscus aculeatus*
  
- ![Végétal](Images/Liliacees.JPG)
+![Végétal](Images/Liliacees.JPG)
  
 Les inflorescences (position des fleurs) très différentes pouvant appartenir à plusieurs types:
 * **épi** (fleurs sur l'axe)
@@ -38,8 +34,8 @@ Chez les liliacées, les fleurs sont hermaphrodites (**étamines** *organe mâle
 
 > 3T + 3T + (3+3) E + (3C)
 
-Le fruit est un ovaire c'est une capsule ou une baie.
-Les fleurs sont très voyantes, la pollinisation est entomophile (favorisé par les insectes)
+Le fruit est un **ovaire** c'est une **capsule ou une baie**.
+Les fleurs sont très voyantes, la pollinisation est **entomophile** (favorisé par les insectes)
 
 ![Végétal](Images/Liliacees3.JPG)
 
@@ -221,7 +217,7 @@ Les feuilles sont :
 
 ![Végétal](Images/Fabacees3.JPG)
 
-### 3) Appareil reproducteur
+### III) Appareil reproducteur
 
 L'inflorescence est en grappe et les fleurs sont **zygomorphe**, **dialypétales**, avec 5 pétales
 
@@ -259,7 +255,7 @@ Les fruits sont des **nucules** (fruit sec de type akène) enveloppées dans des
 La famille est **cosmopolite** (régions tempérées de l'hemisphère nord)
 Il y a une grande diversité des formes, c'est une famille par enchaînement et à une grande importance économique alimentaire (mûre, framboise, fraise, cerises..) et au niveau ornementale.
 
-### Appareil végétatif
+### II) Appareil végétatif
 
 Elles ont parfois des 
 * stolons  
@@ -268,7 +264,7 @@ Elles ont parfois des
 
 Les feuilles sont **alternes, souvent stipulées, simples ou composées**, avec des **folioles dentées parfois grandes ou petites**.
 
-### 3) Appareil reproducteur 
+### III) Appareil reproducteur 
 
 L'inflorescence est une grappe
 
@@ -302,7 +298,7 @@ L'appareil végétatif est très variable
 
 Tout comme les feuilles qui peuvent être simple, entières, alternes, composées, palmées...
 
-### II) Appareil reproducteur
+### II) Appareil reproducteur et végétatif
 
 Appareil reproducteur : **très variable** 
 On a généralement une **cyme unipare**, **multipare**, **grappe de cymes** 
@@ -353,7 +349,7 @@ Il existe seulement quelques arbustes (g. Rinorae).
 
 Les feuilles sont **alternes ou basales**, parfois opposées (Rinorae).
 
-### II) Appareil reproducteur
+### II) Appareil reproducteur et végétatif
 
 Les fleurs sont en **grappe ou panicule ou ce sont des fleurs solitaires**. 
 La corolle est  **zygomorphe**, avec un **pétale ventral éperonné** 
@@ -364,7 +360,6 @@ Elle possède **2 étamines** qui ont un **appendice nectarifère** dans l'**ép
 Il existe parfois 5 carpelles, sur des fleurs primitives : il y a eu une évolution.
 
 ## BRASSICACEES
-
 
 ### I) Appareil végétatif
 
@@ -404,7 +399,7 @@ C'est une plante **glandulifère**
 
 ![Végétal](Images/Geraniacees.JPG)
 
-### Appareil reproducteur
+### II) Appareil reproducteur
 
 L'inflorescence est généralement en **cyme ombelliforme**. Les fleurs sont **pentamères actimorphes**. Elles ont deux verticilles d'étamines, l'externe est parfois absent, **les glandes nectarifères sont extrastaminales**. L'ovaire pluriloculaire a un long style et 5 stigmates.
 
@@ -421,7 +416,7 @@ Les fleurs sont essentiellement de milieu intertropical, quelques unes sont en m
  
  ![Végétal](Images/Malvacees2.JPG)
  
- ### I) Appareil végétatif
+### I) Appareil végétatif
 
 Ces plantes sont des arbustes ou herbacées. Les feuilles sont **isolés, simples, alternes, palmati-découpées ou composées**.
 Les pétales tournent un peu avant de s'ouvrir
@@ -495,8 +490,6 @@ Les fleurs sont actimorphes et biséxuées, soit sont solitaire, soit regroupée
 
 Les fruits sont des akènes trigones , souvent protégés par une envelloppe membraneuse et constituant alors une samare.
 
-
-
 ## BORAGINACEES
 Genres : Symphytum (consoude), Myosotis, Echium (vipérine), Borago (Bourrache) ... 
 Environ 2000 espèces
@@ -521,7 +514,6 @@ Appareil reproducteur :
 > (5S) + [(5P) + 5E] + (2->4C) 
  
 **Fruit** : Le plus souvent akènes ou tétrakène 
-
 
 ## RUBIACEES
 
@@ -664,7 +656,7 @@ Appareil reproducteur :
 ![Végétal](Images/Apiacees.JPG)
     
 
-## ASTERACEES (examen sûr)
+## ASTERACEES
 
 Genres : Senecio (séneçon), Bellis (pâquerette), Cirsium (Chardon), Leucanthemum (marguerite)... Lactuca (laitue) 
 * Entre 15 000 et 25 000 espèces, 1500 espèces de senecio  
@@ -702,25 +694,3 @@ Plusieurs espèces alimentaires:
 * salsifis
 * artichaux
 * tournesol
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

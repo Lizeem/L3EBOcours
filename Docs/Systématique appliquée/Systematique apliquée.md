@@ -1,8 +1,3 @@
-
-*Semestre 5*
-
-# Systématique appliquée
-
 **Flore** = liste des espèces
 
 **Végétation** = quantitatif, proportion d'espèces
@@ -43,7 +38,7 @@ L'objectif de l'échantillonage est de permettre d'inférer à partir des propri
 
 *ex des milliers d'espèces dans certeins ecosystèmes tropicaux, les insectes sont très variés*
 
-### II) Définitions
+### III) Définitions
 
 **Echantillon**: Frangment d'un ensemble prelevé pour juger cet ensemble.
 
@@ -75,11 +70,11 @@ La meilleure estimation va être trouvé si:
 
 > Importance de la définition de la stratégie d'échantillonage
 
-## V) Les processus décisionnel
+### V) Les processus décisionnel
 
 ![Systématiqueappliquée](Images/Fig2.JPG)
 
-## VI) Les échelles d'observation
+### VI) Les échelles d'observation
 
 **Niveau d'organisation** = Unité hierarchique formellement identifée et délimitée dans le temps et dans l'espace : échelle à laquelle des propriétés fonctionnelles émergent.
 
@@ -97,7 +92,7 @@ La meilleure estimation va être trouvé si:
 
 La réponse à une question peut vraiment dépendre de l'échelle à laquelle on la pose.
 
-## VII) Les descripteurs
+### VII) Les descripteurs
 
 > Classification des descripteurs:
 
@@ -124,7 +119,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 
 ![Systématiqueappliquée](Images/Fig7.JPG)
 
-## VIII) Les méthodes
+### VIII) Les méthodes
 
 > Très fortement contraintes par les objets d'étude :
 
@@ -138,7 +133,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 * Méthode non destructrices ( comptage, libération d'individus, observations visuelles)
 
 
-## IX) Les  contraintes naturelles
+### IX) Les  contraintes naturelles
 
 > Les contraintes naturelles
 
@@ -151,7 +146,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
    	* à l'echelle d'observation choisie
 
 
-## X) Les contraintes
+### X) Les contraintes
 
 > Les descripteurs ne sont généralement pas répartis de façon homogène dans l'espace
 
@@ -179,7 +174,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
     
 
 
-## XI) Le plan d'échantillonnage
+### XI) Le plan d'échantillonnage
 
 > Plan d'échantillonnage aléatoire simple
 
@@ -195,7 +190,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
  
 ![Systématiqueappliquée](Images/Fig8.JPG) 
  
-## XII) Les objetcifs scientifiques et pratiques
+### XII) Les objetcifs scientifiques et pratiques
  
 ![Systématiqueappliquée](Images/Fig9.JPG)
 
@@ -207,7 +202,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
  
 ![Systématiqueappliquée](Images/Fig13.JPG)
 
-## XIII) Les indices de diversité
+### XIII) Les indices de diversité
  
 **Diversité biologique** = ensemble de toute les formes de vie présentes sur notre planète, ainsi que des complexes écologiques auxquels elles appartiennent.
  
