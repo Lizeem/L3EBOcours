@@ -359,7 +359,7 @@ La thèque interne secrète des substances mâle et sont convertis en oestrogèn
 
 Chez les amphibiens l'ovocyte va synthétiser lui même son vittelus, la quantité folliculaire autour est plus faible. Au niveau du noyau il y a bcp d'éléments de synthèse. Les chromosomes prennent un aspect très varié.
 
-![Zoologie](Images/Fig19.JPEG)
+![Zoologie](Images/Fig19.JPG)
 
 Ces chromosomes dans les ovocytes amphibiens sont des chromosomes en écouvillon *baguette avec des poils raides autour*.
 
