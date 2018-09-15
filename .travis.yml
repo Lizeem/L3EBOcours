@@ -2,7 +2,7 @@ language: python
 install:
   - pip install mkdocs
 script:
-  - mkdocs build --verbose --clean --strict
+  - mkdocs build --clean --strict
 deploy:
   provider: pages
   skip-cleanup: true
