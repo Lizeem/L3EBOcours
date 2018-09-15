@@ -10,9 +10,9 @@ theme:
     tabs: true
   language: "fr"
   
-extra:
-  social:
-    - type: "github"
-      link: "https://github.com/Lizeem"
-    - type: "linkedin"
-      link: "https://www.linkedin.com/in/emma-lizeski-837899149/"
+  extra:
+    social:
+      - type: "github"
+        link: "https://github.com/Lizeem"
+      - type: "linkedin"
+        link: "https://www.linkedin.com/in/emma-lizeski-837899149/"
