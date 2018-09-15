@@ -1,4 +1,4 @@
-# Les vecteurs
+## Les vecteurs
 
 ages <- c(28,25,23,24,26,23,21,22,24,29,24,26,31,28,27,24,23,25,27,25,24,21,24,23,25,31,28,27,24,23)
 ages
@@ -7,7 +7,7 @@ seq (2,6)
 
 seq(1,10, by=0.5)
 
-# Tous les nombres de 1 à 10 de 0,5 en 0,5
+## Tous les nombres de 1 Ã  10 de 0,5 en 0,5
 
 vecteur1 <- c(2,5)
 vecteur1
@@ -21,7 +21,7 @@ vecteur1[vecteur1 >2]
 length(vecteur1)
 length(vecteur1[vecteur1 >2])
 
-# Les matrices (tableau à deux dimensions: données du même type)
+## Les matrices (tableau Ã  deux dimensions: donnÃ©es du mÃªme type)
 
 matrice <- matrix(c(1.5,2.1,3.2,1.6,1.4,1.5),nr = 3, nc = 2)
 matrice
@@ -30,12 +30,12 @@ matrice[1,1]
 matrice[1,]
 matrice[2:3,1:2]
 
-# Les listes (tableau à une dimension : données de différents types)
+## Les listes (tableau Ã  une dimension : donnÃ©es de diffÃ©rents types)
 
 liste <- list("AH",55,45)
 liste
 
-# Les tableaux de données (tableau où chaque colonne correspond à un attribut différent)
+## Les tableaux de donnÃ©es (tableau oÃ¹ chaque colonne correspond Ã  un attribut diffÃ©rent)
 
 
 tab <- read.table("trees.csv", sep=",", header = TRUE)
@@ -48,10 +48,10 @@ tab2 <- read.table("trees_modif.txt", sep="\t", header = TRUE, row.names = 1)
 tab2
 
 
-# TRUE nom des colonne sur la première ligne sinon FALSE
+TRUE nom des colonne sur la premiÃ¨re ligne sinon FALSE
 
 names(tab)
-ls(tab) #permet d'afficher une liste simple des ojets en mémoire, seuls les noms des objets sont affichés
+ls(tab) #permet d'afficher une liste simple des ojets en mÃ©moire, seuls les noms des objets sont affichÃ©s
 dim(tab) #dimension de la matrice
 summary(tab)
 
@@ -84,11 +84,11 @@ nrow(tab) # nombre de ligne d'un tableau
 mean(Girth)
 median(Girth)
 var(Girth)
-sd(Girth) #écart-type
+sd(Girth) #Ã©cart-type
 
 mean(Girth, na.rm = TRUE) # ne pas tenir compte des valeurs NA pour ce calcul
 
-# Représentation graphique
+## ReprÃ©sentation graphique
 
 plot(Species)
 
@@ -154,6 +154,5 @@ points(1,mean(sans$survivants), pch = 16)
 points(1,mean(herb1$survivants), pch = 16)
 points(1,mean(herb2$survivants, pch = 16)
 points(1, mean(herb3$survivants, pch = 16)
-
 
 
