@@ -598,7 +598,7 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
 * organes situés en dehors du corps de l'embryon, assurant sa protection **annexes embryonnaire** dont l'**amnios**:
 	* Chez les tétrapodes, l'amnios est une cavité qui va entourer l'embryon **cavité amniotique** qui va proteger l'embryon qui recreer un milieu aquatique pour l'embryon.
 
-![Amnios](Images/Fig29)
+![Amnios](Images/Fig29.JPG)
 
 3) Garder sa progéniture
 
@@ -607,7 +607,6 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
 4) Incuber sa progéniture
 
 * région exterieur
-
 	* crapeau accoucheur, les mâles collecte les oeufs qui vont être coller sur la face dorsale du mâle restant tout le long de leur dvp
 
 	* chez les homards, face ventrale de la femelle
@@ -616,23 +615,18 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
 	
     * hippocampe, le mâle à une poche sur son abdomen
     
-    * chez des crapeaux gastroteca, l'incubation des oeufs se fait dans l'oestomac, le mâle va césser de se nourrir ou ils seront chez d'autres crapeaux dans des cavités buccales
+    * chez les crapeaux gastroteca, l'incubation des oeufs se fait dans l'oestomac, le mâle va césser de se nourrir ou ils seront chez d'autres crapeaux dans des cavités buccales
   
 ## B) La nutrition de la progéniture, stade embryonnaire
   
 > De l'oviparité chez les Chondrichtyens
    
 * lécithotrophie
-
 	* Les requins possède un grand sac renmplie de vittelus qui va nourrir l'embryon 
   
 * histotrophie
-   
-   * Chez la raie,l'oeuf est retenu dans les voies g la paroi utérinne va provoquer des tampons qui vont qui viennent au contaénitale de la femellect de l'embryon **trophonemata** qui vont sécréter du lait pour nourrir
-   
-   l'embryon.
- 
-	* Chez le requin taureau, les embryons va manger les autres embryons, la femelle va produire des ovules non féconder qui vont être manger par 
+    * Chez la raie,l'oeuf est retenu dans les voies g la paroi utérinne va provoquer des tampons qui vont qui viennent au contaénitale de la femellect de l'embryon **trophonemata** qui vont sécréter du lait pour nourrir l'embryon.
+ 	* Chez le requin taureau, les embryons va manger les autres embryons, la femelle va produire des ovules non féconder qui vont être manger par l'embryon
     
 > hémotrophie
 
