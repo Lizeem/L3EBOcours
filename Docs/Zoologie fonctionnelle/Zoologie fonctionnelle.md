@@ -485,7 +485,6 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 ** La dépense énergétique est très importante pour ces signaux. De plus, ils peuvent être repérer par des prédateurs**
 
-*voir schéma bilan*
 
 ![Bilan](Images/Fig26.JPG)
 
@@ -508,15 +507,16 @@ Chez la majeur partie des animaux, les ovules sortant de l'ovaire ne sont pas nu
 > Les étapes de la fécondation
 
 * Chez les oursins,  il y aura une réaction de l'**acrosome**, provoquer par la reconnaissance des cellules et va s'accompagner  du **processus acrosomien** pour avoir contact avec la **membrane vitteline**  (membrane primaire). Quand le spermatozoïde se fixe sur la membrane, la membrane vitteline va s'écarter de la membrane plasmique pour empêcher les autres de passer.
-*voir schéma
+
+![Oursins](Images/Fig30.JPG)
 
 * Chez les mammifères, le spermatozoïde va reconnaître l'enveloppe secondaire **enveloppe pélucides**. Des enzymes vont détruire les molécules de reconnaissance pour empêcher les autres spermatooïdes de reconnaïtre l'ovule.
 
-*voir schéma*
+![Mammifères](Images/Fig31.JPG)
 
 On va avoir une première réaction (modification potentielle de la membrane de l'ovule provoqué par les ions sodium). On va passer de -70mV à +20mV. Cela empêche la fixation d'autres spermatozoïdes.L'ovule va reprendre sa méïose et va la terminer. Il va y avoir des modifications à l'interieur de la cellule. Le noyau du spermatozoïde va entrer au contact de l'ovule et va se transfomer **pronucléus**. L'ADN du spermatozoïde va se décondenser et va former une membrane nucléaire. Les deux noyax vont s'approcher et vont fusionner, ensuite on reprend le cycle cellulaire.
 
-*voir schéma*
+![Fusion des deux noyaux](Images/Fig32.JPG)
 
 ## VII) Le choix du partenaire
 
@@ -524,7 +524,7 @@ On va avoir une première réaction (modification potentielle de la membrane de 
 
 > Sur des bases comportementales
 
-* Chez les guppies, la femelle a des couleur ternes et le mâle des couleurs vives. Les femelles s'accouplaient  avec le mâle qui a des couleurs les plus vives et les plus forts. Les mâles étant plus proche du prédateur gagne.
+* Chez les guppys, la femelle a des couleur ternes et le mâle des couleurs vives. Les femelles s'accouplaient  avec le mâle qui a des couleurs les plus vives et les plus forts. Les mâles étant plus proche du prédateur gagne.
 
 ![guppies](Images/Fig27.JPG)
 
@@ -571,7 +571,7 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
 **Progéniture** = descendance
 **Oeuf** = corps organique contenant une cellule oeuf ou un embryon 
 
-** Jeune** = stade de dvp qui ne diffère de l'adulte que par sa taille et son incapacité à se reproduire
+**Jeune** = stade de dvp qui ne diffère de l'adulte que par sa taille et son incapacité à se reproduire
 
 **Larve** stade de vp différent 
 
