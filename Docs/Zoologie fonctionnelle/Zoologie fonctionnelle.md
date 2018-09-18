@@ -580,7 +580,7 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
 
 > Les stratégies consistent à:
 
-1) Déposer les oeufs dans un milieu favorable
+1) **Déposer les oeufs dans un milieu favorable**
 
 * Les amphibiens terrestres pondent leurs oeufs dans la mare où ils sont nés.
 
@@ -588,7 +588,7 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
 
 * Le poisson clown dépose leurs oeufs parmi les tentacules d'une anémone de mer
 
-2) Entourer la progéniture d'une structure protectrice
+2) **Entourer la progéniture d'une structure protectrice**
 
 * oothèques, permet à l'oeuf de se fixer à la végétation
 
@@ -601,11 +601,11 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
 
 ![Amnios](Images/Fig29.JPG)
 
-3) Garder sa progéniture
+3) **Garder sa progéniture**
 
 * comportement de gardénage 
 
-4) Incuber sa progéniture
+4) **Incuber sa progéniture**
 
 * région exterieur
 	* crapeau accoucheur, les mâles collecte les oeufs qui vont être coller sur la face dorsale du mâle restant tout le long de leur dvp
@@ -622,12 +622,12 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
   
 > De l'oviparité chez les Chondrichtyens
    
-* lécithotrophie
+* **lécithotrophie**
 	* Les requins possède un grand sac renmplie de vittelus qui va nourrir l'embryon 
   
-* histotrophie
+* **histotrophie**
     * Chez la raie,l'oeuf est retenu dans les voies g la paroi utérinne va provoquer des tampons qui vont qui viennent au contaénitale de la femellect de l'embryon **trophonemata** qui vont sécréter du lait pour nourrir l'embryon.
  	* Chez le requin taureau, les embryons va manger les autres embryons, la femelle va produire des ovules non féconder qui vont être manger par l'embryon
     
-> hémotrophie
+* **hémotrophie**
 
