@@ -473,8 +473,166 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 > Signaux olfactifs
 
-* Chez les papillons de nuit (hétérocères), la femelle possède une phéromone qui attire les mâles **bombycol**, cette substance qui s'attirer des mâles jusqu'à plusieurs km (0,01 microg pour 4km)
+* Chez les papillons de nuit (hétérocères), la femelle possède une phéromone qui attire les mâles **bombycol**, cette substance qui s'attirer des mâles jusqu'à plusieurs km (0,01 microg pour 4km). Chez le mâle possède des antennes plus larges que chez les femelles, ells ont des ramifications sur les côtés formant deux peignes **bipectinées** (très allongés chez le mâle)Chez les femelles se sont des antennes en massues **rhopalocères**
+ 
+> Signaux visuels
 
-> Signaux lumineux
+* Chez les vers luisants (coléoptères), les femelles, produisent de la lumière pour être repéré par les mâles dû à la **luciférine**.
 
+> Signaux tactiles
+
+* Chez les araignées, les femelles chassent à l'affût sur leur toile, le mâle doit venir sur la toile de la femelle pour la féconder. Le mâle va faire vibrer la toile d'une façon différente.
+
+** La dépense énergétique est très importante pour ces signaux. De plus, ils peuvent être repérer par des prédateurs**
+
+*voir schéma bilan*
+
+![Bilan](Images/Fig26.JPG)
+
+* signaux sonnores : couteux à émettre, peuvent être perçues à grandes distances mais lorsque l'animal détecte un prédateur, le son disparaît intantannément
+
+* signaux olfactifs : portée longue, coût assez faible en énergie mais lorsque l'animal va detecter un prédateur, le signal ne disparaît pas instantannément
+
+* signaux visuels : faible persitance
+
+### E) Les mécanismes cellulaires de la fécondation
+
+> Structure de l'ovule
+
+Chez la majeur partie des animaux, les ovules sortant de l'ovaire ne sont pas nues, ils vont être recouverts, d'un nombre variable de l'enveloppe;
+* L'enveloppe primaire  est une structure produite par l'ovule lui - même
+* Les enveloppes secondaires vont se situer en périphérie et sont produites par les cellules folliculaires
+	* Chez les mammifères, on a une zone pélucide
+* L'enveloppe tertaire va se créer dans les voies génitales femelle
+    
+> Les étapes de la fécondation
+
+* Chez les oursins,  il y aura une réaction de l'**acrosome**, provoquer par la reconnaissance des cellules et va s'accompagner  du **processus acrosomien** pour avoir contact avec la **membrane vitteline**  (membrane primaire). Quand le spermatozoïde se fixe sur la membrane, la membrane vitteline va s'écarter de la membrane plasmique pour empêcher les autres de passer.
+*voir schéma
+
+* Chez les mammifères, le spermatozoïde va reconnaître l'enveloppe secondaire **enveloppe pélucides**. Des enzymes vont détruire les molécules de reconnaissance pour empêcher les autres spermatooïdes de reconnaïtre l'ovule.
+
+*voir schéma*
+
+On va avoir une première réaction (modification potentielle de la membrane de l'ovule provoqué par les ions sodium). On va passer de -70mV à +20mV. Cela empêche la fixation d'autres spermatozoïdes.L'ovule va reprendre sa méïose et va la terminer. Il va y avoir des modifications à l'interieur de la cellule. Le noyau du spermatozoïde va entrer au contact de l'ovule et va se transfomer **pronucléus**. L'ADN du spermatozoïde va se décondenser et va former une membrane nucléaire. Les deux noyax vont s'approcher et vont fusionner, ensuite on reprend le cycle cellulaire.
+
+*voir schéma*
+
+## VII) Le choix du partenaire
+
+### A) Le choix peut-être fait par la femelle
+
+> Sur des bases comportementales
+
+* Chez les guppies, la femelle a des couleur ternes et le mâle des couleurs vives. Les femelles s'accouplaient  avec le mâle qui a des couleurs les plus vives et les plus forts. Les mâles étant plus proche du prédateur gagne.
+
+![guppies](Images/Fig27.JPG)
+
+> Sur des bases morphologiques
+
+* Chez les mouches avec des yeux pédonculées, il y a une **selection sexuelle** au niveau de la longueur des yeux engendrer par le choix effectué par les femelles
+
+Il peut y avoir un developpement disproportionné des caractères **hypertélie**. 
+
+* Chez les pans, le mâle disposent ses rectrices en arc de cercle. Le mâle a donc du mal à monter dans les arbres et donc ils sont plus vulnérable des prédateurs.
+
+* Chez les magaceros giganteus, cerf d'une espèce éteinte, ses bois pouvant atteindre plus de deux mètres de longueur.
+
+> Sur des bases territoriales
+
+* Chez les hippoppotames, les territoires sont défendus par des mâles, kes femelles vont parcourir les territoires et choisir celui qui leur plaît le mieux et vont chercher le mâle dans le fleuve.
+
+* Chez les chevaliers combattant, le territoire servira juste à la reproduction. Les mâles vont se rassembler sur des **leks** petit territoire défendus par les mâles. Le mâle le plus vigoureux va obtenir le territoire au centre. Les femelles vont visiter, majoritairement, c'est le mâle central qui va assurer les accouplements.
+
+> Principe du handicap
+
+* Chez le crapeau, plus le crapeau est grand, plus il émet un son grave car il en sont capable physiquement.
+
+![Choix des femelles](Images/Fig28.JPG)
+
+### B) Le choix peut-être fait par la femelle après l'accouplement
+
+> La compétition spermatique
+
+* Chez les agrillons, la femelle va stocker le sperm dans les **spermatèques**. Quand un ovule va passer devant les spermatèque, il va ejecter quelques spermatozoïdes. Le pénis du mal présente  deux ex- croissances pour pouvoir retirer les spermatozoïdes de la femelle.
+
+* Chez la bruche (coléoptère), le mâle possède un pénis avec un  goupillon premettant de netoyer en profondeur, au bout d'un certain nombre d'accouplement les voies génitale de la femelle ne fonctionne plus.
+
+> Le choix cryptique des femelles
+
+* Avant la fécondation
+	* La poule est capable d'expluser le sperm du mal après l'accouplement.
+
+* Après la fécondation
+	* Chez les humains, 20-25% des fécondations n'ont pas lieux. Les causes sont multiples, comme notamment un problème de compatibilité des deux parents. Quand les  CMH sont proches, on a deux patrimoines génétique qui sont proches aussi, il y aura plus de fausses couches. 
+    
+## VII) Les soins à la progéniture
+
+**Progéniture** = descendance
+**Oeuf** = corps organique contenant une cellule oeuf ou un embryon 
+
+** Jeune** = stade de dvp qui ne diffère de l'adulte que par sa taille et son incapacité à se reproduire
+
+**Larve** stade de vp différent 
+
+### A) La protection de la progéniture augmente ses chances de survie:
+
+> Les stratégies consistent à:
+
+1) Déposer les oeufs dans un milieu favorable
+
+* Les amphibiens terrestres pondent leurs oeufs dans la mare où ils sont nés.
+
+* Ponte entérrée dans le sol ou végétaux
+
+* Le poisson clown dépose leurs oeufs parmi les tentacules d'une anémone de mer
+
+2) Entourer la progéniture d'une structure protectrice
+
+* oothèques, permet à l'oeuf de se fixer à la végétation
+
+* nids
+
+* cocons
+
+* organes situés en dehors du corps de l'embryon, assurant sa protection **annexes embryonnaire** dont l'**amnios**:
+	* Chez les tétrapodes, l'amnios est une cavité qui va entourer l'embryon **cavité amniotique** qui va proteger l'embryon qui recreer un milieu aquatique pour l'embryon.
+
+![Amnios](Images/Fig29)
+
+3) Garder sa progéniture
+
+* comportement de gardénage 
+
+4) Incuber sa progéniture
+
+* région exterieur
+
+	* crapeau accoucheur, les mâles collecte les oeufs qui vont être coller sur la face dorsale du mâle restant tout le long de leur dvp
+
+	* chez les homards, face ventrale de la femelle
+
+* régions plus protectrices
+	
+    * hippocampe, le mâle à une poche sur son abdomen
+    
+    * chez des crapeaux gastroteca, l'incubation des oeufs se fait dans l'oestomac, le mâle va césser de se nourrir ou ils seront chez d'autres crapeaux dans des cavités buccales
+  
+## B) La nutrition de la progéniture, stade embryonnaire
+  
+> De l'oviparité chez les Chondrichtyens
+   
+* lécithotrophie
+
+	* Les requins possède un grand sac renmplie de vittelus qui va nourrir l'embryon 
+  
+* histotrophie
+   
+   * Chez la raie,l'oeuf est retenu dans les voies g la paroi utérinne va provoquer des tampons qui vont qui viennent au contaénitale de la femellect de l'embryon **trophonemata** qui vont sécréter du lait pour nourrir
+   
+   l'embryon.
+ 
+	* Chez le requin taureau, les embryons va manger les autres embryons, la femelle va produire des ovules non féconder qui vont être manger par 
+    
+> hémotrophie
 
