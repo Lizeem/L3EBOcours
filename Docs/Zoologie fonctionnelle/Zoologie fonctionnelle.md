@@ -569,6 +569,7 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
 ## VII) Les soins à la progéniture
 
 **Progéniture** = descendance
+
 **Oeuf** = corps organique contenant une cellule oeuf ou un embryon 
 
 **Jeune** = stade de dvp qui ne diffère de l'adulte que par sa taille et son incapacité à se reproduire
