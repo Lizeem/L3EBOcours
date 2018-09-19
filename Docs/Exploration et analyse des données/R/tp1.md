@@ -1,5 +1,8 @@
 ## Les vecteurs
 
+Un vecteur est un tableau à une dimension, la fonction **c()** permet de le créer. Les données du vecteur doivent être toutes de la même dimension.
+
+La fonction **seq()** permet que créer un vecteur contenant une suite de nombre entier.
 ```R
 ages<- 
 c(28,25,23,24,26,23,21,22,24,29,24,26,31,28,27,24,23,25,27,25,24,21,24,23,25,31,28,27,24,23)
@@ -8,7 +11,7 @@ seq (2,6)
 seq(1,10, by=0.5)
 ```
 
-## Tous les nombres de 1 à 10 de 0,5 en 0,5
+**by = 0.5** signifie de 0,5 en 0,5
 
 ```R
 vecteur1 <- c(2,5)
@@ -18,13 +21,22 @@ vecteur2
 vecteur3 <- c(vecteur1, vecteur2)
 vecteur3
 vecteur1[2]
+```
+La fonction **c()** permet aussi de concaténer des vecteurs
 
+La fonction **[x]** permet d'accéder à un élément du vecteur
+
+```R
 vecteur1[vecteur1 >2]
 length(vecteur1)
 length(vecteur1[vecteur1 >2])
 ```
+La fonction **length()** permet de connaïtre la longueur d'un vecteur/tableau
+
 
 ## Les matrices (tableau à deux dimensions: données du même type)
+
+La matrice possède un nombre de ligne **nr** et un nombre de colonne **nc**
 
 ```R
 matrice <- matrix(c(1.5,2.1,3.2,1.6,1.4,1.5),nr = 3, nc = 2)
@@ -34,6 +46,7 @@ matrice[1,1]
 matrice[1,]
 matrice[2:3,1:2]
 ```
+Elle peut donner une "sous matrice" comme ici correspondant aux éléments de la 2e et 3e ligne, 1ere et 2e colonne
 
 ## Les listes (tableau à une dimension : données de différents types)
 
@@ -41,7 +54,10 @@ matrice[2:3,1:2]
 liste <- list("AH",55,45)
 liste
 ```
-## Les tableaux de données (tableau où chaque colonne correspond à un attribut différent)
+
+## Les tableaux de données 
+
+Chaque colonne donne un attibrut différent et chaque ligne correspond à un individu différent
 
 ```R
 tab <- read.table("trees.csv", sep=",", header = TRUE)
@@ -53,14 +69,21 @@ tab
 tab2 <- read.table("trees_modif.txt", sep="\t", header = TRUE, row.names = 1)
 tab2
 ```
-
-
-TRUE nom des colonne sur la première ligne sinon FALSE
+**header = TRUE** signifie que la première ligne du fichier contient les noms des colonnes 
 
 ```R
 names(tab)
-ls(tab) #permet d'afficher une liste simple des ojets en mémoire, seuls les noms des objets sont affichés
-dim(tab) #dimension de la matrice
+ls(tab) 
+```
+**ls()**permet d'afficher une liste simple des objets en mémoire, seuls les noms des objets sont affichés
+
+```R
+dim(tab)
+```
+**dim()** donne la dimension de la matrice
+
+
+```R
 summary(tab)
 
 tab <- read.table("trees_modif.txt")
@@ -82,19 +105,34 @@ sub
 attach(tab)
 detach(tab)
 attach(tab2)
+```
+**attach()** permet de définir le tableau par défaut
 
+```R
 tab["Girth"]
 
 summary(tab)
-ncol(tab) # nombre de colonne d'un tableau
-nrow(tab) # nombre de ligne d'un tableau
+ncol(tab) 
+```
+**ncol()** donne le nombre de colonne d'un tableau
+
+```R
+nrow(tab) 
+```
+**nrow()** donne le nombre de ligne du tableau
+
+```R
 mean(Girth)
 median(Girth)
 var(Girth)
-sd(Girth) #écart-type
-
-mean(Girth, na.rm = TRUE) # ne pas tenir compte des valeurs NA pour ce calcul
+sd(Girth) 
 ```
+**sd()** donne l'écart-type
+
+```R
+mean(Girth, na.rm = TRUE)
+```
+**na.rm = TRUE** signifie qu'il ne faut pas tenir compte des valeurs NA pour ce calcul
 
 ## Représentation graphique
 
@@ -112,8 +150,12 @@ boxplot(Girth)
 boxplot(Girth~Species)
 
 par(mfrow=c(1,))
-par(mfrow=c(1,))
+par(mfrow=c(1,2))
+```
 
+**mfrow** permet d'affiche plusieurs graphes
+
+```R
 boxplot(Girth, Height, Volume)
 box<-c("Girth","Height","Volume")
 boxplot(Girth,Height,Volume,names=box)
