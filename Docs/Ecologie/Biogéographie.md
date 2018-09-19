@@ -151,7 +151,7 @@ Le nombre de taxons endémique va nous permettre determiner les territoires.
 
 ### E) Variation biogéographiques de la biodiversité
 
-#### A) Le Cline de diversité
+#### 1) Le Cline de diversité
 
 On a plus d'espèce dans les basses latitudes que vers les pôles. 
 
@@ -162,7 +162,7 @@ On a plus d'espèce dans les basses latitudes que vers les pôles.
 * **taux de spéciation plus important et un taux d'extinction plus faible** dû à la grandeur du territoire et découle du temps de spéciation plus important
 
 
-#### B) Gradient altitudinaux
+#### 2) Gradient altitudinaux
 
 La biodiversité a tendance à **diminuer avec l'altitude** car moins de productivité. Même chose pour les profondeurs.
 
