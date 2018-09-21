@@ -79,7 +79,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="../../../#ii-manipuler-les-data-frames" tabindex="1" class="md-skip">
+      <a href="../../../#i-explorer-les-donnees-dune-variable" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -412,6 +412,13 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#i-explorer-les-donnees-dune-variable" title="I) Explorer les données d'une variable" class="md-nav__link">
+    I) Explorer les données d'une variable
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#ii-manipuler-les-data-frames" title="II) Manipuler les data frames" class="md-nav__link">
     II) Manipuler les data frames
   </a>
@@ -419,8 +426,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#les-lois-de-probabilite" title="Les lois de probabilité" class="md-nav__link">
-    Les lois de probabilité
+  <a href="#iii-les-lois-de-probabilite" title="III) Les lois de probabilité" class="md-nav__link">
+    III) Les lois de probabilité
   </a>
   
     <nav class="md-nav">
@@ -439,8 +446,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#les-donnees-de-taille" title="Les données de taille" class="md-nav__link">
-    Les données de taille
+  <a href="#iv-les-donnees-de-taille" title="IV) Les données de taille" class="md-nav__link">
+    IV) Les données de taille
   </a>
   
 </li>
@@ -629,6 +636,13 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#i-explorer-les-donnees-dune-variable" title="I) Explorer les données d'une variable" class="md-nav__link">
+    I) Explorer les données d'une variable
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#ii-manipuler-les-data-frames" title="II) Manipuler les data frames" class="md-nav__link">
     II) Manipuler les data frames
   </a>
@@ -636,8 +650,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#les-lois-de-probabilite" title="Les lois de probabilité" class="md-nav__link">
-    Les lois de probabilité
+  <a href="#iii-les-lois-de-probabilite" title="III) Les lois de probabilité" class="md-nav__link">
+    III) Les lois de probabilité
   </a>
   
     <nav class="md-nav">
@@ -656,8 +670,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#les-donnees-de-taille" title="Les données de taille" class="md-nav__link">
-    Les données de taille
+  <a href="#iv-les-donnees-de-taille" title="IV) Les données de taille" class="md-nav__link">
+    IV) Les données de taille
   </a>
   
 </li>
@@ -681,7 +695,7 @@
                 
                   <h1>Tp2</h1>
                 
-                <p>-## I) Explorer les données d'une variable</p>
+                <h2 id="i-explorer-les-donnees-dune-variable">I) Explorer les données d'une variable</h2>
 <pre><code class="R">tab1 &lt;- read.table(&quot;trees.txt&quot;, sep= &quot;\t&quot;, header = TRUE)
 tab1
 </code></pre>
@@ -775,7 +789,7 @@ tab2[67,] &lt;- Q
 tab2
 </code></pre>
 
-<h2 id="les-lois-de-probabilite">Les lois de probabilité</h2>
+<h2 id="iii-les-lois-de-probabilite">III) Les lois de probabilité</h2>
 <pre><code class="R">s1=rnorm(10,mean=2)
 summary(s1)
 s2=rnorm(100,mean=2)
@@ -838,7 +852,7 @@ hist(x,freq=F)
 curve(dnorm(x),add=T)
 </code></pre>
 
-<h2 id="les-donnees-de-taille">Les données de taille</h2>
+<h2 id="iv-les-donnees-de-taille">IV) Les données de taille</h2>
 <pre><code class="R">tab3 &lt;- read.table(&quot;HF.txt&quot;, sep= &quot;\t&quot;, header = TRUE)
 tab3
 
