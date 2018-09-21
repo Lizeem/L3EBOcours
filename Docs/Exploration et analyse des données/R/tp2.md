@@ -1,4 +1,4 @@
-## I) Explorer les données d'une variable
+-## I) Explorer les données d'une variable
 
 ```R
 tab1 <- read.table("trees.txt", sep= "\t", header = TRUE)

@@ -153,7 +153,7 @@ par(mfrow=c(1,))
 par(mfrow=c(1,2))
 ```
 
-**mfrow** permet d'affiche plusieurs graphes
+**mfrow()** permet d'affiche plusieurs graphes
 
 ```R
 boxplot(Girth, Height, Volume)
