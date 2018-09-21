@@ -1,4 +1,4 @@
--## I) Explorer les données d'une variable
+## I) Explorer les données d'une variable
 
 ```R
 tab1 <- read.table("trees.txt", sep= "\t", header = TRUE)
@@ -114,7 +114,7 @@ tab2[67,] <- Q
 tab2
 ```
 
-## Les lois de probabilité
+## III) Les lois de probabilité
 
 ```R
 s1=rnorm(10,mean=2)
@@ -184,7 +184,7 @@ hist(x,freq=F)
 curve(dnorm(x),add=T)
 ```
 
-## Les données de taille
+## IV) Les données de taille
 
 ```R
 tab3 <- read.table("HF.txt", sep= "\t", header = TRUE)
