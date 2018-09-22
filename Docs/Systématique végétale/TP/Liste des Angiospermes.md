@@ -1,16 +1,16 @@
 ### LAMIACEAE, *Lamium purpureum*
 
-![Lamium](Images/Lamium.jpg)
+![Lamium](Images/Lamium.JPG)
 
 ### ASTERACEAE, *Centaurea jacea*
 
-![Centaurea](Images/Centaurea.jpg)
+![Centaurea](Images/Centaurea.JPG)
 
 ### FABACEAE, *Melilotus alba*
 
-![Melilotus](Images/Melilotus.jpg)
+![Melilotus](Images/Melilotus.JPG)
 
 ### LAMIACEAE, *Prunella vulgaris*
 
-![Prunella](Images/Prunella.jpg)
+![Prunella](Images/Prunella.JPG)
 
