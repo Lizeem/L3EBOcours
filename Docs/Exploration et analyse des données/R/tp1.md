@@ -138,17 +138,47 @@ mean(Girth, na.rm = TRUE)
 
 ```R
 plot(Species)
+```
+![Species](Images/plotSpecies.JPG)
+
+```R
 plot(Volume~Height)
+```
+
+![Volume par Height](Images/plotVolume~Height.JPG)
+
+```R
 plot(Girth~Species)
+```
+![Girth par Species](Images/plotGirth~Species.JPG)
+
+```R
 plot(x=Species, y=Volume, main= "Volume des arbres en fonction de leur hauteur", xlab = "Hauteur", ylab ="Volume")
+```
 
+![Volume par Hauteur](Images/Volumehauteur.JPG)
 
+```R
 hist(Girth)
+```
+![Girth](Images/HistogrammeGirth.JPG)
+
+```R
 hist(Girth,freq=F)
+```
+![Girth](Images/Histo.JPG)
 
+```R
 boxplot(Girth)
-boxplot(Girth~Species)
+```
+![Girth](Images/boxplot.JPG)
 
+```R
+boxplot(Girth~Species)
+```
+![Species](Images/boxplotspecies.JPG)
+
+```R
 par(mfrow=c(1,))
 par(mfrow=c(1,2))
 ```
@@ -160,6 +190,8 @@ boxplot(Girth, Height, Volume)
 box<-c("Girth","Height","Volume")
 boxplot(Girth,Height,Volume,names=box)
 ```
+![boxplot](Images/boxplotghv.JPG)
+
 
 ## Exercice
 
@@ -201,3 +233,4 @@ points(3,mean(herb2$survivants, pch = 16)
 points(4,mean(herb3$survivants, pch = 16)
 ```
 
+![Girth](Images/exercice.JPG)
