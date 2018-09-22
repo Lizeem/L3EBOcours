@@ -32,7 +32,7 @@
 
 ### ASTERACEAE, *Chrysanthemum leucanthemum*, **Marguerite commune**
 
-![Crysanthemum](Images/Chrysanthemum.jpg)
+![Crysanthemum](Images/Chrysanthemum.jpeg)
 
 ### FABACEAE, *Trifolium pratense*, **Trèfle des prés**
 
@@ -40,7 +40,7 @@
 
 ### PLANTAGINACEAE, *Plantago coronopus*, **Plantain corne de cerf**
 
-![Plantago](Images/Plantago.jpg)
+![Plantago](Images/Plantago.jpeg)
 
 ### CORNACEAE, *Cornus sanguinea*, **Cornouiller sanguin**
 
@@ -48,7 +48,7 @@
 
 ### BRASSICACEAE, *Sinapis arvensis*, **Moutarde des champs**
 
-![Sinapis](Images/Sinapis.jpg)
+![Sinapis](Images/Sinapis.JPG)
 
 ### HYPERICACEAE, *Hypericum androsaemum*, **Millepertuis androsème**
 
