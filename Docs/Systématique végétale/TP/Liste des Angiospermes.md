@@ -1,75 +1,75 @@
 ### LAMIACEAE, *Lamium purpureum*
 
-![Lamium](Images/Lamium.jpg)
+![Lamium](TP/Images/Lamium.jpg)
 
 ### ASTERACEAE, *Centaurea jacea*
 
-![Centaurea](Images/Centaurea.jpg)
+![Centaurea](TP/Images/Centaurea.jpg)
 
 ### FABACEAE, *Melilotus alba*
 
-![Melilotus](Images/Melilotus.jpg)
+![Melilotus](TP/Images/Melilotus.jpg)
 
 ### LAMIACEAE, *Prunella vulgaris*
 
-![Prunella](Images/Prunella.jpg)
+![Prunella](TP/Images/Prunella.jpg)
 
 ### PAPAVERACEAE, *Chelidonium majus*
 
-![Chelidonium](Images/Chelidonium.jpg)
+![Chelidonium](TP/Images/Chelidonium.jpg)
 
 ### APIACEAE, *Daucus carota*
 
-![Daucus](Images/Daucus.jpg)
+![Daucus](TP/Images/Daucus.jpg)
 
 ### RANUNCULACEAE, *Ranunculus Acris*
 
-![Ranunculus](Images/Ranunculus.jpg)
+![Ranunculus](TP/Images/Ranunculus.jpg)
 
 ### POLYGONACEAE, *Polygonum aviculare*
 
-![Polygonum](Images/Polygonum.jpg)
+![Polygonum](TP/Images/Polygonum.jpg)
 
 ### ASTERACEAE, *Chrysanthemum leucanthemum*
 
-![Crysanthemum](Images/Chrysanthemum.jpg)
+![Crysanthemum](TP/Images/Chrysanthemum.jpg)
 
 ### FABACEAE, *Trifolium pratense*
 
-![Trifolium](Images/Trifolium.jpg)
+![Trifolium](TP/Images/Trifolium.jpg)
 
 ### PLANTAGINACEAE, *Plantago coronopus*
 
-![Plantago](Images/Plantago.jpg)
+![Plantago](TP/Images/Plantago.jpg)
 
 ### CORNACEAE, *Cornus sanguinea*
 
-![Cornus](Images/Cornus.jpg)
+![Cornus](TP/Images/Cornus.jpg)
 
 ### BRASSICACEAE, *Sinapis arvensis*
 
-![Sinapis](Images/Sinapis.jpg)
+![Sinapis](TP/Images/Sinapis.jpg)
 
 ### HYPERICACEAE, *Hypericum androsaemum*
 
-![Hypericum](Images/Hypericum.jpg)
+![Hypericum](TP/Images/Hypericum.jpg)
 
 ### BRASSICACEAE, *Capsella bursa-pastoris*
 
-![Capsella](Images/Capsella.jpg)
+![Capsella](TP/Images/Capsella.jpg)
 
 ### ASTERACEAE, *Achillea millefolium*
 
-![Achillea](Images/Achillea.jpg)
+![Achillea](TP/Images/Achillea.jpg)
 
 ### POACEAE, *Echinochloa crus-galli*
 
-![Echinochloa](Images/Echinochloa.jpg)
+![Echinochloa](TP/Images/Echinochloa.jpg)
 
 ### FABACEAE, *lotus corniculatus*
 
-![Lotus](Images/Lotus.jpg)
+![Lotus](TP/Images/Lotus.jpg)
 
 ### SCROPHULARIACEAE, *Chaenorhinum minus*
 
-![Chaenorrhinum](Images/Chaenorrhinum.jpg)
+![Chaenorrhinum](TP/Images/Chaenorrhinum.jpg)
