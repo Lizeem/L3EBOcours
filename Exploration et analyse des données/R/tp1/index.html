@@ -847,18 +847,38 @@ sd(Girth)
 <p><strong>na.rm = TRUE</strong> signifie qu'il ne faut pas tenir compte des valeurs NA pour ce calcul</p>
 <h2 id="representation-graphique">Représentation graphique</h2>
 <pre><code class="R">plot(Species)
-plot(Volume~Height)
-plot(Girth~Species)
-plot(x=Species, y=Volume, main= &quot;Volume des arbres en fonction de leur hauteur&quot;, xlab = &quot;Hauteur&quot;, ylab =&quot;Volume&quot;)
+</code></pre>
 
+<p><img alt="Species" src="../Images/plotSpecies.JPG" /></p>
+<pre><code class="R">plot(Volume~Height)
+</code></pre>
 
-hist(Girth)
-hist(Girth,freq=F)
+<p><img alt="Volume par Height" src="../Images/plotVolume~Height.JPG" /></p>
+<pre><code class="R">plot(Girth~Species)
+</code></pre>
 
-boxplot(Girth)
-boxplot(Girth~Species)
+<p><img alt="Girth par Species" src="../Images/plotGirth~Species.JPG" /></p>
+<pre><code class="R">plot(x=Species, y=Volume, main= &quot;Volume des arbres en fonction de leur hauteur&quot;, xlab = &quot;Hauteur&quot;, ylab =&quot;Volume&quot;)
+</code></pre>
 
-par(mfrow=c(1,))
+<p><img alt="Volume par Hauteur" src="../Images/Volumehauteur.JPG" /></p>
+<pre><code class="R">hist(Girth)
+</code></pre>
+
+<p><img alt="Girth" src="../Images/HistogrammeGirth.JPG" /></p>
+<pre><code class="R">hist(Girth,freq=F)
+</code></pre>
+
+<p><img alt="Girth" src="../Images/Histo.JPG" /></p>
+<pre><code class="R">boxplot(Girth)
+</code></pre>
+
+<p><img alt="Girth" src="../Images/boxplot.JPG" /></p>
+<pre><code class="R">boxplot(Girth~Species)
+</code></pre>
+
+<p><img alt="Species" src="../Images/boxplotspecies.JPG" /></p>
+<pre><code class="R">par(mfrow=c(1,))
 par(mfrow=c(1,2))
 </code></pre>
 
@@ -868,6 +888,7 @@ box&lt;-c(&quot;Girth&quot;,&quot;Height&quot;,&quot;Volume&quot;)
 boxplot(Girth,Height,Volume,names=box)
 </code></pre>
 
+<p><img alt="boxplot" src="../Images/boxplotghv.JPG" /></p>
 <h2 id="exercice">Exercice</h2>
 <pre><code class="R">tab &lt;- read.table(&quot;herbicide.csv&quot;, sep=',', header = TRUE)
 tab
@@ -904,6 +925,8 @@ points(2,mean(herb1$survivants), pch = 16)
 points(3,mean(herb2$survivants, pch = 16)
 points(4,mean(herb3$survivants, pch = 16)
 </code></pre>
+
+<p><img alt="Girth" src="../Images/exercice.JPG" /></p>
                 
                   
                 
