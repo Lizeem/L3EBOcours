@@ -10,13 +10,16 @@ Elle permet de mettre en évidence les **causes susceptibles d'expliquer cette r
 
 ## II) Causes des distributions actuelles
 
-Tous les organismes **ne sont pas répartis uniformément à la surface du globe**. Les caractéristiques de l'aire de répartition ou de distribution d'une espèce sont **dépendantes de l'influence**, tant passé que présente, de **facteurs propres** aux organismes et/ou de **facteurs externes** aux organismes. 
+Tous les organismes **ne sont pas répartis uniformément à la surface du globe**. Les caractéristiques de l'aire de répartition ou de distribution d'une espèce sont **dépendantes de l'influence**, tant passée que présente, de **facteurs propres** aux organismes et/ou de **facteurs externes** aux organismes. 
 
 ### A) Les facteurs internes 
 
 Lorsqu'un nouveau taxon se différencie à la surface du globe (dû à une spéciation, **sympatrique** ou **allopatrique**), l'expension de son aire de répartition va dépendre en premier lieu de ses **potentiellités intrasèques**
+
 * **les capacité de propagation**
+
 * **l'amplitude écologique**
+
 * **les aptitudes évolutives**
 
 Elles sont liées au patrimoine génétique du taxon.
@@ -28,7 +31,9 @@ Il n'y a pas relation de précise entre entre les potentiellités reproductrices
 Le nombre de descendant produit n'est pas le nombre de taxons qui se reproduira (pas de liaison à la potentiellité reproductrice de la génération suivante).
 
 La **dissémination** représente la faculté qu'on les organismes eux mêmes ou une partie de ces organismes de se déplacer ou d'être dispersé. Elle s'effectue par des processus divers:
+
 * **dissémination active** (par ses propres moyens se déplace *ex stolon des fraisiers*)
+
 * **dissémination passive** : action d'un facteur externe qui va entraîner au loin les individus, différents types (**anémogories, hydrogorie, zoochorie, barochorie, anthropochorie**)
 
 #### 2) Amplitude écologique du taxon
@@ -71,9 +76,13 @@ Une espèce est **_r_** si on la compare à une autre espèce (cas extrême mamm
 ### B) Les facteurs externes
 
 Le developpement de l'aire de répartition de chaque taxon se trouve tôt ou tard limité par l'**intervention d'un facteur environnemental défavorable**. C'est en partie pourquoi la très grande majorité des taxons présente des **aires de distribution réelles inferieur à leur aire potentielle** avec de grandes catégories de facteurs externes:
+
 * **géographiques**
+
 * **géologiques**
+
 * **biotique** (compétiteur et intervention humaine)
+
 * **climatiques**
 
 > La techtonique des plaques
@@ -97,12 +106,17 @@ Aujourd'hui nous sommes dans la 6e liée à l'Homme.
 Calcul du taux d'extinction sur 100/5M = 0,02%*
 
 Aires de répartitions des:
+
 * **espèces spécialistes se contractent**
+
 * **espèces généralistes s'étendent** (*ex bambou*)
 
 Nombreux scénarios:
+
 * **migration**
+
 * **expansion**
+
 * **contraction**
 
 ## III) Répartition des aires de distribution
@@ -112,8 +126,11 @@ Il existe une très grande diversité d'aires de distribution mais on peut les c
 ### A) Aires cosmopolites
 
 Ce sont des aires qui **recouvrent l'ensemble de la surface du globe**, ce sont des taxons représentés soit sur la surface majorité émmergée soit sur la surface majorité immergée. Il y en existe que peu d'espèces
+
 * genre festuca sp
+
 * rotifères
+
 * potannogeton notanus
 
 Les espèces se rapprochant d'une aire cosmopolite se rapprochent à l'Homme (rat, mouche)
@@ -121,7 +138,9 @@ Les espèces se rapprochant d'une aire cosmopolite se rapprochent à l'Homme (ra
 ### B) Aires circumterrestres
 
 Aires s'étendant **autour du globe par des latitudes données**
+
 * aire circum boréale (Manchot)
+
 * aire circum - tempérée (Groseiller)
 
 *ex palmacées: présente sur une surface de terre émergé entre les tropiques*
@@ -129,11 +148,15 @@ Aires s'étendant **autour du globe par des latitudes données**
 ### C) Aires disjontes 
 
 Hypothèse quant à la mise en place d'aire disjointes : chaque espèce **apparaît sur le globe en un seul point puis s'étend**
+
 * morcellement d'une aire initialement continue, **régression de l'espèce**
+
 * migration par étape sur de longues distances, à partir d'une aire d'origine continue, **extension de l'espèce**
 
 *ex aires disjointes de la famille des Camélidés*
+
 * *genre Lama en Amérique du Sud*
+
 * *genre Camelus en Afrique et en Asie*
 
 *ex aires disjointes des genres vicariants Fagus et Nothofagus, ils ont le même rôle fonctionnel mais dans des lieux différents*
@@ -145,8 +168,11 @@ Peut être dans un continent donné (*Cactacées*)
 Le nombre de taxons endémique va nous permettre determiner les territoires.
 
 * **Empires** = endémisme d'ordre ou de famille
+
 * **Régions** = endémime des famille ou genre
+
 * **Domaines** = endémisme de genre
+
 * **Secteurs** = endémisme d'espèce
 
 ### E) Variation biogéographiques de la biodiversité
