@@ -62,6 +62,7 @@ par(mfrow=c(2,2))
 hist(res,prob=T)
 hist(res,freq=F)
 ```
+![Histogramme de res](Images/1.JPG)
 
 ## II) Manipuler les data frames
 
@@ -79,6 +80,8 @@ par(mfrow=c(2,2))
 hist(res,prob=T)
 hist(res,freq=F)
 ```
+![Histogramme de res sans la ligne 13](Images/2.JPG)
+
 On utilise maintenant un second tableau
 
 ```R
@@ -129,6 +132,11 @@ par(mfrow=c(3,3))
 hist(s1,prob=T)
 hist(s2,prob=T)
 hist(s3,prob=T)
+```
+
+![Histogramme de S1,S2,S3](Images/3.JPG)
+
+```R
 plot(density(s1))
 x= seq(-5,5,by=.01)
 lines(x,dnorm(x,mean=2),col=2) 
@@ -136,10 +144,10 @@ plot(density(s2))
 lines(x,dnorm(x,mean=2),col=2)
 plot(density(s3))
 lines(x,dnorm(x,mean=2),col=2)
-
 pnorm(1.96)
 qnorm(0.975)
 ```
+![Courbes de densité](Images/4.JPG)
 
 ### Loi binomiale
 
@@ -160,10 +168,16 @@ var(x)
 n=length(x)
 n
 ```
+![Histogramme de x](Images/5.JPG)
+
 Courbe faisant la somme cumulée des valeurs en ordre croissant
 
 ```R
 plot(sort(x),(1:n)/n,type="s")
+```
+![Courbe avec somme cumulées](Images/6.JPG)
+
+```R
 hist(x,prob=T,col=grey(0.4))
 ```
 
@@ -172,17 +186,25 @@ hist(x,prob=T,col=grey(0.4))
 ```R
 curve(dnorm(x,mu,s2),add=T)  
 qqnorm(x);qqline(x)
+```
+![Histogramme de x avec courbe](Images/7.JPG)
+
+```R
 plot(qpois(ppoints(x),mu),sort(x))
 plot(qbinom(ppoints(x),n,p),sort(x))
 
 n=50;p=0.03;mu=n*p;s2=n*p*(1-p);
 x=rbinom(100,n,p)
 plot(qpois(ppoints(x),mu),sort(x))
+```
+![Nuage de points](Images/8.JPG)
 
+```R
 x=rnorm(100)
 hist(x,freq=F)
 curve(dnorm(x),add=T)
 ```
+![Histogramme de r pour rnorm=100 avec courbe](Images/9.JPG)
 
 ## IV) Les données de taille
 
