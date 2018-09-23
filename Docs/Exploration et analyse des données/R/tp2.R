@@ -148,6 +148,9 @@ hist(x,prob=T,col=grey(0.4))
 
 curve(dnorm(x,mu,s2),add=T)  
 qqnorm(x);qqline(x)
+
+par(mfrow= c(3,3))
+
 plot(qpois(ppoints(x),mu),sort(x))
 plot(qbinom(ppoints(x),n,p),sort(x))
 
