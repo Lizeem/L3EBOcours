@@ -31,7 +31,9 @@ Lorsque les gamètes sont identiques, il y a **isogamie**. En général, il y a 
 On pense qu'au cours de l'évolution, les espèces avaient des gamètes semblables (**isogamie**), l'apparence de la **anisogamie** est dû à une sélection disruptive (deux formes séparées -> gamète volumineux et petit gamète qui se déplace vite).
 
 Les gamètes auront de plus de plus de chance à se rencontrer:
+
 * ils vont de plus en plus vite en parcourant de longues distances 
+
 * augmentation du volume 
 
 Cela va permettre d'augmenter les chances de rencontre entre les deux gamètes de morphologie différentes.
@@ -48,7 +50,9 @@ Pour désigner un organisme capable de se déplacer par lui même et un **motili
 Les gamètes peuvent être produits dans des gonades.
 
 Chez les vertébrés **les gonades** se forme à partir du **mésoderme**, au niveau de la cavité abdominale à partir de la **paroi coelomnique** (cavité dans le mésoderme) qui va former un petit bourgeon. Le bourgeon possède deux parties
+
 * **le cortex** partie externe
+
 * **la médula** partie interne
 
 Les gonades sont des cellules **somatiques** (incapable de former des gamètes)
@@ -63,7 +67,7 @@ Les voies génitales vont permettre aux gamètes de sortir.
 
 * Chez la souris mâle, l'organisation est différente, chez les mammifères le canal évacuant l'urine et le sperm est le **speriducte** lié au dvp embryonnaire. On forme d'abord un premier rein le **promephros**, ensuite le mésonephros qui va aussi disparaître pour former le **métanephros**, le canal de Wolff ne sert qu'à évacuer le sperm.
 
-* Chez l'appareil génital femelle de la grenouille, la gonade est un ovaire, qui est reliée à un canal qui est complètement indépendant du canal de Wolff, qui est un **oviducte**. Le rein,  lui a un canal de Wolff pour expulser l'urine*
+* Chez l'appareil génital femelle de la grenouille, la gonade est un ovaire, qui est reliée à un canal qui est complètement indépendant du canal de Wolff, qui est un **oviducte**. Le rein,  lui a un canal de Wolff pour expulser l'urine
 
 * Chez la souris femelle, l'ovaire est relié à un **oviducte**, on ne retrouve pas le canal de Wolff, le **canal de Miller** est fait pour évacuer les ovules.*
 
@@ -107,7 +111,7 @@ En 1990 on arrive à avoir le gène impliqué qui est le **gène SRY**. Ce gène
 En effet, le gène AMH va être exprimé seulement chez le mâle et le gène SOX9 n'est pas exprimé au même moment chez le mâle et chez la femelle. 
 On a pu determiner la cascade d'expression des gènes. 
 
-Pendant le dvp de la gonade, on a dans un premier temps l'expression de différents gènes qui vont servir à former l'ébauche de la gonade. Une fois que cette ébauche et assez avancée, si on a présence de Y dans les cellules, on a le gène SRY qui va servir à l'expression d'autres gènes. Le gène SF1 qui va permettre de contrôler le dvp d'autres structures et produire l'hormone anti mullerienne Cela va permettre le dvp des cellules de Leydig qui va permettre le dvp de la testostérone et permettre aussi la différentiation des organes génitaux, chez le mâle. En absence du gène SRY, on va dvp des voies génitales femelle.
+Pendant le dvp de la gonade, on a dans un premier temps l'expression de différents gènes qui vont servir à former l'ébauche de la gonade. Une fois que cette ébauche et assez avancée, si on a présence de Y dans les cellules, on a le gène SRY qui va servir à l'expression d'autres gènes. Le gène SF1 qui va permettre de contrôler le dvp d'autres structures et produire l'hormone anti mullerienne. Cela va permettre le dvp des cellules de Leydig qui va permettre le dvp de la testostérone et permettre aussi la différentiation des organes génitaux, chez le mâle. En absence du gène SRY, on va dvp des voies génitales femelle.
 
 ![Zoologie](Images/Fig5.JPG)
 
@@ -119,7 +123,7 @@ Chez les mammifères, la dertermination du sexe est dûe à un gène SRY présen
 
 > A l'echelle du gène des insectes
 
-Chez la drosophile, on a prit des insectes présentant des caractères femelle et mâle (gydengromorphe)
+Chez la drosophile, on a prit des insectes présentant des caractères femelle et mâle (gynandromorphe)
 
 ![Zoologie](Images/Fig7.JPG)
 
@@ -139,7 +143,7 @@ Protéines transformeurs vont agir sur le taux de transcription appellé double 
  
 ## D) Le contrôle environnemental de la détermination du sexe
 
-> Par des substances mascllinisantes ou féminisantes
+> Par des substances masculinisantes ou féminisantes
 
 Les facteurs environnementaux qui agissent sur le sexe sont très très variables:
 
@@ -147,9 +151,10 @@ Les facteurs environnementaux qui agissent sur le sexe sont très très variable
 
 	* Chez les Boweilla virulis, animal dont la particularité est que la femelle est volumineuse et possède une trompe pouvant s'allonger jusqu'à un mètre de longueur. Le mâle est bcp plus petit, c'est un organisme allant de 1 à 3 mm qui vit en parasite sur la femelle; ces larves ne sont pas seules, au moment de la métamorphose, la larve va quitter son mode de vie et va migrer vers le fond. Si elle tombe sur un rocher, la larve va former une femelle, par contre si elle tombe sur un endroit ou il y a déjà une femelle, elle deviendra un mâle.
 
-	* Chez les gastéropes étant des espèces invasives sur nos côtes, ils vivent en colonie, 6 peut être fixés les uns au dessus des autres. L'individu qui se trouve en dessous est une femelle, l'individu qui se trouve au dessus est un mâle et entre les deux ils sont à la fois mâle et femelle. Cette répartition favorise la reproduction ,ils se reproduisent rapidement. Chaque individu va féconder celui qui est en dessous. La determination du sexe est donc dû à la répartition dans la colonie. Ils ont deux types de substances:*
+	* Chez les gastéropes étant des espèces invasives sur nos côtes, ils vivent en colonie, 6 peut être fixés les uns au dessus des autres. L'individu qui se trouve en dessous est une femelle, l'individu qui se trouve au dessus est un mâle et entre les deux ils sont à la fois mâle et femelle. Cette répartition favorise la reproduction ,ils se reproduisent rapidement. Chaque individu va féconder celui qui est en dessous. La determination du sexe est donc dû à la répartition dans la colonie. Ils ont deux types de substances:
 
 * substances féminisante libéré par chaque individu vers le bas pour que ceux ci dvp le sexe femelle
+
 *  substance masculinisante libéré vers le haut de la colonie, les larves au centre possèdent les deux sexes. Il ne change pas naturellement de colonie
 
 ![Zoologie](Images/Fig9.JPG)
@@ -158,23 +163,23 @@ Les facteurs environnementaux qui agissent sur le sexe sont très très variable
 
 Chez bcp de vertébrés notamment les reptiles, c'est la température d'incubation des oeufs qui va determiner le sexe de la progéniture.
 
-* Chez les tortues, pour les plus faibles température, l'individu sera un mâle, arriver à la température de transition, on obtiendra les deux sexes, puis des femelle. On peut avoir le cas de figure inverse suivant les espèces. Il n'y a cependant qu'une seule température de transition.*
+* Chez les tortues, pour les plus faibles température, l'individu sera un mâle, arriver à la température de transition, on obtiendra les deux sexes, puis des femelle. On peut avoir le cas de figure inverse suivant les espèces. Il n'y a cependant qu'une seule température de transition.
 
-* Chez certaines crocodiles, on peut avoir deux températures de transition.
+* Chez certains crocodiles, on peut avoir deux températures de transition.
 
-* Chez les alligator, il faut 5 femelles pour 1 mâle, les nids sont construits dans les zones humides entre 29 et 30 °C ne produisent que des mâles. Dans les zones sèches (34-35 °C) ce ne seront que des femelles.*
+* Chez les alligators, il faut 5 femelles pour 1 mâle, les nids sont construits dans les zones humides entre 29 et 30 °C ne produisant que des mâles. Dans les zones sèches (34-35 °C) ce ne seront que des femelles.
 
-Une enzyme (aromatase) capable de transformer l'andogène en omogène. Ches les reptiles, son activité dépend de la température d'incubation.
+Une enzyme (**aromatase**) capable de transformer l'andogène en omogène. Chez les reptiles, son activité dépend de la température d'incubation.
 
 ### E) L'hermaphrodisme
 
-Il existe bcp d'animaux qui sont hermaphrodites. L'hermaphrodisme est très peu simultanné. Ils se modifient au fur et à mesure du temps, les individus sont d'abord mâle et ensuite femelle, c'est de l'hermaphrodisme **protandre**, Si c'est simultané c'est de l'hermaphrodisme **protogyne**.
+Il existe bcp d'animaux qui sont hermaphrodites. L'hermaphrodisme est très peu simultanné. Ils se modifient au fur et à mesure du temps, les individus sont d'abord mâle et ensuite femelle, c'est de l'hermaphrodisme **protandre**, si c'est simultanée c'est de l'hermaphrodisme **protogyne**.
 
 ##  II) Les organes assurant la formation des gamètes
 
 ### A) Des régions indiff
 
-*Annélides polychètes, animaux marins, en général, les gamètes se forment au niveau de **la paroi coelome** (cavité se trouvant dans le **mésoderme**) des gamètes vont passer dans la cavité coelomique, chez certaines espèces, l'évacuation des gamète se fait par la cavité excrétrice, d'autres ont une cavité permettent de les libérer, parfois les gamètes explosent.*
+*Annélides polychètes, animaux marins, en général, les gamètes se forment au niveau de **la paroi coelome** (cavité se trouvant dans le **mésoderme**) des gamètes vont passer dans la cavité coelomique, chez certaines espèces. l'évacuation des gamètes se fait par la cavité excrétrice, d'autres ont une cavité permettant de les libérer, parfois les gamètes explosent.*
 
 Chez les éponges, on a une structure appellé la **mésoglé**, au moment de la reproduction, des cellules vont se spécialiser pour former des gamètes et vont s'entourer d'une petite membrane, ce qui va former des petits sacs dans la mésoglé. Chez les métazoaire, ils ont des gonades.
 
@@ -185,18 +190,16 @@ Chez les éponges, on a une structure appellé la **mésoglé**, au moment de la
 > Les gonades mâles 
 
 Deux grands types de testicules
-* le **testicule cystique** (poissons et amphibiens), sac formé par des cellules aplatie, au sein de ce sac sphérique va être retrouvé des cellules germinales entrain de se diff. Dans la périphérie du testicule on a des spermatogonies qui vont s'entourer d'une couche de cellule appellé **folliculaire**, ce sont des **cellules somatiques**. Cette spermatogonie va se diviser pour former plusieurs spermatogonies mais dans un même follicule toutes les spermatogonie vont être ensemble, la differenciation va se faire de façon synchrone. Une fois qu'il arrrive à maturité, ils éclatent pour libérer les spermatozoïdes.
 
-Dans ces **cystes**, en plus des **cellules germinales**, on trouve aussi d'autre type de cellules, ce sont les **cellules de Sertoli** et entre les cystes on retrouve des **cellules de Leydig** qui produisent **la testostérone**.
+* le **testicule cystique** (poissons et amphibiens), sac formé par des cellules aplatie, au sein de ce sac sphérique va être retrouvé des cellules germinales entrain de se diff. Dans la périphérie du testicule on a des spermatogonies qui vont s'entourer d'une couche de cellule appellé **folliculaire**, ce sont des **cellules somatiques**. Cette spermatogonie va se diviser pour former plusieurs spermatogonies mais dans un même follicule toutes les spermatogonie vont être ensemble, la differenciation va se faire de façon synchrone. Une fois qu'il arrrive à maturité, ils éclatent pour libérer les spermatozoïdes.Dans ces **cystes**, en plus des **cellules germinales**, on trouve aussi d'autre type de cellules, ce sont les **cellules de Sertoli** et entre les cystes on retrouve des **cellules de Leydig** qui produisent **la testostérone**.
 
-* le **testicule à tube séminnifère** dans ce testicule les cellules de Leydig se retrouve entre les cystes. On va retrouver des **cellules germinales mâles** qui sont associés aux **cellules de Sertoli**, elles forment un revêtement continu et elles entourent complètement les cellules germinales.
-L'évolution ne se fait pas de façon anarchique, **les spermatogonies** sont capable de se multiplier et quand certaines spermatogonies entre en différenciation, elles vont petit à petit migrer vers le centre du **tube séminiphère** entouré de la **cellule de Sertoli**. Entre les cellules de Sertoli, il existe des jonctions  étanches. les substances qui circulent dans le sang et dans la lymphe arrivent avant les spermatogonies à cause de la **barrière hémato-testiculaire** pour éviter que l'organisme ne les détruise car elles sont considérés comme des cellules étrangères.
+* le **testicule à tube séminnifère** dans ce testicule les cellules de Leydig se retrouve entre les cystes. On va retrouver des **cellules germinales mâles** qui sont associés aux **cellules de Sertoli**, elles forment un revêtement continu et elles entourent complètement les cellules germinales. L'évolution ne se fait pas de façon anarchique, **les spermatogonies** sont capable de se multiplier et quand certaines spermatogonies entre en différenciation, elles vont petit à petit migrer vers le centre du **tube séminiphère** entouré de la **cellule de Sertoli**. Entre les cellules de Sertoli, il existe des jonctions  étanches. les substances qui circulent dans le sang et dans la lymphe arrivent avant les spermatogonies à cause de la **barrière hémato-testiculaire** pour éviter que l'organisme ne les détruise car elles sont considérés comme des cellules étrangères.
 
 ![Zoologie](Images/Fig11.JPG)
 
 > Les gonades femelles = ovaires
 
-Ches les insectes, on distingues 3 types d'**ovarioles** (tube ouvert d'un côté mais pas de l'autre, à l'extrémité aveugle) 
+Chez les insectes, on distingues 3 types d'**ovarioles** (tube ouvert d'un côté mais pas de l'autre, à l'extrémité aveugle) 
 
 * On distingue des cellules germinales primordiales qui se divise et vont débuter **une homogénèse**, elles vont migrer petit à petit vers l'autre extrémité de l'ovariole et vont s'entourer d'une cellule somatique (folliculaire) qui va nourir la cellule germinale formant dans l'ensemble un follicule. Ce sont des ovarioles de types **panoïstique**. 
 
@@ -205,6 +208,7 @@ Ches les insectes, on distingues 3 types d'**ovarioles** (tube ouvert d'un côt�
 * Les cellules nourrisières restent à l'extrémité aveugle et sera lié à la cellule par des cordons. L'ovariole va migrer attachée au cordon vers l'extrémité ouvert. Ce sont des ovarioles de type **méoristique athrotophique**
 
 L'ovaire se forme à partir de cortex de l'ébauche gonatique. Chez les vertébré, la médula regresse presque complètement, un ovaire de poisson ou d'amphibien ou oiseaux, on verra pleins de creux, ovaire est donc considéré comme creux.
+
 * Chez les mammifères, la médula persiste. 
 
 ![Zoologie](Images/Fig12.JPG)
@@ -217,8 +221,9 @@ Les cellules germinales sont des cellules provenant d'autres territoires de l'em
 
 > La diminution chromosomique
 
-Cette diff entre **cellule germinale** et **cellule somatique** apparaît parfois très tôt. C'est ce qu'on va rencontrer chez les Ascaris, segmentation de la cellule oeuf, dans celle ci et dans des cellules de l'embryon on trouve un territoire coloré, **le plasma germinatif**. Celui ci ne se sépare pas de façon équitable car ce plasma se trouve que dans une des deux cellules venant de se diviser etc.
-A chaque cycle de division, les cellules qui ne possedaient pas de plasma détruisait une partie de leur chromosomes. **Les cellules germinales vont se former à partir des cellules qui vont garder la totalité des chromosomes**.
+Cette différence entre **cellule germinale** et **cellule somatique** apparaît parfois très tôt. C'est ce qu'on va rencontrer chez les Ascaris, segmentation de la cellule oeuf, dans celle ci et dans des cellules de l'embryon on trouve un territoire coloré, **le plasma germinatif**. Celui ci ne se sépare pas de façon équitable car ce plasma se trouve que dans une des deux cellules venant de se diviser etc.
+
+A chaque cycle de division, les cellules qui ne possedaient pas de plasma détruisaient une partie de leur chromosomes. **Les cellules germinales vont se former à partir des cellules qui vont garder la totalité des chromosomes**.
 Les cellules somatiques ne vont pas hérité de tout le patrimoine génétique, seulement ce qui leur sert. Ce processus s'appelle une **diminution chromosomique**.
 
 Souvent, lorsque c'est précoce c'est lié à la présence de substances dans le cytoplasme qui va être distribué à certaines cellules mais pas à d'autres.
@@ -233,13 +238,7 @@ Elle intervient chez l'adulte au moment de la reproduction.
 
 ### A) Chez les Annélides
 
-* Chez certaines Annélides polyquètes (animaux marins benthiques), le passage à la reproduction s'accompagne par la transformation comportementale, de milieu de vie, de la physiologie ect. Cette sorte de métamorphose chez certaines espèces et l'**hépitoquie**. Lorsqu'il passe de l'état **atoque** (avant la transf) à l'état **épitoque**, l'animal vient nager près de la surface (un mode de vie **pélagique**), cela  va modifier la forme des parapodes, la forme des yeux, des fibres musculaire ect. 
-
-Lorsqu' ils vont se reproduire, ils vont s'associer par deux et vont nager en cercle de plus en plus rapidement. A un moment donné, il libère leur gamète dans l'eau, la fécondation est alors externe.
-
-La **photopériode** est un facteur qui a été utilisé pour les variations d'insité lumineuse la nuit: 
-
-Lorsque cela se produit, c'est au moment de la nouvelle Lune.
+* Chez certaines Annélides polyquètes (animaux marins benthiques), le passage à la reproduction s'accompagne par la transformation comportementale, de milieu de vie, de la physiologie ect. Cette sorte de métamorphose chez certaines espèces et l'**hépitoquie**. Lorsqu'il passe de l'état **atoque** (avant la transf) à l'état **épitoque**, l'animal vient nager près de la surface (un mode de vie **pélagique**), cela  va modifier la forme des parapodes, la forme des yeux, des fibres musculaire ect. Lorsqu' ils vont se reproduire, ils vont s'associer par deux et vont nager en cercle de plus en plus rapidement. A un moment donné, il libère leur gamète dans l'eau, la fécondation est alors externe. La **photopériode** est un facteur qui a été utilisé pour les variations d'insité lumineuse la nuit et lorsque cela se produit, c'est au moment de la nouvelle Lune.
 
 * Chez les Néréis atoque, lorsqu'on les coupe en deux, tous les membres arrières de la section vont passer à l'état épitoque. On fait l'ablation du cerveau de l'animal, on observe qu'il devient épitoque. Quand on fait l'ablation du cerveau et qu'one le greffe vers l'arrière de l'animal, elle ne passe pas à l'étape épitoquie. **C'est donc une substance sécrétée dans l'organisme. On appelle ça la neurohormone**
 
@@ -256,19 +255,20 @@ Chez les insectes, le **dvp poste embryonnaire** peut se réaliser de trois faç
 
 * métamorphose assez discrete, **paurométaboles**, même mode de vie, chez la larves les paurométaboles, les ailes ne sont présentes que sous forme d'ébauche alors que chez l'aldulte, les ailes sont dvp. De plus, la larve est incapable de se reproduire
 
-* dvp **hémi-métabole** métamophose assez dicrete (*libellule*), les larves possèdes des ailes sou forme d'ébauche mais peut changer de mode de vie, larve aquatique et adulte aérien.
+* developpement **hémi-métabole** métamorphose assez dicrete (*libellule*), les larves possèdes des ailes sou forme d'ébauche mais peut changer de mode de vie, larve aquatique et adulte aérien.
 
-* dvp d'**holométabole**, où la métamorphose est complète par opposition au deux ex précédents, qui sont des métamorphoses incomplètes. La larve est dépourvue d'ailes, possède un mode de vie différent de celui de l'adulte et la métamorphose n'ecéssite un stade immobile appelé **la nymphe** ou **stade nymphale**, certains organes de la larves vont être remplacé par des organes qui serviront à l'adulte. Un nymphe n'est pas enveloppé par une pâte protectrice. Chez les papillons on parle de **chrystalide**, et chez les mouches une **pupe**.
+* developpement d'**holométabole**, où la métamorphose est complète par opposition au deux ex précédents, qui sont des métamorphoses incomplètes. La larve est dépourvue d'ailes, possède un mode de vie différent de celui de l'adulte et la métamorphose n'ecéssite un stade immobile appelé **la nymphe** ou **stade nymphale**, certains organes de la larves vont être remplacé par des organes qui serviront à l'adulte. Un nymphe n'est pas enveloppé par une pâte protectrice. Chez les papillons on parle de **chrystalide**, et chez les mouches une **pupe**.
 
 Mécanisme qui va contrôler la métamorphose
 
 Le criquet, est un insecte à métamorphose dite incomplète.
-Chez les inctes, la croissance se fait discontinuellement, une suite de mue, on considère la dernière mue comme étant la métamorphose appelé **mue imaginale** passant du stade larvaire au stade adulte.
+
+Chez les insectes, la croissance se fait discontinuellement, une suite de mue, on considère la dernière mue comme étant la métamorphose appelé **mue imaginale** passant du stade larvaire au stade adulte.
 
 L'**hormone juvénile** a un pic avant la mue, mais avant la métamorphose,  on a pas ce pic de concentration. On sait que les mues chez les insectes sont dû à l'**hormone ecdyson**. Si en plus de celle ci, on a l'hormone juvéniele c'est une **mue larvaire** sinon c'est la **mue imaginale**.
 
 Les **corps allates** semblent stimulé la **croissance des ovocytes**. L'implantation rétablit l'effet des corps allates, c'est une **action hormonale**.
-Les corps allates produisent l'**hormone juménile** qui après la métamorphose, elle stimule la croissance d'ovocyte.
+Les corps allates produisent l'**hormone juvénile** qui après la métamorphose, elle stimule la croissance d'ovocyte.
 
 La **pars intercerebralis** possède plusieurs cellules, lorsque l'on détruit une partie des cellules C, la sécrétion de l'hormone juvénile.
 
@@ -332,20 +332,20 @@ L'obésité peut retarder l'âge de la puberté.
 > L'origine des réserves
 
 L'orsque l'on fait un gamète femelle, les reserves qui sont dans les ovules sont de type energétique dans le **vitellus** possédant en majorité des lipides et des protéines. En plus, on a d'autres types des **réserves informationnelles** (ARN maternelle, protéines, mitochondrie).
-Ces reserves sont dans l'ovocyte, peuvent soit synthétiser directement dans l'ovocyte (cas des reserves informationnelles) mais le vitellus est en généréle produit par d'autres cellules soit **cellules folliculaire somatiques** vont synthétiser le vitellus.
+Ces reserves sont dans l'ovocyte, peuvent soit synthétiser directement dans l'ovocyte (cas des reserves informationnelles) mais le vitellus est en général produit par d'autres cellules soit **cellules folliculaire somatiques** vont synthétiser le vitellus.
 
 > Le déroulement de l'ovogenèse
 
-* Chez les vertébrés, la gamète libérée par la femelle est une cellule qui n'a pas terminer sa différenciation et est bloquée en première division de méiose, c'est un ovocyte II. Dès le stade embryonnaire les cellules germinales vont former des ovogonies qui se multiplient (jusqu'à 7000000 dans les ovaires). Un petit peu avant la naissance, le nombre d'ovogonies diminuent fortement et reste 2 000000 d'ovogonies dans les ovaires. Après la naissance on arrive à quelques centaines de milliers au moment de la puberté.
+* Chez les vertébrés, le gamète libéré par la femelle est une cellule qui n'a pas terminé sa différenciation et est bloquée en première division de méiose, c'est un ovocyte II. Dès le stade embryonnaire les cellules germinales vont former des ovogonies qui se multiplient (jusqu'à 7 000 000 dans les ovaires). Un petit peu avant la naissance, le nombre d'ovogonies diminuent fortement et reste 2 000 000 d'ovogonies dans les ovaires. Après la naissance on arrive à quelques centaines de milliers au moment de la puberté.
 
 ![Zoologie](Images/Fig17.JPG)
 
-* Ches les amphibiens les ovogonies se reproduisent à chaque reproduction.
+* Chez les amphibiens les ovogonies se reproduisent à chaque reproduction.
 
-Dans l'ovaire des mammifères, les ovogonies quii ont terminer leur multiplications s'enroulent de **cellules folliculaires** qui vont former une couche de cellule aplatis autour de notre ovogonie, et l'**ovogonie** a subit des modifications cytoplasmique est va être appelé **ovocyte**, **follicule primordiale**. Pendant l'enfance, les follicules arrivent à s'échapper de la réserve vont changer d'aspect et deviennent cubiques, et deviennent un **follicule primaire** et progressivement le nombre de follicule va augmenter et on va parler de **folicule secondaire**, un espace va se créer **zone pélucide** qui est une enveloppe qui entoure l'ovocyte. Autour des cellules folliculaires, des cellules conjonctif qui s'aplatisssent et vont former l'**athèque**. Il va apparaitre une cavité dans la **granulosa** on parle de **follicule tertiaire**. 
+Dans l'ovaire des mammifères, les ovogonies qui ont terminé leur multiplications s'enroulent de **cellules folliculaires** qui vont former une couche de cellule aplatis autour de notre **ovogonie**, et celui-ci a subit des modifications cytoplasmique est va être appelé **ovocyte**, **follicule primordiale**. Pendant l'enfance, les follicules arrivent à s'échapper de la réserve vont changer d'aspect et deviennent cubiques, et deviennent un **follicule primaire** et progressivement le nombre de follicule va augmenter et on va parler de **folicule secondaire**, un espace va se créer **zone pélucide** qui est une enveloppe qui entoure l'ovocyte. Autour des cellules folliculaires, des cellules conjonctif qui s'aplatissent et vont former l'**athèque**. Il va apparaitre une cavité dans la **granulosa** on parle de **follicule tertiaire**. 
 
-Cette cavité remplie de liquide va accuellir des oestrogènes. En même temps que la thèque se divise en deux parties, une partie interne qui est très vascularisé, rôle sécrétoire et autour une partie riche en 
-La thèque interne secrète des substances mâle et sont convertis en oestrogène par une enzyme qui est l'aromatase. Cette cavité grandit. L'un des follicules qui commence sa différenciation va arriver au stade terminal. Le pédoncule est appelé le **cumulus oophorus**. **Corona radiata** L'ovule va éclater et est libéré de ce follicule et va se tranformer en **corps jaune** et secrète la progestérone.
+Cette cavité remplie de liquide va accuellir des oestrogènes. En même temps que la thèque se divise en deux parties, une partie interne qui est très vascularisée, rôle sécrétoire et autour une partie riche en vittelus. 
+La thèque interne secrète des substances mâle et sont convertis en oestrogène par une enzyme qui est l'aromatase. Cette cavité grandit. L'un des follicules qui commence sa différenciation va arriver au stade terminal. Le pédoncule est appelé le **cumulus oophorus**. **Corona radiata** l'ovule va éclater et est libéré de ce follicule et va se tranformer en **corps jaune** et va secrèter la progestérone.
 
 
 ![Zoologie](Images/Fig18.JPG)
@@ -362,7 +362,7 @@ L'ADN est décondensé au niveau des boucles.
 
 > Contrôle de l'ovogénèse
 
-L'activité des gonades est modulé par les sécrétions dans l'hypophyse ou il y a des cellules capables de secreter des substances comme l'hormone fsh intervient à partir du stade follicule tertiaire. Les stades de la croissance sont stimulés par des sécrétions locales. Dans l'ovaire des cellules vont secreté EGF qui stimule la croissance en passant de  l'étape primaire à secondaire et va stimuler les recepteurs de la FSH.
+L'activité des gonades est modulée par les sécrétions dans l'hypophyse où il y a des cellules capables de secreter des substances comme l'hormone FSH qui intervient à partir du stade follicule tertiaire. Les stades de la croissance sont stimulés par des sécrétions locales. Dans l'ovaire des cellules vont secreté EGF qui stimule la croissance en passant de  l'étape primaire à secondaire et va stimuler les recepteurs de la FSH.
 
 L'apparition d'un corps jaune provoque une augmentation du temps de progestérone.
 
@@ -390,7 +390,6 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 * les géniteurs ne vont pas se rencontrer **sans appariement**
 
 	* Ce que l'on rencontre chez les oursins, animaux extrêment marins. Au moment de la repro, on a des individus mâles et femelles qui vont éjecter leurs gamètes dans l'eau de mer. Il y a bcp de pertes dans les gamètes. Il existe des mécanismes qui vont rapprocher les différents gamètes. Les spermatozoïdes nagent tous dans la même direction les ovules. Ils sont attirés par celles -ci. Autour des ovules il y a une ou plusieurs enveloppe qui va se dissoudre dans l'eau de mer, ce sont des **fertilisines** qui sont detecter par les spermatozoïdes car ils possèdent des recepteurs aux vefertilisines, des **anti-fertilisines** et sont capable de détecter le taux de fertilisine pour trouver les ovules, c'est du **chimiotactine**.
-
 
 
 * les géniteurs vont s'accoupler **avec appariement**
@@ -485,7 +484,6 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 ** La dépense énergétique est très importante pour ces signaux. De plus, ils peuvent être repérer par des prédateurs**
 
-*voir schéma bilan*
 
 ![Bilan](Images/Fig26.JPG)
 
@@ -508,15 +506,16 @@ Chez la majeur partie des animaux, les ovules sortant de l'ovaire ne sont pas nu
 > Les étapes de la fécondation
 
 * Chez les oursins,  il y aura une réaction de l'**acrosome**, provoquer par la reconnaissance des cellules et va s'accompagner  du **processus acrosomien** pour avoir contact avec la **membrane vitteline**  (membrane primaire). Quand le spermatozoïde se fixe sur la membrane, la membrane vitteline va s'écarter de la membrane plasmique pour empêcher les autres de passer.
-*voir schéma
+
+![Oursins](Images/Fig30.JPG)
 
 * Chez les mammifères, le spermatozoïde va reconnaître l'enveloppe secondaire **enveloppe pélucides**. Des enzymes vont détruire les molécules de reconnaissance pour empêcher les autres spermatooïdes de reconnaïtre l'ovule.
 
-*voir schéma*
+![Mammifères](Images/Fig31.JPG)
 
 On va avoir une première réaction (modification potentielle de la membrane de l'ovule provoqué par les ions sodium). On va passer de -70mV à +20mV. Cela empêche la fixation d'autres spermatozoïdes.L'ovule va reprendre sa méïose et va la terminer. Il va y avoir des modifications à l'interieur de la cellule. Le noyau du spermatozoïde va entrer au contact de l'ovule et va se transfomer **pronucléus**. L'ADN du spermatozoïde va se décondenser et va former une membrane nucléaire. Les deux noyax vont s'approcher et vont fusionner, ensuite on reprend le cycle cellulaire.
 
-*voir schéma*
+![Fusion des deux noyaux](Images/Fig32.JPG)
 
 ## VII) Le choix du partenaire
 
@@ -524,7 +523,7 @@ On va avoir une première réaction (modification potentielle de la membrane de 
 
 > Sur des bases comportementales
 
-* Chez les guppies, la femelle a des couleur ternes et le mâle des couleurs vives. Les femelles s'accouplaient  avec le mâle qui a des couleurs les plus vives et les plus forts. Les mâles étant plus proche du prédateur gagne.
+* Chez les guppys, la femelle a des couleur ternes et le mâle des couleurs vives. Les femelles s'accouplaient  avec le mâle qui a des couleurs les plus vives et les plus forts. Les mâles étant plus proche du prédateur gagne.
 
 ![guppies](Images/Fig27.JPG)
 
@@ -569,9 +568,10 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
 ## VII) Les soins à la progéniture
 
 **Progéniture** = descendance
+
 **Oeuf** = corps organique contenant une cellule oeuf ou un embryon 
 
-** Jeune** = stade de dvp qui ne diffère de l'adulte que par sa taille et son incapacité à se reproduire
+**Jeune** = stade de dvp qui ne diffère de l'adulte que par sa taille et son incapacité à se reproduire
 
 **Larve** stade de vp différent 
 
@@ -579,7 +579,7 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
 
 > Les stratégies consistent à:
 
-1) Déposer les oeufs dans un milieu favorable
+1) **Déposer les oeufs dans un milieu favorable**
 
 * Les amphibiens terrestres pondent leurs oeufs dans la mare où ils sont nés.
 
@@ -587,7 +587,7 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
 
 * Le poisson clown dépose leurs oeufs parmi les tentacules d'une anémone de mer
 
-2) Entourer la progéniture d'une structure protectrice
+2) **Entourer la progéniture d'une structure protectrice**
 
 * oothèques, permet à l'oeuf de se fixer à la végétation
 
@@ -598,16 +598,15 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
 * organes situés en dehors du corps de l'embryon, assurant sa protection **annexes embryonnaire** dont l'**amnios**:
 	* Chez les tétrapodes, l'amnios est une cavité qui va entourer l'embryon **cavité amniotique** qui va proteger l'embryon qui recreer un milieu aquatique pour l'embryon.
 
-![Amnios](Images/Fig29)
+![Amnios](Images/Fig29.JPG)
 
-3) Garder sa progéniture
+3) **Garder sa progéniture**
 
 * comportement de gardénage 
 
-4) Incuber sa progéniture
+4) **Incuber sa progéniture**
 
 * région exterieur
-
 	* crapeau accoucheur, les mâles collecte les oeufs qui vont être coller sur la face dorsale du mâle restant tout le long de leur dvp
 
 	* chez les homards, face ventrale de la femelle
@@ -616,23 +615,18 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
 	
     * hippocampe, le mâle à une poche sur son abdomen
     
-    * chez des crapeaux gastroteca, l'incubation des oeufs se fait dans l'oestomac, le mâle va césser de se nourrir ou ils seront chez d'autres crapeaux dans des cavités buccales
+    * chez les crapeaux gastroteca, l'incubation des oeufs se fait dans l'oestomac, le mâle va césser de se nourrir ou ils seront chez d'autres crapeaux dans des cavités buccales
   
 ## B) La nutrition de la progéniture, stade embryonnaire
   
 > De l'oviparité chez les Chondrichtyens
    
-* lécithotrophie
-
+* **lécithotrophie**
 	* Les requins possède un grand sac renmplie de vittelus qui va nourrir l'embryon 
   
-* histotrophie
-   
-   * Chez la raie,l'oeuf est retenu dans les voies g la paroi utérinne va provoquer des tampons qui vont qui viennent au contaénitale de la femellect de l'embryon **trophonemata** qui vont sécréter du lait pour nourrir
-   
-   l'embryon.
- 
-	* Chez le requin taureau, les embryons va manger les autres embryons, la femelle va produire des ovules non féconder qui vont être manger par 
+* **histotrophie**
+    * Chez la raie,l'oeuf est retenu dans les voies g la paroi utérinne va provoquer des tampons qui vont qui viennent au contaénitale de la femellect de l'embryon **trophonemata** qui vont sécréter du lait pour nourrir l'embryon.
+ 	* Chez le requin taureau, les embryons va manger les autres embryons, la femelle va produire des ovules non féconder qui vont être manger par l'embryon
     
-> hémotrophie
+* **hémotrophie**
 
