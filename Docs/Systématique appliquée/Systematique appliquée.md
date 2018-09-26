@@ -222,6 +222,108 @@ On pourrait comparer sur un mode paramétrique les diversités si elles obéisse
 
 > Il n'existe pas de distribution universelle des abondances. On fait donc appel à des indices non paramétriques.
 
+Les indices non paramétriques les plus employés sont:
+
+* richesse spécifique = nombre d'espèce (S)
+	* peut -être calculée comme le total des espèces trouvées dans une station donnée
+    * Ou comme le nombre moyen d'espèces par échantillon
+    
+* indices de Shannon - Weaver = indice synthétique de mesure de la diversité spécifique
+
+(voir formule)
+
+* équitabilité (evenness) = meesure de l'équirépartition des espèces au sein des effectifs
+
+
+(voir tableau)
+
+(voir diapo toujours plus d'indices)
+
+## XIV) Les groupes indicateurs
+
+Les groupes indicateurs doit  être:
+
+* groupe taxonomique ou écologique bien identifié
+
+* présence d'espèces sensibles à certaines perturbations
+
+* répartition géographique importante
+
+* connaissance taxonomique satisfaisante
+
+* échantillonnage standardisé
+
+> Un gourpe ou taxon indicateur indique par sa présence une propriété de l'environnement. Cela invite à réfléchir au déterminisme de la présence ou absence d'une espèce dans un environnement : **la niche écologique**
+
+Premier à utiliser ce terme **Grinnell** 
+*Chaque espèce ayant ses propres limites physiologiques, morphologiques et éthologiques, ce qui l'a rend capable d'occuper des espaces particuliers offerts...*
+
+* La niche est une propriété de l'environnement, pas de l'espèce
+* Le rôle central de l'exclusion compétitive est reconnu
+
+> Une espèce sera donc indicatrice d'une niche qu'elle est seul à occuper à l'équilibre
+
+**Elton** insiste sur le **rôle fonctionel de l'espèce 
+
+(voir dessin)
+
+**Odum** "*L'habitat d'une espèce est son adresse, la niche est sa profession. Il ne s'agit plus d'un domaine de tolérance, ni d'une place dans un réseau trophique, mais d'un rôle au sein d'un réseau d'intéractions*."
+
+
+> Intéraction directes mais aussi indirectes par modification de l'environnement physique impactant 
+
+Définition de Hutchinson
+
+Généralisation de la notion d'habitat à l'"espace des facteurs".
+La niche, sensu Hutchinson, est le domaine de tolérance vis à vis des pricipaux facteurs.
+
+## Notion de niche écologique
+
+On peut généraliser ...
+
+(voir courbe)
+
+Définition de Hutchinson : utile en termes de bioindication
+
+Définition d'Elton: opératoire
+
+Pour qu'un organisme puisse être considéré comme indicateur, il faut 
+
+* définir ce qu'il est censé indiquer
+* contraindre par l'observation les champs d'indication
+* choisir
+
+*Exemple : Les lichens et le bioindication de la pollution atmosphérique*
+*L'utilisation des lichens comme mesure de la pollution atmosphérique est (très )ancienne:*
+
+* *Erasme Darwin (1790)*
+* *Travaux sur les lichens du jardin du Luxembourg en 1866*
+* *Les pricipales applications se sont portées, dans les années 50-90, sur le suivi des pollutions acides (SO2), largement réduites depuis.*
+
+Caracas : comparaison sur la base de la richesse spécifique
+
+1970: "Golden Age": les lichens sont utilisés en tant que bioindicateurs de la pollution en SO2. Calibration de la résistance pour chaque espèce, puis relevés qualitatif.
+
+Liste d'espèces construite sur la base des (quelques) données fournies. Par les capteurs de SO2 existant alors principalement en zone industrielle ou urbaine; validée par des transplantation : on plante des espèces estimées sensible...
+
+
+>La bioindication de la pollution atmosphérique est aussi sensible à lla cinétique et au sens du changement
+
+(voir diapo)
+
+Bilan Bioindiaction
+
+Choix des groupes : doit-être documenté
+
+Choix des écehelles : doit -être dimensionné au domaine des espèces
+
+Pas de bioindicateur universel : Prise en compte des groupes
+
+Problème de la réactivité temporelle : doit-être également mesuré
+
+Garder à l'esprit de la dimension de la niche que l'on considère
+
+
 
 
 
