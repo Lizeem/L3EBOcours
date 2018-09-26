@@ -36,7 +36,7 @@ L'objectif de l'échantillonage est de permettre d'inférer à partir des propri
 * Un échantillon de ces systèmes est souvent lui même très complexe
 * Leur étude se limite à une image approximative, restreinte à un petit nombre de *caractères* ou *descripteurs* choisis en fonction d'une problématique précise
 
-*ex des milliers d'espèces dans certeins ecosystèmes tropicaux, les insectes sont très variés*
+*ex des milliers d'espèces dans certains ecosystèmes tropicaux, les insectes sont très variés*
 
 ### III) Définitions
 
@@ -48,7 +48,7 @@ L'objectif de l'échantillonage est de permettre d'inférer à partir des propri
 
 **Plan d'échantillonage** : ensemble de processus décisionnels qui aboutissent au plan d'échantillonage et à son amélioration en fonction des résultats.
 
-### IV) L'inférence stat
+### IV) L'interférence statistique
 
 >Le plan d'échantillonage doit permettre l'interférence statistique
 
@@ -137,9 +137,9 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 
 > Les contraintes naturelles
 
-* sont lies aux caractéristiques propres des descripteurs:	
+* sont liés aux caractéristiques propres des descripteurs:	
 	* répartition spatiale et temporelle
-    *distribution stat
+    * distribution stat
     
 * dépendent des échelles d'observation
 	* à la structure de l'écosystème considéré
@@ -184,7 +184,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 > Plan d'échantillonnage structurés
 
  * On introduit délibérément des informations en fonction d'une connaissance préalable, d'hypothèses de travail, d'une problématique, ect..
- * On utilise alors un *prémodèle*;forme de description recherchée à priori en fonction de laquelle le plan d'échantillonnage est défini
+ * On utilise alors un *prémodèle*, forme de description recherchée à priori en fonction de laquelle le plan d'échantillonnage est défini
  
 > La nature du prémodèle implique une idée préalable du traitement ultérieur des données
  
@@ -204,7 +204,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 
 ### XIII) Les indices de diversité
  
-**Diversité biologique** = ensemble de toute les formes de vie présentes sur notre planète, ainsi que des complexes écologiques auxquels elles appartiennent.
+**Diversité biologique** = ensemble de toutes les formes de vie présentes sur notre planète, ainsi que des complexes écologiques auxquels elles appartiennent.
  
  * Du gène, aux espèces et aux écosystèmes
  * Groupes taxonomiques, groupes fonctionnels, groupe de réponse
@@ -218,6 +218,10 @@ Ces indices sont des *propriétés* des communautés que l'on peut mesurer sur u
  
 > La rareté moyenne des catégories
 
-On pourrait comparer sur un mode paramétrique les diversités si elles obéissent à des distributions similaires or:
+On pourrait comparer sur un mode paramétrique les diversités si elles obéissent à des distributions similaires or :
 
 > Il n'existe pas de distribution universelle des abondances. On fait donc appel à des indices non paramétriques.
+
+
+
+
