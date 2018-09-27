@@ -639,7 +639,7 @@ Lorsque l'oeuf a été fécondé (dure 5 à 6 jours), on a des divisions cellula
 
 ![Placenta](Images/Fig33.JPG)
 
- ![Placenta](Images/Fig45.JPG)
+ ![Placenta](Images/Fig45.jpg)
  
 * Chez les primates, le synnacytiotrophoblaste, va détruire la paroi des capillaires maternelle **les capilluims**. Le sang maternelle arrive dans les lacunes où baignent des ramifications. Pas de mélange maternelle et le sang phétal, la proximité qui va faciter des échanges entre les deux sangs. Le placenta est dit **hémochorial**.
 
