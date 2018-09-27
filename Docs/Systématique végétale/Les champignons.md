@@ -2,7 +2,7 @@
 
 ## I) Rappels de systématique et biologie fongique
 
-Les champignons font parti du groupe de *thallophytes* . C'est un règne des Fungi et font parti d'un **groupe polyphylétique**.  
+Les champignons font partis du groupe de *thallophytes* . C'est un règne des Fungi et font parti d'un **groupe polyphylétique**.  
 
 Il existe environ 100 000 espèces décrites et 1,5 à 5 Millions d’espèces estimées (grâce aux intéractions entre champignons et plante, il y a 31 taxons fongique par espèce de plante). C'est un groupe **ubiquiste** (qui est partout à la fois)  
 
