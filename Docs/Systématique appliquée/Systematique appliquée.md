@@ -232,7 +232,7 @@ Les indices non paramétriques les plus employés sont:
 
 (voir formule)
 
-* équitabilité (evenness) = meesure de l'équirépartition des espèces au sein des effectifs
+* équitabilité (evenness) = mesure de l'équirépartition des espèces au sein des effectifs
 
 
 (voir tableau)
@@ -253,45 +253,51 @@ Les groupes indicateurs doit  être:
 
 * échantillonnage standardisé
 
-> Un gourpe ou taxon indicateur indique par sa présence une propriété de l'environnement. Cela invite à réfléchir au déterminisme de la présence ou absence d'une espèce dans un environnement : **la niche écologique**
+> Un groupe ou taxon indicateur indique par sa présence une propriété de l'environnement. Cela invite à réfléchir au déterminisme de la présence ou absence d'une espèce dans un environnement : **la niche écologique**
+
+## A) Notion de niche écologique
 
 Premier à utiliser ce terme **Grinnell** 
-*Chaque espèce ayant ses propres limites physiologiques, morphologiques et éthologiques, ce qui l'a rend capable d'occuper des espaces particuliers offerts...*
+*Chaque espèce ayant ses propres limites physiologiques, morphologiques et éthologiques, ce qui l'a rend capable d'occuper des espaces particuliers offerts par la nature*
 
 * La niche est une propriété de l'environnement, pas de l'espèce
 * Le rôle central de l'exclusion compétitive est reconnu
 
 > Une espèce sera donc indicatrice d'une niche qu'elle est seul à occuper à l'équilibre
 
-**Elton** insiste sur le **rôle fonctionel de l'espèce 
+**Elton** insiste sur le **rôle fonctionel de l'espèce dans un réseau trophique. Les conditions abiotiques ne sont pas prises en compte. *Ce que fait l'espèce, pas ce qu'elle est*
 
 (voir dessin)
 
-**Odum** "*L'habitat d'une espèce est son adresse, la niche est sa profession. Il ne s'agit plus d'un domaine de tolérance, ni d'une place dans un réseau trophique, mais d'un rôle au sein d'un réseau d'intéractions*."
+**Odum**: "*L'habitat d'une espèce est son adresse, la niche est sa profession. Il ne s'agit plus d'un domaine de tolérance, ni d'une place dans un réseau trophique, mais d'un rôle au sein d'un réseau d'intéractions.*"
 
 
-> Intéraction directes mais aussi indirectes par modification de l'environnement physique impactant 
+> Intéraction directes mais aussi indirectes par modification de l'environnement physique impactant les autres espèces
 
 Définition de Hutchinson
 
 Généralisation de la notion d'habitat à l'"espace des facteurs".
 La niche, sensu Hutchinson, est le domaine de tolérance vis à vis des pricipaux facteurs.
 
-## Notion de niche écologique
 
-On peut généraliser ...
+On peut généraliser la notion de niche sensu Hutchinson à un grand nombre de facteurs m^me s'il est difficile de les visualiser. Au final, le domaine de recouvrement devient nul dès que sur l'un des facteurs il y a un non-recouvrement
 
 (voir courbe)
 
 Définition de Hutchinson : utile en termes de bioindication
 
-Définition d'Elton: opératoire
+Définition d'Elton: opératoire en termes d'analyse de flux d'énergie
+
+Définition d'Odum: utile pour prévoir l'évolution du système difficile à mettre en oeuvre sur des systèmes complexes.
+
+## XIV) Les groupes - organismes indicateurs
 
 Pour qu'un organisme puisse être considéré comme indicateur, il faut 
 
 * définir ce qu'il est censé indiquer
 * contraindre par l'observation les champs d'indication
-* choisir
+* choisir la fourchette dans laquelle il sera possible de l'utiliser
+* s'il reste à choisir, il faudra privilégier les organismes répandus et autant que possible faciles à utiliser
 
 *Exemple : Les lichens et le bioindication de la pollution atmosphérique*
 *L'utilisation des lichens comme mesure de la pollution atmosphérique est (très )ancienne:*
@@ -304,14 +310,22 @@ Caracas : comparaison sur la base de la richesse spécifique
 
 1970: "Golden Age": les lichens sont utilisés en tant que bioindicateurs de la pollution en SO2. Calibration de la résistance pour chaque espèce, puis relevés qualitatif.
 
-Liste d'espèces construite sur la base des (quelques) données fournies. Par les capteurs de SO2 existant alors principalement en zone industrielle ou urbaine; validée par des transplantation : on plante des espèces estimées sensible...
+Liste d'espèces construite sur la base des (quelques) données fournies. Par les capteurs de SO2 existant alors principalement en zone industrielle ou urbaine; validée par des transplantation : on plante des espèces estimées sensibles en zone polluée et on mesure leur durée de survie.
 
 
 >La bioindication de la pollution atmosphérique est aussi sensible à lla cinétique et au sens du changement
 
-(voir diapo)
+> Utilisation actuelle des lichens pour la pollution azotée aux Pays-BAS
 
-Bilan Bioindiaction
+1) Définition d'un champ d'échantillonnage : les dépôts azotés faisant varier le pH, ne considérent que des écorces d'arbres dans la même fourchette de pH
+
+2) Construction d'un indicateur composite avec des espèces communes (20 espèces choisies)
+
+3) Comparaison des donées de l'indicateur composite avec des données isues de capteurs
+
+4) Validation par mesure de corrélation
+
+Bilan Bioindiaction:
 
 Choix des groupes : doit-être documenté
 
