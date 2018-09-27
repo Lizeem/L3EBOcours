@@ -103,7 +103,7 @@ Les Saprotrophes sont très abondant en forêt (10 000 m de mycélieum /g de lit
 
 Leur enzymes fongiques sont impliquées dans la dégradation de la lignine et la cellulose. Ils ont une meilleure efficacité de dégradation des structures complexes que les bactéries.
 
-![Intéractions](Images/interactions.JPG)
+![Interactions](Images/interactions.JPG)
 
 ## III) Parasites de végétaux
 
