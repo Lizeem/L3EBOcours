@@ -144,7 +144,7 @@
 
 ### EUPHORBIACEAE, *Euphorbia helioscopia*, **Euphorbe réveille-matin**
 
-![Euphorbia](Images/Euphorbia.jpg)
+![Euphorbia](Images/Euphorbia.JPG)
 
 ### CRASSULACEAE, *Sedum acre*, **Orpin âcre**
 
