@@ -73,3 +73,92 @@
 ### SCROPHULARIACEAE, *Chaenorhinum minus*, **Petite linaire**
 
 ![Chaenorrhinum](Images/Chaenorrhinum.jpg)
+
+### POLYGONACEAE, *Polygonum lapathifolium*, **Renouée à feuilles d'oseille**
+
+![Polygonum](Images/Polygonum2.jpg)
+
+### ASTERACEAE, *Eupatorium cannabinum*, **Eupatoire à feuilles de chanvre**
+
+![Eupatorium](Images/Eupatorium.jpg)
+
+### POACEAE, *Poa nemoralis*, **Pâturin des bois**
+
+![Poa](Images/Poa.jpg)
+
+### LAMIACEAE, *Lamium album*, **Lamier blanc**
+
+![Lamium](Images/Lamium2.jpg)
+
+### SOLANACEAE, *Solanum nigrum*, **Morelle noire**
+
+![Solanum](Images/Solanum.jpg)
+
+### ASTERACEAE, *Cirsium arvense*, **Cirse des champs**
+
+![Cirsium](Images/Cirsium.jpg)
+
+### ASTERACEAE, *Galinsoga sp*, **Galinsoga**
+
+![Galinsoga](Images/Galinsoga.jpg)
+
+### POACEAE, *Dactylis glomerata*, **Dactyle pelotonné**
+
+![Dactylis](Images/Dactylis.jpg)
+
+### CARYOPHILACEAE, *Silene mutans*, **Silène penché**
+
+![Silene](Images/Silene.jpg)
+
+### ERICACEAE, *Calluna vulgaris*, **Bruyère commune**
+
+![Calluna](Images/Calluna.jpg)
+
+### JONCACEAE, *Juncus effusus*, **Jonc épars**
+
+![Joncus](Images/Joncus.jpg)
+
+### CHENOPODIACEAE, *Atriplex hastata*, **Arroche hastée**
+
+![Atriplex](Images/Atriplex.jpg)
+
+### ASTERACEAE, *Matricaria chamomilla*, **Camomille sauvage**
+
+![Matricaria](Images/Matricaria.jpg)
+
+### SOLANACEAE, *Datura stramonium*, **Pomme épineuse**
+
+![Datura](Images/Datura.jpg)
+
+### CYPERACEAE, *Carex sylvatica*, **Laîche des bois**
+
+![Carex](Images/Carex.jpg)
+
+### POACEAE *Poa annua*, **Pâturin annuel**
+
+![Poa](Images/Poa2.jpg)
+
+### ASTERACEAE *Pulicaria dysenterica*, **Pulicaire dysentérique**
+
+![Pulicaria](Images/Pulicaria.jpg)
+
+### EUPHORBIACEAE, *Euphorbia helioscopia*, **Euphorbe réveille-matin**
+
+![Euphorbia](Images/Euphorbia.jpg)
+
+### CRASSULACEAE, *Sedum acre*, **Orpin âcre**
+
+![Sedum](Images/Sedum.jpg)
+
+### BALSAMINACEAE, *Impatiens sp*, **Balsamine**
+
+![Impatiens](Images/Impatiens.jpg)
+
+
+
+
+
+
+
+
+
