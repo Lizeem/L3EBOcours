@@ -931,17 +931,33 @@ curve(dnorm(x),add=T)
 <pre><code class="R">tab3 &lt;- read.table(&quot;HF.txt&quot;, sep= &quot;\t&quot;, header = TRUE)
 tab3
 
-homme &lt;- subset(tab3$taille, sexe == &quot;h&quot;) 
+homme &lt;- subset(tab3, sexe == &quot;h&quot;)$tai
 homme
 
-femme &lt;- subset(tab3$taille, sexe == &quot;f&quot;)
-femme
 
-hist(homme, proba = TRUE, col = grey(0.8), main = &quot;Taille des hommes&quot;)
-provi &lt;- seq(160,200,length = 50)
-lines(provi,dnorm(provi,mean(homme),sd(homme)),lwd = 2)
+histogramme &lt;- hist(homme, proba = TRUE, col = grey(0.8), main = &quot;Taille des hommes&quot;)
+histogramme
+
+provi &lt;- seq(160,200, length = 50)
+provi
+
+lines(provi, dnorm(provi, mean(homme), sd(homme)), lwd=2, col = &quot;red&quot;)
 </code></pre>
 
+<p><img alt="Taille des hommes" src="../Images/taillehomme.JPG" /></p>
+<pre><code class="R">femme &lt;- subset(tab3, sexe != &quot;h&quot;)$tai
+femme
+
+hist &lt;- hist(femme, proba = TRUE, col= grey(0.8), main = &quot;Taille des femmes&quot;)
+hist
+
+provi &lt;- seq(150,200,length = 50)
+provi
+
+lines(provi, dnorm(provi, mean(femme), sd(femme)), lwd = 2, col =&quot;blue&quot;)
+</code></pre>
+
+<p><img alt="Taille des femmes" src="../Images/taillefemme.JPG" /></p>
 <p>Pour calculer un intervalle de confiance à 95% de la moyenne d'une variable numérique:</p>
 <pre><code class="R">t.test(VA)$conf.int[1:2]
 </code></pre>
