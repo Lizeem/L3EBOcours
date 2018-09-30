@@ -43,8 +43,8 @@ z.test(log(BI$rs1), log(BI$rs3), sigma.x=sd(log(BI$rs1)), sigma.y=sd(log(BI$rs3)
 # Representation graphique 
 lab <- c("2001","2003")
 boxplot(BI$rs1, BI$rs3, names = lab, ylab ="Richesse spécifique")
-points(1, mean(BI$rs1),pch=16,)
-points(2,mean(BI$rs1),pch=16)
+points(2, mean(BI$rs1),pch=16,col="red")
+points(1,mean(BI$rs1),pch=16, col="blue")
 
 # Exercice 2
 
@@ -75,8 +75,8 @@ Saison <- c("Printemps", "Hiver")
 
 boxplot(ha$Printemps, ha$Hiver, main = "Représentation graphique", ylab = "taille domaine vital de l'élan (ha)", names =Saison)
 
-points(2,mean(ha$Hiver), pch=16)
-points(1,mean(ha$Printemps), pch=16)
+points(2,mean(ha$Hiver), pch=16, col="yellow")
+points(1,mean(ha$Printemps), pch=16, col="grey")
 
 # Exercice 3
 
@@ -86,22 +86,38 @@ Bufo
 # Existe t-il une différence significative de poids entre les mâles et les femelles
 
 # Echantillons indépendants
+
 dim(Bufo)# petits échantillons
 
-male <- subset(Bufo, sexe =="m")
+male <- subset(Bufo, sexe =="m")$poids
 male
 
-femelle <- subset(Bufo, sexe =="f")
+femelle <- subset(Bufo, sexe =="f")$poids
 femelle
 
-shapiro.test()
+# H0: il n'y a pas de différence significative de poids entre les mâle et les femelles 
+# H1: il y a une différence significative de poids entre les mâles et les femelles
 
+shapiro.test(male)
 
+# pvalue >0.05 donc normalité
 
+shapiro.test(femelle)
 
+#pvalue >0.05 donc normalité
 
+var.test(male, femelle)
 
+t.test(male, femelle, var.equal =F, paired = F, alt ="greater")
 
+#pvalue > 0.05 donc H0, il n'y a pas de valeurs significatives de poids entre les mâles et les femelles
+
+sexe <- c("mâle", "femelle")
+
+boxplot(male, femelle, main = "Représentation graphique", ylab = "poids", names =sexe)
+
+points(1,mean(male), pch=16, col="green")
+points(2,mean(femelle), pch=16, col="purple")
 
 
 
