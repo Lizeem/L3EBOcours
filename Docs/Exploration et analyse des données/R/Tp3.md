@@ -165,4 +165,4 @@ boxplot(male, femelle, main = "Représentation graphique", ylab = "poids", names
 points(1,mean(male), pch=16, col="green")
 points(2,mean(femelle), pch=16, col="purple")
 ```
-![Représentation graphique du poids des mâles et ds femelles](Images/poidsmalefemelle.JPG)
+![Représentation graphique du poids des mâles et des femelles](Images/poidsmalefemelle.JPG)
