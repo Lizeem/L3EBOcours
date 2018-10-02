@@ -1,8 +1,8 @@
-# Ecologie terrestre, interactions avec les végétaux
+# Les Champignons
 
 ## I) Rappels de systématique et biologie fongique
 
-Les champignons font parti du groupe de *thallophytes* . C'est un règne des Fungi et font parti d'un **groupe polyphylétique**.  
+Les champignons font partis du groupe de *thallophytes* . C'est un règne des Fungi et font parti d'un **groupe polyphylétique**.  
 
 Il existe environ 100 000 espèces décrites et 1,5 à 5 Millions d’espèces estimées (grâce aux intéractions entre champignons et plante, il y a 31 taxons fongique par espèce de plante). C'est un groupe **ubiquiste** (qui est partout à la fois)  
 
@@ -32,6 +32,7 @@ Ils sont acteurs du fonctionnement des écosystèmes :
 * *en sol forestier : ca. 100 kg/ha (prof. 25 cm)*  
 
 Importance du point de vue anthropique :  
+
 * infections (animaux, plantes, homme) 
 
 * moisissures sur tous substrats 
@@ -73,6 +74,7 @@ Pendant la période de croissance, il y aura le flux d’organelles (zone apical
 Les champignons seront longtemps considérés comme un groupe homogène : 
 
 * hétérotrophes vis-à-vis du carbone = convergences physiologiques 
+
 * la paroi contraignant le développement végétatif = convergences  morphologiques  
 
 Les champignons qui ont été etudiés par botanistes et zoologistes sont à proximité des métazoaire (animaux): 
@@ -90,20 +92,22 @@ Leur position taxonomique n'est pas évidente morphologiquement et physiologique
 Les saprotrophes possèdent une vie libre. Ils se nourrissent en assimilant les parois mais sont incapables d'assimiler les macromolécules car ils ont une digestion extra-cellulaire 
 
 1. production d’enzymes de dégradation spécifiques au substrat ; exocytose à l’extrémité apicale des hyphes 
+
 2. dégradation du substrat en mono- ou oligo-polymères 
+
 3. assimilation des produits de dégradation par diffusion 
 
-En forêts, ils dégradent de la matière organique, ce sont des ingénieurs du cycle biogéochimique. En milieux anthropiques, ils peuvent dégrader tous types de substrats *mérule va dégrader des voies en milieu anthropiques car il se sont adapter à l'Homme*
+En forêt, ils dégradent de la matière organique, ce sont des ingénieurs du cycle biogéochimique. En milieux anthropiques, ils peuvent dégrader tous types de substrats *mérule va dégrader des voies en milieu anthropiques car il se sont adapter à l'Homme*
 
 ![dégradation](Images/mérule.JPG)
 
-En industries, ils vont digérer des pulpes de papier, la production de biomolécules et biocarburants mais encore des fermentations alimentaires.
+En industrie, ils vont digérer des pulpes de papier, la production de biomolécules et biocarburants mais encore des fermentations alimentaires.
 
 Les Saprotrophes sont très abondant en forêt (10 000 m de mycélieum /g de litière sèche) mais ils sont microscopiques. 
 
 Leur enzymes fongiques sont impliquées dans la dégradation de la lignine et la cellulose. Ils ont une meilleure efficacité de dégradation des structures complexes que les bactéries.
 
-![Intéractions](Images/interctions.JPG)
+![Interactions](Images/interactions.JPG)
 
 ## III) Parasites de végétaux
 

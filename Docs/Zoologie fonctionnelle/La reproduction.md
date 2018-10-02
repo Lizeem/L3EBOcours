@@ -630,17 +630,20 @@ Il peut y avoir un developpement disproportionné des caractères **hypertélie*
     
 * **hémotrophie**
 
-	* Chez les requins, on a une nutrition de l'embryon par le placenta. Le placenta n'a pas la même origine que les mammifères, il se forme par accolement du sac du vesticule vitérine avec la paroi vitteline et va fusionner partiellement avec celle ci. L'embryon est donc nourrit avec les substances situés dans le sang maternelle **hémotrophie**.
+	* Chez les requins, on a une nutrition de l'embryon par le placenta. Le placenta n'a pas la même origine que les mammifères, il se forme par accolement du vesticule vitérine avec la paroi vitteline et va fusionner partiellement avec celle ci. L'embryon est donc nourrit avec les substances situés dans le sang maternelle **hémotrophie**.
   
+
 > Le placenta chez l'Homme
 
-Lorsque l'oeuf a été fécondé (dure 5 à 6 jours), on a des divisions cellulaires et on aboutit à un embryon 
+Lorsque l'oeuf a été fécondé (dure 5 à 6 jours), on a des divisions cellulaires et on aboutit à un embryon.
 
-(voir schémas et dessin)
-    
-* Chez les primates, le synnacytiotrophoblaste, va détruire la paroi des capillaires maternelle **les capilluims**. Le sang maternelle arrive dans les lacunes où baignent des ramifications. Pas de mélange maternelle et le sang fétal, la proximité qui va faciter des échanges entre les deux sangs. Le placenta est dit **hémochorial**.
+![Placenta](Images/Fig33.JPG)
 
-(voir schéma et dessin)
+ ![Placenta](Images/Fig45.jpg)
+ 
+* Chez les primates, le synnacytiotrophoblaste, va détruire la paroi des capillaires maternelle **les capilluims**. Le sang maternelle arrive dans les lacunes où baignent des ramifications. Pas de mélange maternelle et le sang phétal, la proximité qui va faciter des échanges entre les deux sangs. Le placenta est dit **hémochorial**.
+
+![Placenta hémochorial](Images/Fig34.JPG)
 
 > Echange placentaire
 
@@ -654,24 +657,24 @@ Lorsque l'oeuf a été fécondé (dure 5 à 6 jours), on a des divisions cellula
    
     * sucres simples
     
-* transport actif:
+* Transport actif:
 
 	* acides aminés neutres
     * vitamines hydrosolubles
     
-* endocytos:
+* Endocytose:
   
 	* immunoglobulines maternelles
 
-Le placenta a un rôle nutriotionnel et endocrine. L'Homme a une hormone appelée progestérone qui va permette des modifications chez la femme pour la gestation. 
+Le placenta a un rôle nutritionnel et endocrine. L'Homme a une hormone appelée progestérone qui va permette des modifications chez la femme pour la gestation. 
 
-Le placenta, va aussi participer à la synthèse des oestrogènes. Enfin, l'HCG (gonatropine chorionique) qui jout le même rôle que l'HLP (hormone lactogène placentaire). 
+Le placenta, va aussi participer à la synthèse des oestrogènes mais l'HCG (gonatropine chorionique) qui va jouer le même rôle que l'HLP (hormone lactogène placentaire). 
 
 > Le placenta chez les autres mammifères
 
-(voir schéma)
+![Le placenta chez les autres mammifères](Images/Fig35.JPG)
 
-Un implatation différente est une implantation qui va attendre différents évenements comme la saison 
+Une **implatation différente** est une implantation qui va attendre différents évenements, comme par exemple les saisons: 
 
 * Chez le blaireau, la fécondation peut avoir lieu à différent moment de l'année, l'implatantion a lieu en décembre.
 
@@ -681,78 +684,122 @@ Un implatation différente est une implantation qui va attendre différents éve
 
 * Chez coléoptères nécrophores, ils enterrent des cadavres  et déposent leur oeuf dans le cadavre.
 
-* C'est les hyménoptères, son organe de ponte **ovipositeur** n'est pas trasformer en éguillon vénéneux.  Ils pondent les oeufs dans une larve d'un autre insecte (souvent chenilles)  qui vont écolore dans la chenille. La chenille est paralyser mais et toujours vivante, les larves vont donc se nourrir de la chenille à l'intérieur.
+* C'est les hyménoptères, son organe de ponte **ovipositeur** n'est pas trasformer en éguillon vénéneux.  Ils pondent les oeufs dans une larve d'un autre insecte (souvent chenilles)  qui vont écolore dans celle-ci. La chenille est paralysée mais est toujours vivante, les larves vont donc se nourrir de la chenille de l'intérieur.
 
 >  Collecter la nourrir pour l'apporter à la progéniture
 
+* Chez les oiseaux , le petits se débrouillent tout seul **nidifuge**
 
-* Chez les oiseaux , le petits se débrouilleretrouvent tout seul **nidifuge**
+* Chez d'autres oiseaux, le petit est dépourvu de plume à la naissance et les parents doivent leur rapporter de la nourriture **nidicole**
 
-* Chez d'autres oiseaux, les ole petit est dépourvu de plume à la naissance , les parents doivent les rapporté à la n nourriture **nidicole**
-
-* Chez le bousier il va enrouler une pelote jusqu'à son terrier, ensuite le bousier dépose son oeuf à l'intérieur de la boulette. Le ptit va pouvoir manger la pelote avant sa métamorphose. 
+* Chez le bousier, il va enrouler une pelote jusqu'à son terrier, ensuite le bousier dépose son oeuf à l'intérieur de la boulette. Le petit va pouvoir manger la pelote avant sa métamorphose. 
 
 > Utiliser les sécrétions nutrituves
 
-* Chez les pigeons, le jabot est capble de sécréter du *lait* et de nourrir son petit
+* Chez les pigeons, leur jabot est capable de sécréter du *lait* et de nourrir son petit
 
 > Le lait des mammifères
 
-voir tableau
+![Le lait des mammifères](Images/Fig36.JPG)
 
-Les canaux sécréteurs se developpent aux dépens du conjonctif et du tissu adipaux et élaborent le colustrum
+![Anatomie des glandes mammaires](Images/Fig37.JPG)
 
-(voir)
+![Anatomie des glandes mammaires](Images/Fig38.JPG)
 
 > Mécanisme de la synthèse du lait
 
 Produit par les cellules aciineuses:
 
-* Filtration du sang qui se trouve au niveau des globulnes , la filtration est sélectiv sélective de l'eau et sels minéraux e
+* Filtration du sang qui se trouve au niveau des globulnes , la filtration sélective de l'eau et sels, albumines et globulines du sang et de la lymphe
 
 * Secrétion de lactose, caséine, graisses et acide critique par éclatement des cellules
 
-Controle endocrine de la lactation::
+Controle endocrine de la lactation:
 
-* Pendant la gestation, la folliciline et la progestérone (corps jaune) provoquent la multiplication des celulles sécrétrices et la ramification des canaux glactophores
+* Pendant la gestation, la folliculine et la progestérone (corps jaune) provoquent la multiplication des celulles sécrétrices et la ramification des canaux glactophores
 
-* Pendant la parnirition, la folluculine placentaire disparait ce qui permet la synthèse de proclactine hypophysaire
+* Pendant la parturition, la folliculine placentaire disparait ce qui permet la synthèse de prolactine hypophysaire
 
 * La proclatine provoque la sécrétion de lait qui s'accumule dans les sinus galactophores
 
-(voir diapo)
+* Lors de la tétée, la stimulation du trayon (mamelon chez la femme), simule par voie nerveuse l'hypophyse qui libère de l'ocytocine
 
-(voir schéma)
+* L'ocytocine provoque l'excrétion du lait
+
+![Reflexe neuro-endocrinien](Images/Fig39.JPG)
 
 ### D) Soin à la progéniture apportés par d'autres individus
 
 > La reproduction communautaire coopérative
 
-* Chez les manchots empereur, les jeunes sont rassemblés en "crèches" termes par des adultes pendant que les parents vont pêcher. Il n'y a pas d'échanges de nourriture
+* Chez les manchots empereur, les jeunes sont rassemblés en *crèches* termes par des adultes pendant que les parents vont pêcher. Il n'y a pas d'échanges de nourriture.
 
-* Chez les insectes sociaux, des soins sont apportés aux jeunes, la reine va se reproduire. 
-
-(voir diapo)
+![Construction d'un nid](Images/Fig40.JPG)
 
 * Chez les abeilles, il y a une protection physique mais aussi la nutrition des larves est assrué en , le pollen est utilisé  et le miel, le pollen est riche en protéine et le miel est riche en sucre. Le miel est une substance produite à partir du nectard. Lorsqu'elle rentre à la ruche,  elles va le faire passer dans le chapeau d'une autre ouvrière . Et rajouter des sécrétions salivaire et va être déposé dans des cellules spécifiques . Le venin va favoriser le conservation. Les abeilles vont le deshydrater et l'avéole sera recouvert d'une opercule pour nourrir les larves.
 
+![Nutrition des larves](Images/Fig41.JPG)
 
 * Chez la guepe commune,  le nid est construit par une substance ressemblant à du carton
 
-## II) Le parasitisime reproducteur
+> Le parasitisime reproducteur
 
 * Le moineau domestique s'empare parfois du nid de l'hirondelle 
 
-* La buse variable va pondre parfois l'un de ses oeufs dans le nid d'autres rapaces
+* La buse variable va pondre parfois l'un de ses oeufs dans le nid d'autres rapaces; idem chez les Anatidés
 
-* Chez le coucou, il pond ses oeufs dans le nid d'autres espèces dont la coloration ressemble à celle des oeufs de Corvidés, ces oeufs sont produits dans le nid de la deuxième espèce, après l'éclosion, le néomate expulse les oeufs des corvidés.**prarasitisme obligatoire**
+* Chez le coucou, il pond ses oeufs dans le nid d'autres espèces dont la coloration ressemble à celle des oeufs de Corvidés, ces oeufs sont pondus dans le nid de la deuxième espèce, après l'éclosion, le néonate expulse les oeufs des corvidés.**prarasitisme obligatoire**
 
 > Les fourmis esclavagistes
 
 * La fourmi rousse pénètre des les fourmillières de *Serviformea fusca*, tue les femelles reproductrices et fait élever sa ponte par la formilière parasitée.
 
-* Les fourmis sanguines dérobent des nympahes de *
+* Les fourmis sanguines dérobent des nymphes de *Serviformica glabaris*, à leur naissance, ces dernières forment une caste de nourrices
 
-(voir diapo)
+## VIII) Les perturbations environnementales de la reproduction
+
+### A) Effet du réchauffement climatique
+
+* Ours polaire : Sa période de chasse à lieu principalement d'avril à juillet. Malheureusement, il y a une diminution de la banquise, ils sont donc en sous almentation et on a une diminution de taille des portées de 2-3 petits à 1 petit.
+
+* Puceron vert du pêcher, migre mi mai dans les années 1960 en Angleterre, alors qu'ajourd'hui, ils migrent à partir du 7 mai.
+
+### B) Les perturbateurs endocriniens
+
+> Découverte
+
+* Les alligators du lac Apopka (Floride) ont une taille relativement petite de leur pénis lié à la présence d'un insecticide appelé DDE
+
+![Micropénis alligator](Images/Fig42.JPG)
+
+> Autre exemple
+
+![Pertubation endocrinienne](Images/Fig43.JPG)
+
+> L'origne 
+
+* Médicaments
+* Substances utilisées comme pesticide
+* Incinération des déchets
+
+Pendant longtemps, nous avons ignoré le rôle possible de ces substances
+
+> Effets des faibles modifications des équilibres hormonaux
+
+* Le distibène (limiter le risque de fausse couche), provoque une très forte augmentation de risque de cancer utérins chez les enfants issus. Provoque un effet sur la génération suivante 
+
+* Le compotement des souris : Normalement le mâle est plus agressif que la femmelle qui est plus maternelle. Les femelles ayant été dans l'utérus developpé à côté d'un mâle deviennent autant agressifs que ceux-ci. Il y a donc un contrôle du comportement par les hormones sexuels. Dans l'utérus, une partie des hormones produites peuvent recevoir des hormones de ceux d'à côté.
+
+> Reconnaissance
+
+![Reconnaissance des perturbateurs](Images/Fig44.JPG)
+
+
+
+
+
+
+
+
 
 

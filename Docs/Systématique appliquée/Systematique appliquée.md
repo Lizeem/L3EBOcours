@@ -172,8 +172,6 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
     * pb de temps dispo
     * pb de  logistique 
     
-
-
 ### XI) Le plan d'échantillonnage
 
 > Plan d'échantillonnage aléatoire simple
@@ -230,14 +228,25 @@ Les indices non paramétriques les plus employés sont:
     
 * indices de Shannon - Weaver = indice synthétique de mesure de la diversité spécifique
 
-(voir formule)
+![Formule Shannon](Images/Fig14.JPG)
 
-* équitabilité (evenness) = meesure de l'équirépartition des espèces au sein des effectifs
+* équitabilité (evenness) = mesure de l'équirépartition des espèces au sein des effectifs
 
+![Equitabilité](Images/Fig15.JPG)
 
-(voir tableau)
+Exemple de calcul d'indices
 
-(voir diapo toujours plus d'indices)
+![Calcul d'indices](Images/Fig16.JPG)
+
+![Abondance richesse](Images/Fig17.JPG)
+
+![Toujours plus d'indices](Images/Fig18.JPG)
+
+![Toujours plus d'indices](Images/Fig19.JPG)
+
+![Entropie Index de diversité](Images/Fig20.JPG)
+
+![Courbes](Images/Fig21.JPG)
 
 ## XIV) Les groupes indicateurs
 
@@ -253,45 +262,78 @@ Les groupes indicateurs doit  être:
 
 * échantillonnage standardisé
 
-> Un gourpe ou taxon indicateur indique par sa présence une propriété de l'environnement. Cela invite à réfléchir au déterminisme de la présence ou absence d'une espèce dans un environnement : **la niche écologique**
+> Un groupe ou taxon indicateur indique par sa présence une propriété de l'environnement. Cela invite à réfléchir au déterminisme de la présence ou absence d'une espèce dans un environnement : **la niche écologique**
+
+## A) Notion de niche écologique
 
 Premier à utiliser ce terme **Grinnell** 
-*Chaque espèce ayant ses propres limites physiologiques, morphologiques et éthologiques, ce qui l'a rend capable d'occuper des espaces particuliers offerts...*
+*Chaque espèce ayant ses propres limites physiologiques, morphologiques et éthologiques, ce qui l'a rend capable d'occuper des espaces particuliers offerts par la nature*
 
 * La niche est une propriété de l'environnement, pas de l'espèce
 * Le rôle central de l'exclusion compétitive est reconnu
 
 > Une espèce sera donc indicatrice d'une niche qu'elle est seul à occuper à l'équilibre
 
-**Elton** insiste sur le **rôle fonctionel de l'espèce 
+**Elton** insiste sur le **rôle fonctionel de l'espèce dans un réseau trophique. Les conditions abiotiques ne sont pas prises en compte. *Ce que fait l'espèce, pas ce qu'elle est*
 
-(voir dessin)
+![Interactions](Images/Fig22.JPG)
 
-**Odum** "*L'habitat d'une espèce est son adresse, la niche est sa profession. Il ne s'agit plus d'un domaine de tolérance, ni d'une place dans un réseau trophique, mais d'un rôle au sein d'un réseau d'intéractions*."
+![Interactions](Images/Fig23.JPG)
+
+**Odum**: "*L'habitat d'une espèce est son adresse, la niche est sa profession. Il ne s'agit plus d'un domaine de tolérance, ni d'une place dans un réseau trophique, mais d'un rôle au sein d'un réseau d'intéractions.*"
 
 
-> Intéraction directes mais aussi indirectes par modification de l'environnement physique impactant 
+> Intéraction directes mais aussi indirectes par modification de l'environnement physique impactant les autres espèces
 
 Définition de Hutchinson
 
 Généralisation de la notion d'habitat à l'"espace des facteurs".
 La niche, sensu Hutchinson, est le domaine de tolérance vis à vis des pricipaux facteurs.
 
-## Notion de niche écologique
+![Définition de Hutchinson](Images/Fig24.JPG)
 
-On peut généraliser ...
+![Définition de Hutchinson](Images/Fig25.JPG)
 
-(voir courbe)
+![Définition de Hutchinson](Images/Fig26.JPG)
+
+On peut généraliser la notion de niche sensu Hutchinson à un grand nombre de facteurs m^me s'il est difficile de les visualiser. Au final, le domaine de recouvrement devient nul dès que sur l'un des facteurs il y a un non-recouvrement. Les limites de tolérance ne sont pas nécessairement géométriques:
+
+![Définition de Hutchinson](Images/Fig27.JPG)
+
+![Définition de Hutchinson](Images/Fig28.JPG)
+
+![Définition de Hutchinson](Images/Fig29.JPG)
+
+![Définition de Hutchinson](Images/Fig30.JPG)
+
+Les limites de tolérance à deux  ou pluseurs facteurs peuvent être corrélées
+
+![Définition de Hutchinson](Images/Fig31.JPG)
+
+![Définition de Hutchinson](Images/Fig32.JPG)
+
+Pour Hutchinnson, la niche est une propriété de son occupant, pas de l'environnement. Elle peut évoluer avec lui.
+
+![Définition de Hutchinson](Images/Fig33.JPG)
+
+![Définition de Hutchinson](Images/Fig34.JPG)
 
 Définition de Hutchinson : utile en termes de bioindication
 
-Définition d'Elton: opératoire
+Définition d'Elton: opératoire en termes d'analyse de flux d'énergie
+
+Définition d'Odum: utile pour prévoir l'évolution du système difficile à mettre en oeuvre sur des systèmes complexes.
+
+## XIV) Les groupes - organismes indicateurs
 
 Pour qu'un organisme puisse être considéré comme indicateur, il faut 
 
 * définir ce qu'il est censé indiquer
 * contraindre par l'observation les champs d'indication
-* choisir
+* choisir la fourchette dans laquelle il sera possible de l'utiliser
+* s'il reste à choisir, il faudra privilégier les organismes répandus et autant que possible faciles à utiliser
+
+![Indice indicateur](Images/Fig35.JPG)
 
 *Exemple : Les lichens et le bioindication de la pollution atmosphérique*
 *L'utilisation des lichens comme mesure de la pollution atmosphérique est (très )ancienne:*
@@ -300,18 +342,62 @@ Pour qu'un organisme puisse être considéré comme indicateur, il faut
 * *Travaux sur les lichens du jardin du Luxembourg en 1866*
 * *Les pricipales applications se sont portées, dans les années 50-90, sur le suivi des pollutions acides (SO2), largement réduites depuis.*
 
+![Lichens](Images/Fig36.JPG)
+
 Caracas : comparaison sur la base de la richesse spécifique
+
+![Lichens](Images/Fig37.JPG)
 
 1970: "Golden Age": les lichens sont utilisés en tant que bioindicateurs de la pollution en SO2. Calibration de la résistance pour chaque espèce, puis relevés qualitatif.
 
-Liste d'espèces construite sur la base des (quelques) données fournies. Par les capteurs de SO2 existant alors principalement en zone industrielle ou urbaine; validée par des transplantation : on plante des espèces estimées sensible...
+![Lichens](Images/Fig38.JPG)
 
+Liste d'espèces construite sur la base des (quelques) données fournies. Par les capteurs de SO2 existant alors principalement en zone industrielle ou urbaine; validée par des transplantation : on plante des espèces estimées sensibles en zone polluée et on mesure leur durée de survie.
+
+![Lichens](Images/Fig39.JPG)
+
+Puis la pollution en SO2 baisse grâce à l'usage des carburants raffinés, baisse de l'utilisation du charbon, désindustrialiastion : Les cartes ne changent pas comme elles le devraient. Certaines espèces ne reviennent pas, d'autres reviennent plus vite qu'espéré. C'est le concept du *Zone Skipping*
+
+![Lichens](Images/Fig40.JPG)
+
+Explications: 
+
+* Leg de pollution (remobilisation)?
+* Capacité de colonisation différentielle entre les espèces ?
+* Interférence avec d'autres pollutions : Nitreuse
+* Nouveaux lichens de zones polluées : plus nitratophiles
+
+![Lichens](Images/Fig41.JPG)
 
 >La bioindication de la pollution atmosphérique est aussi sensible à lla cinétique et au sens du changement
 
-(voir diapo)
+> Utilisation actuelle des lichens pour la pollution azotée aux Pays-BaS
 
-Bilan Bioindiaction
+1) Définition d'un champ d'échantillonnage : les dépôts azotés faisant varier le pH, ne considérent que des écorces d'arbres dans la même fourchette de pH
+
+2) Construction d'un indicateur composite avec des espèces communes (20 espèces choisies)
+
+3) Comparaison des donées de l'indicateur composite avec des données isues de capteurs
+
+4) Validation par mesure de corrélation
+
+Seule espèce considérée : *Quercus robur*, à écorce acide
+
+![Ecorce acide](Images/Fig42.JPG)
+
+Carte des zones trouvées par le calcul de l'indice *Nitrofiele Indicatie Waarde*
+
+![Indice de Nitrate](Images/Fig43.JPG)
+
+Regeression linéaire à l'échelle des sites (174 et 145)
+
+![Table1](Images/Fig44.JPG)
+
+Régression linéaire à l'échelle des mailles de 5x5 km
+
+![Mailles](Images/Fig45.JPG)
+
+Bilan Bioindiaction:
 
 Choix des groupes : doit-être documenté
 

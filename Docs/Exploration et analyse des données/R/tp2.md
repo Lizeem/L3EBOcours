@@ -212,16 +212,33 @@ curve(dnorm(x),add=T)
 tab3 <- read.table("HF.txt", sep= "\t", header = TRUE)
 tab3
 
-homme <- subset(tab3$taille, sexe == "h") 
+homme <- subset(tab3, sexe == "h")$tai
 homme
 
-femme <- subset(tab3$taille, sexe == "f")
+
+histogramme <- hist(homme, proba = TRUE, col = grey(0.8), main = "Taille des hommes")
+histogramme
+
+provi <- seq(160,200, length = 50)
+provi
+
+lines(provi, dnorm(provi, mean(homme), sd(homme)), lwd=2, col = "red")
+```
+![Taille des hommes](Images/taillehomme.JPG)
+
+```R
+femme <- subset(tab3, sexe != "h")$tai
 femme
 
-hist(homme, proba = TRUE, col = grey(0.8), main = "Taille des hommes")
-provi <- seq(160,200,length = 50)
-lines(provi,dnorm(provi,mean(homme),sd(homme)),lwd = 2)
+hist <- hist(femme, proba = TRUE, col= grey(0.8), main = "Taille des femmes")
+hist
+
+provi <- seq(150,200,length = 50)
+provi
+
+lines(provi, dnorm(provi, mean(femme), sd(femme)), lwd = 2, col ="blue")
 ```
+![Taille des femmes](Images/taillefemme.JPG)
 
 Pour calculer un intervalle de confiance à 95% de la moyenne d'une variable numérique:
 
