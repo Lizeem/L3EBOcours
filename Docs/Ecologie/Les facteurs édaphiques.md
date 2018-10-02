@@ -4,7 +4,7 @@
 
 ### Les facteurs écologiques
 
-**Facteurs écologiques** = éléments du milieu susceptibles d'agir directement sur les êtres vivants, au moins durant une partie de leur cycle de déveoppement.
+**Facteurs écologiques** = éléments du milieu susceptibles d'agir directement sur les êtres vivants, au moins durant une partie de leur cycle de développement.
 
 Des facteurs écologiques agissent à tous les niveaux d'organisation des écosystèmes:
 
@@ -12,7 +12,7 @@ Des facteurs écologiques agissent à tous les niveaux d'organisation des écosy
 * **population** (écologie des populations); 
 * **communauté** ou biocénoses (écologie systémique ou synécologie)
 
-Pour qu'un **sol** se forme il faut minimum 1 000 ans. En zone tropical, les sols ont plus de 100 000 ans. C'est un partiment fonctionnel de l'écosystème et une interface entre le monde vivant et minéral. C'est une source non- renouvelable à l'échelle de temps humain.
+Pour qu'un **sol** se forme il faut minimum 1 000 ans. En zone tropical, les sols ont plus de 100 000 ans. C'est un compartiment fonctionnel de l'écosystème et une interface entre le monde vivant et minéral. C'est une source non- renouvelable à l'échelle de temps humain.
 
 La fonction du sol est de recycler la matière organique, pour cela il faut une activité biologique. Les champignons et bactéries aident au recyclage.
 
@@ -37,7 +37,7 @@ Descripteur écologique = tout caractère du milieu observé, relevé ou mesuré
 Distinction :
 
 * descripteurs qualitatifs (sans grandeur)
-* descripteurs quantitatifs (variables quantitatifs chiffrées = sttistiques applicables)
+* descripteurs quantitatifs (variables quantitatifs chiffrées = statistiques applicables)
 * descripteur semi-quantitatifs (s'ordonne selon un gradient)
 
 ### Les facteurs édaphiques
@@ -51,27 +51,27 @@ Les constituants du sol qui ont une action directe sur les organismes (végétau
 
 Facteurs édaphiques concernent donc les propriétés physiques et chimiques des sols. 
 
-**Facteurs édaphiques** = facteurs écologiques qui se rapportent au sol 'édaphon = sol)
+**Facteurs édaphiques** = facteurs écologiques qui se rapportent au sol, **édaphon** = sol)
 
 * Les sols de la réserve biologique dirigée du Mont du Fresne
 
-*En bas de pente nous trouverons des colluvions. Très peu de calcium.*
+En bas de pente nous trouverons des colluvions. Très peu de calcium.
 
-*Lorsque l'on monte sur la pente, on a un sol calcaire riche en calcium.*
+Lorsque l'on monte sur la pente, on a un sol calcaire riche en calcium.
 
-*Quand on monte sur le plateau, on trouve en profondeur des argiles à silex (craies décarbonatées). C'est un faciès de décarbonatation.*
+Quand on monte sur le plateau, on trouve en profondeur des argiles à silex (craies décarbonatées). C'est un faciès de décarbonatation.
 
 Sur les plateaux, les limons apportés par les vents sont les **Loess**.
 
 * Les sols limoneux des plateux, Forêt de Lyons
 
-Les strates herbacés sont indicatrices des condition du sol
+Les strates herbacés sont indicatrices des conditions du sol
 
 ### Définition du sol
 
 Le sol constitue la couche extérieur de notre planète et se compose de roches et de matières végétales et animales en décomposition
 
-Science du sol *sensu stricto* (ou science des sols) est une science très anicienne.
+Science du sol *sensu stricto* (ou science des sols) est une science très ancienne.
 
 La pédologie est une discipline relativement récente: le **sol n'est pas un milieu interte et stable**, mais il se forme et se developpe
 
@@ -93,14 +93,15 @@ Il comporte le plus souvent plusieurs **horizons** correspondant à une organisa
 
 Cette organisation est le résultat de la **pédogénèse** et de l'**altération du matériau parental**. Il est le lieu d'une intense **activité biologique** (racines, faune et microorganismes)
 
-(voir diapo schéma)
-
 Le sol est une interface dans l'environnement, un compartiment des écosystèmes terrestres.
 
 Composition moyenne du sol (% poids)
- (voir schéma)
+
+![Composition moyenne du sol (% poids)](Images/Fig2.JPG)
 
 Composition moyenne du sol (% volume)
+
+![Composition moyenne du sol (% volume)](Images/Fig3.JPG)
 
 ## II) Les facteurs édaphiques
 
@@ -114,11 +115,11 @@ Composition moyenne du sol (% volume)
 
 La **texture minérale** = "*Composition granulométrique définie d'après la proportion des particules minérales du sol inférieurs à 2mm, claséées, après destruction des agrégats, par catégories de grosseurs en fractions principales correspondant à une échelle internationale.*"
 
-5mm<sable<2mm<60micro<limon<2micro<argiles
+20mm< **graviers** < 2mm < **sables** < 50µm < **limon** < 2µm < **argiles**
 
-Les argiles sont des éléments minéraux chargés négativement. Ce sont des coloïdes.
+Les argiles sont des éléments minéraux chargés négativement. Ce sont des **coloïdes**.
 
-La texture est unr propriété stable ne variant que sur l'évolution à long terme du sol.
+La texture est une **propriété stable** ne variant que sur l'évolution à long terme du sol.
 
 ### Les agrégats du sol
 
