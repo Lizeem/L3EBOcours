@@ -1,10 +1,10 @@
+# Bases fondamentales de l'échantillonnage
+
 **Flore** = liste des espèces
 
 **Végétation** = quantitatif, proportion d'espèces
 
 **Biais** = erreur systématique
-
-## Les bases fondamentales de l'échantillonage 
 
 Un **échantillonage** est toujours construit pour répondre à une question, même si elle est formulée de manière non déclarative, doit -être rendue **apparente**, pour constuire l'outil permettant d'y répondre, le **plan d'échantillonage**.
 
