@@ -152,9 +152,9 @@ D'une manière générale, les aniamaux des régions polaires sont trapus et ceu
 
 Les animaux trapus des régions chaudes vivent dans l'eau ou ont des structures particulières facilitant les pertes de calories.
 
-![S/V](Images/48.JPG)
+![S/V](Images/Fig48.JPG)
 
-![S/V](Images/49.JPG)
+![S/V](Images/Fig49.JPG)
 
 Plus la masse corporelle est forte, plus le rapport S/V est faible, donc moins l'animal perd de chaleur (car la chaleur perdue est directement proportionnelle à la surface)
 
