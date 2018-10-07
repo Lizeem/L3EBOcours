@@ -394,44 +394,12 @@
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
+      
     
-      <label class="md-nav__link md-nav__link--active" for="__toc">
-        Tp3
-      </label>
     
     <a href="./" title="Tp3" class="md-nav__link md-nav__link--active">
       Tp3
     </a>
-    
-      
-<nav class="md-nav md-nav--secondary">
-  
-  
-  
-    <label class="md-nav__title" for="__toc">Table des matières</label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#exercice-2" title="Exercice 2" class="md-nav__link">
-    Exercice 2
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#exercice-3" title="Exercice 3" class="md-nav__link">
-    Exercice 3
-  </a>
-  
-</li>
-      
-      
-      
-      
-      
-    </ul>
-  
-</nav>
     
   </li>
 
@@ -748,29 +716,8 @@
 <nav class="md-nav md-nav--secondary">
   
   
+    
   
-    <label class="md-nav__title" for="__toc">Table des matières</label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#exercice-2" title="Exercice 2" class="md-nav__link">
-    Exercice 2
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#exercice-3" title="Exercice 3" class="md-nav__link">
-    Exercice 3
-  </a>
-  
-</li>
-      
-      
-      
-      
-      
-    </ul>
   
 </nav>
                   </div>
@@ -782,8 +729,6 @@
             <article class="md-content__inner md-typeset">
               
                 
-                
-                  <h1>Tp3</h1>
                 
                 <p>Exercice 1</p>
 <p>Question biologique: y-a-t-il une différence significative entre la richesse en 2 années</p>
@@ -909,6 +854,202 @@ points(2,mean(femelle), pch=16, col=&quot;purple&quot;)
 </code></pre>
 
 <p><img alt="Représentation graphique du poids des mâles et des femelles" src="../Images/poidsmalefemelle.JPG" /></p>
+<h3 id="exercice-4">Exercice 4</h3>
+<pre><code class="R">fish &lt;-read.table(&quot;pesticides.txt&quot;, sep=&quot;\t&quot;, header =T)
+fish
+
+A2 &lt;- subset(fish, age ==&quot;2ans&quot;)$pesticides
+A2
+
+B2 &lt;- subset(fish, age ==&quot;ax&quot;)$pesticides
+B2
+
+0.204 -&gt; moy
+</code></pre>
+
+<h4 id="question-1">Question 1</h4>
+<pre><code class="R">shapiro.test(A2)
+</code></pre>
+
+<p>pvalue &lt; 0.05 donc H0 est rejeté, la variable n'est pas normale</p>
+<p>essai en transformant</p>
+<pre><code class="R">shapiro.test(log(A2))
+</code></pre>
+
+<p>pvalue &lt; 0.05 donc H0 est rejeté, la variable n'est pas normale</p>
+<p>test non paramétrique pour comparer une distribution à une moyenne connue</p>
+<pre><code class="R">wilcox.test(A2, mu=moy)
+</code></pre>
+
+<p>pvalue &gt; 0.05 do,c H0 est accepté et pas de différence significative</p>
+<p>Question 2</p>
+<pre><code class="R">mean(A2)
+
+mean(B2)
+</code></pre>
+
+<p>la moyenne des poissons de 2 ans du Lac A est à priori plus grande que celle du Lac B</p>
+<p>Question 3</p>
+<p>Pas besoin de tester la normalité des poissons du Lac B car ceux du Lac A n'ont pas une distribution normale (voir Question 1)</p>
+<p>test non paramétrique pour 2 échantillons indépendants</p>
+<pre><code class="R">wilcox.test(A2, B2, alt=&quot;greater&quot;)
+</code></pre>
+
+<p>pvalue &gt; 0.05 donc H0 n'est pas acceptée et il n'y a pas de différence significative</p>
+<h4 id="question-4">Question 4</h4>
+<pre><code class="R">A4 &lt;- subset(fish, age==&quot;4ans&quot;)$pesticides
+A4
+
+shapiro.test(A4)
+</code></pre>
+
+<p>pvalue &gt; 0.05, donc H0 est accepté et il n'y a pas de différence significative</p>
+<pre><code class="R">t.test(A4, mu=moy)
+</code></pre>
+
+<p>pvalue &lt; 0.05 donc H0 est rejeté et la concentration moyenne en pesticides des poissons de 4 ans du Lac A est significativement plus grande que la moyenne nationale.</p>
+<h4 id="question-5">Question 5</h4>
+<pre><code class="R">shapiro.test(B2)
+</code></pre>
+
+<p>pvalue &gt; 0.05 donc H0 est accepté, il n'y a pas de différence significative</p>
+<pre><code class="R">t.test(A4, B2)
+</code></pre>
+
+<p>pvalue &lt; 0.05 donc H0 est rejeté, il y a une différence significative</p>
+<h1 id="exercice-5">Exercice 5</h1>
+<pre><code class="R">mais &lt;- read.table(&quot;mais.txt&quot;, sep=&quot;\t&quot;, header =T, row.names=1)
+mais
+
+
+mais2 &lt;- mais[,-c(3,4,5,6,7,8,9)]
+mais2
+
+na.omit(mais2) -&gt; mais3
+mais3
+
+plot(mais3$Hauteur, mais3$Masse, xlim=c(100,400), ylim=c(1000,3000), xlab=&quot;hauteur&quot;, ylab=&quot;masse&quot;, pch=16, col=&quot;blue&quot;)
+
+N &lt;- subset(mais3, Parcelle==&quot;Nord&quot;)$Masse
+N
+
+S &lt;- subset(mais3, Parcelle==&quot;Sud&quot;)$Masse
+S
+
+shapiro.test(S)
+</code></pre>
+
+<p>pvalue &gt; 0.05 donc H0 est accepté</p>
+<pre><code class="R">shapiro.test(N)
+</code></pre>
+
+<p>pvalue &gt; 0.05 donc H0 est accepté</p>
+<pre><code class="R">var(S)
+var(N)
+
+var.test(log(S),log(N))
+</code></pre>
+
+<p>pvalue &lt; 0.05 donc H0 est rejeté , il y a une différence significative</p>
+<p>test non paramétrique</p>
+<pre><code class="R">wilcox.test(S, N, paired=F)
+</code></pre>
+
+<p>pvalue &lt;0.05 donc H0 est rejeté, il y a donc une valeur significative</p>
+<pre><code class="R">boxplot(N, S, main = &quot;Représentation graphique&quot;)
+
+points(2,mean(S), pch=16, col=&quot;red&quot;)
+points(1,mean(N), pch=16, col=&quot;blue&quot;)
+</code></pre>
+
+<h4 id="question-5_1">Question 5</h4>
+<pre><code class="R">Hn &lt;- subset(mais3, Parcelle==&quot;Nord&quot;)$Hauteur
+Hn
+
+Ho &lt;- subset(mais3, Parcelle==&quot;Ouest&quot;)$Hauteur
+Ho
+
+shapiro.test(Hn)
+</code></pre>
+
+<p>pvalue &gt; 0.05 donc H0 est accepté</p>
+<pre><code class="R">shapiro.test(Ho)
+</code></pre>
+
+<p>pvalue &gt; 0.05 donc H0 est accepté</p>
+<pre><code class="R">var(Hn)
+var(Ho)
+
+
+var.test(Ho,Hn)
+</code></pre>
+
+<p>pvalue &gt; 0.05 donc Homoscédasticité est accepté</p>
+<pre><code class="R">mean(Hn)
+mean(Ho)
+
+t.test(Hn,Ho, var.equal=T, paired=F, alt=&quot;less&quot;)
+</code></pre>
+
+<p>pvalue &lt; 0.05 donc la parcelle Nord a une hauteur plus grande que la parcelle ouest</p>
+<pre><code class="R">dataH &lt;- c(mean(Hn), mean(Ho))
+dataH
+
+datasdH &lt;- c(sd(Hn), sd(Ho))
+datasdH
+
+labx &lt;- c(&quot;Parcelle nord&quot;, &quot;Parcelle ouest&quot;)
+
+graph &lt;- barplot(dataH, names = labx, space = 0.5, ylab= &quot;Hauteur en cm&quot;, col = &quot;blue&quot;, border =&quot;blue&quot;, axes=T, ylim = c(0,350), cex.names = 1, las =0)
+
+segments(graph, dataH-datasdH, graph, dataH+ datasdH, lwd=2)
+
+arrows(graph, dataH-datasdH, graph, dataH+ datasdH, lwd=2, angle=90, code=2, length=0.05)
+
+text(locator(1), &quot;a&quot;)
+
+text(locator(1), &quot;b&quot;)
+
+graph &lt;- barplot(dataH, names = labx, space = 0.5, ylab= &quot;Hauteur en cm&quot;, col = &quot;green&quot;, border =&quot;black&quot;,density=7, angle =45, axes=T, ylim = c(0,350), cex.names = 1, las =1)
+
+segments(graph, dataH-0, graph, dataH+ datasdH, lwd=2)
+
+arrows(graph, dataH-0, graph, dataH+ datasdH, lwd=2, angle=90, code=2, length=0.05)
+
+text(locator(1), &quot;a&quot;)
+
+text(locator(1), &quot;b&quot;)
+</code></pre>
+
+<h5 id="question-f">Question f</h5>
+<pre><code class="R">H &lt;- mais3$Hauteur
+H
+
+HJ7 &lt;- mais3$Hauteur.J7
+HJ7
+</code></pre>
+
+<p>Test de normalité</p>
+<pre><code class="R">shapiro.test(H)
+</code></pre>
+
+<p>pvalue &gt; 0.05 donc H0 est accepté, il n'y a pas de valeur différentes significative</p>
+<pre><code class="R">shapiro.test(HJ7)
+</code></pre>
+
+<p>pvalue &gt; 0.05 donc H0 est accepté, il n'y a pas de valeur différentes significative</p>
+<pre><code class="R">t.test(H, HJ7, var.equal= F, paired=T)
+</code></pre>
+
+<p>pvalue &gt; 0.05 donc H0 est accepté, il n'y a pas de valeur différentes significative</p>
+<h3 id="exercice-6">Exercice 6</h3>
+<pre><code class="R">rat &lt;- read.table(&quot;ogm.csv&quot;, sep=&quot;,&quot;, header=T, row.names =1)
+rat
+
+boxplot(rat$foie~rat$ogm)
+
+g0 &lt;- subset(rat, ogm==&quot;0&quot;)
+</code></pre>
                 
                   
                 
