@@ -1043,13 +1043,117 @@ HJ7
 
 <p>pvalue &gt; 0.05 donc H0 est accepté, il n'y a pas de valeur différentes significative</p>
 <h3 id="exercice-6">Exercice 6</h3>
-<pre><code class="R">rat &lt;- read.table(&quot;ogm.csv&quot;, sep=&quot;,&quot;, header=T, row.names =1)
-rat
-
-boxplot(rat$foie~rat$ogm)
-
-g0 &lt;- subset(rat, ogm==&quot;0&quot;)
+<h4 id="question-1_1">Question 1</h4>
+<pre><code class="R">ogm&lt;-read.table(&quot;ogm.csv&quot;, sep=',', header=T, row.names=1)
+ogm
+head(ogm)
 </code></pre>
+
+<h4 id="question-2">Question 2</h4>
+<p>Représentation graphique</p>
+<pre><code class="R">boxplot(ogm$foie~ogm$ogm, xlab=&quot;Teneur en ogm en %&quot;, ylab=&quot;Poids du foie&quot;, main=&quot;Poids du foie en fonction de la teneur en ogm&quot;)
+</code></pre>
+
+<p>Difficile de voir à première vue si il y a une différence entre les tailles des foies</p>
+<h4 id="question-3">Question 3</h4>
+<p>Selection des données</p>
+<pre><code class="R">g0&lt;-ogm[ogm$ogm==0,]
+g0
+
+g11&lt;-ogm[ogm$ogm==11,]
+g11
+
+g22&lt;-ogm[ogm$ogm==22,]
+g22
+
+g33&lt;-ogm[ogm$ogm==33,]
+g33
+
+</code></pre>
+
+<h4 id="question-4_1">Question 4</h4>
+<p>On veut faire une comparaison du poids du foie 0 ogm avec ceux 11%, 22% et 33% ogm</p>
+<p><strong>test de t de Student si conditions car nombres &lt; 30</strong></p>
+<p><strong>Conditions: Normalité et homoscédasticité</strong></p>
+<pre><code class="R">shapiro.test(g0$foie)
+</code></pre>
+
+<p>Normalité ok</p>
+<pre><code class="R">shapiro.test(g11$foie)
+</code></pre>
+
+<p>Normalité ok</p>
+<pre><code class="R">shapiro.test(g22$foie)
+</code></pre>
+
+<p>Essai avec transformation </p>
+<pre><code class="R">shapiro.test(log(g33$foie))
+</code></pre>
+
+<p>Pas de normalité</p>
+<p>Donc peut être tests paramétriques de Student pour 11% et 22% et non-paramétrique de U Mann Whitney pour 33%</p>
+<p><strong>Homoscédasticité</strong></p>
+<pre><code class="R">var(g0$foie) # 0.47
+var(g11$foie) # 0.58
+var(g22$foie) # 1.29
+
+var.test(g11$foie,g0$foie)# égalité des variances
+var.test(g22$foie,g0$foie)# pas d'égalité des variances
+</code></pre>
+
+<p>Essai après tranformation</p>
+<p>Attention si il faut une  transformation pour avoir homoscédasticité, il faut être certain que cela ne change pas la normalité</p>
+<pre><code class="R">shapiro.test(log(g22$foie))
+</code></pre>
+
+<p>Normalité ok</p>
+<pre><code class="R">shapiro.test(log(g0$foie)) 
+</code></pre>
+
+<p>Normalité ok</p>
+<pre><code class="R">var.test(log(g22$foie),log(g0$foie), na.rm=T)
+</code></pre>
+
+<p>Il n'y a pas d'égalité des variances</p>
+<p><strong>On récapitule:</strong></p>
+<ul>
+<li>
+<p><strong>tests paramétriques de Student pour 11% et non-paramétriques de U Mann Whitney pour pour 22% et 33%</strong></p>
+</li>
+<li>
+<p><strong>Test paramétrique de Student pour 0% et 11%</strong></p>
+</li>
+</ul>
+<pre><code class="R">t.test(g0$foie,g11$foie, var.equal=T)
+</code></pre>
+
+<p>Les poids moyens des foies de sont pas significativement différents entre 0% et 11% d'ogm</p>
+<p><strong>Test non-paramétrique U Mann Whitney pour 0% et 22%</strong></p>
+<pre><code class="R">wilcox.test(g0$foie,g22$foie)
+</code></pre>
+
+<p>Les poids moyens des foies de sont pas significativement différents entre 0% et 22% d'ogm</p>
+<p><strong>Test non-paramétrique U Mann Whitney pour 0% et 33%</strong></p>
+<pre><code class="R">wilcox.test(g0$foie,g33$foie)
+</code></pre>
+
+<p>Les poids moyens des foies sont significativement différents entre 0% et 33% d'ogm</p>
+<p><strong>Représentation graphique</strong></p>
+<pre><code class="R">boxplot(g0$foie,g33$foie, names=labO, ylab=&quot;Poids du foie&quot;, main=&quot;Poids du foie en fonction de la teneur en ogm&quot;)
+
+barplot.
+data&lt;-c(mean(g0$foie), mean(g33$foie)) 
+datasd&lt;-c(sd(g0$foie), sd(g33$foie)) 
+lab&lt;-c(&quot;0% ogm&quot;, &quot;33% ogm&quot;)
+graph&lt;-barplot(data,datasd, names=lab, space=0.5, ylab=&quot;Poids du foie&quot;, main=&quot;Poids du foie en fonction de la teneur en ogm&quot;, axes=T, cex.names=1, las=1, col=&quot;blue&quot;, border=&quot;blue&quot;, ylim=c(0,20))
+segments(graph, data-0, graph, data+datasd, lwd=2)
+arrows(graph, data-0, graph, data+datasd, lwd=2, angle=90, code=2, length=0.05)
+text(locator(1), &quot;a&quot;)
+text(locator(1), &quot;b&quot;)
+</code></pre>
+
+<h3 id="question-5_2">Question 5</h3>
+<p>Il faut tuer un rat pour peser son poids</p>
                 
                   
                 
