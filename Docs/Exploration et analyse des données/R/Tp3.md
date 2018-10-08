@@ -379,11 +379,136 @@ pvalue > 0.05 donc H0 est accepté, il n'y a pas de valeur différentes signific
 
 
 ### Exercice 6
+
+#### Question 1
+
 ```R
-rat <- read.table("ogm.csv", sep=",", header=T, row.names =1)
-rat
-
-boxplot(rat$foie~rat$ogm)
-
-g0 <- subset(rat, ogm=="0")
+ogm<-read.table("ogm.csv", sep=',', header=T, row.names=1)
+ogm
+head(ogm)
 ```
+#### Question 2
+
+Représentation graphique
+```R
+boxplot(ogm$foie~ogm$ogm, xlab="Teneur en ogm en %", ylab="Poids du foie", main="Poids du foie en fonction de la teneur en ogm")
+```
+Difficile de voir à première vue si il y a une différence entre les tailles des foies
+
+#### Question 3
+
+Selection des données
+```R
+g0<-ogm[ogm$ogm==0,]
+g0
+
+g11<-ogm[ogm$ogm==11,]
+g11
+
+g22<-ogm[ogm$ogm==22,]
+g22
+
+g33<-ogm[ogm$ogm==33,]
+g33
+
+```
+
+#### Question 4
+
+On veut faire une comparaison du poids du foie 0 ogm avec ceux 11%, 22% et 33% ogm
+
+**test de t de Student si conditions car nombres < 30**
+
+**Conditions: Normalité et homoscédasticité**
+```R
+shapiro.test(g0$foie)
+```
+Normalité ok
+```R
+shapiro.test(g11$foie)
+```
+Normalité ok
+```R
+shapiro.test(g22$foie)
+```
+
+Essai avec transformation 
+```R
+shapiro.test(log(g33$foie))
+```
+Pas de normalité
+
+Donc peut être tests paramétriques de Student pour 11% et 22% et non-paramétrique de U Mann Whitney pour 33%
+
+**Homoscédasticité**
+```R
+var(g0$foie) # 0.47
+var(g11$foie) # 0.58
+var(g22$foie) # 1.29
+
+var.test(g11$foie,g0$foie)# égalité des variances
+var.test(g22$foie,g0$foie)# pas d'égalité des variances
+```
+
+Essai après tranformation
+
+Attention si il faut une  transformation pour avoir homoscédasticité, il faut être certain que cela ne change pas la normalité
+
+```R
+shapiro.test(log(g22$foie))
+```
+Normalité ok
+```R
+shapiro.test(log(g0$foie)) 
+```
+Normalité ok
+```R
+var.test(log(g22$foie),log(g0$foie), na.rm=T)
+```
+Il n'y a pas d'égalité des variances
+
+**On récapitule:**
+
+* **tests paramétriques de Student pour 11% et non-paramétriques de U Mann Whitney pour pour 22% et 33%**
+
+* **Test paramétrique de Student pour 0% et 11%**
+
+```R
+t.test(g0$foie,g11$foie, var.equal=T)
+```
+
+Les poids moyens des foies de sont pas significativement différents entre 0% et 11% d'ogm
+
+**Test non-paramétrique U Mann Whitney pour 0% et 22%**
+
+```R
+wilcox.test(g0$foie,g22$foie)
+```
+Les poids moyens des foies de sont pas significativement différents entre 0% et 22% d'ogm
+
+**Test non-paramétrique U Mann Whitney pour 0% et 33%**
+
+```R
+wilcox.test(g0$foie,g33$foie)
+```
+Les poids moyens des foies sont significativement différents entre 0% et 33% d'ogm
+
+**Représentation graphique**
+
+```R
+boxplot(g0$foie,g33$foie, names=labO, ylab="Poids du foie", main="Poids du foie en fonction de la teneur en ogm")
+
+barplot.
+data<-c(mean(g0$foie), mean(g33$foie)) 
+datasd<-c(sd(g0$foie), sd(g33$foie)) 
+lab<-c("0% ogm", "33% ogm")
+graph<-barplot(data,datasd, names=lab, space=0.5, ylab="Poids du foie", main="Poids du foie en fonction de la teneur en ogm", axes=T, cex.names=1, las=1, col="blue", border="blue", ylim=c(0,20))
+segments(graph, data-0, graph, data+datasd, lwd=2)
+arrows(graph, data-0, graph, data+datasd, lwd=2, angle=90, code=2, length=0.05)
+text(locator(1), "a")
+text(locator(1), "b")
+```
+
+### Question 5
+
+Il faut tuer un rat pour peser son poids
