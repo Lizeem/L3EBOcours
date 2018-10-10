@@ -711,41 +711,81 @@
                 
                   <h1>Petite Bouverie</h1>
                 
-                <p>read.table("data18.txt") -&gt; data
+                <pre><code class="R">read.table(&quot;data18.txt&quot;) -&gt; data
 dim(data)
-head(data)</p>
-<p>t(data) -&gt; data</p>
-<p>dim(data)</p>
-<p>colSums(data)</p>
-<p>data[,-which(colSums(data)==0)] -&gt; data1</p>
-<p>dim(data1)</p>
-<p>data1 -&gt; data</p>
-<p>apply(data, 2, mean)</p>
-<p>rep(1:42, each = 5) -&gt; fac42</p>
-<p>list(fac42) -&gt; fac42</p>
-<p>aggregate(data, fac42, sum) -&gt; dat42</p>
-<p>dat42[,-1] -&gt; dat421</p>
-<p>dat421 -&gt; dat42</p>
-<p>rm(dat421)</p>
-<p>head(dat421)</p>
-<p>order(colSums(dat42))</p>
-<p>dat42[,order(-colSums(dat42))]</p>
-<p>head(dat42)
-rowSums(dat42&gt;0) -&gt; richesse</p>
-<p>rowSums(ifelse(dat42&gt;0, 1, 0)) -&gt; richesse2</p>
-<p>richesse2==richesse</p>
-<p>install.packages("ade4")</p>
-<p>library(ade4)</p>
-<p>rep(1:6, 7) -&gt; x
-rep(c(14,12,10,8,6,4,2),each=6) -&gt; y</p>
-<p>cbind(x,y) -&gt; xy</p>
-<p>xy</p>
-<p>plot(xy)</p>
-<p>s.value(xy,richesse, method ="greylevel")</p>
-<p>s.value(xy, richesse-15.28)</p>
-<p>mdu &lt;- 1</p>
-<p>s.value(xy, dat42[,mdu], sub=colnames(dat42)[mud], csub=3)</p>
-<p>read.table("facteurs2018.txt") -&gt; fac18</p>
+head(data)
+
+t(data) -&gt; data
+
+dim(data)
+
+colSums(data)
+
+data[,-which(colSums(data)==0)] -&gt; data1
+
+dim(data1)
+
+data1 -&gt; data
+
+apply(data, 2, mean)
+
+rep(1:42, each = 5) -&gt; fac42
+
+list(fac42) -&gt; fac42
+
+aggregate(data, fac42, sum) -&gt; dat42
+
+dat42[,-1] -&gt; dat421
+
+dat421 -&gt; dat42
+
+rm(dat421)
+
+
+
+head(dat421)
+
+order(colSums(dat42))
+
+dat42[,order(-colSums(dat42))]
+
+head(dat42)
+rowSums(dat42&gt;0) -&gt; richesse
+
+rowSums(ifelse(dat42&gt;0, 1, 0)) -&gt; richesse2
+
+richesse2==richesse
+
+install.packages(&quot;ade4&quot;)
+
+
+library(ade4)
+
+rep(1:6, 7) -&gt; x
+rep(c(14,12,10,8,6,4,2),each=6) -&gt; y
+
+cbind(x,y) -&gt; xy
+
+xy
+
+plot(xy)
+</code></pre>
+
+<p><img alt="Graphique respresentant les différentes parcelles" src="../Images/plotxy.JPG" /></p>
+<pre><code class="R">s.value(xy,richesse, method =&quot;greylevel&quot;)
+</code></pre>
+
+<p><img alt="Graphique représentant la richesse de chaque parcelle" src="../Images/richesse.JPG" /></p>
+<pre><code class="R">s.value(xy, richesse-15.28)
+</code></pre>
+
+<p><img alt="Graphique représentant la richesse de chaque parcelle" src="../Images/richesse2.JPG" /></p>
+<pre><code class="R">mdu &lt;- 1
+
+s.value(xy, dat42[,mdu], sub=colnames(dat42)[mud], csub=3)
+
+read.table(&quot;facteurs2018.txt&quot;) -&gt; fac18
+</code></pre>
                 
                   
                 
