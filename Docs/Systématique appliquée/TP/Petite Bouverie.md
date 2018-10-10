@@ -1,3 +1,4 @@
+```R
 read.table("data18.txt") -> data
 dim(data)
 head(data)
@@ -56,13 +57,20 @@ cbind(x,y) -> xy
 xy
 
 plot(xy)
-
+```
+![Graphique respresentant les différentes parcelles](Images/plotxy.JPG)
+```R
 s.value(xy,richesse, method ="greylevel")
-
+```
+![Graphique représentant la richesse de chaque parcelle](Images/richesse.JPG)
+```R
 s.value(xy, richesse-15.28)
-
+```
+![Graphique représentant la richesse de chaque parcelle](Images/richesse2.JPG)
+```R
 mdu <- 1
 
 s.value(xy, dat42[,mdu], sub=colnames(dat42)[mud], csub=3)
 
 read.table("facteurs2018.txt") -> fac18
+```
