@@ -1,13 +1,12 @@
 # Les Bryophytes
 
-
 On les retrouve sur tous les types d'habitats, dans toutes les régions du globe à l'exception des océans. On peut avoir des bryophytes aquatiques d'eau douce. Comme le *Fertinalis sp*. 
 
 ## I) Généralités
 
 D'après la classification évolutionniste : 
 
-* Cormophytes *primitifs*
+* Cormophytes "primitifs"
 
     * cycle digénétique hétéromorphe à **haplophase** dominante
     * cormus peu différencié lorsqu'il existe
@@ -15,14 +14,14 @@ D'après la classification évolutionniste :
     * sporanges/ gamétanges,
     * oogamie (gamète mâle vient féconder le gamète femelle)
     
-Ce sont des **Bryophytes**
+Ce sont les **Bryophytes**.
 
 * Cormophytes *plus évolués*
 
     * cycle digénétique hétéromorphe à **diplophase** dominante
     * éléments conducteurs différenciés
     
-Ce sont des **Cormophytes vasculaires**
+Ce sont des **Cormophytes vasculaires**.
 
 Oogamie : **Ptéridophytes**
 
@@ -57,7 +56,11 @@ Les traits écologiques
 * résistance aux stress, contraintes physiques
 * plantes pionnières (blocage succession), substance allélopathiques
 
-(voir schéma)
+Approche cladistique : hypothèse
+
+![hypothèse emplacement des groupes](Images/legroupe.JPG)
+
+## II) Présentation du groupe
 
 10 000 genres et 25 000 espèces
 
@@ -67,7 +70,7 @@ Bryophytes sl : 3 embranchements classiquement présentées
 * **Anthocérotes** = Anthocérophyta
 * **Bryophyta ss** = mousses
 
-Embt Hépatophyta = Marchantiophyta
+### A) Embt Hépatophyta = Marchantiophyta
 
 Il existe 6 ordres, 250 genres 6 000 espèces
 
@@ -92,11 +95,11 @@ Deux morpho-types :
 * hépatiques à thalles
 * hépatiques à feuille
 
-Hépatiques à thalle = **Marchantiales** 
+#### Hépatiques à thalle = **Marchantiales** 
 
 Le plus connu est le *Marchantia polymorpha* ou Hépatique des fontaines
 
-Le gamétophyte
+Le gamétophyte:
 
 * dichotomie vraie
 * début du developpement par une cellule apicale lenticulaire
@@ -111,7 +114,7 @@ Le gamétophyte
     * Anthéridiophores
     
 
-#### Sporophyte ou sporogone
+Le sporophyte ou sporogone:
 
 * porté par les archégoniophores
 * issu de la fécondation de l'**oosphère** par un **anthérozoïde**
@@ -136,13 +139,15 @@ Le gamétophyte
     
 #### Hépathique à thalle : Metzgeriales
 
+Le gamétophyte
+
 * Gamétophyte thalloïde mais beacoup plus simple que les Marchantiales
 * Début du developpement par une cellule apicale lenticulaire
 * Aucun tissu de réserve différencié : oléocorps dans C chlorophylliennes
 * Différencie des "bractées" foliacées pour protéger les archégones et parfois les anthérides
 * Archéogones en position non terminale : anacrogynie 
 
-Sporophyte:
+Le sporophyte:
 
 * porté par une soie hyaline
 * protégé pendant la plus grande partie de son developpement dans le thalle et par la ou les "bractées".
@@ -165,5 +170,63 @@ Gamétophyte:
 * Différenciation d'une cellule apicale tétraédrique
 * Ramification jamais terminale
 
-Lorsque le rameau se couche, il y a production de formations différentes par les faces de l'apicale en fonction de leur position topographique
+Lorsque le rameau se couche, il y a production de formations différentes par les faces de l'apicale en fonction de leur position topographique:
+
+![Formations différentes Jungermaniales](Images/formation.JPG)
+
+* Gamétanges en position terminale du gamétophore
+* Archégones protégés par une enveloppe plus ou moins complexe = **le marsupium**
+
+Soporphytes:
+
+* Porté par une **soie hyaline**
+* Protégé pendant la plus grande partie de developpement par la/les "bractées"
+* Libère un mélange d'élatères et de méiospores, par déchirure de 4 orthostiques
+* Sporopollenine
+
+#### Bilan sur les Hépatiques :
+
+C'est un groupe relativement homogène en ce qui concerne le sporophyte:
+
+* porté par une soie 
+* libération d'un mélange de spores et d'élatères par déchirure longitudinale
+
+C'est un groupe extrêmement variable au niveau du **gamétophyte**:
+
+* thalles complexes, 
+* thalles simples
+* axes distiques
+* axes tristiques...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
