@@ -23,3 +23,5 @@ list(fac42) -> fac42
 aggregate(data, fac42, sum) -> dat42
 
 read.table("facteurs2018.txt") -> fac18
+
+install.packages("agricolae")
