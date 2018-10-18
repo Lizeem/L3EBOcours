@@ -98,3 +98,5 @@ bxp1
 
 relevel(fm$genre, "M") -> fm$genre
 
+install.packages("vegan")
+
