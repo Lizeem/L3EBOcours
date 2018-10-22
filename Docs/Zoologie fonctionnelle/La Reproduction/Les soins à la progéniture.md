@@ -23,13 +23,13 @@
 2) **Entourer la progéniture d'une structure protectrice**
 
 * oothèques, permet à l'oeuf de se fixer à la végétation
-
 * nids
-
 * cocons
+* organes situés en dehors du corps de l'embryon, assurant sa protection 
 
-* organes situés en dehors du corps de l'embryon, assurant sa protection **annexes embryonnaire** dont l'**amnios**:
-	* Chez les tétrapodes, l'amnios est une cavité qui va entourer l'embryon **cavité amniotique** qui va proteger l'embryon qui recreer un milieu aquatique pour l'embryon.
+**annexes embryonnaire** dont l'**amnios**:
+
+* Chez les tétrapodes, l'amnios est une cavité qui va entourer l'embryon **cavité amniotique** qui va proteger l'embryon qui recreer un milieu aquatique pour l'embryon.
 
 ![Amnios](Images/Fig29.JPG)
 
