@@ -22,3 +22,7 @@ Influence:
 * Concentration en Oxygène
 * Quantité d'eau (ici hauteur d'eau)
 
+Résultats d'échantillonnage:
+
+![Résultats d'échantillonage pour tous les groupes](Images/IBGN.JPG)
+
