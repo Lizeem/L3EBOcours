@@ -89,3 +89,18 @@ Trace orange sur roche -> brouteur d'algues, patales, respiration branchiale, st
 
 La dissolution de la craie est crée par la respiration branchiale
 
+Le pourpre est un prédateur de gastéropode
+
+Bivalve qui filtre
+Problèmes:
+
+1) Respiration -> métabolisme en anaérobie à ME
+2) Nutrition
+
+Quand elle n'est pas recouverte d'eau, elle ne peut pas libérer ses déchets
+
+Elle est donc capable de stocker 60%
+
+Algue dominante -> phucus vesiculesus possède des flottants afin d'être le plus proche possible de la lumière
+
+Plasticité phénotypique

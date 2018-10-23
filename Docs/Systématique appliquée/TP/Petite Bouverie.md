@@ -72,5 +72,58 @@ mdu <- 1
 
 s.value(xy, dat42[,mdu], sub=colnames(dat42)[mud], csub=3)
 
-read.table("facteurs2018.txt") -> fac18
+read.table("facteurs2018.txt") -> fac
+
+install.packages("agricolae")
+
+fac
+
+library(ade4)
+
+head(fac)
+
+head(dat42)
+
+rowSums(dat42>0) -> ric
+
+ric
+
+
+colnames(dat42)
 ```
+ La fréquence de fauchage a t-elle un impacte sur la présence d'espèce néctarifère
+
+```R
+dat42[,c(1,9,10,19,23,35)] -> datnec
+
+rowSums(datnec) -> abnec
+
+rowSums(datnec>0) -> rnec
+
+head(fac)
+summary(fac$Freq)
+
+sunflowerplot(fac$Freq, abnec)
+
+boxplot(abnec~fac$Freq)
+
+library(agricolae)
+
+print(kruskal(abnec,fac$Freq))
+
+boxplot(abnec~fac$Exp)
+
+
+kruskal(abnec,fac$Exp)
+
+print(kruskal(abnec,fac$Exp))
+
+which.max(abnec)
+
+boxplot(abnec~fac$gestion)
+
+boxplot(abnec~fac$Exp*fac$Freq)
+
+boxplot(ric~fac$Exp*fac$Freq)
+```
+
