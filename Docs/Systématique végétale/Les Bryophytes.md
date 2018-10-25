@@ -199,29 +199,162 @@ C'est un groupe extrêmement variable au niveau du **gamétophyte**:
 * axes tristiques...
 
 
+**MARCHANTIOPHYTA (Phylum)**
 
+* JUNGERMANNIOPSIDA (Cl) 
 
+	* Jungermanniidae (Ss Cl) 
+	* Jungermanniales (O) 
+	* Lepicoleales (O) 
+	* Pleuroziales (O) 
+	* Porellales (O) 
+	* Radulales (O) 
 
+* Metzgeriidae (Ss Cl) 
 
+	* Blasiales (O)
+	* Fossombroniales (O) 
+	* Haplomitriales (O) 
+	* Metzgeriales (O) 
+	* Treubiales (O) 
 
+**MARCHANTIOPSIDA (Cl)** 
 
+* Marchantiidae (Ss Cl) 
 
+	* Marchantiales (O) 
+	* Monocleales (O) 
+	* Ricciales (O) 
 
+* Sphaerocarpidae (Ss Cl) 
 
+	* Sphaerocarpales (O) 
 
+### B) Anthocérotes
 
+Caractéristiques : 
 
+* Appareil végétatif : talle
 
+C'est le seul cormophyte qui ne synthétise pas de flavonoides
 
+* Grand chloroplaste à pyrénoide (zone non pigmentée, présence d'amidon possible)
+* Présence de stomates sur gamétophyte et sporophyte
+* Croissance du sporophyte entretenue par une strcture basale
+* Croissance du sporophyte indéfinie
+* Sporophyte vert : assise photosynthétique
+* Présence d'une cuticule
+* Libération de spores et d'élatères par déhiscence variable
 
+### C) Mousses
 
+#### Sphagnales (o)
 
+Caractéristiques :
 
+* Protonéma discoïdal monostromatique
+* Apicale tétraédrique
+* Gamétophytes à feuilles tristiques
+* Densément ramifiées
+* Deux types cellulaires au niveau des feuilles
 
+Sporophyte:
 
+* Capsule sans élatères
+* Columelle
+* Déhiscence circulaire
+* Pseudopode (n) surélevant le sporophyte
+* Pas de péristome
 
+C'est un groupe très homogène, il est caractériqé par sa capacité à se developper dans des milieux extrêmement acides et humides (**tourbières**) et une grande importance dans le stockage du carbone (**décomposition lente**).
 
+#### Andrédales(o)
 
+Habitat spécialisé:
+
+* saxicoles
+* souvent altitude
+
+La dormance est possible
+
+* Feuilles tristiques
+* Gamétophyte petit
+* Sporophyte s'ouvrant 4 fentes
+* Columelle
+
+#### Bryales (o)
+
+Caractéristiques du Gématophyte:
+
+* stade protonémique filamenteux
+* developpement sur protonema de "bourgeons" (apicale tétraédrique, donnent naissance à des "tiges feuillées", gamétophore)
+* gamétophore très variable anatomiquement
+* porte corbeille à anthéridies ou archégones, paraphyses
+* dans les tiges d'un grand nombre de Bryales, présence: 
+	* Hydroïque
+	* Leptoïde
+
+Sporophyte:
+
+* soie
+* capsule (apophyse, columelle, péristome, opercule, tissu sporifère, coiffe)
+* stomates
+* libération de spores
+
+#### Bilan Bryophyta 
+
+* Assez grande homogénéité du gamétophyte -> tristique
+* Sporophyte plus variable: point commum = la columelle
+* Certains présentent des systèmes de libérations des spores sophistiqués (Péristomes)
+* Grande réussite du groupe
+
+#### Les Takakiopsides
+
+* un seul genre, 2 espèces
+* connue depuis peu : 1958 pour le gamétophyte F, 1989 pour le gamétophyte M
+* répartition disjointe : Japon, Canada
+* tige à symétrie radiale, édifiée le plus souvent par une cellule tétraédrique
+* aucun rhizoïde
+* anthéridies courtement pédicellées, archégones en position latérale
+* séquençage récent des 18S et 26 S rRNA : place les Takakia en groupe frère des Bryophytes
+
+#### Les Bryophytes
+
+Possèdent comme points communs:
+
+* cycle de reproduction
+* fécondation
+* sporopollenine
+* présence d'une protection des premiers stades du sporophyte (et d'un embryon multecellulaire)
+
+## III) La recherche du groupe frère
+
+Les Charophytes présentent des points communs avec les Bryophytes et les cormophytes vasculaires
+
+* anthérozoïde asymétrique bicilié
+* structure multiassisiale
+* phragmoplastes similaires
+* Oogamie
+* certaines characées synthétisent de la sporopollénine
+* cycle de developpement : haplophasique 
+* présence de plasmodesmes
+
+Des mousses aux trachéophytes, apparition de:
+
+* sporophytes dominants 
+* véritable xylème et phloème 
+* sporophyte ramifié à nombreux sporanges
+* lignine 
+
+Cela implique que les bryophytes sont un groupe paraphylétique basé sur le partage d'une symplésiomorphie : gamétophyte dominant
+
+Acquisition des caractères marquant la transition vers les eu-trachéophytes:
+
+* trachéides et tubes criblés différenciés 
+* transition pseudolignines-lignines 
+* acquisition et différencation (complexe!) de la racine vraie 
+* dominance du sporophyte 
+* protection de plus en plus complexe du jeune sporophyte  par des tissus d’origine gamétophytique puis uniquement sporophytique.
 
 
 
