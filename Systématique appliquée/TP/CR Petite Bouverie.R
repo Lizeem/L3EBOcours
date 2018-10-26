@@ -35,7 +35,7 @@ head(dat42)
 dat45<-dat42[,-c(12,26,35,33,39,31)]
 dat45
 dat42<-dat45
-
+dat42
 #Objet 
 
 
@@ -56,10 +56,12 @@ fau1AR<-dat42[c(27,34,41),]
 
 #tonte14SR 
 tonte14SR<-tonte14SR[,-which(colSums(tonte14SR)==0)]
+tonte14SR
 ifelse(tonte14SR[1,]==0,0,1)->tonte14SR1 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(tonte14SR[2,]==0,0,1)->tonte14SR8 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(tonte14SR[3,]==0,0,1)->tonte14SR15 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 c(rowSums (tonte14SR1, na.rm = FALSE, dims = 1),rowSums (tonte14SR8, na.rm = FALSE, dims = 1),rowSums (tonte14SR15, na.rm = FALSE, dims = 1))->tonte14SRfinal #on réunit les richesses spécifiques des 3 sous parcelles similaire dans une même liste
+tonte14SRfinal
 
 #tonte10SR
 tonte10SR<-tonte10SR[,-which(colSums(tonte10SR)==0)]
@@ -67,6 +69,7 @@ ifelse(tonte10SR[1,]==0,0,1)->tonte10SR2 #on met un 1 si l'espèce est présente 0
 ifelse(tonte10SR[2,]==0,0,1)->tonte10SR9 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(tonte10SR[3,]==0,0,1)->tonte10SR16 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 c(rowSums (tonte10SR2, na.rm = FALSE, dims = 1),rowSums (tonte10SR9, na.rm = FALSE, dims = 1),rowSums (tonte10SR16, na.rm = FALSE, dims = 1))->tonte10SRfinal
+tonte10SRfinal
 
 #tonte7SR
 tonte7SR<-tonte7SR[,-which(colSums(tonte7SR)==0)]
@@ -74,7 +77,7 @@ ifelse(tonte7SR[1,]==0,0,1)->tonte7SR3 #on met un 1 si l'espèce est présente 0 s
 ifelse(tonte7SR[2,]==0,0,1)->tonte7SR10 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(tonte7SR[3,]==0,0,1)->tonte7SR17 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 c(rowSums (tonte7SR3, na.rm = FALSE, dims = 1),rowSums (tonte7SR10, na.rm = FALSE, dims = 1),rowSums (tonte7SR17, na.rm = FALSE, dims = 1))->tonte7SRfinal
-
+tonte7SRfinal
 
 
 #fau3SR
@@ -83,7 +86,7 @@ ifelse(fau3SR[1,]==0,0,1)->fau3SR4 #on met un 1 si l'espèce est présente 0 si el
 ifelse(fau3SR[2,]==0,0,1)->fau3SR11 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(fau3SR[3,]==0,0,1)->fau3SR18 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 c(rowSums (fau3SR4, na.rm = FALSE, dims = 1),rowSums (fau3SR11, na.rm = FALSE, dims = 1),rowSums (fau3SR18, na.rm = FALSE, dims = 1))->fau3SRfinal
-
+fau3SRfinal
 
 #fau2SR
 fau2SR<-fau2SR[,-which(colSums(fau2SR)==0)]
@@ -91,7 +94,7 @@ ifelse(fau2SR[1,]==0,0,1)->fau2SR5 #on met un 1 si l'espèce est présente 0 si el
 ifelse(fau2SR[2,]==0,0,1)->fau2SR12 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(fau2SR[3,]==0,0,1)->fau2SR19 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 c(rowSums (fau2SR5, na.rm = FALSE, dims = 1),rowSums (fau2SR12, na.rm = FALSE, dims = 1),rowSums (fau2SR19, na.rm = FALSE, dims = 1))->fau2SRfinal
-
+fau2SRfinal
 
 #fau1SR
 fau1SR<-fau1SR[,-which(colSums(fau1SR)==0)]
@@ -99,7 +102,7 @@ ifelse(fau1SR[1,]==0,0,1)->fau1SR6 #on met un 1 si l'espèce est présente 0 si el
 ifelse(fau1SR[2,]==0,0,1)->fau1SR13 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(fau1SR[3,]==0,0,1)->fau1SR20 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 c(rowSums (fau1SR6, na.rm = FALSE, dims = 1),rowSums (fau1SR13, na.rm = FALSE, dims = 1),rowSums (fau1SR20, na.rm = FALSE, dims = 1))->fau1SRfinal
-
+fau1SRfinal
 
 #fau0
 fau0<-fau0[,-which(colSums(fau0)==0)]
@@ -110,6 +113,7 @@ ifelse(fau0[4,]==0,0,1)->fau028 #on met un 1 si l'espèce est présente 0 si elle 
 ifelse(fau0[5,]==0,0,1)->fau035 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(fau0[6,]==0,0,1)->fau042 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 c(rowSums (fau07, na.rm = FALSE, dims = 1),rowSums (fau014, na.rm = FALSE, dims = 1),rowSums (fau021, na.rm = FALSE, dims = 1),rowSums (fau028, na.rm = FALSE, dims = 1),rowSums (fau035, na.rm = FALSE, dims = 1),rowSums (fau042, na.rm = FALSE, dims = 1))->fau0final
+fau0final
 
 #tonte14AR
 tonte14AR<-tonte14AR[,-which(colSums(tonte14AR)==0)]
@@ -117,7 +121,7 @@ ifelse(tonte14AR[1,]==0,0,1)->tonte14AR22 #on met un 1 si l'espèce est présente 
 ifelse(tonte14AR[2,]==0,0,1)->tonte14AR29 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(tonte14AR[3,]==0,0,1)->tonte14AR36 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 c(rowSums (tonte14AR22, na.rm = FALSE, dims = 1),rowSums (tonte14AR29, na.rm = FALSE, dims = 1),rowSums (tonte14AR36, na.rm = FALSE, dims = 1))->tonte14ARfinal
-
+tonte14ARfinal
 
 #tonte10AR
 tonte10AR<-tonte10AR[,-which(colSums(tonte10AR)==0)]
@@ -125,7 +129,7 @@ ifelse(tonte10AR[1,]==0,0,1)->tonte10AR23 #on met un 1 si l'espèce est présente 
 ifelse(tonte10AR[2,]==0,0,1)->tonte10AR30 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(tonte10AR[3,]==0,0,1)->tonte10AR37 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 c(rowSums (tonte10AR23, na.rm = FALSE, dims = 1),rowSums (tonte10AR30, na.rm = FALSE, dims = 1),rowSums (tonte10AR37, na.rm = FALSE, dims = 1))->tonte10ARfinal
-
+tonte10ARfinal
 
 #tonte7AR
 tonte7AR<-tonte7AR[,-which(colSums(tonte7AR)==0)]
@@ -133,6 +137,7 @@ ifelse(tonte7AR[1,]==0,0,1)->tonte7AR24 #on met un 1 si l'espèce est présente 0 
 ifelse(tonte7AR[2,]==0,0,1)->tonte7AR31 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(tonte7AR[3,]==0,0,1)->tonte7AR38 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 c(rowSums (tonte7AR24, na.rm = FALSE, dims = 1),rowSums (tonte7AR31, na.rm = FALSE, dims = 1),rowSums (tonte7AR38, na.rm = FALSE, dims = 1))->tonte7ARfinal
+tonte7ARfinal
 
 #fau3AR
 fau3AR<-fau3AR[,-which(colSums(fau3AR)==0)]
@@ -140,6 +145,7 @@ ifelse(fau3AR[1,]==0,0,1)->fau3AR25 #on met un 1 si l'espèce est présente 0 si e
 ifelse(fau3AR[2,]==0,0,1)->fau3AR32 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(fau3AR[3,]==0,0,1)->fau3AR39 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 c(rowSums (fau3AR25, na.rm = FALSE, dims = 1),rowSums (fau3AR32, na.rm = FALSE, dims = 1),rowSums (fau3AR39, na.rm = FALSE, dims = 1))->fau3ARfinal
+fau3ARfinal
 
 #fau2AR
 fau2AR<-fau2AR[,-which(colSums(fau2AR)==0)]
@@ -147,6 +153,7 @@ ifelse(fau2AR[1,]==0,0,1)->fau2AR26 #on met un 1 si l'espèce est présente 0 si e
 ifelse(fau2AR[2,]==0,0,1)->fau2AR33 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(fau2AR[3,]==0,0,1)->fau2AR40 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 c(rowSums (fau2AR26, na.rm = FALSE, dims = 1),rowSums (fau2AR33, na.rm = FALSE, dims = 1),rowSums (fau2AR40, na.rm = FALSE, dims = 1))->fau2ARfinal
+fau2ARfinal
 
 #fau1AR
 fau1AR<-fau1AR[,-which(colSums(fau1AR)==0)]
@@ -154,6 +161,7 @@ ifelse(fau1AR[1,]==0,0,1)->fau1AR27 #on met un 1 si l'espèce est présente 0 si e
 ifelse(fau1AR[2,]==0,0,1)->fau1AR34 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 ifelse(fau1AR[3,]==0,0,1)->fau1AR41 #on met un 1 si l'espèce est présente 0 si elle ne l'est pas
 c(rowSums (fau1AR27, na.rm = FALSE, dims = 1),rowSums (fau1AR34, na.rm = FALSE, dims = 1),rowSums (fau1AR41, na.rm = FALSE, dims = 1))->fau1ARfinal
+fau1ARfinal
 
 #######################################################################################################################################################################
 
@@ -305,5 +313,8 @@ wilcox.test(fau2ARfinal,fau0final,paired=F,side="two.sided") #p-value=0.2393
 
 #test fau1/fau0
 wilcox.test(fau1ARfinal,fau0final,paired=F,side="two.sided") #p-value=0.03725
+
+
+
 
 
