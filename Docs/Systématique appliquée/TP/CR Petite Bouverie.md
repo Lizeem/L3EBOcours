@@ -91,7 +91,7 @@ Annexe 1: Site expérimental La Petite Bouverie- Rouen
 
 Annexe 2: Liste des espèces observées et type biologique associée.
 
-![Liste des espèces](images/espècesPB.JPG)
+![Liste des espèces](Images/espècesPB.JPG)
 
 
 
