@@ -356,10 +356,3 @@ Acquisition des caractères marquant la transition vers les eu-trachéophytes:
 * dominance du sporophyte 
 * protection de plus en plus complexe du jeune sporophyte  par des tissus d’origine gamétophytique puis uniquement sporophytique.
 
-
-
-
-
-
-
-
