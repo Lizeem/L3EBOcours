@@ -21,7 +21,7 @@ Inclinaison de la Terre sur son axe, des modifications au niveau des quantités 
 
 ## A) Le rayonnement solaire
 
-### Bilan radiatif
+### 1) Bilan radiatif
 
 L'énergie arrivant sur terre provient du soleil, par :
 
@@ -83,6 +83,131 @@ Il existe différents rayonnements:
 * Rayonnement thermique: émis par l'atmosphère, les nuages, surface terrestre et ses composants (energie des photons plus faible)
 
 Les rayonnements s'opposent en direction. Le rayonnement thermique est continu à l'inverse du solaire
+
+Le bilan énergétique entre ces deux rayonnements est un **rayonnement net** (Rn)
+
+**Rn = Rg (1-a) + Ra - Rt**
+
+Rg = rayonnement global 
+
+a = albédo
+
+Ra = Rt thermique atmosphérique + nuages vers le sol
+
+Rt = rayonnement thermique de la Terre
+
+### 2) Périodicité du rayonnement solaire
+
+Jour : bilan du rayonnement solaire = positif
+
+Nuit : bilan du rayonnement  = négatif 
+
+-> **Périodicité journalière**
+
+Sur une année : variation des bilans du rayonnement
+
+* évolution saisonnière : + en été, - en hiver
+
+-> **Périodicité annuelle**
+
+Ce sont des **périodicités prévisibles**
+
+### 3) Variablitié du rayonnement solaire
+
+Nature de l'NRJ solaire atteignant une plante :
+
+* **Energie réfléchie** = réflectance (réflexion totale pour une longueur d’onde donnée)
+
+* **Energie transmise** = transmittance(Transmission)
+
+* **Energie absorbée** au niveau des feuilles = absorbance (Absorption)
+
+Une partie de l'énergie absorbée est utilisée sous forme de chaleur latente: transformation de l'eau en vapeur d'eau.
+
+La nature des échanges énergétiques dépend:
+
+* des longueurs d'onde (majoritairement)
+* mais également des caractéristiques des feuilles
+
+-> **existe des différence entre espèces**
+
+La variablilité du rayonnement est fonction du couvert végétal
+
+-> **en fonction de l'indice foliaire**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
