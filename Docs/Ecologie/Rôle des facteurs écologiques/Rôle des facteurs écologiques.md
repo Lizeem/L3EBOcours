@@ -173,8 +173,37 @@ Ex: le Hêtre
 
 Germination des graines: nécessite une faible luminosité. Dès la 2<sup>eme</sup> année :  nécéssité d'augmenter la lumière sinon survie limitée
 
+**Lumière** : influence de nombreux processus biologiques par les réactionsphotochimiques qu'elle provoque
 
+Chez les **phanérogames**, elle influence:
 
+* germination
+* croissance
+* floraison ...
+
+#### Influence de la germination 
+
+Bilan demultiples expériences : nombreuses espèces sont affectées par la lumière lors de leur germination
+
+**Sur 964 espèces testées**
+
+![Bilan de multiples expériences](Images/test.JPG)
+
+Sensiblité à la lumière évolue avec l'âge des plantes
+
+ex: *Epilobium angustifolium*: perd ses exigences après quelques semaines
+
+*Epilobium parviflorum* : garde ses exigences pendant plus d'1 an
+
+Sensibilité est différente en fonction des conditions écologiquesdu milieu : variation en fonction de la température ou encore des teneurs en Nitrate de Sodium
+
+ex : *Betula alba*: si la température est élevée, moins d'exigences lumineuse
+
+*Hypericum perforatum* (millepertuis): si [C] élevée en NaNO<sub>3</sub>, besoins en lumière seront moindres
+
+#### Influence sur la morphogénèse 
+
+La lumière affecte la **croissance** des plantes
 
 
 
