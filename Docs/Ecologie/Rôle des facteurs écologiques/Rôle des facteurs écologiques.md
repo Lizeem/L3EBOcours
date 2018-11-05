@@ -222,7 +222,85 @@ Il y a également des adaptations locales:
     
    * phénomène de phototropisme : modification de l'architecture de la plante (hormone) orientation vers le gradient lumineux.
    
-   
+#### Influence sur la photosynthèse et la croissance 
+
+L'intensité lumineuse affecte la croissance et l'activité photosynthétique des végétaux
+
+* feuille d'ombre: plus efficaces pour l'utilisation de l'énergie en condition de faible éclairement : se traduit par 1 point de compensation lumineux (point où la fixation photosynthétique du C = les pertes respiratoires) est bas
+* fixation photosynthétique du CO2 par les feuilles d'ombres atteint une valeur saturante pour un éclairement plus faible par rapport aux feuilles de lumière
+* en condition naturelles :photosynthèse des feuilles de lumière supérieur à celle des feuilles d'ombre
+
+Même parallèle entre espèces sciaphiles et héliophiles
+
+* ces deux types diffèrent au niveau de leur activité photosynthétique
+
+Au sein des espèces héliophiles (= héliophytes) : possible de mettre en évidence de grandes différences en terme d'activité photosynthétique
+
+* deux catégories d'héliophytes: 
+	* les C4 : beaucoup de poacées tropicales
+    * les C3
+Les C4 n'ont pas de plateau de saturation en conditions de fort éclairement contrairement aux C3
+
+Pour les espèces sciaphiles : leur adaptation est pondérée par un ensemble de conditions : 
+
+* microclimat
+* conditions édaphiques locales
+
+Il est difficile de hiérarchiser les facteurs. Il est possible d'observer des espèces au comportement sciaphile dans des stations forestières mais pouvant vivre en conditions découvertes en altitude.
+
+Ex: *Luzula sylvatica, Vaccinum myrtillus*
+
+* en altitude : diminution de la température est compensée par l'augmentation de l'éclairement
+* en plaine : la localisation de ces espèces est liée à leur sensibilité aux températures élevées et/ou à la sécheresse atmosphérique
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
 
 
