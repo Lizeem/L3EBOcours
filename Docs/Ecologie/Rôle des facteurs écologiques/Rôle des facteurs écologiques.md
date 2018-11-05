@@ -205,7 +205,25 @@ ex : *Betula alba*: si la température est élevée, moins d'exigences lumineuse
 
 La lumière affecte la **croissance** des plantes
 
+En conditions ombragées, il y a des adaptations phénotypiques, au niveau de la plante entière:
 
+* les parties aériennes sont plus importantes que les parties souterraines = **ratio tige**/**racine augmente**
+
+-> conséquence possible: moindre résistance à la sécheresse
+
+Dans les conditions normales, la plante ou sa descendance retrouve son aspect initial.
+
+Il y a également des adaptations locales:
+
+* au niveau des organes:
+
+	* augmentation de la surface foliaire et diminution de l'épaisseur = **ration surface / poids sex augmente**
+    * structure du limbe différente: parenchyme palissadique est moins différencié, réseau de nervures plus lâche, densité des stomates plus faible, cuticule plus fine.
+    
+   * phénomène de phototropisme : modification de l'architecture de la plante (hormone) orientation vers le gradient lumineux.
+   
+   
+   
 
 
 
