@@ -135,9 +135,43 @@ La variablilité du rayonnement est fonction du couvert végétal
 
 -> **en fonction de l'indice foliaire**
 
+A l'intérieur du couvert végétal, le rayonnement solaire pénètre de façon différente:
 
+* le rayonnement direct : feuillage ouvert
+* le rayonnement transmis: feuillage dense
 
+-> **important dans les processus de stratification des écosystèmes**
 
+## B) Importance de la lumière sur les organismes
+
+Fraction d'NRJ solaire entrant dans la photosynthèse : **< 1 %**
+
+Dans le bilan énergétique : elle est négligeable **mais** fondamentale sur le plan écologique
+
+Selon  le  système  considéré,  la  conversion énergie  lumineuse  en  énergie chimique est variable
+
+Les réponses  écologiques  et  optimum écologique  des  espèces sont  variables  vis  à  vis  du  facteur  lumière.  Les  réponses  sont bornées par :
+
+* insuffisance de lumière : étiolement des espèces
+* excès de lumière : dessèchement des tissus
+
+L'adaptation de certaines espèces à la lumière et d'autres à l'ombre permet une **stratification** des espèces dans les systèmes tels que les écosystèmes forestiers.
+
+* **espèces sciaphiles : jamais en canopée**
+* **espèces héliophiles : forment le couvert**
+
+Dans le cas d'une intensité lumineuse extrême:
+
+* feuillage à forte albédo : réflectance max
+* orientation du feuillage différente
+
+Ex: le Chêne
+
+La germination des graines : meilleures avec une forte luminosité. Dès la 2<sup>eme</sup> année  : nécessité de diminuer la lumière sinon mortalité importante
+
+Ex: le Hêtre
+
+Germination des graines: nécessite une faible luminosité. Dès la 2<sup>eme</sup> année :  nécéssité d'augmenter la lumière sinon survie limitée
 
 
 
