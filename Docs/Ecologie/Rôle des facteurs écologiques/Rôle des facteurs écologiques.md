@@ -102,12 +102,3 @@ Cette  notion  de **réponse  écologique** renvoie  à  la  notion d'**espèce 
 * Une **espèce spécialiste** est inféodée à un milieu aux caractéristiques bien définies
 * une **espèce généraliste** a la capacité de coloniser un milieu présentant une variation d'intensité des facteurs environnementaux
 
-## I) Rayonnement et lumière 
-
-Le rayonnement et la lumière font parti des facteurs climatiques qui subissent des **variations récurrentes**:
-
-Ex: Période glaciaire/Périodes interglacières
-
-* liées aux mododifications de la forme de l'orbite terrestre
-* liées à l'activité volcanique
-
