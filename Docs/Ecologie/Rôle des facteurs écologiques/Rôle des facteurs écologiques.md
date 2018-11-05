@@ -111,37 +111,3 @@ Ex: Période glaciaire/Périodes interglacières
 * liées aux mododifications de la forme de l'orbite terrestre
 * liées à l'activité volcanique
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
