@@ -181,7 +181,7 @@ Chez les **phanérogames**, elle influence:
 * croissance
 * floraison ...
 
-#### Influence de la germination 
+### 1) Influence de la germination 
 
 Bilan demultiples expériences : nombreuses espèces sont affectées par la lumière lors de leur germination
 
@@ -201,7 +201,7 @@ ex : *Betula alba*: si la température est élevée, moins d'exigences lumineuse
 
 *Hypericum perforatum* (millepertuis): si [C] élevée en NaNO<sub>3</sub>, besoins en lumière seront moindres
 
-#### Influence sur la morphogénèse 
+### 2) Influence sur la morphogénèse 
 
 La lumière affecte la **croissance** des plantes
 
@@ -222,7 +222,7 @@ Il y a également des adaptations locales:
     
    * phénomène de phototropisme : modification de l'architecture de la plante (hormone) orientation vers le gradient lumineux.
    
-#### Influence sur la photosynthèse et la croissance 
+### 3) Influence sur la photosynthèse et la croissance 
 
 L'intensité lumineuse affecte la croissance et l'activité photosynthétique des végétaux
 
@@ -253,16 +253,69 @@ Ex: *Luzula sylvatica, Vaccinum myrtillus*
 * en altitude : diminution de la température est compensée par l'augmentation de l'éclairement
 * en plaine : la localisation de ces espèces est liée à leur sensibilité aux températures élevées et/ou à la sécheresse atmosphérique
 
+Dans les forêts caducifoliées : les espèces sciaphiles = phase de croissance coïncide avec la phénophase feuillée des arbres.
+
+Les espèces précoces des forêts tempérés = espèces héliophiles : phase de developpement avant la phénophase feuillée des arbres.
+
+Pour les arbres, l'augmentation du besoin en lumière avec l'âge est bien connu. Généralement le stade plantule = faible éclairement, semis de 2 ans = éclairement moyen et supérieur à 2 ans = fort éclairement
+
+### 4) Influence sur la floraison
+
+L'action de la lumière est couplée à l'action de la photopériode. Par exemple, la différenciation d'ébauche des pièces florales dépend de la **durée du jour**.
+
+Selon les espèces, le processus est différent, on distingue:
+
+* les plantes de jour long = plante **héméropériodiques**
+* les plantes de jour court = plantes **nyctipériodiques**
+* les plantes indifférentes = plantes **photo-apériodiques**
+
+### 5) De façon plus large, le photopériodisme exerce une action sur le monde animal
+
+**mues** : lièvre d'amérique (*Lepus americanus*) modification de la couleur de leur pelage en fonction de la longueur du jour : devient blanc
+
+**migration** : oiseaux migrent à la période hivernale. La diminution de la durée du jour est le déclencheur
+
+**diapause** : nombreux insectes stoppent leur cycle de developpent (souvent sous forme de larves dans le sol)
+
+**hibernation** : certains grands mammifères entrent en hibernation (marmottes, lérots et chauves-souris)
+
+### C) Conclusion sur la lumière
+
+Le **facteur écologique majeur** possédant
+
+* périodicité 
+* variabilité dans le temps et l'espace
+* sur le plan énergétique chez les plantes:
+	* lumière intervient essentiellement en chaleur latente = évaporation
+    * très faiblement pour la photosynthèse (~1%)
+    
+Le facteur rarement isolé:
+
+* Action  souvent combinée avec d'autres facteurs physique:
+	* température
+    * humidité
+    
+Les **réponses écologiques** des organismes affectent:
+
+* soit l'organisme entier (adaptation d'une plante)
+* soit certaines de ces organes
+* soit certaines processus biologiques
 
 
+Les réponses donnant lieu à des **adaptations**:
 
+* morphologiques (feuille albéo)
+* physiologiques (efficience photosynthétique - hormonale)
+* comportementale (phénophase, migration)
 
+Les deux facteurs influençant les adaptations sont:
 
+* **l'intensité lumineuse**
+* **photopériode**
 
+Ils influent sur différents processus biologiques
 
-
-
-
+![Intensité lumineuse et photopériode](Images/Intensitélumineuse.JPG)
 
 
 
