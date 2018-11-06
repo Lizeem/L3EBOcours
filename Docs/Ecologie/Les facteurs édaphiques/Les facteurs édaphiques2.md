@@ -1,10 +1,8 @@
-# II) Les facteurs édaphiques
-
-Propriétés physiques du sol:
+# II) Propriétés physiques du sol
 
 * texture (éléments)
 * structure (comment les éléments s'arrangent)
-* porosité (vide, en relation avec la disponibilité en eau)
+* porosité 
 
 ## A) Définition de la texture
 
@@ -110,21 +108,22 @@ Le sol mauble, filtrant, vite asséché; si la texture est limoneuse, il existe 
 Favorables à la fertilité globale du sol. En particulier, strcture grumuleuse (éléments organiques et minéraux sont liés au sein du complexe argilo - humique) retient bien l'eau tout en permettant sa circulation et l'aération du sol; elle laisse les vides colonisables par les animaux...
 
 
-
 L'état de la structure influe directement des propriétés sur la fertilité globale du sol, celle-ci est résultante
 
-* de bonnes propriétés physiques
-* de bonnes propriétés chimiques
-* de bonnes propriétés biologiques
+* de bonnes propriétés physiques du sol (aération, humidité)
+* de bonnes propriétés chimiques (richesse en éléments fertilisants assimilables)
+* de bonnes propriétés biologiques (vie microbienne intense participant activement à la nutrition des plantes)
 
-La porosité renseigne sur les capacités hydriques ou atmosphériques d'un sol.
+La structure influence directement ces trois groupes de propriétés.
+
+
+La porosité renseigne sur les capacités hydriques ou atmosphériques d'un sol, en volume ou en flux :
+
+* la **circulation d'eau** dépend aussi des relations entre les vides et de leur mode d'arrangement, la connaissance de la seule mesure de la porosité ne suffit donc pas
+* le potentiel générale de circulation d'eau est mieux révélé par sa conductivité hydraulique qui reflète la capacité de transfert de l'eau dans le sol en intégrant structure, porosité, forme des connections (tortuosité) et degré de relation entre les vides (connectivité)
+* la **circulation d'air** est déterminante pour la croissance racinaire de la microflore, très sensible à l'anoxie.
+
 
 L'eau inutilisable par les plantes se rouve en dessous du point de flétrissment.
 
-## III) Propriétés chimiques
 
-### Le pH
-
-Le pH permet d'évaluer la concentration de l'ion hydrogène dans un solution avec :
-
-pH = - log<sub>10</sub> [H<sub>3</sub>O]<sup>+</sup>
