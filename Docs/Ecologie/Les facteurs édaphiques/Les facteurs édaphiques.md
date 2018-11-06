@@ -132,4 +132,3 @@ Composition moyenne du sol (% poids)
 Composition moyenne du sol (% volume)
 
 ![Composition moyenne du sol (% volume)](Images/Fig3.JPG)
-
