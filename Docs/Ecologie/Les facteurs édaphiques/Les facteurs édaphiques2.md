@@ -83,6 +83,34 @@ L'analyse granulométrique permet de fixer avec précision les pourcentages des 
 
 Les **classes de texture** représentant la répartition des éléments constituants du sol selon leurs dimensions (sables, limons et argiles).
 
+Les triangles texturaux sont divisés en secteurs qui correspondent à un certain nombre de classes de texture.
+
+Dans la carte mondiale des sols, la FAO reconnaît 3 classes texturales principales:
+
+* Texture grossière : < 15 % d’argile et > 70 % de sable
+* Texture moyenne : < 35 % d’argile et < 70 % de sable; la fraction sable peut atteindre 85 % s’il y a moins de 15 % d’argile
+* Texture fine : > 25 % d’argile.
+
+Connaître la texture d'un sol permet de savoir la **tendance** du sol en terme de comportement physique : 
+
+* sols où dominent les SG sont prméables et "filtrants", se réchauffent vite et ne s'agglomèrent pas en mottes;
+* si, aux SG sont associés beaucoup d'éléments fins (SF et L), ceux-ci ont tendance à les colmater, rendant le sol imprméable en surface et "battant";
+* si, aux SF et L, sont associés suffisament d'argiles, les éléments se structurent, donnant au sol une bonne perméabilité.
+
+**Si la structure est massive, continue ou compact** : 
+
+Le sol asphyxiant, défavorable à l'activité biologique (mauvaise pénétration des racines, difficulté de creusage de galeries, etc.)
+
+**Si la structure est particulaire**:
+
+Le sol mauble, filtrant, vite asséché; si la texture est limoneuse, il existe des risques d'imperméabilité superficielle.
+
+**Si les structures avec agrégats arrondis** :
+
+Favorables à la fertilité globale du sol. En particulier, strcture grumuleuse (éléments organiques et minéraux sont liés au sein du complexe argilo - humique) retient bien l'eau tout en permettant sa circulation et l'aération du sol; elle laisse les vides colonisables par les animaux...
+
+
+
 L'état de la structure influe directement des propriétés sur la fertilité globale du sol, celle-ci est résultante
 
 * de bonnes propriétés physiques
