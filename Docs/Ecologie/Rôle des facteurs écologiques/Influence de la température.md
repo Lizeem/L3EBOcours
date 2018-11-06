@@ -212,8 +212,30 @@ Température maximale d'activité : variables selon les espèces
 * 45°C : plantes vasculaires tuées très rapidement
 * 55°C : survie des Cactées et quelques espèces méditerranéennnes à feuilles persistantes
 
-### 2)
+### 2) Importance du thermo - périodisme quotidien sur la croissance et la reproduction
 
+Germination plus rapide : si la température oscille autour d'une valeur moyenne/ à une température constante
+
+Ex : Rendement optimal de tomates
+
+* température diurne de 26,5°C
+* température nocture de 17 à 19°C
+
+Alternance de température: favorable à la levée de dormance des embryons et des bourgeons 
+
+Alternance de température peut remplacer l'action de la lumière sur la levée de dormance des graines photosensibles
+
+### 3) Importance du thermopériodisme annuel
+
+Le rôle essentiel des variations saisonnières sur la phénologie des espèces
+
+* possible de tracer des isophènes où une spèce atteint un stade phénologique à une date t
+* comparaison des isophènes aux isothermes -> cartes prévisonnelles de developpement des espèces
+* possible de dresser des cartes montrant l'état d'avancement ou de retard de la végétation en fonction de sa localisation
+
+Ex : Phénologie des cultures en France continentale (d’après Le "Bon Jardinier")
+
+![Phénologie des cultures en France continentale](Images/ex.JPG)
 
 
 
