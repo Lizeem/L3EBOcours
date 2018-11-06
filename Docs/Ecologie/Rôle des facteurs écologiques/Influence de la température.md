@@ -47,7 +47,96 @@ Conditions :
 
 Particularité : Si la température est inférieure à 80°C, Strain 121 entre en dormance, elle survit après 2h passées à 130°C
 
-## B)
+## B) Propriétés thermiques
+
+Grandes différences entre les milieux naturels à température égales, car cela dépend des conditions physiques des milieux.
+
+Propriétés caractérisées par :
+
+* capacité calorique : quantité en énergie nécessaire pour élever de 1°C un volume de 1cm<sup>3</sup> d'un corps
+
+eau >> humus >> silice > air
+
+* diffusion thermique : inversement proportionnelle à la capacité calorique, elle dépend de la conductivité du corps considéré et varie avec:
+
+* humidité
+* porosité
+* composition des matériaux
+
+Le **régime thermique du sol** est très important en écologie
+
+* influence des microorganismes, de la pédofaune...
+	* croissance
+    * reproduction
+    * activité physiologique
+    
+* dépend:
+	* du bilan énergétique du système sol - atmosphère
+    * couvert végétal
+    * des caractéristiques propres du sol :
+    	* réflectance de la surface
+        * constituants solides
+        * prosité
+        * humidité
+        
+## C) Température du sol et ses variations
+
+
+Variations journalières
+
+![Variations journalières](Images/variationst.JPG)
+
+* Les variations de températures diminuent rapidement avec la profondeur des sols
+
+* Au delà de 50 cm de profondeur, on a une absence de variation
+
+Variations saisonnières
+
+* Concerne des épaisseurs de sol beaucoup plus importantes 
+
+Ex : sols en zones boréales pouvant atteindre 1m de profondeur (permafrost)
+
+## D) Température de l'air
+
+![diminution de la température avec l’augmentation de l'altitude](Images/taltitude.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
