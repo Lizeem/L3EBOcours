@@ -198,6 +198,22 @@ Quelques exemples de température minimale de survie :
 * Plantes vasculaires zones boréales = au dessous de – 20°C
 * Certains lichens en état de déshydratation peuvent résister à - 80°C
 
+**Les températures chaudes**
+
+Altérations irréversibles = **thermodénaturation**
+
+Remarques :
+
+Température maximale d'activité : variables selon les espèces
+
+* une dizaine de °C : algues unicellulaires des névés
+* 70°C : cynaophycées (eaux thermales)
+* 80°C : bactéries thermophiles
+* 45°C : plantes vasculaires tuées très rapidement
+* 55°C : survie des Cactées et quelques espèces méditerranéennnes à feuilles persistantes
+
+### 2)
+
 
 
 
