@@ -237,12 +237,94 @@ Ex : Phénologie des cultures en France continentale (d’après Le "Bon Jardini
 
 ![Phénologie des cultures en France continentale](Images/ex.JPG)
 
+Règle de la somme des températures : prévision des stades phénologiques en considérant la somme des températures
 
+Ex : végétation prairiales : 
 
+* montaison = 1500°C
+* épiaison = 2500°C
+* floraison = 3000 °C
 
+### 4) Action de la température sur la distribution des espèces
 
+Température = facteur majeur de la répartition
 
+* contraint certaines phases du developpement biologique
+* notion de facteur limitant
 
+La limitation de la répartition des espèces peut -être liée :
+
+* excès de froid : limite de l'extension liée au minima critique de survie
+
+ex : Garance, Hêtre
+
+* insuffisance de chaleur : limitation de l'extention des espèces vers les hautes latitudes -> manque de chaleur en saison estivale
+
+Ex: Epicea, Chêne pédonculé, vignes
+
+Il n'y a pas de maturation des fruits dans les régions plus nordiques.
+
+![Relation entre certains isothermes et limites d’espèces](Images/relation.JPG)
+
+La limitation des espèces peut-être liée :
+
+* excès de chaleur : bilan hydrique déséquilibré = transpiration excessive ou alimentation en eau insuffisante
+* insuffisance de froid : nécéssité chez certaines espèces de subir une vernalisation
+
+## G) Action sur les animaux
+
+La température agit sur les animaux
+
+* cycle de vie
+* répartition
+
+Les réactions sont d'ordre
+
+* écologique
+	* migration géographique
+    * enfouissement en profondeur
+    * activité nocture plutôt que diurne
+    
+* physiologique 
+	* acclimatation vie des modifications métaboliques
+    
+Ex : augmentation du glycérol dans les tissus de certains insectes
+
+* morphologique
+
+Il existe trois règles morphologiques sur les espèces **homéothermes**
+
+* règle de **Bergman** : accroissement de la taille et donc de la masse 
+	* animaux de grandes tailles -> climats froids
+    * animaux de petite taille -> climats chauds
+    
+Grande taille : le rapport **surface**/**volume** est faible, la perte de chaleur par convection est faible
+
+* règle d'**Allen** : en climat froid, on a une réduction des membres et appendices par rapport aux animaux équivalents des climats plus chauds : surface des oreilles, cou, pattes, la queue (formes trapues)
+
+Ex des renards : Fennec des déserts chauds possède de grandes oreilles, le renard de nos régions possède des oreilles moyennes et le renard arctique possède des oreilles minuscules et museau court
+
+![règle d'Allen](Images/renard.JPG)
+
+* règle de la **fourrure** : les animaux des climats froids ont la fourrure plus epaisse (compensation d'une insuffisance d'isolation thermique : hibernation) 
+
+Ex: belette, Lemming...
+
+![règle de la fourrure](Images/fourrure.JPG)
+
+Rupture de l'hibernation chez un spermophile nord américain *Citellus undulatus* (Ecureuils terrestres)
+
+En fin d'hibernation, lorsque la température atteint 20°C, le corps du rongeur passe de 3,5 °C à 17,5 °C en 1h30
+
+Réactions chez les **hétérothermes**
+
+* nanisme (faune des montagnes)
+* mélanisme (faune des montagnes) : coloration pigmentaire plus foncée : augmentation de la chaleur captée
+* aptérisme : faune insulaire (insecte, oiseaux)
+
+Autre relations : plantes - animaux
+
+Les animaux utilisent les micro-climats en présence des plantes
 
 
 
