@@ -146,3 +146,4 @@ Les collemboles présentent trois types biologiques différents correspondant à
 * le type **xérophile** : espèces qui fréquentent les milieux secs ou peuvent effectuer de long séjours dans la végétation hors de la litière (une couche de cire de l'épicuticule assure la régulation des pertes en eau pendant plusieurs heures chez certaines espèces).
 
 ![Les trois types d'adaptations des colléoptères](Images/coleopteres.JPG)
+
