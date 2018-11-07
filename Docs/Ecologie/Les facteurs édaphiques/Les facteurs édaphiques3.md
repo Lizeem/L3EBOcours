@@ -118,111 +118,31 @@ RFU = Réservoir Facilement Utilisable Maximal
 
 ### pF et disponibilité en eau
 
+L'influence de l'eau du sol sur la végatation en fonction de la capacité des espèces à compenser ou non la force de rétention du sol. 
 
+* Les **plantes hygrophiles** ont besoins de beaucoup d'eau facile à prélever donc à faible pF
+* Les **plantes xérophiles** peuvent subsister lorsque les valeurs du pF sont voisines du point de flétrissement 
+* C'est à partir de l'observation des **plantes mésophiles**, intermédiaire entre les 2 cas précédent, que la valeur référence du point de flétrissement permanent à été fixé à 1,6 MPa ou pF = 4,2
 
+Cette valeur est donc une limite pour les plantes qui ne subissent guère de stress hydrique : plantes cultivées, plantes de prairies ou des sous-bois des régions tempérées.
 
+La pression osmotique interne des plantes xérophytes peut-être très élevée pour favoriser l'absorption d'eau sous le seuil des plantes mésophiles (pF = 4,2). L'augmentation de la pression osmotique possible dans les cellules de radicelles par apport de potassium.
 
+*Et pour la faune du sol ?*
 
+### Rôle et importance de la texture pour la pédofaune
 
+Les vers de terre sont plus nombreux dans les sols limoneux ou argilo-sableux que dans ls sables, les graviers ou les argiles. Les sols les plus favorables à l'installation des Coléoptères endogés ont toujours une tenur élevée en éléments fins (A et L). La texture intervient dans la répartition des animaux des sables de plages ou des bords de rivières.
 
+### pF et besoins en eau de la pédofaune
 
+BONNET (1964) a montré qu'il existe des espèces de Thécamoebiens inféodés aux sols squelettiques dont l'eau, quoique peu abondante, est facilment disponible (pF faible) comme par exemple *Centropyxis halophila* ou *Geophyxella sylvicola*. D'autres espèces vivent dans des sols humides et riches en matières organiques, mais se comportant comme des milieux physiologiquemenet secs (pF élevé) comme par exemple *Assulina muscorum* ou *Heleopora sylvaticola*.
 
+Les collemboles présentent trois types biologiques différents correspondant à des possibilités différentes de contrôle de la perte d'eau par transpiration à travers leur tégument :
 
 
+* le type **hygrophile** : espèces endogées et de forêt humides qui ne peuvent s'affranchir de milieux humides (pertes importantes par transpiration sinon);
+* le type **mésophile** : espèces qui vivent au contact de la surface du sol et qui peuvent s'aventurer dans la litière des forêts tempérées (régulation active des pertes d'eau par régulation)
+* le type **xérophile** : espèces qui fréquentent les milieux secs ou peuvent effectuer de long séjours dans la végétation hors de la litière (une couche de cire de l'épicuticule assure la régulation des pertes en eau pendant plusieurs heures chez certaines espèces).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Les trois types d'adaptations des colléoptères](Images/coleopteres.JPG)
