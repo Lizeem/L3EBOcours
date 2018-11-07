@@ -38,6 +38,73 @@ L'eau inutilisable par les plantes se trouve en dessous du point de flétrisseme
 
 Seule une évaporation intense permet de l'éliminer. Même à des températures élevées, il reste toujours un peu d'eau dans le sol, autour de certains minéraux dont elle assure l'hydratation.
 
+## E) Forces s'exerçant sur l'eau du sol
+
+Trois forces agissent sur l'eau du sol:
+
+* la **force de gravitation** découlant de l'attration terrestre, **P**;
+* la **force de rétention** par les solides, **F**;
+* la **force de succion** des plantes, **S**.
+
+![Les trois forces](Images/fig.JPG)
+
+Ces forces parfois assimilées à des pressions, sont exprimés en mégapascals (MPa), en bars, en atmosphères, en centimètres d'eau ou de mercure :
+
+1 MPa = 10 bars = 9,87 atm = 10 197 cm H<sub>2</sub>O = 750cm Hg
+
+## F) Notion de potentiel matriciel, pF
+
+L'augmentation exponentielle de la force F rend plus commode sa transformation en logarithme et l'utilisation du symbole pF :
+
+pF = log<sub>10</sub> (F(en bars))
+
+pF = potentielle matricielle ou potentielle capillaire Ψm
+
+Ce potentiel correspond à l'énergie résultant de la pression de l'eau due:
+
+* aux effets de liaison autour des particules solides, 
+* aux effets de capillarités dans les pores.
+
+Les quatres valeurs habituelles du pH sont donc à retenir.
+
+* La **capacité au champ** qui correspond à pF 1,8 (moment où l'eau de gravité à écoulement rapide est partie et où l'eau de gravité à écoulement lent comment à disparaître)
+* La **capacité de rétention** ou **humidité équivalente** (à la capacité au champ, déterminée au laboratoire) correspond à une force de 1/3 d'atmosphère donc à un pF de 2,5.
+* Le **point de flétrissement temporaire** qui correspond à pF 4,0.
+* Le ** point de flétrissement permanent** qui correspond à pF à 4,2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
