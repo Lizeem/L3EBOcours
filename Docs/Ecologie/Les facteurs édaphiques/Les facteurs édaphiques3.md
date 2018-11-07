@@ -72,6 +72,87 @@ Les quatres valeurs habituelles du pH sont donc à retenir.
 * Le **point de flétrissement temporaire** qui correspond à pF 4,0.
 * Le ** point de flétrissement permanent** qui correspond à pF à 4,2.
 
+### pF et taux d'humidité
+
+Les valeurs du pF aux points de ressuyage (pF 2,7) sont les mêmes pour tous les sols, indépendamment de leur texture. Le taux d'humidité correspondant à ces pF varie selon l'état textural. Un plante mésophile se flétrit définitivement avec environ:
+
+* 4% d'eau sans un sol sableux,
+* 15% dans un sol limonno-argileux,
+* 50% dans certaines tourbes
+
+![pF et taux d'humidité'](Images/pFtauxd'humidite.JPG)
+
+### CSE, RUM, RFU
+
+#### CSE 
+
+CSE = Capacité de Stockage pour l' Eau
+
+CSE d'1 horizon = volume maximal d'eau qu'il retient contre la seule force de gravité in situ (correspondance avec la capcité au champ).
+
+**CSE (en mm) = Hv x E**
+
+* Avec Hv = Humidité exprimée en % à la capcité au champ
+* Avec E = épaisseur en décimètres de l'horizon
+
+La somme des CSE des horizons d'un profil donne la CSE du sol, on la calcule souvent jusqu'à la profondeur utilisable maximale (1,5m).
+
+#### RUM
+
+RUM = Réservoir Utilisable Maximal
+
+**RUM de chaque horizon = E x Da x (HCC - HPF)
+
+* Avec E = épaisseur en mm de l'horizon
+* Avec Da = densité apparente (en g/cm3)
+* Avec HCC = Humidité pondérale exprimée en % (ou g/100g) à la capacité au champ
+* Avec HPF = Humidité pondérale exprimée en % (ou g/100g) au point de flétrissement
+
+RUM du sol est RUM des différents horizons jusqu'à la profondeur utilisable maximale pour l'enracinement des plantes.
+
+#### RFU
+
+RFU = Réservoir Facilement Utilisable Maximal
+
+**RFU = 2/3 RUM**
+
+### pF et disponibilité en eau
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
