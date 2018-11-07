@@ -5,7 +5,7 @@
 
 ![Les états de l'eau dans le sol](Images/eaudanslesol.JPG)
 
-![Les trois états de l'eau dans le sol](etateau.JPG)
+![Les trois états de l'eau dans le sol](Images/etateau.JPG)
 
 ![Les espaces occupés](Images/espaces.JPG)
 
