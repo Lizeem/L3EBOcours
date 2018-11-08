@@ -1,10 +1,8 @@
 # II) Propriétés physiques du sol
 
-* texture (éléments)
-* structure (comment les éléments s'arrangent)
-* porosité 
+## A) La texture
 
-## A) Définition de la texture
+### 1) Définition de la texture
 
 La **texture minérale** = "*Composition granulométrique définie d'après la proportion des particules minérales du sol inférieurs à 2mm, claséées, après destruction des agrégats, par catégories de grosseurs en fractions principales correspondant à une échelle internationale.*" (LOZET & MATHIEU en 1990)
 
@@ -14,7 +12,7 @@ Les argiles sont des éléments minéraux chargés négativement. Ce sont des **
 
 La texture est une **propriété stable** ne variant que sur l'évolution à long terme du sol.
 
-## B) Les agrégats du sol
+### 2) Les agrégats du sol
 
 Selon Martin en 1955:
 
@@ -29,7 +27,7 @@ Les agégats du sol sont constitués des particules minérales de sol, de ciment
 Ils sont visibles à l'oeil nu (diamètres de l'ordre du mm).
 
 
-## C) Définition de la structure
+### 3) Définition de la structure
 
 Définition de LOZET & MATHIEU en 1990:
 
@@ -46,8 +44,7 @@ La structure dépend directement de la texture mais aussi du taux d'humidités, 
 
 La structure s'observe aux **échelles macroscopiques** ou **microscopique**.
 
-
-## D) Définition de la porosité 
+## B) La porosité
 
 La **porosité** est l'ensemble des vides du sol. Celle-ci donne une bonne idée de l'état structural avec la possibilité de mesures comparatives.
 
@@ -71,7 +68,7 @@ et la masse volumique apparente *p*A
 
 La porosité varie de 30% à 80% respectivement dans les sols à texture très fine et dans les tourbes.
 
-## E) Texture : classification des particules minérales selon leur taille
+## C) La texture 
 
 La granulométrie se rapporte à la fraction considérée comme active dans le sol, à savoir la fraction <2mm (ou terre fine)
 

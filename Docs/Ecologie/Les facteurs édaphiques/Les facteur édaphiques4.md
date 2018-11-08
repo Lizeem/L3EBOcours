@@ -1,4 +1,4 @@
-## Le ph
+## E) Le ph
 
 Le pH (potentiel Hydrogène) permet d'évaluer la concentration de l'ion hydrogène dans une solution:
 
@@ -13,7 +13,7 @@ Le pH de l'eau est plus utile dans l'étude des relation sol-plante ou pour comp
 
 Le pH se mesure dans un rapport sol:eau (ou sol:KCL) de 1:2,5 (norme NF) ou 1:5 (norme ISO) le plus couramment.
 
-### A) Valeurs du pH eau et qualicatifs
+### 1) Valeurs du pH eau et qualicatifs
 
 Les valeurs possible du pH (rapport sol:eau = 1:2,5) dans les horizons de sol et qualicatifs correspondant selon le *Référentiel Pédologique* (2008): 
 
@@ -21,7 +21,7 @@ Les valeurs possible du pH (rapport sol:eau = 1:2,5) dans les horizons de sol et
 
 La majorité des sols des régions tempérées ont de pH de l'eau compris entre 4 et 7,5.
 
-### B) Le rôle et importance du pH
+### 2) Le rôle et importance du pH
 
 L'optimum de pH au plan agronomique pour l'**assimilabilité** des éléments fertilisants et des oligo-éléments :
 
@@ -31,7 +31,7 @@ Un seuil à connaître : pH<sub>eau</sub> < 5, présence de Al<sup>3+</sup> (ris
 
 ![Ph et solubilités des ions](Images/pHions)
 
-## Teneur en matière organique
+## F) Teneur en matière organique
 
 La teneur en MO peut -être estimée par simple perte au feu à 550 °C. Le plus souvent, elle est estimée par la mesure de ses éléments majeurs (analyse élémentaire au CHN) :
 
@@ -52,7 +52,7 @@ Les **tolérances pour les teneurs en C organique** permettant de définir un ho
 * Horizon **hémiorganique** : de 8 +/- 2 g/ 100g à 30 +/- 5 g/100g
 * Horizon **holorganique** : > 30 +/- 5 g/100g
 
-### A) Teneur en C<sub>organique</sub> et N<sub>total</sub> de sols
+### 1) Teneur en C<sub>organique</sub> et N<sub>total</sub> de sols
 
 
 Les ordres de grandeur pour les **sols minéraux** (% du sol sec) :
@@ -66,7 +66,7 @@ Quelques teneurs en Haute Normandie pour des horizons organo-minéraux de surfac
 * **Sol lessivé sur limon** : Mo = 7,4 %; Corg = 4,3 %; N = 0,28 % et C/N = 15
 * **Podzol sur limon sableux à silex** : MO = 25,5 %; Corg = 14,8 %; N = 0,32 % et C/N = 47
 
-### B) Importance, rôle et formes de l'azote dans le sol
+### 2) Importance, rôle et formes de l'azote dans le sol
 
 L'azote se présente sous deux formes dans le sol : 
 
@@ -81,17 +81,17 @@ NO<sub>3</sub> <sup>+</sup> et NO<sub>2</sub> <sup>-</sup> sont les plus solbule
 
 La disponibilité et la quantité relative de ces ions variant avec la saison et le climat. Le cycle biogéochimique de l'azote est aujourd'hui bien documenté.
 
-## Teneur en éléments minéraux
+## G) Teneur en éléments minéraux
 
 La teneur en éléments minéraux est la capacité d'échange cationique et taux de saturation.
 
-### A) Les échanges ioniques
+### 1) Les échanges ioniques
 
 Les argiles, l'humus et le complexe argilo-humique possèdent la capacité de retenir à leur surface des ions provenant de la solution du sol, c'est le **pouvoir absorbant** du sol.
 
 Les ions ainsi fixés sur le complexe sont **échangeables**. C'est le mécanisme d'échange des cations entre le complexe et la solution du sol.
 
-### B) La capacité d'échange et taux de saturation 
+### 2) La capacité d'échange et taux de saturation 
 
 La **capacité d'échange cationique totale** (T) est la quantité maximale de cations qu'un poids déterminé de sol est capable de retenir.
 
@@ -104,7 +104,7 @@ Le taux de **saturation** (V) est le rapport : V = S/T x100
 * Sols calcaires, riches en calcaire actif : V = 80 - 90 %
 * Sols formés sur RM sableuse, gréseuse ou granitique, pauvres en bases et filtrantes : V < 20 %
 
-### C) Le mode d'expression de la CEC
+### 3) Le mode d'expression de la CEC
 
 La **CEC** (ou T) est traditionnellement exprimée en **milliéquivalents pour 100g de terre fine** : mé/100g.
 Le milliéquivalent est un unité spécialement utilisée pour traiter de la CEC et des ions échangeables. Il vaut un millième d'équivalent-gramme.
@@ -115,7 +115,7 @@ Selon les normes SI, il vaut mieux désormais employer la mole qui définit la m
 
 1 mé/100g = 1 cmol+/kg
 
-### D) Qualicatifs liés au taux de saturation : 
+### 4) Qualicatifs liés au taux de saturation : 
 
 * S/T compris entre 95-100 % : saturé (ou resaturé)
 * S/T compris entre 80-95 % : subsaturé (ou resaturé)
@@ -123,7 +123,7 @@ Selon les normes SI, il vaut mieux désormais employer la mole qui définit la m
 * S/T compris entre 20-50 % : oligosaturé 
 * S/T compris entre 0-20 % : désaturé
 
-### E) Le calcium et la répartition des plantes
+### 5) Le calcium et la répartition des plantes
 
 Richesse en Ca <sup>2+</sup> = facteur prépondérant dans l'écologie des végétaux,  opposition **espèces calcifuges** et **calcicoles**. La présence de calcaire ou d'un complexe saturé en calcium.
 
@@ -132,14 +132,14 @@ Richesse en Ca <sup>2+</sup> = facteur prépondérant dans l'écologie des vég�
 * teneur en éléments minéraux assimilables faible ou élevées selon leur solubilité en milieu basique (solubilité Fe, Al, Mn, Zn, Cu et Br réduite par rapport aux sols siliceux); 
 * minéralisation Iaire élevée de microorgansimes neutro-basiphiles
 
-### F) Espèces calcifuges
+### 6) Espèces calcifuges
 
 Les espèces qui ne peuvent tolérer une concentration trop élevée en calcium dans la solution du sol. L'excès de calcium inhibe, pour certaines espèces,  la nutrition en autres éléments, tels que le fer et la manganèse ce qui entraîne le phénomène de chlorose. Il est possible de faire le distinction entre deux groupes.
 
 Les espèces qui fuient la présence du calcaire actif dans le sol, mais suppportent un degré de saturation élevé de la capacité en ions calcium.
 Les espèces acidiphiles qui redoutent une trop grande saturation en ions calcium du complexe absorbant; il ne peuvent vivre qu'à un pH voisin de 5 ou plus faible.
 
-### G) Espèces calcicoles
+### 7) Espèces calcicoles
 
 Les espèces calcicoles ne constituent pas un groupe homogène, leur présence sur sols calcaires est liée, bien souvent à certaines propriétés physiques inhérentes à ce type de sol, ce sont :
 
