@@ -1,5 +1,4 @@
-
-## D) Relation avec la disponibilité en eau
+# D) Relation avec la disponibilité en eau
 
 ### 1) Les états de l'eau dans le sol
 
@@ -101,7 +100,7 @@ La somme des CSE des horizons d'un profil donne la CSE du sol, on la calcule sou
 
 RUM = Réservoir Utilisable Maximal
 
-**RUM de chaque horizon = E x Da x (HCC - HPF)
+**RUM de chaque horizon = E x Da x (HCC - HPF)**
 
 * Avec E = épaisseur en mm de l'horizon
 * Avec Da = densité apparente (en g/cm3)
