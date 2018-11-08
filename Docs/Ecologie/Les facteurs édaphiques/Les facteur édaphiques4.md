@@ -101,12 +101,53 @@ La différence (T-S) représente **l'acidité d'échange** (AE) c'est à dire la
 
 Le taux de **saturation** (V) est le rapport : V = S/T x100
 
+* Sols calcaires, riches en calcaire actif : V = 80 - 90 %
+* Sols formés sur RM sableuse, gréseuse ou granitique, pauvres en bases et filtrantes : V < 20 %
 
+### C) Le mode d'expression de la CEC
 
+La **CEC** (ou T) est traditionnellement exprimée en **milliéquivalents pour 100g de terre fine** : mé/100g.
+Le milliéquivalent est un unité spécialement utilisée pour traiter de la CEC et des ions échangeables. Il vaut un millième d'équivalent-gramme.
 
+1 **équivalent-gramme** = 1 atome-gramme ou 1 molécule-gramme ou 1 ion-gramme divisé par la valence.
 
+Selon les normes SI, il vaut mieux désormais employer la mole qui définit la même grandeur que l'équivalent 
 
+1 mé/100g = 1 cmol+/kg
 
+### D) Qualicatifs liés au taux de saturation : 
+
+* S/T compris entre 95-100 % : saturé (ou resaturé)
+* S/T compris entre 80-95 % : subsaturé (ou resaturé)
+* S/T compris entre 50-80 % : mésosaturé 
+* S/T compris entre 20-50 % : oligosaturé 
+* S/T compris entre 0-20 % : désaturé
+
+### E) Le calcium et la répartition des plantes
+
+Richesse en Ca <sup>2+</sup> = facteur prépondérant dans l'écologie des végétaux,  opposition **espèces calcifuges** et **calcicoles**. La présence de calcaire ou d'un complexe saturé en calcium.
+
+* Structure très stable favorable à le perméabilité et à l'aération; 
+* pH neutre ou basique, compris entre 7 et 8;
+* teneur en éléments minéraux assimilables faible ou élevées selon leur solubilité en milieu basique (solubilité Fe, Al, Mn, Zn, Cu et Br réduite par rapport aux sols siliceux); 
+* minéralisation Iaire élevée de microorgansimes neutro-basiphiles
+
+### F) Espèces calcifuges
+
+Les espèces qui ne peuvent tolérer une concentration trop élevée en calcium dans la solution du sol. L'excès de calcium inhibe, pour certaines espèces,  la nutrition en autres éléments, tels que le fer et la manganèse ce qui entraîne le phénomène de chlorose. Il est possible de faire le distinction entre deux groupes.
+
+Les espèces qui fuient la présence du calcaire actif dans le sol, mais suppportent un degré de saturation élevé de la capacité en ions calcium.
+Les espèces acidiphiles qui redoutent une trop grande saturation en ions calcium du complexe absorbant; il ne peuvent vivre qu'à un pH voisin de 5 ou plus faible.
+
+### G) Espèces calcicoles
+
+Les espèces calcicoles ne constituent pas un groupe homogène, leur présence sur sols calcaires est liée, bien souvent à certaines propriétés physiques inhérentes à ce type de sol, ce sont :
+
+* des **espèces neutrophiles** exigeant un complexe absorbant presque saturé (Cornouiller sanguin, Fusain)
+* des **espèces thermophiles** sur les sols roxheux bien exposés (Chêne pubescent, Buis)
+* des **espèces xérophiles** sur calcaires fissurés peu profond (Graminées des pelouses calcaires)
+
+Aucune de ces espèces n'exige de manière  stricte la présence de calcaire actif dans le sol
 
 
 
