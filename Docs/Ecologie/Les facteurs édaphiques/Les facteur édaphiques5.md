@@ -24,4 +24,33 @@ Le Eh du sol se répartie en 4 domaines :
 Les **sols salés (sols halomorphes)** ont une flore très particulières. La culture de diverses espèces végétales sur des milieux ayant des teneurs variables en NaCl a montré l'existance :
 
 * d'**halophytes strictes**, qui ont besoin de NaCl pour se developper (*Suaeda macrocarpa*);
-* d'**halophytes tolérantes** (*Atriplex littoralis* et *Suaeda flexilis*)
+* d'**halophytes tolérantes** (*Atriplex littoralis* et *Suaeda flexilis*), qui peuvent se passer de NaCl mais qui en supportent la présence.
+* d'**espèce intolérantes** qui ne peuvent se developper que sur des milieux pauvres en NaCl.
+
+![Répartition des sols et de la végétation le long du transect duMarais de Hode](Images/veg.JPG)
+
+# Discussion - Conclusion
+
+**Les facteurs édaphiques = vision très typologique du rôle du sol (disponibilité en eau et assimilation des éléments minéraux).**
+
+Le sol dans les péoccupations environnementales actuelles :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
