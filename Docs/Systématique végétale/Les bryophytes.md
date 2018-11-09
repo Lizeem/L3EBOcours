@@ -339,6 +339,8 @@ Les Charophytes présentent des points communs avec les Bryophytes et les cormop
 * cycle de developpement : haplophasique 
 * présence de plasmodesmes
 
+# IV) Classifcation phylogénétique
+
 Des mousses aux trachéophytes, apparition de:
 
 * sporophytes dominants 
@@ -356,3 +358,4 @@ Acquisition des caractères marquant la transition vers les eu-trachéophytes:
 * dominance du sporophyte 
 * protection de plus en plus complexe du jeune sporophyte  par des tissus d’origine gamétophytique puis uniquement sporophytique.
 
+![L'ensemble des Bryophytes](Images/bryo.JPG)
