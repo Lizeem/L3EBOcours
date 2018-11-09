@@ -24,7 +24,7 @@ Les cirripèdes localisés dans la zone intertidale ne se nourrissent qu’à ma
 
 ![Détail d'une tentacule creux en coupe transversale](Images/tentacule.JPG)
 
-![Régulation de la filtration par les Lamellibranches en fonction de la concentration des particules en suspension](filtration.JPG)
+![Régulation de la filtration par les Lamellibranches en fonction de la concentration des particules en suspension](Imagesfiltration.JPG)
 
 Le taux de pompage est ajusté à la concntration de la nourriture en suspension, afin de maintenir constante la quantité de nourriture ingérée. Lorsque le maximum d'ingestion est atteint, la vitesse de pompage diminue progressivement. Si la concentration d'algues continue d'augmenter, la nourriture en excès est alors rejetée sous forme de "pseudo-fecès". Pour ce mécanisme, les Filibranches participent à la sédimentation fine dans les milieux ou ils sont abondants.
 
@@ -148,6 +148,14 @@ Chez les Mammifères, des individus de même espèce ont un nombre constant de d
 Formule dentaire = Nombre de dents par ½ mâchoire sup/Nombre de dents par ½ mâchoire inf. 
 
 ![Dent de lapin](Images/lapin.JPG)
+
+Chez les Mammifères herbivores, 
+
+* La croissance est continue : **Hypsodontie** les molaires présentent dans ce cas des couronnes hautes et des tables d’usure caractéristiques, un diastème ou barre (=séparation entre les dents labiales et jugales)  
+* Type **Sélénodonte** les tables d’usure présentent des croissants longitudinaux par rapport au grand axe de la molaire (Ruminants, Équidés..)  
+* Type **Lophodonte** les crêtes sont transversales par rapport au grand axe de la molaire (Éléphant, Rhinocéros, Lapin...) 
+
+![Mammifères herbivores](Images/herbivores.JPG)
 
 
 
