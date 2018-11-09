@@ -24,7 +24,7 @@ Les cirripèdes localisés dans la zone intertidale ne se nourrissent qu’à ma
 
 ![Détail d'une tentacule creux en coupe transversale](Images/tentacule.JPG)
 
-![Régulation de la filtration par les Lamellibranches en fonction de la concentration des particules en suspension](Imagesfiltration.JPG)
+![Régulation de la filtration par les Lamellibranches en fonction de la concentration des particules en suspension](Images/filtration.JPG)
 
 Le taux de pompage est ajusté à la concntration de la nourriture en suspension, afin de maintenir constante la quantité de nourriture ingérée. Lorsque le maximum d'ingestion est atteint, la vitesse de pompage diminue progressivement. Si la concentration d'algues continue d'augmenter, la nourriture en excès est alors rejetée sous forme de "pseudo-fecès". Pour ce mécanisme, les Filibranches participent à la sédimentation fine dans les milieux ou ils sont abondants.
 
