@@ -157,8 +157,19 @@ Chez les Mammifères herbivores,
 
 ![Mammifères herbivores](Images/herbivores.JPG)
 
+Mammifères à dents brachyondontes (croissance limitée et usure faible)
 
+![Mammifères à dents brachyondontes](Images/brachyondontes.JPG)
 
+### C) Le tube digestif antérieur = parynx et ses dérivés
+
+#### Organisation générale
+
+![Tube digestif antérieur](Images/tube.JPG)
+
+#### Dérivés
+
+![Dérivés de tube digestif](Images/dérivés.JPG)
 
 
 
