@@ -14,8 +14,39 @@ Plan anatomique : Long tube +/-  contourné divisé en 5 segments différents hi
 * La Musculeuse  
 * La Séreuse 
 
-## A) La digestion buccale
+## I) La digestion buccale
 
 ![La digestion buccale](Images/digestion.JPG)
+
+## II) La digestion stomacale
+
+![La digestion stomacale](Images/diges.JPG)
+
+![Différents tubes digestifs](Images/tubes.JPG)
+
+## III) La phase intestinale
+
+### A) L'intestin grêle
+
+![Muqueuse intestinale d'un sujet sain](Images/intestin.JPG)
+
+#### Régulation de la digestion (sécrétions pancréatique et biliaire)
+
+![Régulation de la digestion](Images/régulation.JPG)
+
+#### Activation des zygogènes du pancréas dans le duodénum
+
+![Activation des zygogènes du pancréas dans le duodénum](Images/activ.JPG)
+
+### B) Le colon
+
+![Le colon](Images/colon.JPG)
+
+## En résumé
+
+![Résumé](Images/résumé.JPG)
+
+
+
 
 
