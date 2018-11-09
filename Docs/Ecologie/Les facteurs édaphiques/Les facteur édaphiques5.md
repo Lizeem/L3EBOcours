@@ -69,26 +69,18 @@ La **protection du sol** devient un objetif proritaire à l'échelle européenne
 * **_Commission européenne_** travaille sur un stratégie thématique pour la protection des sols et devrait proposer une directive cadre pour les sols.
 * **_FAO_** distingue 12 catégories de dégradation du sol dans le cadre de la réalisation de la cartographie mondiale.
 
+La Commission européenne dans sa communication "Vers une stratégie thématique pour la protection des sols "distingue 8 menaces qui pèsent sur les sols :
 
+* l'érosion,
+* la contamination,
+* la diminution des teneurs en matières oragniques,
+* la salinisation,
+* le tassement du sols, 
+* les glissements de terrain,
+* les inondations,
+* manque acidification des sols
 
+Les aspects connexes à la protection des sols : la **notion de seuils** à ne pas dépasser pour **maintenir durablement** les propriétés du sol (notion de rôle épurateur du sol vis-à-vis de l'air et de l'eau) et la problématique d'évaluation de la qualité de l'air et de l'eau) et la problématique d'évaluation de la qualité du sol et de l'eau) et la problématique d'évaluation de la qualité du sol(quels indicateurs mesurer et comment les mesurer ?)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Principaux types de dégradation des sols](Images/dégradations.JPG)
 
