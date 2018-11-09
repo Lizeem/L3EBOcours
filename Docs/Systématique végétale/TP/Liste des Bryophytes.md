@@ -36,9 +36,33 @@
 
 ### HYLOCOMIACEES, *Rhytidiadelphus triqueter*
 
-![Rhytidiadelphus](Rhytidiadelphus.jpg)
+![Rhytidiadelphus](Images/Rhytidiadelphus.jpg)
 
-### PELLIACEES,*Pellia epiphylla*
+### PELLIACEES, *Pellia epiphylla*
 
 ![Pellia](Images/Pellia.jpg)
+
+### LEPIDOZIACEES, *Lepidoza reptans*
+
+![Lepidoza](Images/Lepidoza.JPG)
+
+### PLAGIOTHECIACEES, *Plagiothecium undulatum*
+
+![Plagiothecium](Images/Plagiothecium.jpg)
+
+### FISSIDENTACEES, *Fissidens taxifolius*
+
+![Fissidens](Images/Fissidens.jpeg)
+
+### BRACHYTHECIACEES, *Eurhynchium stokesii*
+
+![Eurhynchium](Images/Stokesii.jpg)
+
+### BRACHYTHECIACEES,*Brachythecium rutabulum*
+
+![Brachythecium](Images/Brachythecium.jpg)
+
+### BRACHYTHECIACEES, *Isothecium myosuroides*
+
+![Isothecium](Images/Isothecium.jpg)
 
