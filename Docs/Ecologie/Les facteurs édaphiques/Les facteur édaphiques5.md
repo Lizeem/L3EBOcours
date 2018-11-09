@@ -60,6 +60,16 @@ A ce titre, et s'il est géré correctement, il fournit des services qui profite
 
 * les **services culturels et cultuels**. Le sol fournit des matériaux pour la production artistique (terres colorés, pigments et argiles pour la peinture et la céramique); il est un lieu de stockage et de protection des données anciennes touchant à l'Histoire ou au passé de notre planète (archéologie, archives paléo-climatiques, ect.); il est lui-même objet d'inspiration pour les régions, les mythes, les cultes mais aussi pour la production artistique et littéraire."
 
+### Fonctions du sol et dégradations
+
+Toute modification défavorable de l'atmosphère, de l'hydrosphère et de la biosphère à un répercussion sur l'état du sol.
+
+La **protection du sol** devient un objetif proritaire à l'échelle européenne et mondiale :
+
+* **_Commission européenne_** travaille sur un stratégie thématique pour la protection des sols et devrait proposer une directive cadre pour les sols.
+* **_FAO_** distingue 12 catégories de dégradation du sol dans le cadre de la réalisation de la cartographie mondiale.
+
+
 
 
 
