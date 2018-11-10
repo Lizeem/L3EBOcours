@@ -22,6 +22,11 @@ Système  indépendant de la cavité cœlomique et donc retrouvé chez les larve
 
 ![Les rénettes](Images/rénettes.JPG)
 
+## III) Organes filtrant par surpression
+
+### A) Les métanéphridies des Annélides
+
+![Les métanéphridies des Annélides](Images/annélides.JPG)
 
 
 
