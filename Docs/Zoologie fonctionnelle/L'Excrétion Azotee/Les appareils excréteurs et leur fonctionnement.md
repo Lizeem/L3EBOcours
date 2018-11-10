@@ -28,8 +28,21 @@ Système  indépendant de la cavité cœlomique et donc retrouvé chez les larve
 
 ![Les métanéphridies des Annélides](Images/annélides.JPG)
 
+![Les métanéphridies des Annélides](Images/annélides2.JPG)
 
+### B) Les néphridies des mollusques
 
+![Les néphridies des mollusques](Images/mollusque.JPG)
+
+### C) Les néphridies des arthropodes
+
+Origine mésodermique des néphridies
+
+![Origine mésodermique des néphridies](Images/ori.JPG)
+
+### D) Le rein des vertébrés
+
+![Strcture du Néphron](Images/corp.JPG)
 
 
 
