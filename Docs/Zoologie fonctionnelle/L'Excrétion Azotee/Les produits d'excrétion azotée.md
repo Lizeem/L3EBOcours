@@ -46,6 +46,44 @@ L'uréé:
 * **50 mL d'eau** pour éliminer **1g** d'azote
 * animaux **uréotéliques**
 
+Chez les vertébrés, l’urée est synthétisée dans le foie au cours d’un cycle découvert par Krebs en 1932 - Cycle de l’Urée ou cycle de l’ Ornithine-urée 
+
+1937 - Mise en évidence des processus chimiques à l’origine  de la production d’énergie dans les cellules : Cycle de Krebs 
+
+1953 - Prix Nobel de Physiologie ou de Médecine 
+
+**Uréogenèse chez les vertébrés** = Une partie des NH4+ produite par le métabolisme des protéines et acides nucléiques est utilisée pour les biosynthèses et le reste est éliminé sous forme d’urée chez certains organismes comme les amphibiens, les sélaciens ou les mammifères. 
+
+**L’ uréotélie** = chez les animaux terrestres qui possèdent les enzymes du cycle de l’Urée 
+
+Rappel Cours « Osmorégulation », les Sélaciens sont uréotéliques mais  l’urée n’est pas éliminée. Elle joue un rôle dans l’osmorégulation et dans le fonctionnement des organes de l’animal. 
+
+Chez *Squalus acanthias* (Sélacien), 90% de l’urée filtrée au niveau rénal est réabsorbée, de plus chez les Sélaciens tous les organes possèdent les enzymes du cycle de l’urée et sont donc capables de produire l’urée qui devient même indispensable au bon fonctionnement des organes. 
+
+### C) L'acide urique
+
+* 4 atomes d’azote 
+* **peu toxique**
+* **Très peu soluble** dans l’eau précipite facilement 
+* **~ 10 ml d’eau** pour éliminer **1g** d’azote 
+* Animaux **uricotéliques** - Uricotélie 
+
+Chez l’Homme, un excès d’acide urique dans le sang  =  **Hyperuricémie** provoque la « goutte » car l’acide urique ne peut pas être dégradée  (uricolyse impossible chez l’homme car les enzymes ne sont pas présentes)
+
+**Uricogenèse** = L’acide urique est le produit final de la dégradation des bases azotées purique (A+G)  
+
+L’acide urique est éliminée dans un minimum d’eau, c’est la partie « blanche » retrouvée dans la fiente des oiseaux et mélangée aux fèces. L’économie d’eau leur permet aussi d’éviter de produire beaucoup d’urine, cela facilite la locomotion et pour certains le vol. (idem Chiroptères). 
+
+Chez certaines espèces, l’acide urique peut être dégradée par uricolyse.
+
+
+
+
+
+
+
+
+
 
 
 
