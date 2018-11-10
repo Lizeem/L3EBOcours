@@ -76,6 +76,62 @@ L’acide urique est éliminée dans un minimum d’eau, c’est la partie « bl
 
 Chez certaines espèces, l’acide urique peut être dégradée par uricolyse.
 
+### D) Les autres "déchets" azotés
+
+![Les autres déchets azotés](Images/déchets.JPG)
+
+En réalité, les animaux n’excrètent pas qu’un seul produit mais souvent une combinaison de plusieurs de ces composés : 
+
+![Excrétions d'autres produits](Images/produit.JPG)
+
+## II) Hypothèse de Needham et Baldwin
+
+Plus le milieu est osmotiquement stressant, plus le déchet azoté est insoluble et nécessite de moins en moins d’eau pour être éliminé. Cela va dans le sens de l’économie d’eau  
+
+Têtard **ammonotélique** -> Adulte **uréotélique** 
+
+Chez le Xénope, l'adulte reste exclusivement aquatique : **Ammoniotélisme**
+
+**Ammonotélique** -> **Uréotélique** 
+
+L’alternance des modalités d’excrétion peut se dérouler de façon journalière 
+
+![La littorine](Images/littorine.JPG)
+
+Mollusques gastéropodes prosobranches 
+
+Même mode de vie intertidale que les littorines et pourtant ces mollusques sont uricotéliques quel que soit le cycle de la marée. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
