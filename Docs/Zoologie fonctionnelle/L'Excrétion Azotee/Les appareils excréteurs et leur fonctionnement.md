@@ -44,24 +44,12 @@ Origine mésodermique des néphridies
 
 ![Strcture du Néphron](Images/corp.JPG)
 
+![Strcture du Néphron](Images/tube.JPG)
 
+![Strcture du Néphron](Images/vacs.JPG)
 
+## IV) Organes filtrant par transport d'ions
 
+![Organes filtrant par transport d'ions](Images/transp.JPG)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Organes filtrant par transport d'ions](Images/transp2.JPG)
