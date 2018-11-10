@@ -38,6 +38,59 @@ Représentation schématique des appareils excréteurs :
 
 Selon les appareils excréteurs, on distingue 3 types de mécanismes de filtration : 
 
+* Filtration par surpression (pression positive)
+
+![Filtration par surpression](Images/surpression.JPG)
+
+* Filtration par dépression (pression négative)
+
+![Filtration par dépression](Images/dépression.JPG)
+
+* Filtration par transport d'ions
+
+![Filtration par transport d'ions](Images/ions.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
