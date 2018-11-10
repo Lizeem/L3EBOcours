@@ -102,50 +102,5 @@ Mollusques gastéropodes prosobranches
 
 Même mode de vie intertidale que les littorines et pourtant ces mollusques sont uricotéliques quel que soit le cycle de la marée. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Chez les Ruminants, l’urée est excrétée avec la salive et elle sert de source azotée pour les symbiotes. 
 
