@@ -270,6 +270,3 @@ Le continuum de stratégies fongiques est un mode de vie parfois mal défini.
 	* mécanismes d'infection
     * enzymes de dégradation de la matière organique
     * morphologie
-
-
-## V) Continuum des interactions plantes-champignons
