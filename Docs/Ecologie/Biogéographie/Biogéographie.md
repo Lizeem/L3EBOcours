@@ -1,4 +1,3 @@
-# Biogéographie 
 
 ## I) Definition
 
