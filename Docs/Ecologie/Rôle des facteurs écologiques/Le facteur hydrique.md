@@ -248,15 +248,14 @@ Les éléments indispensables dans les processus physiologiques sont photosynth�
 
 Présence souvent limitée dans l'environnement : seuil de toxicité
 
+### C) Rôle du pH
 
+C'est un rôle important dans la répartition des organismes terrestres et aquatiques 
 
+Certains organismes (plantes) exercent un effet sur le sol, augmentation ou diminution du pH en absorbant des cations et rejetant des acides organiques
 
+## VI) Les facteurs biotiques
 
+Les facteurs biotiques concernent les relations entre les organismes vivants 
 
-
-
-
-
-
-
-
+(Compétition, prédation, mutualisme, parasitisme..)
