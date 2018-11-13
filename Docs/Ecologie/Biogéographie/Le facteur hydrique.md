@@ -95,17 +95,56 @@ ET varie entre 0 et une valeur maximale atteinte quand :
 
 La valeur max notée = ETP = ET Potentielle ou maximale
 
+En condition réelles : mesures de l'ET réelle = ETR qui tient compte de:
 
+* caractéristiques de la végétation 
+* caractéristiques du sol
+* caractéristiques physiques du milieu (albédo)
 
+La mesure se fait à l'aide d'un lysimètre
 
+![Schéma d ’un évapotranspiromètre pesable et de son dispositif de mesures](Images/evapo.JPG)
 
+Schéma d ’un évapotranspiromètre pesable et de son dispositif de mesures
 
+ETR = P + A - C
 
+La température et l'humidité contrôlent l'ET
 
+Il est utile pour évaluer indirectement
 
+* la production primaire 
+* la décomposition de la litière
 
+## III) Circulation de l'eau dans le sol
 
+L'eau du sol est sous 3 formes:
 
+* l'eau **non absorbable** :
+	* l'eau hygroscopique provenant de l'atmosphère
+    * l'eau piégée dans capillaires : dimaètre < 0.2 mm
+
+Elle est non utilisable 
+
+* l'eau capillaire : eau présente dans les capillaire, diamètre compris entre 0.2 et 8 mm
+
+Elle est utilisable par les plantes et microorganismes
+
+* l'eau de gravité : contenue dans les pores les plus gros du sol
+	* écoulement rapide si sol grossier 
+    * lent si sol fin
+
+Le régime hydraulique des sols sont essentiel pour comprendre
+
+* processus physico-chimiques (oxygénation)
+* biologiques (enracinement)
+
+La gamme d'eau utilisable par les plantes comprise entre :
+
+* capacité de rétention au champ = surplus s'écoule par gravité 
+* point de flétrissement = reliquat d'eau non absorbable
+
+## IV) L'eau comme facteur écologique
 
 
 
