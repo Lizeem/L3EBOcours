@@ -155,9 +155,26 @@ Schéma général des réponses possibles face à une contrainte :
 
 ![Schéma général des réponses possibles face à une contrainte](Images/contrainte.JPG)
 
+Fondalementalement, il existe deux types d'adaptations
 
+* **réponse réversible** = notion de plasticité/ élasticité = accomodats
+* **réponse irréversible** = notion d'adaptation
 
+**réversibilité** : réponses affectent essentiellement les caractères morphologiques de l'organisme = **xéromorphoses** 
 
+* taille 
+* port 
+* caractère des feuilles  
+* ratio tige/racine …
+
+Objectifs : limiter les pertes en eau
+
+* déplacement de la biomasse vers la ressource limitante (racines)
+* affection du métabolisme vers la ressource limitante (racines)
+
+**irréversibilité** : réponses de nature génétique
+
+L'adaptation se transfert à le descendance, les adaptations sont xérophytiques
 
 
 
