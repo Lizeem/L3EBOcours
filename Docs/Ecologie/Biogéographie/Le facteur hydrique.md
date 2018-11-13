@@ -75,6 +75,25 @@ Dans le système forestier, le bilan hydrique varie selon :
 * la saison
 * le stade phénologique
 
+![Bilan hydrique saisonnier en phénophase feuillée et défeuillée dans une chênaie belge](Images/hydrique.JPG)
+
+Bilan hydrique saisonnier en phénophase feuillée et défeuillée dans une chênaie belge
+
+Les valeurs sont mm de précipitations ou en leur équivalent.
+
+Sur le couvert végétal, 2 flux de vapeur sont mesurées
+
+* le flux provenant du couvert végétal 
+* le flux provenant du sol
+
+Flux global = Evapotranspiration = ET
+
+ET varie entre 0 et une valeur maximale atteinte quand : 
+
+* surface d'évaporation bien alimentée en eau 
+* surface oppose une résistance minimale à la diffusion de l'eau
+
+La valeur max notée = ETP = ET Potentielle ou maximale
 
 
 
