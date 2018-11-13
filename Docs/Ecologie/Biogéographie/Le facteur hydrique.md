@@ -146,10 +146,14 @@ La gamme d'eau utilisable par les plantes comprise entre :
 
 ## IV) L'eau comme facteur écologique
 
+Stratégie de résistance d'une espèce à un contrainte/perturbation :
 
+* va de l'évitement total à la résistance maximale aux effets du facteur contraignant 
+* réponse des organismes implique divers niveaux d'intégration biologiques
 
+Schéma général des réponses possibles face à une contrainte :
 
-
+![Schéma général des réponses possibles face à une contrainte](Images/contrainte.JPG)
 
 
 
