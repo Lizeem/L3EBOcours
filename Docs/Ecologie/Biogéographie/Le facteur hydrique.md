@@ -174,17 +174,79 @@ Objectifs : limiter les pertes en eau
 
 **irréversibilité** : réponses de nature génétique
 
-L'adaptation se transfert à le descendance, les adaptations sont xérophytiques
+L'adaptation se transfert à le descendance, les adaptations sont xérophytiques.
 
+Il existe trois grandes statégies de réponse chez les végétaux : 
 
+1) Eviter la sécheresse : 
 
+* cycle biologique très rapidement -> éphémérophytes
+* semences à longévité importante ex : légumineuses, brassicacées, graminées
+* éphémères vivaces : possèdent des bulbes, rhizomes -> géophytes (peu)
 
+2) Tolérer la sécheresse : 
 
+Cas de beaucoup d'espèces peu évoluées
 
+* cytoplasme et organites doivent supporter la dessication 
+* capacité de reviviscence et de réparation ex : bryophytes, lichen, ptéridophytes, phanérogames
 
+3) Résister à la sécheresse : "défense"
 
+Cela implique des adaptations morphologiques ou physiologiques 
 
+* système souterrain très developpé pour puiser l'eau
+* présence de poils sur les surfaces foliaires
+* réduction des pertes d'eau :
+	* chute des feuilles 
+    * réduction de la surface foliaire : microphyllie
+    * enroulement des feuilles
+* augmentation de la cuticule
+* enfoncement des stomates
+* augmentation des parois cellulaires : perte de turgescence
+* augmentation des réserves d'eau : dans les feuilles (crassulacées..), dans les tiges (Cactées, Euphorbes...) 
+* métabolisme CAM : adaptations physiologiques et biochimiques certaines espèces : alternance de CAM et C3 entrée de CAM corrélé à la contrainte hydrique
 
+Remarque : notion d'élasticité et de plasticité
+
+**Elasticité** : organisme retrouve sa morphologique ou caractéristiques d'avant contrainte 
+**Plasticité** : organisme enregistre une part de la réponse due à l'action de la contrainte
+
+Réponse chez les animaux : beaucoup d'analogies
+
+La tolérance à la déshydratation est faible: 12 à 20 % de perte d'eau : seuil létal atteint chez la plupart des animaux supérieurs
+
+L'entrée en latence (animaux inférieurs) permet de palier à la contrainte : insectes, métazoaires (rotifères),..
+
+La modification du comportement: permet de limiter les pertes vie nocturne plutôt que diurne 
+
+Les adaptations morphologiques: cuticule des insectes, cryptes protégeant les orifices respiratoires.. 
+
+Les adaptations physiologiques: absorption cutanée chez certains batraciens, arrêt de la transpiration… 
+
+La fabrication d'eau à partir d'oxydation de molécules lipidiques: coléoptères = perte importante de poids
+
+## V) Les facteurs abiotiques apériodiques
+
+### A) Macro-éléments
+
+N,P,K,Ca,Mg
+
+* interviennent dans les cycles bio-géochimiques
+* élément pouvant être stocké dans la biomasse ou dans l'environnement
+
+Cas du calcaire : plantes calcicoles VS calcifuges
+
+* calcifuge : rôle toxique du Ca pour les plantes (Ericacées, Digitale jaune..)
+* calcicolie souvent difficile à distinguer de la thermophilie ou xérophilie (espèces souvent frugales en P et K)
+
+### B) Micro-éléments et oligo-éléments
+
+Fe, Cu, Zn, Cl, Mn, Bo ...
+
+Les éléments indispensables dans les processus physiologiques sont photosynthèse, fer
+
+Présence souvent limitée dans l'environnement : seuil de toxicité
 
 
 
