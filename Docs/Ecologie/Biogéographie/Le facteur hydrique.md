@@ -46,8 +46,34 @@ Les réserves principales d'eau :
 
 Remarque : Chez les animaux, la circulation fermée
 
+Le déplacement d'eau si **différence de niveau d'énergie potentielle** entre deux points, le déplacement du potentiel hydrique le plus **élevé** vers le plus **bas**.
 
+Le potentiel hydrique (Ψ) dépend,
 
+* de la **pression atmosphérique** = Pp
+* **forces de tensions superficielles** s'exerçant sur les interfcaes eau-air et au-solides = **Pm** ou potentiel matriciel (phénomène de capillarité)
+* **pression osmotique** liée aux substances dissoutes = **Ps**
+* **potentiel gravitationnel** = **Pg**
+
+**Ψ = Pp + Pm + Ps + Pg**
+
+Le bilan hydrique :
+
+* les **entrées**:
+	* précipitations 
+    * brouillards, rosées
+    * nappe aquifère
+	* ruissellements latéraux
+
+* les **sorties**:
+	* ruissellement de surface
+    * drainage, lessivage
+    * flux de vapeur d'eau = évapotranspiration
+    
+Dans le système forestier, le bilan hydrique varie selon : 
+
+* la saison
+* le stade phénologique
 
 
 
