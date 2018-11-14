@@ -116,6 +116,25 @@ Il est utile pour évaluer indirectement
 * la production primaire 
 * la décomposition de la litière
 
+Formule de TURC :
+
+**Etp = (Rg + 50) x [0,4t / (t + 15)] x [1 + (50-HR) / 70]**
+
+t = T°moyenne
+
+Rg = Rayonnement global
+
+HR = degré hygrométrie moyen de l'air
+
+Rmq : coeff [1 + (50-HR) / 70] utilisé pour hygrométrie < 50 %.
+
+La température et l'humidité contrôlent l'ET
+
+ET utile pour évaluer indirectement 
+
+* la productivité primaire
+* la décomposition de la litière 
+
 ## III) Circulation de l'eau dans le sol
 
 L'eau du sol est sous 3 formes:
