@@ -7,7 +7,6 @@ L'eau est l'élément primoridial pour la vie
 * constituant le plus important
 	* Biosphère
     * Matière vivante (90% de certains organismes)
-
 * origine de l'eau : pluviométrie essentiellement
 	* grande variabilité à la surface du globe
     
