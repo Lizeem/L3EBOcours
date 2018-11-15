@@ -1,4 +1,4 @@
-# II) Influence de la température
+# Influence de la température
 
 ## A) Généralités
 

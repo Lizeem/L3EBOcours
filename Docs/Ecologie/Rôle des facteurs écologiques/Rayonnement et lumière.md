@@ -1,4 +1,4 @@
-# I) Rayonnement et lumière
+# Rayonnement et lumière
 
 Le rayonnement et la lumière font parti des facteurs climatiques qui subissent des **variations récurrentes**:
 
