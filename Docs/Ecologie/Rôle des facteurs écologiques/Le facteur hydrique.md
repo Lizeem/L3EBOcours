@@ -140,7 +140,7 @@ L'eau du sol est sous 3 formes:
 
 * l'eau **non absorbable** :
 	* l'eau hygroscopique provenant de l'atmosphère
-    * l'eau piégée dans capillaires : dimaètre < 0.2 mm
+    * l'eau piégée dans capillaires : diamètre < 0.2 mm
 
 Elle est non utilisable 
 
@@ -228,6 +228,7 @@ Cela implique des adaptations morphologiques ou physiologiques
 Remarque : notion d'élasticité et de plasticité
 
 **Elasticité** : organisme retrouve sa morphologique ou caractéristiques d'avant contrainte 
+
 **Plasticité** : organisme enregistre une part de la réponse due à l'action de la contrainte
 
 Réponse chez les animaux : beaucoup d'analogies
