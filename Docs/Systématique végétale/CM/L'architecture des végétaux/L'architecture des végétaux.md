@@ -23,7 +23,7 @@ Il existe quatre grands groupes de critères utilisés
 
 #### 1) Croissance Définie *vs* Indéfinie
 
-Voir schéma
+![Croissance Définie vs Indéfinie](Images/croissance.JPG)
 
 La plupart des conifères ont une croissance indéfinie de même pour les palmiers ou cocotiers...
 
@@ -31,13 +31,17 @@ La plupart des conifères ont une croissance indéfinie de même pour les palmie
 
 La croissance continue est une croissance régulière
 
-Voir schéma
+![Croissance continue](Images/continue.JPG)
 
 La croissance rythmique alterne en croissance et un arrêt, notion d'**unité de croissance** (UC). Le caoutchou possède ce type de croissance.
 
 Lorsqu'il y a un arrêt de croissance, il y a un bourgeon. Les **cataphylles** sont les écailles situés sur les bourgeons.
 
+![Croissance rythmique](Images/rythmique.JPG)
+
 La croissance rythmique peut être "typique" (on peut l'anticiper) ou "atypique" comme le noyer, le chêne ou le hêtre.
+
+![Croissance rythmique](Images/typique.JPG)
 
 On peut observer ces différents types à l'aide : 
 
@@ -48,9 +52,11 @@ On peut observer ces différents types à l'aide :
 
 #### 3) Notions de monocyclisme et polycyclisme
 
-Voir schéma
+![Notions de monocyclisme et polycyclisme](Images/polycyclique.JPG)
 
-Croissance annuelle : exemple de planttes bicycliques
+Croissance annuelle : exemple de plantes bicycliques
+
+![Plantes bicyclique](Images/bicyclique.JPG)
 
 ### B) Les processus de ramification
 
@@ -62,28 +68,28 @@ La ramification va se faire par un bourgeon latéral qui peut être de trois typ
 
 #### 1) Ramification immédiate et différée
 
-Voir schéma
+![Ramification immédiate et différée](Images/rami.JPG)
 
-** Ramification immédiate** : formation d'un premier entre noeud
+** Ramification immédiate** : formation d'un premier entre noeud généralement long = **l'hypopodium**
 
-Voir diapo
+**Ramification différée** : Présence de prophylles signant la période de repos.
 
 
 #### 2) Monopodie et sympodie
 
-Voir schéma
+![Monopodie et sympodie](Images/podie.JPG)
 
 #### 3) Positionnnement des rameaux latéraux
 
-Voir schéma
+![Positionnnement des rameaux latéraux](Images/latéraux.JPG)
 
-Acrotonie : dominance d'un bourgeon apical (arbres)
+**Acrotonie** : dominance d'un bourgeon apical (arbres)
 
-Mésotonie : developpement privilégié dans la partie médiane
+**Mésotonie** : developpement privilégié dans la partie médiane
 
-Basitonie : les rameaux à la base se developpent d'avantage (arbustes)
+**Basitonie** : les rameaux à la base se developpent d'avantage (arbustes)
 
-Voir diapo
+![Hypo, amphi, épi](Images/tonie.JPG)
 
 ### C) Différenciation morphologiqe des axes
 
@@ -93,11 +99,17 @@ Orthotropie : axe à la verticale (palmier)
 
 Plagiotropie : axe à l'horizontal 
 
-#### 2) 
+![Différents types d'axes](Images/axes.JPG)
+
+![Différents types d'axes](Images/axes2.JPG)
+
+#### 2) Axes courts et axes longs
+
+![Différents types d'axes](Images/axes3.JPG)
 
 ### D) Position terminale ou latérale des structures reproductrices
 
-Voir schéma
+![Position terminale ou latérale es structures reproductrices](Images/inflo.JPG)
 
 ## II) Les modèles architecturaux
 
@@ -107,63 +119,70 @@ Ils expriment la nature et la séquence des évenements affectant la croissance 
 
 Une vision globale et dynamique du développement végétal
 
-Voir schéma
+![Les modèles architecturaux](Images/archi.JPG)
 
 Un exemple de plantes non ramifiées à inflorescence terminale : 
 
 * Modèle de **HOLTTUM**
 
-Voir schéma
+![Modèle HOLTTUM](Images/holttum.JPG)
 
 Un seul axe qui s'arrêtera par une inflorescence (séxualité terminale), c'est une plante **monocaule** (un seul axe)
 
-Voir photo
+![Modèle HOLTTUM](Images/holttum2.JPG)
 
 * Modèle de **CORNER**
 
-Voir schéma
+![Modèle de CORNER](Images/corner.JPG)
 
-Plante non ramifiée à inflorescence latérale, la croissance est continue
+Plante non ramifiée à inflorescence latérale, la croissance est continue (ex : palmier)
 
 * Modèle de **LEEUWENBERG**
 
-Plante entièrement sympodiale
+Plante entièrement sympodiale : Succession sympodiale d’unités équivalentes orthotropes et déterminées 
 
-Voir schéma
+![Modèle de LEEUWENBERG](Images/leu.JPG)
+
+![Modèle de LEEUWENBERG](Images/leu2.JPG)
 
 * Modèle de **RAUH**
 
-Voir schéma
+![Modèle de RAUH](Images/rauh.JPG)
 
 Plante entièrement monopodiale
 
 Ramification et croissance rythmique, axes monopodiaux, orthotropes et sexualité latérale
 
+![Modèle de RAUH](Images/rauh2.JPG)
+
 * Modèle de **MASSART**
 
-Voir schéma
+![Modèle de Massart](Images/massart.JPG)
 
 Croissance rythmique, tronc orthotrope mais branches plagiotropes, système ramifié monopodial, séxualité... 
+
+![Modèle de Massart](Images/massart2.JPG)
 
 ## III) L'unité architecturale
 
 Existence d'espèces ayant le même modèle mais des modalités de croissances différentes
 
-Voir schéma
+![Unité architecturale](Images/croi.JPG)
 
 Pour mieux définir l'architecture, on va définir le concept d'unité architectural qui caractérise l'architecture élémentairedes arbres d'une même espèce. On va caractériser chaque type  d'axe et comprendre a quoi sert chaque axe.
 
-Voir schéma
 
 ## IV) La réitération
 
 "*Ramification dont la place, **controléee par des facteurs écologiques**, n'est **pas prévisible** avec lesseules données du modèle architectural, et qui mène à la **duplication de ce modèle** à partir de méristèmes qui n'étaient pas ceux de l'embryon*" OLDEMAN, 1974
 
 
-**Rétitération traumatique** : le haut de l'axe ne repousse pas, les axes latérales vont pousser grâce aux bourgeons latéraux 
+**Réitération traumatique** : le haut de l'axe ne repousse pas, les axes latérales vont pousser grâce aux bourgeons latéraux 
 
-
-Voir schéma 
+![Réitération traumatique](Images/trauma.JPG) 
 
 **Réitération adaptative** : Elle peut être immédiate ou différée : refait de nouveau rameaux pour étoffer un peu, suite souvent au vieillissement
 
+![Réitération adaptative](Images/ada.JPG)
+
+![Réitération adaptative](Images/ada2.JPG)
