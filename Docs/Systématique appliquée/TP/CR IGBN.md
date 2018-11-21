@@ -1,4 +1,6 @@
-# Introduction
+# CR IBGN
+
+## Introduction
 
 L’eau a toujours été une ressource essentielle pour le développement de la vie. La
 majorité des grandes villes sont installées au bord de cours d’eau, qui ont joué un rôle
@@ -50,7 +52,7 @@ homogènes. Il nous a semblé approprié de nous intéresser plus en détails à
 de formuler l’hypothèse suivante, la ville de Darnétal a un impact négatif sur la richesse
 taxonomique de la macrofaune benthique vivant sur l’habitat “Spermaphytes immergés”.
 
-# Matériel et méthodes
+## Matériel et méthodes
 
 L’étude a été réalisé en trois étapes: la première étant de récolter les échantillons selon un
 protocole bien spécifique qui sera détaillé plus bas. La seconde et dernière étape consiste
@@ -59,7 +61,7 @@ des résultats observés.
 Site: L’étude a été réalisé sur le Robec sur deux sites différents. Le premier,en amont à St
 Martin du Vivier et le second rue de la pannevert à Darnétal.
 
-## Matériel:
+### Matériel:
 
 Décamètre pour délimiter la surface d’étude, la profondeur de l’eau et la largeur moyenne
 estimée du lit mouillé.
@@ -72,7 +74,7 @@ les échantillons.
 Clé de détermination de la macrofaune benthique et loupe binoculaire pour la
 détermination des taxons.
 
-## Protocole pour chaque station (St Martin du Vivier et Darnétal):
+### Protocole pour chaque station (St Martin du Vivier et Darnétal):
 
 On sélectionne une portion de cour d’eau de 10m de long comportant le plus d’habitats
 (milieu naturel où vie une espèce animale ou végétale) différents possibles. On mesure à
@@ -97,7 +99,7 @@ déterminations et d’une loupe binoculaire. Certains appartiennent aux taxons 
 (cf. Annexe 4). Suite à cette détermination on peut calculer l’indice biologique global
 normalisé (IBGN) grâce à un tableau d’analyse (cf. Annexe 5).
 
-# Résultats-Discussion
+## Résultats-Discussion
 
 On ne tient pas compte des données récoltées par le groupe 2A car les prélèvements
 effectués sur le site de Saint-Martin-du-Vivier ont été fait sur une portion déjà étudiée la
@@ -147,7 +149,7 @@ Enfin il semble important de signaler que les identifications et les prélèveme
 effectuées par des étudiants en licence de biologie encadrés par un professeur et non par
 des spécialistes.
 
-# Conclusion
+## Conclusion
 
 La ville de Darnétal n’a pas d’impacts significatifs sur la biodiversité taxonomique de la
 macrofaune benthique résidant dans les spermaphytes immergés.
@@ -165,7 +167,7 @@ plus précisément les causes et de pouvoir proposer des solutions pour réduire
 l’impact de la ville sur la rivière car même si on y pense souvent moins, les écosystèmes
 d’eau douce sont tout aussi important à protéger que leurs homologues continentaux.
 
-# Bibliographie
+## Bibliographie
 
 Freshwater biodiversity: importance, threats, status and conservation challenges. David
 Dudgeon, Angela H. Arthington, Mark O. Gessner, Zen-Ichiro Kawabata, Duncan J.
