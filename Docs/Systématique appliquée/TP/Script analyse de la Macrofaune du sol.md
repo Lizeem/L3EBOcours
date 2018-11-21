@@ -16,8 +16,8 @@ Essai de tesqt paramétrique: l'Analyse de la Variance (ANOVA)
 
 Conditions: normalité des résidus de regression, indépendance, homoscédasticité
 ```R
-lm1 <- lm(HR ~ mod, HR) # Regression linéaire de l'humidité relative par la topographie ```
-
+lm1 <- lm(HR ~ mod, HR) # Regression linéaire de l'humidité relative par la topographie 
+```
 Terme de gauche (lhs): variable dépendante
 
 Terme de droite (rhs): variable explicative
