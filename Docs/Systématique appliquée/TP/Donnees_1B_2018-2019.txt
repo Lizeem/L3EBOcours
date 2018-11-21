@@ -1,0 +1,329 @@
+identifients	date	groupe	transect	modalité	horizon	variable	valeur	Remarque
+TP_1B_1_B	09/11/2018	1B	1	B	A	epaisseur_A	10	
+TP_1B_1_B	09/11/2018	1B	1	B	OH	epaisseur_OH	0,5	
+TP_1B_1_B	09/11/2018	1B	1	B	OF	epaiseur_OF	0	
+TP_1B_1_B	09/11/2018	1B	1	B	OL	epaisseur_OL	1	
+TP_1B_1_M	09/11/2018	1B	1	M	A	epaisseur_A	8	
+TP_1B_1_M	09/11/2018	1B	1	M	OH	epaisseur_OH	1	
+TP_1B_1_M	09/11/2018	1B	1	M	OF	epaiseur_OF	1	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	epaisseur_OL	1,5	
+TP_1B_1_H	09/11/2018	1B	1	H	A	epaisseur_A	7	
+TP_1B_1_H	09/11/2018	1B	1	H	OH	epaisseur_OH	4	
+TP_1B_1_H	09/11/2018	1B	1	H	OF	epaiseur_OF	2	
+TP_1B_1_H	09/11/2018	1B	1	H	OL	epaisseur_OL	1,5	
+TP_1B_2_B	09/11/2018	1B	2	B	A	epaisseur_A	NA	
+TP_1B_2_B	09/11/2018	1B	2	B	OH	epaisseur_OH	0	
+TP_1B_2_B	09/11/2018	1B	2	B	OF	epaiseur_OF	0	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	epaisseur_OL	2	
+TP_1B_2_M	09/11/2018	1B	2	M	A	epaisseur_A	1,5	
+TP_1B_2_M	09/11/2018	1B	2	M	OH	epaisseur_OH	0,2	
+TP_1B_2_M	09/11/2018	1B	2	M	OF	epaiseur_OF	4	
+TP_1B_2_M	09/11/2018	1B	2	M	OL	epaisseur_OL	3	
+TP_1B_2_H	09/11/2018	1B	2	H	A	epaisseur_A	20	
+TP_1B_2_H	09/11/2018	1B	2	H	OH	epaisseur_OH	0,2	
+TP_1B_2_H	09/11/2018	1B	2	H	OF	epaiseur_OF	10,5	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	epaisseur_OL	0,5	
+TP_1B_3_B	09/11/2018	1B	3	B	A	epaisseur_A	15	
+TP_1B_3_B	09/11/2018	1B	3	B	OH	epaisseur_OH	3	
+TP_1B_3_B	09/11/2018	1B	3	B	OF	epaiseur_OF	2	
+TP_1B_3_B	09/11/2018	1B	3	B	OL	epaisseur_OL	2	
+TP_1B_3_M	09/11/2018	1B	3	M	A	epaisseur_A	11	
+TP_1B_3_M	09/11/2018	1B	3	M	OH	epaisseur_OH	2	
+TP_1B_3_M	09/11/2018	1B	3	M	OF	epaiseur_OF	1	
+TP_1B_3_M	09/11/2018	1B	3	M	OL	epaisseur_OL	1	
+TP_1B_3_H	09/11/2018	1B	3	H	A	epaisseur_A	3	
+TP_1B_3_H	09/11/2018	1B	3	H	OH	epaisseur_OH	5	
+TP_1B_3_H	09/11/2018	1B	3	H	OF	epaiseur_OF	1,5	
+TP_1B_3_H	09/11/2018	1B	3	H	OL	epaisseur_OL	1	
+TP_1B_1_B	09/11/2018	1B	1	B	A	humidite_relative	-0,308988764	
+TP_1B_1_M	09/11/2018	1B	1	M	A	humidite_relative	-0,192561488	
+TP_1B_1_H	09/11/2018	1B	1	H	A	humidite_relative	-0,387966805	
+TP_1B_2_B	09/11/2018	1B	2	B	A	humidite_relative	-0,274401473	
+TP_1B_2_M	09/11/2018	1B	2	M	A	humidite_relative	-0,560606061	
+TP_1B_2_H	09/11/2018	1B	2	H	A	humidite_relative	0,905760151	
+TP_1B_3_B	09/11/2018	1B	3	B	A	humidite_relative	-0,294272548	
+TP_1B_3_M	09/11/2018	1B	3	M	A	humidite_relative	-0,270611702	
+TP_1B_3_H	09/11/2018	1B	3	H	A	humidite_relative	-0,616242038	
+TP_1B_1_H	09/11/2018	1B	1	H	OL	especes	Porcellionides pruinosus	
+TP_1B_1_H	09/11/2018	1B	1	H	OL	especes	Lumbricidae juvenile	
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Trichoptere	
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Diptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Trichoptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Trichoptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Trichoptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Trichoptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Trichoptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Trichoptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Trichoptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Trichoptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Hemiptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Hemiptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Hemiptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Hemiptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Hemiptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Hemiptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Hemiptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Hemiptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Hemiptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Hemiptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Hemiptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Hemiptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Scolopendre	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Scolopendre	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Aranae	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Aranae	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Coleoptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Coleoptere	
+TP_1B_2_H	09/11/2018	1B	2	H	OL	especes	Diptere	
+TP_1B_3_M	09/11/2018	1B	3	M	OL	especes	hyménoptère	
+TP_1B_3_M	09/11/2018	1B	3	M	OL	especes	Trichoptere	
+TP_1B_3_M	09/11/2018	1B	3	M	OL	especes	Trichoptere	
+TP_1B_3_M	09/11/2018	1B	3	M	OL	especes	Trichoptere	
+TP_1B_3_M	09/11/2018	1B	3	M	OL	especes	Trichoptere	
+TP_1B_3_M	09/11/2018	1B	3	M	OL	especes	Trichoptere	
+TP_1B_3_M	09/11/2018	1B	3	M	OL	especes	oniscus asellus	
+TP_1B_3_M	09/11/2018	1B	3	M	OL	especes	oniscus asellus	
+TP_1B_3_H	09/11/2018	1B	3	H	OL	especes	Coleoptere	
+TP_1B_3_H	09/11/2018	1B	3	H	OL	especes	Protura	
+TP_1B_3_H	09/11/2018	1B	3	H	OL	especes	Hemiptere	
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Coleoptere	
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Diptere	
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Diptere	
+TP_1B_3_H	09/11/2018	1B	3	B	A	pH	7,56	
+TP_1B_3_H	09/11/2018	1B	3	M	A	pH	3,77	
+TP_1B_3_H	09/11/2018	1B	3	H	A	pH	3,45	
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Geophilomorphe	
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Eiseniela tetraedra	
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Eiseniela tetraedra	
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Eiseniela tetraedra	
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_H	09/11/2018	1B	3	H	A	especes	Hymenoptère	Gales
+TP_1B_3_B	09/11/2018	1B	3	B	OL	especes	oniscus asellus	
+TP_1B_3_B	09/11/2018	1B	3	B	OL	especes	Philoscia muscorum	
+TP_1B_3_B	09/11/2018	1B	3	B	OL	especes	Craspedosoma	
+TP_1B_3_B	09/11/2018	1B	3	B	OL	especes	Hymenoptere	
+TP_1B_2_M	09/11/2018	1B	2	M	OL	especes	Trichonicus pusillus	
+TP_1B_2_M	09/11/2018	1B	2	M	OL	especes	Trichonicus pusillus	
+TP_1B_2_M	09/11/2018	1B	2	M	OL	especes	Aranea	
+TP_1B_2_M	09/11/2018	1B	2	M	OL	especes	Heteroptera	
+TP_1B_2_M	09/11/2018	1B	2	M	OL	especes	Heteroptera	
+TP_1B_2_M	09/11/2018	1B	2	M	OL	especes	Lepidoptere 	larve
+TP_1B_2_M	09/11/2018	1B	2	M	OL	especes	Coleoptere	larve
+TP_1B_2_M	09/11/2018	1B	2	M	OL	especes	Coleoptere	larve
+TP_1B_2_M	09/11/2018	1B	2	M	OL	especes	Scolopendromorpha	
+TP_1B_2_M	09/11/2018	1B	2	M	OL	especes	Scolopendromorpha	
+TP_1B_2_M	09/11/2018	1B	2	M	OL	especes	Diptere	larve
+TP_1B_2_M	09/11/2018	1B	2	M	OL	especes	Diptere	larve
+TP_1B_2_H	09/11/2018	1B	2	H	A	especes	Coleoptere	
+TP_1B_2_H	09/11/2018	1B	2	H	A	especes	Trichoptère	larve
+TP_1B_2_H	09/11/2018	1B	2	H	A	especes	Trichoptère	larve
+TP_1B_2_H	09/11/2018	1B	2	H	A	especes	Trichoptère	larve
+TP_1B_2_H	09/11/2018	1B	2	H	A	especes	Coleoptere	larve
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Lithobiomorpha	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Acari	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	Geophilomorpha	
+TP_1B_2_B	09/11/2018	1B	2	B	OL	especes	oniscus asellus	
+TP_1B_2_B	09/11/2018	1B	2	B	A	especes	Aranea	
+TP_1B_2_B	09/11/2018	1B	2	B	A	especes	Aranea	
+TP_1B_2_B	09/11/2018	1B	2	B	A	especes	Coleoptera	
+TP_1B_2_B	09/11/2018	1B	2	B	A	especes	Coleoptera	
+TP_1B_2_B	09/11/2018	1B	2	B	A	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	A	especes	Philoscia muscorum	
+TP_1B_2_B	09/11/2018	1B	2	B	A	especes	Philoscia muscorum	
+TP_1B_2_M	09/11/2018	1B	2	M	A	especes	Geophilomorpha	
+TP_1B_2_M	09/11/2018	1B	2	M	A	especes	Scolopendromorpha	
+TP_1B_2_M	09/11/2018	1B	2	M	A	especes	Tricopere	larve
+TP_1B_2_M	09/11/2018	1B	2	M	A	especes	Tricopere	larve
+TP_1B_2_M	09/11/2018	1B	2	M	A	especes	Tricopere	larve
+TP_1B_2_M	09/11/2018	1B	2	M	A	especes	Tricopere	larve
+TP_1B_2_M	09/11/2018	1B	2	M	A	especes	Tricopere	larve
+TP_1B_2_M	09/11/2018	1B	2	M	A	especes	Aranea	
+TP_1B_2_H	09/11/2018	1B	2	H	A	PH	2,79	
+TP_1B_2_M	09/11/2018	1B	2	M	A	PH	3,29	
+TP_1B_2_B	09/11/2018	1B	2	B	A	PH	7,77	
+TP_1B_1_M	09/11/2018	1B	1	M	A	especes	larve lepidoptere	
+TP_1B_1_M	09/11/2018	1B	1	M	A	especes	Geophilomorpha	
+TP_1B_1_M	09/11/2018	1B	1	M	A	especes	Geophilomorpha	
+TP_1B_1_B	09/11/2018	1B	1	B	A	especes	Omiscus asellus	
+TP_1B_1_B	09/11/2018	1B	1	B	A	especes	Philoscia muscorum	
+TP_1B_1_B	09/11/2018	1B	1	B	A	especes	Philoscia muscorum	
+TP_1B_1_B	09/11/2018	1B	1	B	A	especes	Philoscia muscorum	
+TP_1B_1_B	09/11/2018	1B	1	B	A	especes	Philoscia muscorum	
+TP_1B_1_B	09/11/2018	1B	1	B	A	especes	Philoscia muscorum	
+TP_1B_1_B	09/11/2018	1B	1	B	A	especes	Philoscia muscorum	
+TP_1B_1_B	09/11/2018	1B	1	B	A	especes	aranea	
+TP_1B_1_B	09/11/2018	1B	1	B	OL	especes	oniscus asellus	
+TP_1B_1_B	09/11/2018	1B	1	B	OL	especes	oniscus asellus	
+TP_1B_1_B	09/11/2018	1B	1	B	OL	especes	Philoscia muscorum	
+TP_1B_1_B	09/11/2018	1B	1	B	OL	especes	Philoscia muscorum	
+TP_1B_1_B	09/11/2018	1B	1	B	OL	especes	Philoscia muscorum	
+TP_1B_1_B	09/11/2018	1B	1	B	OL	especes	Philoscia muscorum	
+TP_1B_1_B	09/11/2018	1B	1	B	OL	especes	Philoscia muscorum	
+TP_1B_1_B	09/11/2018	1B	1	B	OL	especes	Philoscia muscorum	
+TP_1B_1_B	09/11/2018	1B	1	B	OL	especes	Lumbricidae juvenile	
+TP_1B_1_B	09/11/2018	1B	1	B	OL	especes	Lumbricidae juvenile	
+TP_1B_1_B	09/11/2018	1B	1	B	OL	especes	enchytraeidae	
+TP_1B_1_H	09/11/2018	1B	1	H	A	especes	trichoniscidae	
+TP_1B_1_H	09/11/2018	1B	1	H	A	especes	haplophtalmus danicus	
+TP_1B_1_H	09/11/2018	1B	1	H	A	especes	haplophtalmus danicus	
+TP_1B_1_H	09/11/2018	1B	1	H	A	especes	trichoptere	
+TP_1B_1_H	09/11/2018	1B	1	H	A	especes	aranea	
+TP_1B_1_H	09/11/2018	1B	1	H	A	especes	sedoperdromorpha	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	Scolopendromorpha	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	porcellionides cingendus	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	porcellionides cingendus	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	porcellionides cingendus	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	porcellionides cingendus	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	porcellionides cingendus	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	porcellionides cingendus	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	porcellionides cingendus	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	porcellionides cingendus	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	porcellionides cingendus	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	oniscus asellus	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	oniscus asellus	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	oniscus asellus	
+TP_1B_1_M	09/11/2018	1B	1	M	OL	especes	ligidium hypnorum	
+TP_1B_1_B	09/11/2018	1B	1	B	A	pH	7,44	
+TP_1B_1_M	09/11/2018	1B	1	M	A	pH	5,62	
+TP_1B_1_H	09/11/2018	1B	1	H	A	pH	4,18	
