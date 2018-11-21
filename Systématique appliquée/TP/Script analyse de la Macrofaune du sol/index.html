@@ -1815,13 +1815,12 @@
 
 <p>Essai de tesqt paramétrique: l'Analyse de la Variance (ANOVA)</p>
 <p>Conditions: normalité des résidus de regression, indépendance, homoscédasticité</p>
-<pre><code class="R">lm1 &lt;- lm(HR ~ mod, HR) # Regression linéaire de l'humidité relative par la topographie ```
+<pre><code class="R">lm1 &lt;- lm(HR ~ mod, HR) # Regression linéaire de l'humidité relative par la topographie 
+</code></pre>
 
-Terme de gauche (lhs): variable dépendante
-
-Terme de droite (rhs): variable explicative
-```R
-res1 &lt;- residuals(lm1) # Résidus de la regression
+<p>Terme de gauche (lhs): variable dépendante</p>
+<p>Terme de droite (rhs): variable explicative</p>
+<pre><code class="R">res1 &lt;- residuals(lm1) # Résidus de la regression
 shapiro.test(res1) # Test de normalité sur les résidus: on a bien la normalité
 bartlett.test(HR$HR, HR$mod) # Test d'homoscédasticité: on a une hétéroscédasticité
 </code></pre>
