@@ -32,8 +32,11 @@ res1<-residuals(lm1)
 shapiro.test(res1)
 bartlett.test(HR$HR, HR$mod)
 
-kruskal.test(HR£HR, HR$mod)
+kruskal.test(HR$HR, HR$mod)
 
+install.packages("pgirmess")
+
+species(esnumber())
 
 
 
