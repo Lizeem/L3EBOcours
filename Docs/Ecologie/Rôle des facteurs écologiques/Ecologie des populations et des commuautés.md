@@ -164,21 +164,231 @@ Signifie que :
 
 Augmente la précision de l'estimation des effectifs
 
+Elle est identique à la précédente mais est répétée x fois, il y a un marquage à chaque fois des nouveaux individus non marqués
+
+Cette méthode est utilisée pour la capture des insectes, micromammifères
+
+La méthode pouvant être complétée par un marquage nouveau à chaque catpure -> donne une idée de la dynamique de la population
+
+### 2) Mesure de la densité relative
+
+Elle est utile lorsque l'estimation directe est trop lourde ou quand l'opération doit être renouvelée fréquemment
+
+L'estimation est faite par rapport aux traces laissées par les animaux
+
+L'itinéraire d'échantillonnage
+
+* parcours d'un itinéraire balisé
+* noter tout ce qui est vu / entendu dans une largeur de bande définie 
+
+Exemple : oiseaux, mammifères (Savane)
+
+Indices Kilométriques d'Abondance = IKA
+
+## B) Répartition spatiale des individus
+
+Il existe trois modalités
+
+### 1) Répartition uniforme = régulière
+
+* rare 
+* compétition possible
+
+-> phénomène d'allélopathie
+
+Exemples : 
+
+Buissons du désert de l'Arizona : *Larrea divaricata* distribution quasi uniforme due au fait de substances toxiques (zygophyllacées)
+
+Epinoches : poissons très territoriaux et individualistes
+
+### 2) Répartition au hasard = aléatoire 
+
+* milieu homogène
+* pas de compétition ou attraction entre indivdus
+* position indépendante entre individus
+
+Exemple : Oeufs d'insectes sont répartis au hasard
+
+* densité faible
+
+Exemple : pucerons dans un champs
+
+### 3) Répartition en agrégats = contagieuse
+
+* la plus fréquente 
+* due aux variations des caractéristiques du milieu
+* individus ayant tendance à se regrouper 
+* capacités limitées à se disperser
+
+Selon le mode de répartition des individus d'une population, la variance de cette distribution va être différente :
+
+**σ² = Somme (xi – m)²/ (n – 1)**
+
+* n = nombre de prélèvements 
+* x = nombre d'individus par prélèvement
+* m = moyenne du nombre d'individus dans les n prélèvements 
+
+distribution uniforme : variance ≅0
+
+distribution hasard : variance ≅m
+
+distribution agrégats : variance > m
+
+Remarque : Cas des méta-populations
+
+Pour un paysage donné
+
+* fragmentation des écosystèmes
+* hétérogénéité du paysage
+
+-> Beaucoup d'espèces réduites à des populations isolées, extinction possible sous l'action de processus aléatoires, si les individus sont capable de se disperser et franchir les espaces alors la colonisation peut compenser l'extiction
+
+**Méta-population** = ensemble de sous poulations interconnectés par des individus qui se dispersent
+
+Il existe 4 types de méta-populations : 
+
+1) Insipiré du modèle de Levins :
+
+* ensemble de petites populations vivant dans des milieux quasi identiques 
+* sous populations en équilibre dynamique par suite de processus de colonisation et d'extinction
+
+2) Population occupe une aire de taille considérable avec une densité importante 
+
+* population sert de source à des populations périphériques de plus petite taille
+* petites populations pouvant s'éteindre et de reconstituer en permanence via processus de migration
+
+3) Ensemble de populations en intéraction les unes avec les autres -> colonisation d'habitats de petite taille et parfois éphémères
+
+4) Absence de colonisation entre les sous populations -> méta-population en non équilibre
+
+Exemple : certaines population de mammifères de sommet de montagne : aucune communication possible, action de l'Homme parfois
+
+Existence des méta-populations liée : 
+
+* hétérogénéité du paysage
+* possibilités pour les espèces de se disperser d'un îlot à un autre 
+* déplacement facilités par la présence de couloirs = corridors
+
+Pour les corridors : même chose
+
+* possible d'évaluer la connectivité de ces éléments linéaires
+* description des connections entre les éléments linéaires
+
+Plus le réseau est connecté -> plus il est fonctionnel et permet le déplancement des organismes
+
+## C) Strcture d'âge d'une population = structure démographique 
+
+Répartition des individus : 
+
+* classe d'âge
+* de stade de developpement
+* de sexe
+
+Nécessite des intervalles de temps égaux, représentation habituelle : **pyramide des âges**, notion de **génération** = ensemble d'individus nés pendant la même unité de temps
+
+Pour les populations à reproduction saisonnière marquée : diférentes classes d'âge = générations
+
+Pour d'autres cas : classes d'âge et générations ne correspondent pas exactement (utilisation du diagramme de LEXIS pour repérer les individus selon leur classe d'âge et selon leur génération)
+
+Notion de **cohorte** = ensemble d'individus vivant le même évenement démographique dans la même unité de temps 
+
+Phénomènes démographiques :
+
+* natalité / fécondité
+* mortalité
+* migration (émigration et immigration)
+
+Ce sont des phénomènes généralement décrits par des **taux**
+
+Ainsi on établiera des **courbes de survies**
+
+## D) Sex ratio
+
+* Rapport mâles / femelles
+* généralement proche de 1 à la naissance 
+* évolution en fonction du taux de mortalité : possibilité de taux différentes entre M et F
+
+Exemple : combats des mâles pour territoire, reproduction, compétition pour les ressources entre M et F
+
+Les nombreux mécanismes peuvent intervenir et orienter l'évolution du sex ratio : 
+
+* contraintes du milieu
+* compétition
+* allocation d'énergie (reproduction)
+
+De nombreuses études menées chez les oiseaux, mammifères ..
+
+Exemple : Certains reptiles : sex ration modifié en fonction de la T° d'incubation des oeufs (TSD : Température-dependent Sex Determination)
+
+Hypothèse explicative avancée : la philopatrie natale des femelles. Selon cette hypothèse de philopatrie natale, les femelles auraient tendance à revenir pondre dans un environnement proche de celui où elles auraient elles-mêmes éclos.
+
+Certains hyménoptères : choix du sexe par la mère -> accouplement de la femelle qui reçoit le liquide séminal et le stock dans un receptacle séminal. L'ovule mur reçoit une goutte du liquide : oui = femelle, non = male (patrimoine génétique provient alors uniquement de la mère)
+
+Espèces végétales dioïques : séparation spatiale des pieds M et F en fonction des exigences écologiques
+
+## E) Polymorphiques
+
+* Caractéristique importante des **populations naturelles**
+* Fournit les bases nécessaires à l'adaptation des individus à une variabilité du milieu
+* Polymorphisle peut s'exprimer au niveau :
+
+**Phénotypique**
+
+Exemple : Escargot des haies : *Cepeae nemoralis* change de couleur de coquille, le polymorphisme s'exprimerait en fonction de l'habitat et sans doute sous la pression des prédateurs
+
+**Génotypique** : variabilité allélique
+
+Polymorphisme révélé par l'analyse biochimique (isoenzymes) pouvant être étudié par la fréquence des gènes polymorphes dans une populaion naturelle 
+
+## F) Variations des effectifs
+
+* population ne peut s'accroître indéfiniment 
+* action des facteurs écologiques limite l'accroissement 
+* facteurs agissent sur :
+	* les individus 
+    * leur processus démograpihques (natalité, fécondité..)
+	* traits de vie = mode reproduction, système de reproduction
+
+différents cas :
+
+1) Colonisation d'un milieu nouveau : 
+
+* courbe de croissance logistiques : croissance importante initialement puis stagnation -> Modèle de Verhulst
+* courbe de croissance exponentielle : se termine généralement par un effondrement catastrophique pour la population (surexploitation du milieu) -> Modèle de Malthus
 
 
+2) Variation en fonction de certaines périodicités, variations irrégulières (imprévisibles), opposées aux variations régulières (prévisibles)
 
+Exemple : Variations saisonnières, annuelles : lien avec les phénomènes climatiques
 
+3) Variation en fonction de l'hétérogénéité spatiale
 
+* perception de l'hétérogénéité d'un environnement peut se manifester à différentes échelles d'un paysage : grain fin, grain grossier
+* hétérogénéité liée à quelques facteurs : sol, micro-climat
+* population peut ou non percevoir cette hétérogénéité (dépend de son amplitude écologique vis à vis du facteur considéré : espèce spécialiste *versus* généraliste)
 
+4) Variation en fonction de la ressource
 
+* ressource peut varier au cours du temps : répercussion sur les caractéristiques démographiques de la population
 
+## G) Conclusion 
 
+**Environnement -> Population = pool génétique**
 
+Sens large = facteurs biotiques et abiotiques
 
+Filtre agissant sur propriétés des individus :
 
+* croissance
+* reproduction
+* aptitude compétitrice sur les paramètres démographiques
 
+Facteurs à effet immédiat : réponse rapide des individus (température influence la régulation physiologique, sécheresse : changement de comportement)
 
+Facteurs à effet à long terme : agissent à l'échelle de la population = processus démographiques et varabilité génétique
 
+**facteurs immédiats *versus* ulitimes proximate / ultimate**
 
 
 
