@@ -1,4 +1,4 @@
-# Le système population environnement
+# Le Système Population-Environnement
 
 ## I) Définition
 
