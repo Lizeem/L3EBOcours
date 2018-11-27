@@ -156,12 +156,23 @@ Jamais de flagelle chez :
 
 ![Bilan](Images/bilan.JPG)
 
+Phénomènes ayant conduit à cette diversité du groupe ? Théorie de l'endosymbiose
+
+Les études biologiques récentes ont montré
+
+Les cellules eucaryotes :
+
+- origine différente des composants 
+- héritée de divers groupes de procaryotes
+
+Les plastes
+
+- origine procaryotique 
+
+Emboîtements : 
+
+un élément procaryotique dans une ellule eucaryote, elle même contenue dans une autre cellule eucaryotes
 
 
-
-
-
-
-
-
+-> théorie de l’endosymbiose
 
