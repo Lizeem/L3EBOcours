@@ -1,6 +1,4 @@
-# Les Algues
-
-# I) Présentation des grands groupes
+# Présentation des grands groupes
 
 ## A) Les cyanobactéries, ex algues bleues
 
@@ -121,24 +119,24 @@ Ils sont parfois pathogènes
 * Plastes à **4 membranes**
 * Un flagelle particulier = l’**haptonème**
 
+Habitat : marin, saumâtre
 
+Espèce planctonique
 
+## I) Les Dinophyta
 
+* Majoritairement unicellulaires, monadoides, 2 flagelles dissemblables
+* Plastes : variables (lorsqu’ils sont présents), **3 membranes**, capacité à utiliser des cleptochloroplastes
+* Responsables de blooms (Dinophysis)
+* *Alexandrium* produit des toxines paralysantes (piscicultures), alerte donnée en France à 50 000 cellules par litre
 
+Lien de parenté directe avec les autres algues mis à jour pour l'instant
 
+## J) Les Ochrophyta
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Chlorophylles a et c, plastes à **4 membranes**
+* Héterocontées = 2 flagelles différents, dont un mastigonèmes
+* Liens de parenté mal connus à l'intérieur de ces classes : **Diatomophycideae** (100 000 espèces ?)
+* **Phéophycées** : 2 000 espèces, certaines de grandes taille, algues brunes, utilisations alimentaires
+* **Chrysophyceae** : 1 000 espèces, unicellulaires
 
