@@ -6,7 +6,7 @@ En 1983 **ODUM** = "*population est un ensemble d'inidivdus appartenant à la m�
 
 Actuellement, 
 
-**Poupulation** :
+**Population** :
 
 * ensemble d'individus d'une espèce occupant un territoire commun
 * capables de se reproduire entre eux
@@ -39,7 +39,80 @@ Système population –environnement
 
 -> Populations + facteurs exerçant une influence quelconque sur la ou les populations
 
--> Une populationse caractérise par un certain nombre de variables d'étatpermettant de la décrire 
+-> Une population se caractérise par un certain nombre de variables d'état permettant de la décrire 
+
+# II) Variables d'état
+
+## A) Densité - Abondance
+
+Il existe de nombreuses méthodes pour estimer la densité. Il est important de choisir la méthode adaptée au modèle étudié, en fonction de :
+
+* de grandeur de l'effectif de la population
+* de la mobilité des individus 
+* la contrainte du mileu pour réaliser l'étude 
+* la précision souhaitée
+
+Remarque1 : 
+
+Estimation d'une population doit prendre en compte toutes les catégories d'individus qui la compose.
+
+Parfois, il est nécéssaire d'adapter le protocole d'échantillonnage en fonction du stade de developpement de l'espèce considérée
+
+Exemples : germination -> stade mature, métamorphose de certaines insectes
+
+Mais bien souvent, le dénombrement d'une catégorie est suffisant 
+
+Exemples : adultes pour les plantes, larves pour les insectes
+
+Remarque2 : 
+
+Qu'est ce qu'un individu dans une **population clonale** ou une **population d'organismes modulaires** ?
+
+2 niveaux de dénombrement pour ces organismes
+
+* nombre de modules / d'unités composant le clone
+* nombre de clones
+
+KAYS et HARPER clarifient cette ambiguïté en 1974 :
+
+Un individu génétique est appelé "**genet**" -> résulte du developpement d'un zygote
+
+Les unités composant ce genet sont appelées "**ramet**" -> résultent de la reproduction asexuée : patrimoine génétique commun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
