@@ -65,19 +65,61 @@ Utilisation :
 * consommation directe
 * amendement...
 
+## D) Chlorophyte = algues vertes
 
+Appartiennent à un groupe comprenant les **embryophytes** -> groupe **paraphylétique**
 
+![Groupe paraphylétique](Images/av.JPG)
 
+* Chlorophylles a et b
+* 1 plaste à **2 membranes**
+* Thylacoïdes emilés par 2 à 6 -> pouvant former des granas
+* amidon **intraplastidial**
+* groupe basé sur
+	* caractères ultrastrcturaux des flagelles
+    * de la mitose
 
+Formes : majoritairement microscopiques
 
+Habitat : majorité dulçaquicoles mais présentes dans tous les milieux : marin, saumâtre, terrestre, subaérien
 
+Adaptées aux milieux extrêmes : volcans, déserts, neige...
 
+Ils sont parfois pathogènes
 
+## E) Cryptophyta
 
+* Unicellulaire
+* Deux flagelles eucaryotiques portent des mastigonèmes
+* Grains d’amidon périplastidiaux
+* Plastes rouges ou bleus, 4 membranes
+* groupe monophylétique
 
+## F) Euglenophyceae = euglènes
 
+* Algues unicellulaires
+* flagellées
+* Réserves sous forme de paramylon (polymère du glucose, non soluble) **extraplastidial**
+* Plastes, lorsqu’ils sont présents, à **3 membranes**
+* Chlorophylle a et b
+* Dulçaquicoles, marines, saumâtres,intestin de batracien ...
+* Formation de film vert dans les estuaires 
+* provoquent des blooms toxiques
 
+## G) Les Chlorarachniophyceae
 
+* Organismes unicellulaires 
+	* coccoïdes 
+	* et/ou amiboïdes (mobiles) 
+* Chlorophylle a et b
+* Plastes à **4 membrane**
+
+## H) Les Haptophyta
+
+* Unicellulaires monadoïdes, pouvant passer par un stade non flagellé
+* Quelques formes palmelloïdes
+* Plastes à **4 membranes**
+* Un flagelle particulier = l’**haptonème**
 
 
 
