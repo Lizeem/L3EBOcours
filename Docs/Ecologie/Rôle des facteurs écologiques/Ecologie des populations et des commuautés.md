@@ -147,7 +147,7 @@ Technique :
 
 Estimation sans biais de la population d'individus marqués de la population
 
-**N = a(b + 1) / (c + 1) 
+**N = a(b + 1) / (c + 1)** 
 
 N = effectif de la population
 
