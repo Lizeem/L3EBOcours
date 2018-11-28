@@ -70,12 +70,44 @@ Bilan :
 
 **Cycle haplophasique**
 
+## F) Coleochaete, chlorophyte appartiennent aux charophycées
 
+"Algues vertes"
 
+* formes filamenteuses
+* formes en disques ramifiés
 
+Developpement sur un tronc d'arbre, tige de joncs, sur rochers
 
+Existence d'appendices rigides (poil incolore)
 
+![Coleo](Images/av2.JPG)
 
+Extémité de certains filaments :
 
+* developpement de spermatocyste
+	* libération d'un petit spermatozoïde
+* developppement d'oogone terminé par **pseudotrichogyne**
+	* ouverture : permet la passage du spermatozoïde
 
+**Fécondation de l'oosphère**
+
+* Zygote reste sur le gamétophyte femelle
+* Augmente de volume 
+* Mise en place d'un revêtement de filaments
+* Lien trophique entre zygote et filaments
+
+Dormance -> **Hypnozygote
+
+![Coleo](Images/coleo.JPG)
+
+C'est un cycle **Monogénétique haplophasique**
+
+Particularité : Un recouvrement provenant du gamétophyte recouvre le zygote et crée des liens trophiques avec lui
+
+**CYCLE TRES IMPORTANT AU PLAN EVOLUTIF**
+
+Si des mitoses végétatives s'intercalent entre la formation du zygote et la méïose : **obtention d'un sporophyte parasite du gamétophyte**
+
+![La reproduction](Images/repro.JPG)
 
