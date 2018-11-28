@@ -150,21 +150,8 @@ Apparentés avec ceux des **chlorobiontes**
 
 ![Bilan](Images/b3.JPG)
 
+Grande réussite des endosymbioses primaires et secondaires
 
+Groupe complexe remettant en question la notion de règne
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Groupe paraphylétique
