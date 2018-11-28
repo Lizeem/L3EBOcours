@@ -4,7 +4,7 @@ Schimper (1983) : envisage l'origine endosymbiotique des plastes
 
 Mereschkowsky (1905) : suggère que les cyanobactéries puissent être à l'origine des plastes
 
-# A) L'endosymbiose primaire
+## A) L'endosymbiose primaire
 
 Avancées capitales grâce à la microscopie électronique qui permet de voir que  les  plastes  ressemblent  à  des  cyanobactéries  avec  notamment  un système membranaire interne = les thylacoïdes
 
@@ -52,6 +52,49 @@ Constitution théorique des feuillets **après capture d'une cyanobactérie** (G
 Endosymbiose primaire = explication pour les plastes à deux membranes
 
 ![Endosymbiose primaire = explication pour les plastes à deux membranes](Images/obs2.JPG)
+
+Bilan
+
+![Bilan](Images/b1.JPG)
+
+*Qui des groupes présentant des plastes à plus de 2 membranes ?*
+
+La théorie de l'endosymbiose est - elle vérifée ?
+
+Pour les plastes à 4 membranes
+
+* Cryptophyta
+* Chlorarachniophycea
+* Haptophyta
+* Ochrophyta
+
+## B) Endosymbiose secondaire
+
+L'endosymbiose secondaire expliquerait les plastes à 4 membranes
+
+![Endosymbiose secondaire](Images/h2.JPG)
+
+Chez Cryptophyta, Haptophyta, Ochrophyta, la membrane la plus externe du plaste constituée de Réticulum Endoplasmique (Ribosomes)
+
+Chez Chlorarachniophycea, la membrane externe du plaste lisse (origine golgienne ou réticulum lisse ??)
+
+* Membrane externe = origine endocellulaire
+* Membrane suivante = celle de l'algue eucaryotique
+* Membrane internes (2) = celles du plaste de l'algue eucaryotique symbiotique
+
+Flagellé ancestral capture une **algue eucaryotique** possédant un plaste d'origine **endosymbiotique primaire**
+
+![Flagellé ancestral](Images/ae.JPG)
+
+Etablissement d'une relation endosymbiotique
+
+![Etablissement d'une relation endosymbiotique](Images/relation.JPG)
+
+![Endosymbiose secondaire](Images/bl.JPG)
+
+
+
+
 
 
 
