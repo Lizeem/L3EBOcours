@@ -57,7 +57,7 @@ Bilan
 
 ![Bilan](Images/b1.JPG)
 
-*Qui des groupes présentant des plastes à plus de 2 membranes ?*
+*Les groupes présentant des plastes à plus de 2 membranes ?*
 
 La théorie de l'endosymbiose est - elle vérifée ?
 
@@ -91,6 +91,38 @@ Etablissement d'une relation endosymbiotique
 ![Etablissement d'une relation endosymbiotique](Images/relation.JPG)
 
 ![Endosymbiose secondaire](Images/bl.JPG)
+
+Bilan
+
+![Bilan](Images/b2.JPG)
+
+*Les groupes présentant des plastes à 3 membranes ?*
+
+Théorie de l'emdosymbiose est -elle vérifiée ?
+
+Pour les plastes à 3 membranes
+
+* Euglenophycea
+* Dinophyta
+
+Membrane externe lisse (origine ≠ Reticulum endoplasmique)
+
+## C) Endosymbiose tertiaire
+
+L'endosymbiose pour les plastes à 3 membranes
+
+![3 membranes](Images/h3.JPG)
+
+**Myzocytose** (1984) découverte chez les euglènes = ingestion de l'intérieur des cellules sans consommation de la membrane plasmique
+
+![Capture par myzocytose](Images/cap.JPG)
+
+![Capture par myzocytose](Images/cap2.JPG)
+
+![Dinophyta ?](Images/chelou.JPG)
+
+
+
 
 
 
