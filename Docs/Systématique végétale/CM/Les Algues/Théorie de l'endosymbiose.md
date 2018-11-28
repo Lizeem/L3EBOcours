@@ -121,27 +121,34 @@ L'endosymbiose pour les plastes à 3 membranes
 
 ![Dinophyta ?](Images/chelou.JPG)
 
+Phylogénie des plastes endosymbiotiques primaires
 
+* plastes des glaucophytes plus proches de ceux des cyanobactéries
+* chlorobiontes et rhodophytes = groupes frères
 
+![Phylogénie des plastes endosymbiotiques primaires](Images/phylo.JPG)
 
+Phylogénie des plastes (séquençage des gènes plastidiaux)
 
+![Phylogénie des plastes (séquençage des gènes plastidiaux)](Images/phylo2.JPG)
 
+Plastes des :
 
+* cryptophytes
+* haptophytes
+* ochrophytes
+* dinophytes ??
 
+Apparentés avec ceus des **rhodophytes**
 
+Plastes des :
 
+* euglénophycées
+* chlorarachniophycées
 
+Apparentés avec ceux des **chlorobiontes**
 
-
-
-
-
-
-
-
-
-
-
+![Bilan](Images/b3.JPG)
 
 
 
