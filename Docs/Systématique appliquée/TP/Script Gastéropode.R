@@ -93,8 +93,18 @@ hist(Pat$biom, breaks =30)
 
 par(mfrow=c(5,1))
 
-hist(Pat$biom, breaks =30, xlim=c(0,20))
-hist(Pat$biom[Pat$zone =="Spi"], breaks =30, xlim=c(0,20))
-hist(Pat$biom[Pat$zone =="Ves"], breaks =30, xlim=c(0,20))
-hist(Pat$biom[Pat$zone =="Ser"], breaks =30, xlim=c(0,20))
-hist(Pat$biom[Pat$zone =="Lam"], breaks =30, xlim=c(0,20))
+hist(Pat$biom, breaks =30, xlim=c(0,30))
+hist(Pat$biom[Pat$zone =="Spi"], breaks =30, xlim=c(0,30))
+hist(Pat$biom[Pat$zone =="Ves"], breaks =30, xlim=c(0,30))
+hist(Pat$biom[Pat$zone =="Ser"], breaks =30, xlim=c(0,30))
+hist(Pat$biom[Pat$zone =="Lam"], breaks =30, xlim=c(0,30))
+
+plot(density(Pat$biom))
+lines(density(Pat$biom[Pat$zone =="Spi"]), col="red")
+lines(density(Pat$biom[Pat$zone =="Ves"]), col="blue")
+lines(density(Pat$biom[Pat$zone =="Ser"]), col="green")
+lines(density(Pat$biom[Pat$zone =="Lam"]), col="pink")
+
+
+
+
