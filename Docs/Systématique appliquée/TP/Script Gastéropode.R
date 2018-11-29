@@ -107,4 +107,3 @@ lines(density(Pat$biom[Pat$zone =="Lam"]), col="pink")
 
 
 
-
