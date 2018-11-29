@@ -1,10 +1,13 @@
+# Script GastÃ©ropode
+
+```R
 read.table("gastdef18.csv", sep="\t", header=T, dec=",") -> gast
 gast
 
 summary(gast)
-
-# La richesse en gastéropodes est -elle équivalente le long du transect ?
-
+```
+La richesse en gastÃ©ropodes est -elle Ã©quivalente le long du transect ?
+```R
 table(gast$zone, gast$sp)
 
 paste(gast$zone, gast$rep)
@@ -37,15 +40,14 @@ read.table("gast2.txt") -> gast3
 table(gast3$zonerep, gast3$sp)
 
 gast3 -> gast2
-
 head(gast2)
 
-table(gast2$zonerep, gast2$sp) -> tab56
+table(gast2$zonerep, gast2$sp) -> table56
 write.table(table56, "table56.txt")
 
 rowSums(table56>0) -> ric56
 
-#gl = génère des niveaux
+#gl = gÃ©nÃ¨re des niveaux
 
 gl(4, 14, labels = c("Lam", "Ser", "Spi", "Ves")) -> fac56
 
@@ -85,16 +87,21 @@ boxplot(tab56[,espece]~fac56, main = colnames(tab56)[espece])
 espece <- espece +1
 boxplot(tab56[,espece]~fac56, main = colnames(tab56)[espece])
 (kruskal(tab56[,espece], fac56))
-
-
 gast2[gast2$sp == "Patsp",] -> Pat
 
 hist(Pat$biom, breaks =30)
 
 par(mfrow=c(5,1))
 
-hist(Pat$biom, breaks =30, xlim=c(0,20))
-hist(Pat$biom[Pat$zone =="Spi"], breaks =30, xlim=c(0,20))
-hist(Pat$biom[Pat$zone =="Ves"], breaks =30, xlim=c(0,20))
-hist(Pat$biom[Pat$zone =="Ser"], breaks =30, xlim=c(0,20))
-hist(Pat$biom[Pat$zone =="Lam"], breaks =30, xlim=c(0,20))
+hist(Pat$biom, breaks =30, xlim=c(0,30))
+hist(Pat$biom[Pat$zone =="Spi"], breaks =30, xlim=c(0,30))
+hist(Pat$biom[Pat$zone =="Ves"], breaks =30, xlim=c(0,30))
+hist(Pat$biom[Pat$zone =="Ser"], breaks =30, xlim=c(0,30))
+hist(Pat$biom[Pat$zone =="Lam"], breaks =30, xlim=c(0,30))
+
+plot(density(Pat$biom))
+lines(density(Pat$biom[Pat$zone =="Spi"]), col="red")
+lines(density(Pat$biom[Pat$zone =="Ves"]), col="blue")
+lines(density(Pat$biom[Pat$zone =="Ser"]), col="green")
+lines(density(Pat$biom[Pat$zone =="Lam"]), col="pink")
+```
