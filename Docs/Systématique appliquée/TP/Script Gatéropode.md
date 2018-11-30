@@ -46,15 +46,19 @@ table(gast2$zonerep, gast2$sp) -> table56
 write.table(table56, "table56.txt")
 
 rowSums(table56>0) -> ric56
+```
 
-#gl = génère des niveaux
+gl = génère des niveaux
+
+```R
 
 gl(4, 14, labels = c("Lam", "Ser", "Spi", "Ves")) -> fac56
 
 boxplot(ric56~fac56)
+```
+relevel = ordonne des graphiques
 
-#relevel = ordonne des graphiques
-
+```R
 relevel(fac56,"Lam") -> fac56 
 relevel(fac56,"Ser") -> fac56 
 relevel(fac56,"Ves") -> fac56 
