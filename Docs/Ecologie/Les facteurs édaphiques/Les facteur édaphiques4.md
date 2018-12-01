@@ -1,4 +1,4 @@
-# E) Le ph
+# E) Le pH
 
 Le pH (potentiel Hydrogène) permet d'évaluer la concentration de l'ion hydrogène dans une solution:
 
