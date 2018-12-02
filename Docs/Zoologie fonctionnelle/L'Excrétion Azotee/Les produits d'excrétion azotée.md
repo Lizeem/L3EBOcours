@@ -86,7 +86,7 @@ En réalité, les animaux n’excrètent pas qu’un seul produit mais souvent u
 
 ## II) Hypothèse de Needham et Baldwin
 
-Plus le milieu est osmotiquement stressant, plus le déchet azoté est insoluble et nécessite de moins en moins d’eau pour être éliminé. Cela va dans le sens de l’économie d’eau  
+Plus le milieu est osmotiquement stressant, plus le déchet azoté est insoluble et nécessite de moins en moins d’eau pour être éliminé. Cela va dans le sens de l’économie d’eau.  
 
 Têtard **ammonotélique** -> Adulte **uréotélique** 
 
@@ -103,4 +103,3 @@ Mollusques gastéropodes prosobranches
 Même mode de vie intertidale que les littorines et pourtant ces mollusques sont uricotéliques quel que soit le cycle de la marée. 
 
 Chez les Ruminants, l’urée est excrétée avec la salive et elle sert de source azotée pour les symbiotes. 
-
