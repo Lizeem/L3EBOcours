@@ -2,7 +2,7 @@
 
 Description des populations permet de décrire les variables démographiques liées à ces populations :
 
-* strcture démographique = variables d'état
+* structure démographique = variables d'état
 	* densité
     * sex ratio
     * structure d'âge..
@@ -13,7 +13,7 @@ Description des populations permet de décrire les variables démographiques li�
 	* taux de croissance
     * taux de reproduction
     
-Cycle de vie d'un organisme directement lié à ces traits contribuant à sa survie et sa reproduction -> donne une valeur sélective à l'orgnisme = **fitness darwinienne**
+Cycle de vie d'un organisme directement lié à ces traits contribuant à sa survie et sa reproduction -> donne une valeur sélective à l'organisme = **fitness darwinienne**
 
 Variables démographiques également liées à l'environnnement :
 

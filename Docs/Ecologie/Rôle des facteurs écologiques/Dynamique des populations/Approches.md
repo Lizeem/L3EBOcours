@@ -10,7 +10,7 @@ Reproduction fréquente et nombreuses pour compenser la mortalité importante au
 
 * environnement compétitif (intra ou inter-spécifique), maturité plus tardive
 
-* succès important de la reproduction et augmentation taux de survie, alllocation des ressources vers le croissance
+* succès important de la reproduction et augmentation taux de survie, alllocation des ressources vers la croissance
 
 Adaptation des variables démographiques aux conditions du milieu, fixée sur le plan génétique -> Avantage de se spécialiser pour éviter au maximum la compétition inter - spécifique
 
@@ -21,7 +21,7 @@ Adaptation des variables démographiques aux conditions du milieu, fixée sur le
 
 Dans les années 60, Mac Arthur et Wilson ont distingué 2 types de **selection** (basé sur un modèle de compétiton entre génotype)
 
--> selection r = s'excerce dans population à basse densité entraîne une reproduction la plus élevée possible
+-> selection r = s'exerce dans population à basse densité entraîne une reproduction la plus élevée possible
 
 -> selection K = s'exerce dans une population à forte densité favorise une meilleure conversion des ressources trophiques 
 
@@ -52,7 +52,7 @@ Correspondance avec la stratégie de Mc Arthur
 
 R = espèce à croissance rapide, renouvellement important, régulation de la population indépendante de la densité. Aptitude compétitive faible ou faible taille des individus -> **R**
 
-K = faible fluctuation des effectifs, régulation liée directmeent à la densité, compétition fortement intense limitée dans les faits par les ajustements de niche. Grande taille, croissance lente -> **C**
+K = faible fluctuation des effectifs, régulation liée directement à la densité, compétition fortement intense limitée dans les faits par les ajustements de niche. Grande taille, croissance lente -> **C**
 
 Autre stratégie developpée : **beyond K** (au - delà de K) due à Greenslade :
 
@@ -70,26 +70,17 @@ S = espèces tolérantes aux contraintes = stress tolerator
 
 R = espèces tolérantes aux perturbations = ruderal
 
+# Niche écologique comme stratégie synthétique
 
+Réponse écologique s'apparente à une stratégie des espèces entre deux extrêmes 
 
+* espèces **spécialistes**
+* espèces **généralistes** (une espèce généraliste pouvant être composées d'individus ou de populations spécialistes)
 
+**Niche écologique** = étude du domaine de vitalité des populations d'une espèce en fonction des principaux facteurs écologiques, hyper volume d'occurence de l'espèce dans un espace à n dimensions
 
+Tout comme les stratégies biologiques, les paramètres de la niche écologique peuvent varier en fonction des intéractions (intra ou inter).
 
+Stratégies biologiques = moyen d'expliquer les niches écologiques des espèces, tel trait favorisé par tel type de facteur écologique
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ainsi, l'étude des niches est un préalable indispensable pour comprendre les intéractions entre populations au sein d'une même communauté.
