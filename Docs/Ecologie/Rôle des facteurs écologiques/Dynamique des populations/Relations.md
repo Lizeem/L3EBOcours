@@ -218,29 +218,51 @@ Les effets peuvent se ressentir sur plusieurs générations : ce qui peut expliq
 
 **La reproduction représente un coût énergétique non négligeable -> diminution de l'allocation à la croissance**
 
+## II) Stratégies à l'alimentation
 
+Il existe d'autres compromis notamment par rapport à l'alimentation
 
+Les choix sont orientés selon le rapport
 
+Energie gagnée (par la consommation de la proie) / Temps dépensé à acquérir la proie
 
+Cela donne un indice de **profit**
 
+Choix orienté vers les proies **profitables** au prédateur -> gain d'énergie maximum
 
+Ex : crabes verts, *Carcinus maenas*
 
+* proie : moules de taille réduites, facile à briser -> rentabilité plus importante
+* "profitabilité" maximum de cette proie se situe pour une taille d'environ 2,7 cm
 
+! Les crabes peuvent se nourrir de proies moins profitables
 
+La stratégie adoptée peut - être orientée par le **temps** de recherche de la proie la plus profitable -> dans le même temps, le prédateur s'expose à ses propres prédateurs
 
+Des contraintes autres qu'energétiques peuvent entrer en ligne de compte -> contraintes **nutritives**
 
+Ex : Elan
 
+-> régime alimentaire influencé par les besoins en Na
 
+2 types de milieux prospectés :
 
+* Forêts : feuilles pauvres en Na et riche en énergie
+* Lacs : plantes aquatiques riches en Na et pauvres en énergie
 
+-> besoins de l'élan sont doubles pour 
 
+* survivre
+* se reproduire
 
+Le modèle stratégique tien compte de trois contraintes :
 
+* quantité minimale de Na
+* quantité d'énergie nécessaire
+* capacité de l'Elan à ingérer sa nourriture (volume de l'estomac)
 
+Stratégies alimentaires directement dépendantes :
 
-
-
-
-
-
+* des **risques** de prédations
+* du **degré de faim**
 
