@@ -27,6 +27,20 @@ Variables également liées aux paramètres biologiques de l'organisme :
 * paramètres physiologiques (longévité, maturité sexuelle, fécondité...)
 * paramètres écologiques
 
+Existe des **combinaisons** entre les caractéristiques :
+
+* morphologiques
+* physiologiques
+* éthologiques
+* écologiques
+* démographiques
+
+Les combinaisons sont :
+
+* variables et complexes
+* appelées dans une perspective évolutionniste = **stratégies** ou **tactiques**
+
+
 
 
 
