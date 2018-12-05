@@ -136,6 +136,102 @@ On a 4 identifié types :
 
 ![Etude des pissenlits](Images/pissenlit.PNG)
 
+Decription morphologique
+
+* Type A : individus petits et féconds dans milieux fortement perturbés -> plus de fleurs
+* Type D : individus grands et moins féconds dans milieux moins perturbés -> plus de feuilles
+
+2 types fixés génétiquement
+
+* spécialisation dans un type de milieu
+* présentation d'une stratégie optimale sur le plan de la survie
+
+L'un favorise la reproduction, l'autre la croissance et la compétition
+
+Entre les 2 extrêmes :
+
+* stratégies intermédiaires B et C
+
+Favorisent la plasticité phénotypique et sont capables d'exploiter les différents milieux sans être prépondérant par rapport à une stratégie sélectionnée
+
+Ainsi, il est possible de dresser des **stratégies types** et des **réponses** des populations à partir de différents constats :
+
+* variations démographiques ne sont pas constantes : variabilité peut-être le fait d'individus ayant une plasticité phénotypique 
+* variations démographiques peuvent découler de l'action de contraintes environnementales : perturbations / compétitions ...
+* un forte mortalité adulte et jeune entraîne une croissance rapide et une maturité sexuelle précoce 
+
+ex : Batraciens : forte mortalité au stade larves / têtards -> reproduction nombreuse et fréquente 
+
+* environnement compétitif (interspécifique) entraîne une maturité plus tardive
+* succès de reproduction et augmentation du taux de survie entraînent un déplacement des ressources vers le budget croissance
+
+Caractéristiques démographiques peuvent également du fait de la **compétition intra spécifique** : 
+
+* compétition s'établit :
+	* ressources limitées (alimentaire, spatiales, reproduction)
+	* recherche de la ressource implique une nuisance à l'autre
+
+* compétion **Directe** / **Indirecte**
+
+Directe : compétition par **interférence**
+
+Indirecte : compétition par **exploitation**
+
+* effet ultime :
+	* diminution de la contribution des individus
+    * baisse de la fécondité / survie
+
+Il est maintenant admis : intensité de l'effet dépend de la densité
+
+Effet **densité dépendance** = tendance régulatrice de la compétition sur la population lorsque celle - ci atteint son seuil biotique max. = **K** ou bien de l'accroïtre quand elle est inférieure
+
+Remarque : May a montré que la densité dépendance peut avoir un effet différé -> peut déstabiliser la population
+
+Effets sur la surdensité sont variables 
+
+* sur la qualité de la population
+* sur ses performances :
+	* affaiblisssement physiologiques
+    * ralentissement de la croissance
+    * diminution de la fécondité / longévité
+    * modification du comportement
+
+Graphique A : Baisse de la production de fleurs chez une crassulacée annuelle 
+
+Graphique B : Baisse de l'espérance de vie des propagules végétatives chez un bouton d'or
+
+Graphique C : Baisse de la fécondité chez un papillon du pin
+
+Graphique D : Accroissement de la mortalité au stade chrysalide (due à la prédation) chez *Operophtera brumata*
+
+Graphique E : Elevation de l'âge de la maturité chez les éléphants 
+
+Graphique F : Accroissement du taux de maortalité des adultes chez le buffle africain
+
+Conséquences : 
+
+* diminution de la densité 
+* diminution de la composiiton génétique de la population : l'effet densité dépendance agit comme un **facteur de sélection** sur les individus pouvant le mieux résister à la contrainte 
+* modification de la strcture sociale
+
+Les effets peuvent se ressentir sur plusieurs générations : ce qui peut expliquer les phénomènes de cycle comme chez le lièvre du Canada.
+
+**La reproduction représente un coût énergétique non négligeable -> diminution de l'allocation à la croissance**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
