@@ -6,7 +6,7 @@ On va séparer deux types de sexe, soit des mâles soit des femelles.
 
 *Quel mécanisme fait que certains animaux deviennent mâles ou femelle ?*
 
-Chez certaines espèces/groupe actuelles comme par exemple les foraminifères, des organismes unicellulaire, la cellule est protégée par un test et vit dans les eaux salées. Tous les indivus produisent des **gamètes** (petite cellule flagellée avec aucune différence entre les gamètes -> pas de mâle et de femelle) les gamètes sont libérés dans l'eau et se rencontrent au hasard, il y a bcp de gamètes qui ne se rencontreront pas, c'est un mode de fécondation peu rentable.
+Chez certaines espèces/groupe actuelles comme par exemple les foraminifères, des organismes unicellulaire, la cellule est protégée par un test et vit dans les eaux salées. Tous les indivus produisent des **gamètes** (petite cellule flagellée avec aucune différence entre les gamètes -> pas de mâle et de femelle) les gamètes sont libérés dans l'eau et se rencontrent au hasard, il y a beaucoup de gamètes qui ne se rencontreront pas, c'est un mode de fécondation peu rentable.
 
 Lorsque les gamètes sont identiques, il y a **isogamie**. En général, il y a une **anisogamie** avec un gros gamète (gamète femelle) et un petit gamète qui se déplace vite (gamète mâle).
 
@@ -15,7 +15,6 @@ On pense qu'au cours de l'évolution, les espèces avaient des gamètes semblabl
 Les gamètes auront de plus de plus de chance à se rencontrer:
 
 * ils vont de plus en plus vite en parcourant de longues distances 
-
 * augmentation du volume 
 
 Cela va permettre d'augmenter les chances de rencontre entre les deux gamètes de morphologie différentes.
@@ -34,7 +33,6 @@ Les gamètes peuvent être produits dans des gonades.
 Chez les vertébrés **les gonades** se forme à partir du **mésoderme**, au niveau de la cavité abdominale à partir de la **paroi coelomnique** (cavité dans le mésoderme) qui va former un petit bourgeon. Le bourgeon possède deux parties
 
 * **le cortex** partie externe
-
 * **la médula** partie interne
 
 Les gonades sont des cellules **somatiques** (incapable de former des gamètes)
@@ -43,13 +41,13 @@ La gonade va être colonisée par des cellules migrantes qui sont les **cellules
 
 Les voies génitales vont permettre aux gamètes de sortir.
 
-> Rappels
+ Rappels :
 
 * Chez grenouille mâle, les testicules sont situés à côté des reins, le conduit entre les deux est appelé urosperiducte ou **canal de Wolff**, **les canalicules** reliant à un réseau de canaux issus des **tubes séminifères** appellé **rete testi**. **Mésomephros** n'est pas le premier rein, les testicules se forment d'abord dans le **pronephros** qui se forme et disparaît et où le deuxième rein se formera dans la partir postérieur
 
-* Chez la souris mâle, l'organisation est différente, chez les mammifères le canal évacuant l'urine et le sperm est le **speriducte** lié au dvp embryonnaire. On forme d'abord un premier rein le **promephros**, ensuite le mésonephros qui va aussi disparaître pour former le **métanephros**, le canal de Wolff ne sert qu'à évacuer le sperm.
+* Chez la souris mâle, l'organisation est différente, chez les mammifères le canal évacuant l'urine et le sperm est le **speriducte** lié au developpement embryonnaire. On forme d'abord un premier rein le **promephros**, ensuite le mésonephros qui va aussi disparaître pour former le **métanephros**, le canal de Wolff ne sert qu'à évacuer le sperm.
 
-* Chez l'appareil génital femelle de la grenouille, la gonade est un ovaire, qui est reliée à un canal qui est complètement indépendant du canal de Wolff, qui est un **oviducte**. Le rein,  lui a un canal de Wolff pour expulser l'urine
+* Chez l'appareil génital femelle de la grenouille, la gonade est un ovaire, qui est relié à un canal qui est complètement indépendant du canal de Wolff, qui est un **oviducte**. Le rein,  lui a un canal de Wolff pour expulser l'urine
 
 * Chez la souris femelle, l'ovaire est relié à un **oviducte**, on ne retrouve pas le canal de Wolff, le **canal de Miller** est fait pour évacuer les ovules.*
 
@@ -135,17 +133,16 @@ Les facteurs environnementaux qui agissent sur le sexe sont très très variable
 
 	* Chez les gastéropes étant des espèces invasives sur nos côtes, ils vivent en colonie, 6 peut être fixés les uns au dessus des autres. L'individu qui se trouve en dessous est une femelle, l'individu qui se trouve au dessus est un mâle et entre les deux ils sont à la fois mâle et femelle. Cette répartition favorise la reproduction ,ils se reproduisent rapidement. Chaque individu va féconder celui qui est en dessous. La determination du sexe est donc dû à la répartition dans la colonie. Ils ont deux types de substances:
 
-* substances féminisante libéré par chaque individu vers le bas pour que ceux ci dvp le sexe femelle
-
-*  substance masculinisante libéré vers le haut de la colonie, les larves au centre possèdent les deux sexes. Il ne change pas naturellement de colonie
+* substance féminisante libérée par chaque individu vers le bas pour que ceux ci dvp le sexe femelle
+*  substance masculinisante libérée vers le haut de la colonie, les larves au centre possèdent les deux sexes. Il ne change pas naturellement de colonie
 
 ![Zoologie](Images/Fig9.JPG)
 
 ### Par la température d'incubation
 
-Chez bcp de vertébrés notamment les reptiles, c'est la température d'incubation des oeufs qui va determiner le sexe de la progéniture.
+Chez beaucoup de vertébrés notamment les reptiles, c'est la température d'incubation des oeufs qui va determiner le sexe de la progéniture.
 
-* Chez les tortues, pour les plus faibles température, l'individu sera un mâle, arriver à la température de transition, on obtiendra les deux sexes, puis des femelle. On peut avoir le cas de figure inverse suivant les espèces. Il n'y a cependant qu'une seule température de transition.
+* Chez les tortues, pour les plus faibles température, l'individu sera un mâle. Arrivé à la température de transition, on obtiendra les deux sexes, puis des femelle. On peut avoir le cas de figure inverse suivant les espèces. Il n'y a cependant qu'une seule température de transition.
 
 * Chez certains crocodiles, on peut avoir deux températures de transition.
 
@@ -155,4 +152,4 @@ Une enzyme (**aromatase**) capable de transformer l'andogène en omogène. Chez 
 
 ## V) L'hermaphrodisme
 
-Il existe bcp d'animaux qui sont hermaphrodites. L'hermaphrodisme est très peu simultanné. Ils se modifient au fur et à mesure du temps, les individus sont d'abord mâle et ensuite femelle, c'est de l'hermaphrodisme **protandre**, si c'est simultanée c'est de l'hermaphrodisme **protogyne**.
+Il existe beaucoup d'animaux qui sont hermaphrodites. L'hermaphrodisme est très peu simultanné. Ils se modifient au fur et à mesure du temps, les individus sont d'abord mâle et ensuite femelle, c'est de l'hermaphrodisme **protandre**, si c'est simultanée c'est de l'hermaphrodisme **protogyne**.

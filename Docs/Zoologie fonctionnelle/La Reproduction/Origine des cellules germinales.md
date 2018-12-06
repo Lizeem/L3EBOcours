@@ -13,7 +13,7 @@ Les cellules somatiques ne vont pas hérité de tout le patrimoine génétique, 
 
 Souvent, lorsque c'est précoce c'est lié à la présence de substances dans le cytoplasme qui va être distribué à certaines cellules mais pas à d'autres.
 
-* Chez les amphibiens, dans la cellule on a au pôle végétatif un plasma germinale qui va être hérité par certaines cellules seulement. Quand on arrive au stade blastula, ils ont une paroi plus granuleuse et ces cellules vont migrer entre les autres cellules, ou emprunter la circulation sanguine*
+* Chez les amphibiens, dans la cellule on a au pôle végétatif un plasma germinale qui va être hérité par certaines cellules seulement. Quand on arrive au stade blastula, ils ont une paroi plus granuleuse et ces cellules vont migrer entre les autres cellules, ou emprunter la circulation sanguine
 
 ## II) La determination tardive des cellules germinales
 
