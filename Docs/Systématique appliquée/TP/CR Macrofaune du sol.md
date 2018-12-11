@@ -1,4 +1,3 @@
-
 # Macro faune édaphique des coteaux du Bois du Cotillet
 
 ## Introduction
