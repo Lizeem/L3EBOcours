@@ -28,8 +28,8 @@ Ils sont acteurs du fonctionnement des écosystèmes :
 
 *Exemples d'abondances:*
 
-* *en sol fertile agricole : 5 tonnes/ha (prof. 20 cm)*  
-* *en sol forestier : ca. 100 kg/ha (prof. 25 cm)*  
+* en sol fertile agricole : 5 tonnes/ha (prof. 20 cm)  
+* en sol forestier : ca. 100 kg/ha (prof. 25 cm)
 
 Importance du point de vue anthropique :  
 
@@ -91,7 +91,7 @@ Leur position taxonomique n'est pas évidente morphologiquement et physiologique
 
 Les saprotrophes possèdent une vie libre. Ils se nourrissent en assimilant les parois mais sont incapables d'assimiler les macromolécules car ils ont une digestion extra-cellulaire 
 
-1. production d’enzymes de dégradation spécifiques au substrat ; exocytose à l’extrémité apicale des hyphes 
+1. production d’enzymes de dégradation spécifiques au substrat, exocytose à l’extrémité apicale des hyphes 
 
 2. dégradation du substrat en mono- ou oligo-polymères 
 

@@ -23,7 +23,7 @@ Il y  a un besoin de différenciation de l'appareil racinaire et de l'exploratio
 
 Ils sont parmi les premiers trachéophytes à coloniser les milieux terrestres.
 
-Les premières associations plantes - champignons obsrvées datent de l'époque de la colonisation des terres (ca.400 Ma)
+Les premières associations plantes - champignons observées datent de l'époque de la colonisation des terres (ca.400 Ma)
 
 Le mot **mycorhize** vient de *mykos* qui signifie champignon et de *riza* qui signifie racine
 
@@ -34,7 +34,7 @@ C'est une association omniprésente : 92% des familles terrestres sont mycorhizi
 Les champignons interviennent:
 
 * dans la dégradation de la matière organique
-* dans la solubilisation de certains minéraux (N<sub>i</sub>, P<sub>i</sub>)
+* dans la solubilisation de certains minéraux (Ni, Pi)
 
 On a une augmentation des sels minéraux en solution dans le sol.
 
@@ -77,15 +77,15 @@ L'environnement terrestre est multiple : forêts tempérées, boréales, de Dipt
 Bénéfices de l’ectomycorhize pour le développement de la plante : 
 
 * Augmentation de la production de biomasse végétale 
-* Réseau extra-racinaire mycélien augmentant le volume exploratoire ; modification de l'architecture racinaire  
+* Réseau extra-racinaire mycélien augmentant le volume exploratoire, modification de l'architecture racinaire  
 * Nutrition : dégradation de matière organique et solubilisation de N, P par partenaire fongique 
-* Participation à l’assimilation d’eau et absorption sélective des ions du sol ; protection contre dessiccation 
+* Participation à l’assimilation d’eau et absorption sélective des ions du sol, protection contre dessiccation 
 
 L'avantage secondaire de la mycorhization est la  protection sanitaire 
 
 Les mécanismes impliqués dans la protection sanitaires des plantes sont:
 
-* Compétition avec la mircoflore pathogène; protection mécanique par manteau fongique
+* Compétition avec la microflore pathogène; protection mécanique par manteau fongique
 * Amélioration du statut physiologique de la plante
 * Emission de substances antibiotiques par les champignons
 * Modification des exsudats racinaires
@@ -96,20 +96,20 @@ Le partenaire fongiques aura des bénéfices de l'ectomycorhize, le flux de subs
 Mise en évidence des échanges:
 
 1) On fournit au partenaire donneur un élément marqué
-* CO<sup>2*</sup> pour la plante
-* P* ou N* pour le mycélium
+* CO2 pour la plante
+* P ou N pour le mycélium
 
 2) Différentes substances se retrouvent marquées : dans le donneur, puis dans le receveur
 
 Mise en évience de flux de composés **depuis la plante**:
 
 * vitamines et hormones non synthétisable par le champignon
-* surtout des composés C: passant la zone d'apposition sous forme de sucres simples, puis stockés dans les champignons sous forme de glycogène et de mannitol. 20 à 40% de la poduction photosythétique de la plante est transmise au partenaire fongique.
+* surtout des composés C: passant la zone d'apposition sous forme de sucres simples, puis stockés dans les champignons sous forme de glycogène et de mannitol. 20 à 40% de la production photosythétique de la plante est transmise au partenaire fongique.
 
 L'association est obligatoire pour  les champignons ectomycorhiziens, le statut de symbiote est obligatoire pour la fructification.
 
 
-**Applications**: sélection de souches fongiques mycorhiziennes pour mycorhization contrôlée en pépinières (*Laccaria, Lactarius, Suillus*/ Pinacées) ou trufficulture (*Tuber/Quercus,Corylus*) 
+**Applications**: sélection de souches fongiques mycorhiziennes pour mycorhization contrôlée en pépinières (Laccaria, Lactarius, Suillus/ Pinacées) ou trufficulture (Tuber/Quercus,Corylus) 
 
 Bénéfices : 
 
@@ -121,7 +121,7 @@ Bénéfices :
 Limites :
 
 * investissements à long terme
-* maintien de l'association à la transplantation non maïtrisé (pas encore une domestication)
+* maintien de l'association à la transplantation non maîtrisé (pas encore une domestication)
 * risques d'introduction de souches invasives ?
 
 Les association endomycorhiziennes touchent 80% des végétaux
@@ -130,14 +130,14 @@ Anatomie différente des ectomycorhizes:
 
 * pas de manteau fongique externe à la racine
 * pas de fructification épigée
-* pénétration des parois cellulaires végétales : propagation du mycélium entre cellules racinaires puis entre paroi et memebrane plasmique
+* pénétration des parois cellulaires végétales : propagation du mycélium entre cellules racinaires puis entre paroi et membrane plasmique
 * partenaire fongique : jusqu'à 10% du poids de la racine
 
 #### Les Endomycorhizes Vésiculo-Arbusculaires (VAM)
 
 Leurs partenaires végétaux sont de nombreuses espèces cultivées (Fabacées, Rosacées, Poacées, Solanacées, Liliacées)
 
-Leurs partanire fongiques sont les Gloméromycètes dont les principaux genres sont *Acaulospora, Gigaspora, Glomus, Sclerocystis*
+Leurs partenaire fongiques sont les Gloméromycètes dont les principaux genres sont *Acaulospora, Gigaspora, Glomus, Sclerocystis*
 
 Les mycorhizes ancerstrales sont présentes même chez les ptéridophytes : apparues avec les plantes terrestres au Dévonien ?
 
@@ -147,7 +147,7 @@ Champignons ubiquistes : spores détéctées dans tous les sols, germant dans la
 
 Fossiles de champignons associés aux rhizomes d'*Aglaophyton major*(400 MA) : semblables aux mycorhizes vésiculo-arbusculaires actuelles 
 
-1) Germination des spores, stimulée par les exsudats racinaires
+1) Germination des spores, stimulée par les exsudats racinaires (liquide)
 2) Haustoria entre cellules du cortex, production d'enzymes cellulolytiques par le champignon pour traverser la paroi (mécanisme semblable aux parasites)
 3) Pénétration dans les cellules végétales; formation de palotons ou d'arbuscules, vésicules éventuelles repoussant et invaginant la membrane plasmique (extension du champignon limitée par la cellule-hôte)
 
@@ -166,8 +166,8 @@ Echanges nutritionnels dans la symbiose VAM:
 
 Rôles du réseau mycélien extra-racinaire:
 
-* Augmentation du volume de sol prospecté: facilitation en nutriments P, N et stabilisation des aggrégats du dol (glomaline + réseau d'hyphes)
-* Protection contre excès d'éléments toxiques: teneur en Mn inférieur chez champignons mycorhizés/témoins; développement de Poacées mycorhizées sur sols pollués en métaux lourds (Zn, Ni)
+* Augmentation du volume de sol prospecté: facilitation en nutriments P, N et stabilisation des aggrégats du sol (glomaline + réseau d'hyphes)
+* Protection contre excès d'éléments toxiques: teneur en Mn inférieur chez champignons mycorhizés/témoins, développement de Poacées mycorhizées sur sols pollués en métaux lourds (Zn, Ni)
 
 Les bénéfices des endomycorhizes pour la plante sont:
 
@@ -228,7 +228,7 @@ Mais il existe quelques exceptions
 * mycorhization contrôlée en pépinières arboricoles
 * inoculation de spores de VAM en grandes cultures
 
-La symbiose et d'autres intaractions sont des stratégies compatibles:
+La symbiose et d'autres interactions sont des stratégies compatibles:
 
 * Compétition plante/plante influencée par le(s) symbiote(s) fongique(s)
 * Compétition champignon/champignon influencée par le(s) symbiote(s) végétal(aux)
@@ -258,7 +258,7 @@ Il y a un effet indirect sur les interactions biotiques de l'hôte
 
 ### C) Evolution des modes de vies fongiques
 
-Le continuum de stratégies fongiques est un mode de vie parfois mal défini.
+Le continum de stratégies fongiques est un mode de vie parfois mal défini.
 
 * Parasites nécrotrophes/ saprotrophes ?
 * Parasites/ endophytes/ mutualistes
