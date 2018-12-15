@@ -23,7 +23,7 @@ Deux objectifs pour une angiosperme
 
 **Notion d'espèce** : première définition
 
-Chez les animaux : critère utilisé pour distinguer les espèces = faculté pour les individus de se croiser, amène le concept biologique de l'espèce (CBE), concept à prévalu dans la littérature zoologique et husqu'il y a peu dans la littérature botanique
+Chez les animaux : critère utilisé pour distinguer les espèces = faculté pour les individus de se croiser, amène le concept biologique de l'espèce (CBE), concept à prévalu dans la littérature zoologique et qu'il y a peu dans la littérature botanique
 
 Chez les végétaux : flux de gènes varie beaucoup (faible à important) entre les groupes de plantes, existe
 
@@ -62,7 +62,7 @@ Processus de formation = **Spéciation**
 
 Ce processus peut -être défini comme :
 
-* un processus adaptatif induisant des barrières contre le flux de gènes entre les opulations étroitement liées, par le developpement des mécanismes d'isolement à la reproduction
+* un processus adaptatif induisant des barrières contre le flux de gènes entre les populations étroitement liées, par le developpement des mécanismes d'isolement à la reproduction
 * un processus de changements génétiques produisant la naissance d'une nouvelle espèce
 
 Un processus clé chez les espèces = la **Reproduction**
@@ -89,7 +89,7 @@ trois types d'isolement communément cités
     * peut-être responsable de l'établisssement (par divergence) d'isolement reproductif
 
 * isolement environnemental ou écologique
-	* apparaït sous la pression de séléction contre les hybrides et leurs dérivés
+	* apparaït sous la pression de sélection contre les hybrides et leurs dérivés
     * favorise l'isolement reproductif 
 	* rôle fondamental dans le mode de spéciation sympatrique
 
@@ -112,9 +112,9 @@ Ornementation : Exine Intine
 
 ### B) Pollinisation directe = **autogamie** pollen d'une fleur féconde le stigmate de la même fleur, via le balancement des étamines au dessus du stigmate 
 
-Autogamie obligatoire : fécondation du stigmate abant l'ouverture de la fleur = cléistogamie
+Autogamie obligatoire : fécondation du stigmate avant l'ouverture de la fleur = cléistogamie
 
-* fleurs tradives de certaines Violettes
+* fleurs tardives de certaines Violettes
 * fleurs des Onagracées : autopollinisation stricte
 * ouverture de la fleur une fois l'autopollinisation réalisée : blé, pois (difficile d'obtenir des hybrides)
 
@@ -146,7 +146,7 @@ Fleurs unisexuées : fécondation entre plante mâle et plante femelle
 Fleurs **bisexuées** : pollen peut se déposer aussi bien sur les stigmates de la même fleur, d'une autre fleur de la même plante ou d'une fleur d'une fleur d'une autre plante
 
 * Autofécondations ou fécondations croisées peuvent se réaliser **au hasard**
-* Conséquences en espérimentation : à des fins génétiques préférences pour des autofécondations ou des fécondations croisées
+* Conséquences en expérimentation : à des fins génétiques préférences pour des autofécondations ou des fécondations croisées
 * Le plus souvent, des dispositifs particuliers (anatomiques, temporels ou génétiques) permettent de choisir une stratégie : autofécondation, fécondation croisée
 
 #### 3) Fécondation croisée
@@ -162,7 +162,7 @@ Pour assurer sa descendance une plante doit :
 
 1) Se "défendre" contre le flux génique nuisible : empêcher la fécondation de l'ovule par un gamète mâle d'une autre espèce -> developper des stratégies qui limitent l'arrivée de pollen autre que celui de l'espèce
 
-2) Favoriser la fécondation par des individus "pollen" de la même espèce tout en évitant l'utofécondation = autopollinsation -> maximiser l'échange entre individus amène à developper des vecteurs = transporteurs de pollen
+2) Favoriser la fécondation par des individus "pollen" de la même espèce tout en évitant l'autofécondation = autopollinsation -> maximiser l'échange entre individus amène à developper des vecteurs = transporteurs de pollen
 
 #### 1) Isolement temporelle
 
@@ -243,16 +243,16 @@ Attraction des mâles réceptifs à la phéromone : notion de spécificité de l
 
 Statégie efficace pour la fécondation de la plante : dès l'échec de copulation, l'insecte s'envole à la recherche d'une autre partenaire
 
-Passage successif de fleur en fleur, abeilles mâles recueiilent le pollen sur leur thorax et le transportent vers différents stigmates : brassage génétique
+Passage successif de fleur en fleur, abeilles mâles recueillent le pollen sur leur thorax et le transportent vers différents stigmates : brassage génétique
 
 
 Logiquement, la séléction naturelle devrait séléctionner les mâles capables de distinguer les insectes femelles de fleurs?
 
 Période de floraison de l'orchidée coïncide pratiquement avec l'éclosion des mâles adultes qui se métamorphosent souvent avant les femelles
 
-Les mâles dès leur éclosion se disputent les femlles adultes peu nombreuses, ce qui expliquerait leurs capacités de discernenement réduites
+Les mâles dès leur éclosion se disputent les femelles adultes peu nombreuses, ce qui expliquerait leurs capacités de discernenement réduites
 
-Dans cet état de frustation sexuelle, de nombreux mâles sont trompés par l'odeur et l'aspect de la fleur deq Ophrys
+Dans cet état de frustation sexuelle, de nombreux mâles sont trompés par l'odeur et l'aspect de la fleur Ophrys
 
 D'autres espèces de fleurs reproduisent l'odeur de la viande en décomposition.
 
@@ -263,24 +263,3 @@ Attirées par erreur par le parfum de charogne, elles viennent se poser sur les 
 ## Conclusion
 
 ![Conclusion](Images/Conclu.JPG)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
