@@ -2,7 +2,7 @@
 
 Discipline qui est née il y a environ 40 ans, mise en place par des botanistes qui travaillaient sur des arbres tropicaux.
 
-**Francis Hallé** : mise en place de méthode et 1er concepts et a écrit *Tropical Trees and Forests*, vulgarition pour le grand public et sensibilise les gens. Il arrive à regrouper les arbres dans 22 modèles différents
+**Francis Hallé** : mise en place de méthode et 1er concept et a écrit *Tropical Trees and Forests*, vulgarisation pour le grand public et sensibilise les gens. Il arrive à regrouper les arbres dans 22 modèles différents
 
 **Oldman** (1974) : notion de réitération ou duplication architecturale
 
@@ -62,9 +62,9 @@ Croissance annuelle : exemple de plantes bicycliques
 
 La ramification va se faire par un bourgeon latéral qui peut être de trois types différents :
 
-* avec axe préformer : les feuilles sont déjà dans le bourgeons pour l'année suivante, le nombre de feuilles dépend des conditions de l'année précédente 
-* avec axe néoformer : le bourgeon avec des écailles mais on y trouve pas de feuilles
-* bourgeon mixte : base préformer et en fonction des conditions il y aura néoformation
+* avec axe préformé : les feuilles sont déjà dans le bourgeons pour l'année suivante, le nombre de feuilles dépend des conditions de l'année précédente 
+* avec axe néoformé : le bourgeon avec des écailles mais on y trouve pas de feuilles
+* bourgeon mixte : base préformé et en fonction des conditions il y aura néoformation
 
 #### 1) Ramification immédiate et différée
 
@@ -127,7 +127,7 @@ Un exemple de plantes non ramifiées à inflorescence terminale :
 
 ![Modèle HOLTTUM](Images/holttum.JPG)
 
-Un seul axe qui s'arrêtera par une inflorescence (séxualité terminale), c'est une plante **monocaule** (un seul axe)
+Un seul axe qui s'arrêtera par une inflorescence (sexualité terminale), c'est une plante **monocaule** (un seul axe)
 
 ![Modèle HOLTTUM](Images/holttum2.JPG)
 
@@ -159,7 +159,7 @@ Ramification et croissance rythmique, axes monopodiaux, orthotropes et sexualit�
 
 ![Modèle de Massart](Images/massart.JPG)
 
-Croissance rythmique, tronc orthotrope mais branches plagiotropes, système ramifié monopodial, séxualité... 
+Croissance rythmique, tronc orthotrope mais branches plagiotropes, système ramifié monopodial, sexualité... 
 
 ![Modèle de Massart](Images/massart2.JPG)
 
@@ -169,12 +169,12 @@ Existence d'espèces ayant le même modèle mais des modalités de croissances d
 
 ![Unité architecturale](Images/croi.JPG)
 
-Pour mieux définir l'architecture, on va définir le concept d'unité architectural qui caractérise l'architecture élémentairedes arbres d'une même espèce. On va caractériser chaque type  d'axe et comprendre a quoi sert chaque axe.
+Pour mieux définir l'architecture, on va définir le concept d'unité architectural qui caractérise l'architecture élémentaire des arbres d'une même espèce. On va caractériser chaque type  d'axe et comprendre a quoi sert chaque axe.
 
 
 ## IV) La réitération
 
-"*Ramification dont la place, **controléee par des facteurs écologiques**, n'est **pas prévisible** avec lesseules données du modèle architectural, et qui mène à la **duplication de ce modèle** à partir de méristèmes qui n'étaient pas ceux de l'embryon*" OLDEMAN, 1974
+"*Ramification dont la place, **controlée par des facteurs écologiques**, n'est **pas prévisible** avec les seules données du modèle architectural, et qui mène à la **duplication de ce modèle** à partir de méristèmes qui n'étaient pas ceux de l'embryon*" OLDEMAN, 1974
 
 
 **Réitération traumatique** : le haut de l'axe ne repousse pas, les axes latérales vont pousser grâce aux bourgeons latéraux 
