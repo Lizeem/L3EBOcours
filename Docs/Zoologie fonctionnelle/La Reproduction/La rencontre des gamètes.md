@@ -6,7 +6,7 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 * les géniteurs ne vont pas se rencontrer **sans appariement**
 
-	* Ce que l'on rencontre chez les oursins, animaux extrêment marins. Au moment de la repro, on a des individus mâles et femelles qui vont éjecter leurs gamètes dans l'eau de mer. Il y a bcp de pertes dans les gamètes. Il existe des mécanismes qui vont rapprocher les différents gamètes. Les spermatozoïdes nagent tous dans la même direction les ovules. Ils sont attirés par celles -ci. Autour des ovules il y a une ou plusieurs enveloppe qui va se dissoudre dans l'eau de mer, ce sont des **fertilisines** qui sont detecter par les spermatozoïdes car ils possèdent des recepteurs aux vefertilisines, des **anti-fertilisines** et sont capable de détecter le taux de fertilisine pour trouver les ovules, c'est du **chimiotactine**.
+	* Ce que l'on rencontre chez les oursins, animaux extrêment marins. Au moment de la repro, on a des individus mâles et femelles qui vont éjecter leurs gamètes dans l'eau de mer. Il y a bcp de pertes dans les gamètes. Il existe des mécanismes qui vont rapprocher les différents gamètes. Les spermatozoïdes nagent tous dans la même direction les ovules. Ils sont attirés par celles -ci. Autour des ovules il y a une ou plusieurs enveloppe qui va se dissoudre dans l'eau de mer, ce sont des **fertilisines** qui sont detecter par les spermatozoïdes car ils possèdent des recepteurs aux fertilisines, des **anti-fertilisines** et sont capable de détecter le taux de fertilisine pour trouver les ovules, c'est du **chimiotactine**.
 
 
 * les géniteurs vont s'accoupler **avec appariement**
@@ -15,37 +15,37 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 	* Chez les amphibiens anoures, on a un accouplement **amplexus**. Elle est axilaire quand le mâle est sur la femelle, lambaire quand le mâle est au niveau du bassin. La femelle va émettre les ovules et le mâle va les arroser. La peau de la femelle doit être humide pour que les spermatozoïdes puissent nager à la surface.
 
-	* Chez les vers de terre sont hermaphrodites, la fécondation des ovules aura lieu après l'accouplement et les spermatozoïdes du partenaire vont être stocker dans la femelle. Le **clitellum** qui va sécréter du mucus et qui va entourer les deux patenaires. Les deux individus sont male donc chacun va liberer des spermatozoïde et vont se déplacer sur une goutière et puis vont être stockés dans des petits reservoirs **spermathèque**. Les deux individus se séparent et chacun va aller féconder ses ovules.Ils vont créer un trou et vont déposés le mucus qui va servir dans l'enveloppe des oeufs et vont déposer ses propres ovules et va utiliser les spermatozoïdes pour les féconder puis abandonne les oeufs.
+	* Les vers de terre sont hermaphrodites, la fécondation des ovules aura lieu après l'accouplement et les spermatozoïdes du partenaire vont être stocker dans la femelle. Le **clitellum** qui va sécréter du mucus et qui va entourer les deux patenaires. Les deux individus sont males donc chacun va liberer des spermatozoïdes et vont se déplacer sur une goutière et vont être stockés dans des petits réservoirs **spermathèques**. Les deux individus se séparent et chacun va aller féconder ses ovules.Ils vont créer un trou et vont déposer le mucus qui va servir dans l'enveloppe des oeufs et va déposer ses propres ovules et va utiliser les spermatozoïdes pour les féconder puis abandonne les oeufs.
 
-	* Chez les épinoches (poissons), le mâle est rouge avec des épines sur le dos et la femelle a des couleurs ternes. Au mooment de la reproduction , les mâles va construire des nids sur le fond des cours d'eau au niveau de la végétation. Lorsque les femelles passent, il les motive pour savoir si elle pond ou pas, si ça lui convient, elle va déposer des ovules dans le nid et s'en aller. Le mâle va garder les oeufs et les protéger pendant tout leur dvp. 
+	* Chez les épinoches (poissons), le mâle est rouge avec des épines sur le dos et la femelle a des couleurs ternes. Au moment de la reproduction, les mâles vont construire des nids sur le fond des cours d'eau au niveau de la végétation. Lorsque les femelles passent, il les motive pour savoir si elle pond ou pas, si ça lui convient, elle va déposer des ovules dans le nid et s'en aller. Le mâle va garder les oeufs et les protéger pendant tout leur developpement. 
 
 ## II) La fécondation interne directe
 
-> Fécondation interne indirect fait appelle au **spermatophore** (sac qui enveloppe les spermatozoïdes)
+### Fécondation interne indirect fait appelle au **spermatophore** (sac qui enveloppe les spermatozoïdes)
 
-* sans accouplement
+#### sans accouplement
 
-	* Chez certains insectes, le mâle va abandonner dans l'environnement les spermatophores. Quand une femelle passe par là, elle va récupere le spermatophore et va assurer la fécondation
+* Chez certains insectes, le mâle va abandonner dans l'environnement les spermatophores. Quand une femelle passe par là, elle va récupere le spermatophore et va assurer la fécondation
 
-* avec accouplement
+#### avec accouplement
 
-	* Chez les seiches, au moment de la reproduction les deux grandes tentacules du mâle va se différencier pour former **l'hectocotyle** qui va servir d'organe copulateur. Il va collecter des spermatophores libérés dans sa cavité paléale et il va mettre son héctocotyle dans la femelle et va mettre les spermatophore juste en face de l'appareil génital de la femelle. Les spermatophores sont très élaboré. Les tuniques étant perméables à l'eau, l'eau va passer entre les deux tuniques se qui va gonfler le spermatophore et le mettre ssous pression, ce qui va faire sauter le bouchon et projetter le sperm vers les voies génitale de la femelle.
+* Chez les seiches, au moment de la reproduction les deux grandes tentacules du mâle va se différencier pour former **l'hectocotyle** qui va servir d'organe copulateur. Il va collecter des spermatophores libérés dans sa cavité paléale et il va mettre son héctocotyle dans la femelle et va mettre les spermatophore juste en face de l'appareil génital de la femelle. Les spermatophores sont très élaboré. Les tuniques étant perméables à l'eau, l'eau va passer entre les deux tuniques ce qui va gonfler le spermatophore et le mettre sous pression, ce qui va faire sauter le bouchon et projeter le sperm vers les voies génitale de la femelle.
 
 ![Zoologie](Images/Fig24.jpg)
 
-   * Chez les scorpions, la fécondation est précéder d'une parade nuptiale qui peut durer plus de 24h. Le mâle va maintenir la femelle par ses grosses pinces et le mâle va emmener la femelle en  promenade (souvent la femelle le tue et le mange). Si la femelle accepte, le mâle l'emmène dans son terrier, le mâle va déposer tout en reculant un spermatophore sur le sol avec une goutte de sperm dessus et va devoir faire avancer la femelle au dessus de ce spermatophore o ù la goutte passera dans l'orifice génital de la femelle. Une fois que la fécondation est effectuée, la femelle mange le mâle.
+* Chez les scorpions, la fécondation est précédée d'une parade nuptiale qui peut durer plus de 24h. Le mâle va maintenir la femelle par ses grosses pinces et le mâle va emmener la femelle en  promenade (souvent la femelle le tue et le mange). Si la femelle accepte, le mâle l'emmène dans son terrier, le mâle va déposer tout en reculant un spermatophore sur le sol avec une goutte de sperm dessus et va devoir faire avancer la femelle au dessus de ce spermatophore où la goutte passera dans l'orifice génital de la femelle. Une fois que la fécondation est effectuée, la femelle mange le mâle.
 
 ![Zoologie](Images/Fig25.jpg)
 
-   * Chez les amphibiens urodèle (queue à l'âge adulte ex salamdre). Il y a une parade niptiale avent la fécondation, le mâle avec déposer un spermatophore au sol qui sera repris par la femelle.
+* Chez les amphibiens urodèle (queue à l'âge adulte ex salamandre). Il y a une parade nuptiale avant la fécondation, le mâle avec déposer un spermatophore au sol qui sera repris par la femelle.
 
 ## III) Fécondation interne directe
 
 ### Pas d'organe copulateur
 
-* Chez les collembolles, le mâle va déposé les spermatozoïdes dans la femelle avec ses pièces bucales.
+* Chez les collembolles, le mâle va déposer les spermatozoïdes dans la femelle avec ses pièces bucales.
 
-* Chez les oiseaux, pour féconder la femmelle le mâle va coller son cloaque contre celui de la femelle.
+* Chez les oiseaux, pour féconder la femelle, le mâle va coller son cloaque contre celui de la femelle.
 
 ### Possède des organes copulateurs
 
@@ -63,14 +63,14 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 ### Adaptations favorisant l'accouplement
 
-* Chez les dytiques (coléoptères), le mâle doit monter sur le dos de la femelle qui est recouvert par les élytes (ailes glissantes et rigides). Chez la femelle , les ailes présentent une zone plane qui présente une striation assez porte. Le mâle possède des ventouse au niveau de ses pattes pour pouvoir se fixer  àa la femelle.
+* Chez les dytiques (coléoptères), le mâle doit monter sur le dos de la femelle qui est recouvert par les élytes (ailes glissantes et rigides). Chez la femelle , les ailes présentent une zone plane qui présente une striation assez porte. Le mâle possède des ventouse au niveau de ses pattes pour pouvoir se fixer  à la femelle.
 
 * Chez les animaux parasites,	
-	* le shistosoma mansoni les sexes sont séparés, le mâle possède une goutière sur sa face ventrale **canal gynécophore** qui permet de porter la femelle et vivent accolés l'un à l'autre. La femelle va être nourrie par le mâle. 
+	* le shistosoma mansoni les sexes sont séparés, le mâle possède une goutière sur sa face ventrale **canal gynécophore** qui permet de porter la femelle et vivent accolés l'un à l'autre. La femelle va être nourrit par le mâle. 
     
     * la sacculine, le mâle sera en parasite chez la femelle réduit à un testicule et vit sur l'**extrenat** l'ovaire de la femelle
     
-    * diplozon paradoxum, vit fixé sur une branchie de Cyprimidés (poissons comme la Carpe), ce sont des hermaphrodites, la fusion est plus poussée. Le vagin est fusionnée avec le canal d'éfférent de l'autre individu.
+    * diplozon paradoxum, vit fixé sur une branchie de Cyprimidés (poissons comme la Carpe), ce sont des hermaphrodites, la fusion est plus poussée. Le vagin est fusionnée avec le canal déférant de l'autre individu.
    
 ## IV) Mecanismes favorisant le rapprochement  des partenaires
 
@@ -79,7 +79,7 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 * Chez les insectes, 
 	* (cigales), les mâles vont faire des émissions sonores **stridulation** grâce à des tambours qui se trouve sur la face ventrale du thorax. Parfois le tambours sont recouverts par des opercules **cymbacalyptes**. Ils sont consitués d'une caisse de raisonnance avec au dessus des petites lamelles faites de cuticules. Leur mouvement va permettre le signal sonore
 
-	* sauterelles et grillions (Orthoptères), on observe, ce phénomène mais les organes sont différents de chez la cigale.  La stridulation est dû au frottement entre les ailes postérieurs et les ailes inférieurs. Sur l'aile antérieur, il y a une nervure possèdant des épines **harchée** va frotter contre une nervure spécalisée **la corde**. Les vibrations émises sont amplifiées par une structure **le miroir**. La femelle possède des organes **tympaniques** qui se trouve sur le tibia		
+	* sauterelles et grillions (Orthoptères), on observe ce même phénomène mais les organes sont différents de chez la cigale.  La stridulation est dû au frottement entre les ailes postérieurs et les ailes inférieurs. Sur l'aile antérieur, il y a une nervure possèdant des épines **harchées** vont frotter contre une nervure spécialisée **la corde**. Les vibrations émises sont amplifiées par une structure **le miroir**. La femelle possède des organes **tympaniques** qui se trouve sur le tibia		
     
     * les criquets, le mâle utilise les ailes antérieurs qui vont frotter le fémur des pattes postérieur
     
@@ -89,7 +89,7 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 ### Signaux olfactifs
 
-* Chez les papillons de nuit (hétérocères), la femelle possède une phéromone qui attire les mâles **bombycol**, cette substance qui s'attirer des mâles jusqu'à plusieurs km (0,01 microg pour 4km). Chez le mâle possède des antennes plus larges que chez les femelles, ells ont des ramifications sur les côtés formant deux peignes **bipectinées** (très allongés chez le mâle)Chez les femelles se sont des antennes en massues **rhopalocères**
+* Chez les papillons de nuit (hétérocères), la femelle possède une phéromone qui attire les mâles **bombycol**, cette substance attire des mâles jusqu'à plusieurs km (0,01 μg pour 4km). Chez le mâle possède des antennes plus larges que chez les femelles, elles ont des ramifications sur les côtés formant deux peignes **bipectinées** (très allongés chez le mâle). Chez les femelles ce sont des antennes en massues **rhopalocères**
  
 ### Signaux visuels
 
@@ -104,17 +104,16 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 ![Bilan](Images/Fig26.JPG)
 
-* signaux sonnores : couteux à émettre, peuvent être perçues à grandes distances mais lorsque l'animal détecte un prédateur, le son disparaît intantannément
-
+* signaux sonores : couteux à émettre, peuvent être perçus à grandes distances mais lorsque l'animal détecte un prédateur, le son disparaît intantannément
 * signaux olfactifs : portée longue, coût assez faible en énergie mais lorsque l'animal va detecter un prédateur, le signal ne disparaît pas instantannément
-
 * signaux visuels : faible persitance
 
 ## V) Les mécanismes cellulaires de la fécondation
 
 ### Structure de l'ovule
 
-Chez la majeur partie des animaux, les ovules sortant de l'ovaire ne sont pas nues, ils vont être recouverts, d'un nombre variable de l'enveloppe;
+Chez la majeure partie des animaux, les ovules sortant de l'ovaire ne sont pas nues, ils vont être recouverts, d'un nombre variable de l'enveloppe;
+
 * L'enveloppe primaire  est une structure produite par l'ovule lui - même
 * Les enveloppes secondaires vont se situer en périphérie et sont produites par les cellules folliculaires
 	* Chez les mammifères, on a une zone pélucide
@@ -126,10 +125,10 @@ Chez la majeur partie des animaux, les ovules sortant de l'ovaire ne sont pas nu
 
 ![Oursins](Images/Fig30.JPG)
 
-* Chez les mammifères, le spermatozoïde va reconnaître l'enveloppe secondaire **enveloppe pélucides**. Des enzymes vont détruire les molécules de reconnaissance pour empêcher les autres spermatooïdes de reconnaïtre l'ovule.
+* Chez les mammifères, le spermatozoïde va reconnaître l'enveloppe secondaire **enveloppe pélucides**. Des enzymes vont détruire les molécules de reconnaissance pour empêcher les autres spermatoïdes de reconnaître l'ovule.
 
 ![Mammifères](Images/Fig31.JPG)
 
-On va avoir une première réaction (modification potentielle de la membrane de l'ovule provoqué par les ions sodium). On va passer de -70mV à +20mV. Cela empêche la fixation d'autres spermatozoïdes.L'ovule va reprendre sa méïose et va la terminer. Il va y avoir des modifications à l'interieur de la cellule. Le noyau du spermatozoïde va entrer au contact de l'ovule et va se transfomer **pronucléus**. L'ADN du spermatozoïde va se décondenser et va former une membrane nucléaire. Les deux noyax vont s'approcher et vont fusionner, ensuite on reprend le cycle cellulaire.
+On va avoir une première réaction (modification potentielle de la membrane de l'ovule provoqué par les ions sodium). On va passer de -70mV à +20mV. Cela empêche la fixation d'autres spermatozoïdes.L'ovule va reprendre sa méïose et va la terminer. Il va y avoir des modifications à l'interieur de la cellule. Le noyau du spermatozoïde va entrer au contact de l'ovule et va se transformer en **pronucléus**. L'ADN du spermatozoïde va se décondenser et va former une membrane nucléaire. Les deux noyaux vont s'approcher et vont fusionner, ensuite on reprend le cycle cellulaire.
 
 ![Fusion des deux noyaux](Images/Fig32.JPG)

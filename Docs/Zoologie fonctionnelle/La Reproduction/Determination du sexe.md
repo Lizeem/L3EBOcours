@@ -97,7 +97,7 @@ Pendant le dvp de la gonade, on a dans un premier temps l'expression de différe
 
 ![Zoologie](Images/Fig6.JPG)
 
-Chez les mammifères, la dertermination du sexe est dûe à un gène SRY présent dans toutes les cellules mais il ne s'exprimera que dans les gonades et aura des conséquences sur tout l'organisme.
+Chez les mammifères, la détermination du sexe est dûe à un gène SRY présent dans toutes les cellules mais il ne s'exprimera que dans les gonades et aura des conséquences sur tout l'organisme.
 
 ![Zoologie](Images/Fig4.JPG)
 
@@ -111,13 +111,13 @@ Drosophile partie gauche -> femelle et partie droite -> mâle
 
 Du côté gauche de l'animal les cellules sont XX et du côté droit sont X0.
 
-Le rapport et le les chromosomes sexuels et non sexuels qui est important. Pour un mâle il faut deux fois plus d'aumosome que de chromosomes sexuels.
+Le rapport et les chromosomes sexuels et non sexuels qui est important. Pour un mâle, il faut deux fois plus d'aumosomes que de chromosomes sexuels.
 
-Il y a deux vagues de transcription des gènes chez la drosophiles, celui dont l'expression va dépendre du sexe c'est le gène **sexe létal**. Le gène est capable d'avoir des information de X/A, si X/A = 1 le gène SXL va être exprimé sur le chromosome X, taux de transcription typique du sexe femelle, si le rapport X/A = 0,5, pas de prod de SXL, donc transcription typique du sexe mâle.
+Il y a deux vagues de transcription des gènes chez la drosophiles, celui dont l'expression va dépendre du sexe c'est le gène **sexe létal**. Le gène est capable d'avoir des information de X/A, si X/A = 1 le gène SXL va être exprimé sur le chromosome X, taux de transcription typique du sexe femelle, si le rapport X/A = 0,5, pas de production de SXL, donc transcription typique du sexe mâle.
 
 Il y a une deuxième vague, le gène SXL va être exprimé parce qu'un autre promotteur sera en jeu, un épissage alternatif, ce sera un mâle.
 
-Protéines transformeurs vont agir sur le taux de transcription appellé double sexe pour le X/A = 1. Sinon la protéine SXL ne servira à rien, ce qui ne pourra pas modifier le gène double sexe, donc il sera différent que celui de la femelle.Cela se passe dans toutes les cellules de la drosophile 
+Protéines transformeurs vont agir sur le taux de transcription appellé double sexe pour le X/A = 1. Sinon la protéine SXL ne servira à rien, ce qui ne pourra pas modifier le gène double sexe, donc il sera différent que celui de la femelle. Cela se passe dans toutes les cellules de la drosophile 
 
 ![Zoologie](Images/Fig8.JPG)
  
