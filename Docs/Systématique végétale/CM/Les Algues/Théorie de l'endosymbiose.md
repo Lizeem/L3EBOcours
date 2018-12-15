@@ -42,7 +42,7 @@ Les cyano présentent une paroi composée de peptidoglycanes
 
 Outils ayant apporté des arguments en faveur de la théorie :
 
-* MET : microscope Electrnique à Transmission
+* MET : microscope Electronique à Transmission
 * Progrès en biochimie : permet de mettre en évidence notamment des **peptidoglycanes** entre les deux membranes chez les Glaucophytes, disparition chez d'autres groupes.
 
 Constitution théorique des feuillets **après capture d'une cyanobactérie** (Gram-)
@@ -139,7 +139,7 @@ Plastes des :
 * ochrophytes
 * dinophytes ??
 
-Apparentés avec ceus des **rhodophytes**
+Apparentés avec ceux des **rhodophytes**
 
 Plastes des :
 

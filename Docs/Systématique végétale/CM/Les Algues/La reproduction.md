@@ -97,7 +97,7 @@ Extémité de certains filaments :
 * Mise en place d'un revêtement de filaments
 * Lien trophique entre zygote et filaments
 
-Dormance -> **Hypnozygote
+Dormance -> **Hypnozygote**
 
 ![Coleo](Images/coleo.JPG)
 

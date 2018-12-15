@@ -51,7 +51,7 @@ A l'origine du O2
 * Quelques parasites (Polysiphonia), certaines hétérotrophes
 * oogamie, trichogyne et sporulation cycle trigénétique
 
-Habitat :  marin essentiellement, qq genres d'eau douce, benthiques
+Habitat :  marin essentiellement, quelques genres d'eau douce, benthiques
 
 Quelques particularités : *Cyanidium caldarium* optimum de croissance à pH = 2 et T° 57°C
 
@@ -74,7 +74,7 @@ Appartiennent à un groupe comprenant les **embryophytes** -> groupe **paraphyl�
 * Thylacoïdes emilés par 2 à 6 -> pouvant former des granas
 * amidon **intraplastidial**
 * groupe basé sur
-	* caractères ultrastrcturaux des flagelles
+	* caractères ultrastructuraux des flagelles
     * de la mitose
 
 Formes : majoritairement microscopiques
@@ -139,4 +139,3 @@ Lien de parenté directe avec les autres algues mis à jour pour l'instant
 * Liens de parenté mal connus à l'intérieur de ces classes : **Diatomophycideae** (100 000 espèces ?)
 * **Phéophycées** : 2 000 espèces, certaines de grandes taille, algues brunes, utilisations alimentaires
 * **Chrysophyceae** : 1 000 espèces, unicellulaires
-

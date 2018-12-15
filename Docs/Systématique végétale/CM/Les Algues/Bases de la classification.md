@@ -7,7 +7,7 @@ Le caractère commun à toutes les algues = présence d’un plaste
 Classification encore largement fondée sur les caractères
 
 * biochimiques
-* plastidiaux tq nature et localisation des pigments (chloro,carotènes ...),disposition des thylacoïdes (isolés, empilés)
+* plastidiaux et localisation des pigments (chloro,carotènes ...),disposition des thylacoïdes (isolés, empilés)
 * type de mitose, mais apports importants par la phylogénie moléculaire nucléaire et plastidiale
 
 ## A) Les pigments 
@@ -171,7 +171,7 @@ Les plastes
 
 Emboîtements : 
 
-un élément procaryotique dans une ellule eucaryote, elle même contenue dans une autre cellule eucaryotes
+un élément procaryotique dans une cellule eucaryote, elle même contenue dans une autre cellule eucaryote
 
 
 -> théorie de l’endosymbiose
