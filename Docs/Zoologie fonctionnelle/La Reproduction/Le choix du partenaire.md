@@ -4,17 +4,17 @@
 
 ### Sur des bases comportementales
 
-* Chez les guppys, la femelle a des couleur ternes et le mâle des couleurs vives. Les femelles s'accouplaient  avec le mâle qui a des couleurs les plus vives et les plus forts. Les mâles étant plus proche du prédateur gagne.
+* Chez les guppys, la femelle a des couleurs ternes et le mâle des couleurs vives. Les femelles s'accouplent  avec le mâle qui a des couleurs les plus vives et les plus forts. Le mâle étant plus proche du prédateur gagne même si ces couleurs sont plus ternes.
 
 ![guppies](Images/Fig27.JPG)
 
 ### Sur des bases morphologiques
 
-* Chez les mouches avec des yeux pédonculées, il y a une **selection sexuelle** au niveau de la longueur des yeux engendrer par le choix effectué par les femelles
+* Chez les mouches avec des yeux pédonculées, il y a une **sélection sexuelle** au niveau de la longueur des yeux engendrée par le choix effectué par les femelles
 
 Il peut y avoir un developpement disproportionné des caractères **hypertélie**. 
 
-* Chez les pans, le mâle disposent ses rectrices en arc de cercle. Le mâle a donc du mal à monter dans les arbres et donc ils sont plus vulnérable des prédateurs.
+* Chez les paons, le mâle dispose ses rectrices en arc de cercle. Le mâle a donc du mal à monter dans les arbres et donc il est le plus vulnérable des prédateurs.
 
 * Chez les magaceros giganteus, cerf d'une espèce éteinte, ses bois pouvant atteindre plus de deux mètres de longueur.
 
