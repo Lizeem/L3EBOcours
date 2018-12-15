@@ -1,6 +1,6 @@
 # Dispersion et colonisation des végétaux
 
-Les végétaux sont mobiles, l'enracinement et obligatoire ce qui provoquent des problèmes:
+Les végétaux sont mobiles, l'enracinement est obligatoire ce qui provoque des problèmes:
 
 * Habitat favorable
 * Partenaires sexuels
@@ -31,7 +31,7 @@ C'est un processus de reproduction sexuée. Il existe deux modes de dispersion:
 Tous les vecteurs sont possibles
 
 * biotique et abiotiques
-* Structures spécialisé adaptées aux vecteurs utilisés par les plantes
+* Structures spécialisées et adaptées aux vecteurs utilisés par les plantes
 
 La dispersion est faite par le vent (**Anémogorie**)
 
@@ -80,9 +80,9 @@ La **Zoochorie** est parfois plus efficace que l'**Anémogorie**.
 
 Très peu de plantes sont concernées par la **Myrmécochorie**.
         
-Dispersion avec l'eau, **Hydrchorie**
+Dispersion avec l'eau, **Hydrochorie**
 
-* Pas toujours de strctures particulières
+* Pas toujours de structures particulières
 * Résistance au pourrisssement 
 * Graine flottante
 * Dispersion parfois sur de grandes distances
@@ -101,21 +101,21 @@ Cela leur évite d'être confronté aux parasites durant leur développement.
 Il existe trois types de dispersion des individus
 
 * Les espèces non fixées: **Hydrophytes flottants**.
-* Il se déplace du point de fixation: ** Géophytes à rhiromes**.
+* Il se déplace du point de fixation: ** Géophytes à rhizomes**.
 * Multiplication végétative
 	* Clonage
     * Toutes les structures de l'individu mère
 		* Racines
     	* Tiges
     	* Feuilles
-	* Formation de strcture spécialisées
+	* Formation de structure spécialisées
 
 Ils possèdent des structures spécialisées
 
 * Rameau modifiés longs
 	* Aériens: **Stolons**
-    	* Croissance plagiotrope
-        * Entre-noeds longs, feuilles réduites
+    	* Croissance plagiotrophe
+        * Entre-noeuds longs, feuilles réduites
         * Enracinement par bourgeon terminal
         * Bourgeons axiliaires en relais
         
@@ -135,7 +135,7 @@ Mais aussi des structures non spécialisées
 * Bourgeons adventifs
 	* Dédifferenciation cellulaire, nouveau mérisème, nouveau bourgeon, nouveau rameau 
 * Fragmentation du rizhome
-	* Dégénéréscence des des parties agées avec séparation des rizhomes latéraux du rizhome principal (autant de nouveaux individus que de ramifications)
+	* Dégénéréscence des parties agées avec séparation des rizhomes latéraux du rizhome principal (autant de nouveaux individus que de ramifications)
 
 Des méthodes existent pour éviter la semaison.
 
@@ -149,12 +149,12 @@ Mais cela peut provoquer des adventices de cultures favorisées par le travail d
 
 ## III) Alors, multiplication végétative ou reproduction sexuée : petites graines ou grosses graines ?
 
-Tout est une question de stratégies
+Tout est une question de stratégie
 
 * Sexuée *versus* assexuée
 * Graine <-> brassage génétique (méïose et fécondation)
 * Anuelles et ligneux (sexuée préférentiellement)
-* Plantes d'habtat difficile (assexuée préférentiellement, établissement difficile)
+* Plantes d'habitat difficile (assexuée préférentiellement, établissement difficile)
 
 Les deux voies de reproduction :
 
@@ -166,7 +166,7 @@ La multiplication végétative est un avantage
 * Dissémination locale rapide
 	* Extension latérale
     * Cout énérgétique faible (clone rapidement indépendant)
-    * Fort taux de survies des clones     
+    * Fort taux de survie des clones     
 	
 La voie assexuée à des désavantages:
 
@@ -174,15 +174,3 @@ La voie assexuée à des désavantages:
 * Accumulation des tares
 * Accélération des attaques parasitaires
 * Inadaption aux changements environnementaux
-
-
-
-
-
-
-
-
-
-
-
-
