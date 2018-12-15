@@ -4,7 +4,7 @@ Le contexte
 
 64 ordres avec 416 familles
 
-*Flagged hierarchy*:on utilise des noms (ordre, famille)  qui sont des rangs dont on trouve l'origine dans les classifications linnéennes.
+*Flagged hierarchy*: on utilise des noms (ordre, famille)  qui sont des rangs dont on trouve l'origine dans les classifications linnéennes.
 
 Tentative de réponse à l'objectif de facilité de mémorisation
 
@@ -55,7 +55,8 @@ De nombreux caractères restent à préciser, à cause
 
 Ressort des analyses cladistiques comme l'angiosperme le plus basal.
 
-Caractère floraux:
+Caractères floraux:
+
 Plante dioïque (les deux sexes sont présents sur chaque fleur mais un seul des deux termine son développement).
 Les fleurs possède un périanthe de pétales et sépales indifférenciés arrangés en spirale.
 
@@ -89,7 +90,7 @@ Groupe solidement appuyé à importance écologique majeure dans les systèmes �
 
 6espèces, à mode de vie asautique (secondaire). Position longtemps incertaines (groupe frère des Monocts, des Eudicots voire des Angiospermes...)
 Actuellement groupe frère des Eudicots.
-(Stomates 0, Aperture 0, Exine0, vaisseaux 0, Cambium 0, Racine 0...)
+(Stomates 0, Aperture 0, Exine 0, vaisseaux 0, Cambium 0, Racine 0...)
 
 
 #### Eudicots
@@ -130,9 +131,9 @@ A partir du fonds des Tricolpées :
 Synapomorphies:
 
 * Méristèmeracinairefermé
-* Fleurspentamères, à3 faisceauxpour les sépaleset un pour les pétales
+* Fleurs pentamères, à 3 faisceaux pour les sépales et un pour les pétales
 * Placentation axile
-* Stigmatesnon décurrents
+* Stigmates non décurrents
 * Albumen nucléaire
 * Pollen tricolporé
 
@@ -168,6 +169,7 @@ Synapomorphies :
 * 80000 espèces
 
 Rosids:
+
 Embryon de forme allongée, un gène chloroplastique 
 éteint (infA)
 
@@ -184,7 +186,7 @@ Embryon de grande taille
 Fabales:
 
 * Embryon vert
-* 20000sp dont 19400 dans les Fabaceae ou légumineuses, grande importance alimentaire.
+* 20000 sp dont 19400 dans les Fabaceae ou légumineuses, grande importance alimentaire.
 
 Rosales: 
 
@@ -213,7 +215,7 @@ Ericales + Euasterids: Ovules ténuinucellés
 
 Ericales: Primulacées –Théacées –Ericacées
 
-Euasterids:Acide cafféique présent, Androcée épipétale
+Euasterids: Acide cafféique présent, Androcée épipétale
 
 * Euastérids I (Lamiids): Inflorescences définies
 * Borraginacées

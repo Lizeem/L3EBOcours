@@ -21,7 +21,7 @@ Elle peut également être **opératoire**:
 
 Deux actes différents:
 
-* **classer* : placer un groupe végétal dans une catégorie en fonction de ses objectifs propres
+* **classer** : placer un groupe végétal dans une catégorie en fonction de ses objectifs propres
 
 * **déterminer** : *déterminer* à quel groupe appartient un individu dans la classification d'interêt
 
@@ -33,15 +33,15 @@ Mais la classification s'appuie de plus en plus sur des caractères trop compliq
 
 ### A) La morphologie
 
-Concernent la forme extérieure ou l'apparence .Importants en ce qu’ils sont encore fondamentaux  pour la détermination, et parce qu’ils furent la 
-principale donnée disponible dès l’origine de la taxinomie.
+Concernent la forme extérieure ou l'apparence. Importants en ce qu’ils sont encore fondamentaux  pour la détermination, et parce qu’ils furent la 
+principale donnée disponible dès l’origine de la taxonomie.
 
 Durée de vie et port de la plante:
 
 * annuelle
 * bisanuelle
 * vivace monocarpique ou polycarpique
-* orthotroppie et plagiotropie
+* orthotropie et plagiotropie
 * monopadiale ou sympodiale
 * prolepsie ou syllepsie des bourgeons
 
@@ -51,16 +51,16 @@ Axe et ramifications monopodiales : *Araucaria*
 
 ![monopadiale](Images/Fig53.JPG)
 
-Il va y avoir un faible nombre de groupe d'archtecture possible
+Il va y avoir un faible nombre de groupe d'architecture possible
 
 #### Système racinaire
 
-Plus difficile à décrire, car à ramification généralement irrégulière, mois informatives en terme de détermination
+Plus difficile à décrire, car à ramification généralement irrégulière, moins informatives en terme de détermination
 
 Opposition entre deux grands types:
 
 * pivotant
-* fasciculé.
+* fasciculé
 
 Peuvent développer des systèmes particuliers:
 
@@ -86,7 +86,7 @@ Bourgeon terminal, axillaire, floral, mixte, pseudoterminal
 #### Les feuilles
 
 Principaux organes photosynthétiques chez la plupart des Angiospermes.  Insérées sur des nœuds, généralement à croissance définie contrairement 
-aux tiges. Organes polarisés, généralement fonctionnellement.
+aux tiges. Organes polarisés, généralement fonctionnels.
 
 Modifications possibles:
 
@@ -107,7 +107,7 @@ De nombreux caractères issus de la nervation:
 * palmée 
 * parallèle
 
-La forme du limbe lui-même fait l'objet dune terminologie riche:
+La forme du limbe lui-même fait l'objet d'une terminologie riche:
 
 ![forme du limbe](Images/Fig54.JPG)
 
@@ -139,7 +139,7 @@ Les caractères anatomiques sont étudiés au microscope optique, les caractère
 
 Caractère du phloème et du liber:
 
-un carcactère important est la structure des plastes des tubes criblés: types S = amidon ou type P = proteines
+un caractère important est la structure des plastes des tubes criblés: types S = amidon ou type P = proteines
 
 ### C) L'embryologie
 
@@ -156,7 +156,7 @@ Développpement de l'albumem:
 	* albuminée
 	* exalbuminée
 
-Chez les monocotylées : type hélobial (une cellule suit un developpemtn nucléaire, l'autre cellulaire)
+Chez les monocotylées : type hélobial (une cellule suit un developpement nucléaire, l'autre cellulaire)
 
 ### D) La palynologie
 
@@ -198,5 +198,3 @@ NADP déshydrogénase : plus rapide
 Les arguments permettant de décrire et de classer les plantes sont nombreux, de l'échelle de l'organisme à celle de son génôme.
 
 Les résultats issus des caractères moléculaires viennent en partie renforcer les classifications reconnues auparavant, mais avec des changements majeurs.
-
-
