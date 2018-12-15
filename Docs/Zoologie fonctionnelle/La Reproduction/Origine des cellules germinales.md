@@ -6,9 +6,9 @@ Les cellules germinales sont des cellules provenant d'autres territoires de l'em
 
 ### La diminution chromosomique
 
-Cette différence entre **cellule germinale** et **cellule somatique** apparaît parfois très tôt. C'est ce qu'on va rencontrer chez les Ascaris, segmentation de la cellule oeuf, dans celle ci et dans des cellules de l'embryon on trouve un territoire coloré, **le plasma germinatif**. Celui ci ne se sépare pas de façon équitable car ce plasma se trouve que dans une des deux cellules venant de se diviser etc.
+Cette différence entre **cellule germinale** et **cellule somatique** apparaît parfois très tôt. C'est ce qu'on va rencontrer chez les Ascaris, segmentation de la cellule oeuf, dans celle-ci et dans des cellules de l'embryon on trouve un territoire coloré, **le plasma germinatif**. Celui-ci ne se sépare pas de façon équitable car ce plasma se trouve que dans une des deux cellules venant de se diviser.
 
-A chaque cycle de division, les cellules qui ne possedaient pas de plasma détruisaient une partie de leur chromosomes. **Les cellules germinales vont se former à partir des cellules qui vont garder la totalité des chromosomes**.
+A chaque cycle de division, les cellules qui ne possèdent pas de plasma détruisaient une partie de leur chromosomes. **Les cellules germinales vont se former à partir des cellules qui vont garder la totalité des chromosomes**.
 Les cellules somatiques ne vont pas hérité de tout le patrimoine génétique, seulement ce qui leur sert. Ce processus s'appelle une **diminution chromosomique**.
 
 Souvent, lorsque c'est précoce c'est lié à la présence de substances dans le cytoplasme qui va être distribué à certaines cellules mais pas à d'autres.

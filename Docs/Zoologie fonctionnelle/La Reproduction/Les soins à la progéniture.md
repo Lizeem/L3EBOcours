@@ -6,7 +6,7 @@
 
 **Jeune** = stade de dvp qui ne diffère de l'adulte que par sa taille et son incapacité à se reproduire
 
-**Larve** stade de vp différent 
+**Larve** = stade de developpement différent 
 
 ## I) La protection de la progéniture augmente ses chances de survie:
 
@@ -29,7 +29,7 @@
 
 **annexes embryonnaire** dont l'**amnios**:
 
-* Chez les tétrapodes, l'amnios est une cavité qui va entourer l'embryon **cavité amniotique** qui va proteger l'embryon qui recreer un milieu aquatique pour l'embryon.
+* Chez les tétrapodes, l'amnios est une cavité qui va entourer l'embryon **cavité amniotique** qui va proteger l'embryon et recréer un milieu aquatique pour l'embryon.
 
 ![Amnios](Images/Fig29.JPG)
 
@@ -40,7 +40,7 @@
 4) **Incuber sa progéniture**
 
 * région exterieur
-	* crapeau accoucheur, les mâles collecte les oeufs qui vont être coller sur la face dorsale du mâle restant tout le long de leur dvp
+	* crapeau accoucheur, les mâles collecte les oeufs qui vont être coller sur la face dorsale du mâle restant tout le long de leur developpement
 
 	* chez les homards, face ventrale de la femelle
 
@@ -48,22 +48,22 @@
 	
     * hippocampe, le mâle à une poche sur son abdomen
     
-    * chez les crapeaux gastroteca, l'incubation des oeufs se fait dans l'oestomac, le mâle va césser de se nourrir ou ils seront chez d'autres crapeaux dans des cavités buccales
+    * chez les crapeaux gastroteca, l'incubation des oeufs se fait dans l'estomac, le mâle va cesser de se nourrir. Ils peuvent se situer chez d'autres crapeaux dans des cavités buccales
   
 ## II) La nutrition de la progéniture, stade embryonnaire
   
-> De l'oviparité chez les Chondrichtyens
+### De l'oviparité chez les Chondrichtyens
    
 * **lécithotrophie**
-	* Les requins possède un grand sac renmplie de vittelus qui va nourrir l'embryon 
+	* Les requins possède un grand sac rempli de vittelus qui va nourrir l'embryon 
   
 * **histotrophie**
-    * Chez la raie,l'oeuf est retenu dans les voies g la paroi utérinne va provoquer des tampons qui vont qui viennent au contaénitale de la femellect de l'embryon **trophonemata** qui vont sécréter du lait pour nourrir l'embryon.
- 	* Chez le requin taureau, les embryons va manger les autres embryons, la femelle va produire des ovules non féconder qui vont être manger par l'embryon
+    * Chez la raie, l'oeuf est retenu dans les voies génitales, la paroi utérine va provoquer des tampons qui viennent au contact génital de la femelle, **trophonemata**, qui vont sécréter du lait pour nourrir l'embryon.
+ 	* Chez le requin taureau, les embryons vont manger les autres embryons, la femelle va produire des ovules non fécondés qui vont être manger par l'embryon
     
 * **hémotrophie**
 
-	* Chez les requins, on a une nutrition de l'embryon par le placenta. Le placenta n'a pas la même origine que les mammifères, il se forme par accolement du vesticule vitérine avec la paroi vitteline et va fusionner partiellement avec celle ci. L'embryon est donc nourrit avec les substances situés dans le sang maternelle **hémotrophie**.
+	* Chez les requins, on a une nutrition de l'embryon par le placenta. Le placenta n'a pas la même origine que les mammifères, il se forme par un accolement du vesticule vitérine avec la paroi vitteline et va fusionner partiellement avec celle ci. L'embryon se nourrit avec les substances situés dans le sang maternelle **hémotrophie**.
   
 
 ### Le placenta chez l'Homme
@@ -74,17 +74,17 @@ Lorsque l'oeuf a été fécondé (dure 5 à 6 jours), on a des divisions cellula
 
 ![Placenta](Images/Fig45.jpg)
  
-* Chez les primates, le synnacytiotrophoblaste, va détruire la paroi des capillaires maternelle **les capilluims**. Le sang maternelle arrive dans les lacunes où baignent des ramifications. Pas de mélange maternelle et le sang phétal, la proximité qui va faciter des échanges entre les deux sangs. Le placenta est dit **hémochorial**.
+* Chez les primates, le synnacytiotrophoblaste, va détruire la paroi des capillaires maternelle **les capilliums**. Le sang maternelle arrive dans les lacunes où baignent des ramifications. Pas de mélange maternelle et le sang phétal, la proximité va faciliter des échanges entre les deux sangs. Le placenta est dit **hémochorial**.
 
 ![Placenta hémochorial](Images/Fig34.JPG)
 
 ### Echange placentaire
 
-* Passif par diffusion simmple:
+* Passif par diffusion simple:
 
 	* acides gras libres, gaz respiratoires, sodium
     
-* Passif par diffusion facilitée:
+* Passif par une diffusion facilitée:
  
 	* lactate
    
@@ -113,13 +113,13 @@ Une **implatation différente** est une implantation qui va attendre différents
 
 ## 	II) La nutrition de la progéniture : stades post - embryonnaire
 
-### La placer dans un milieu approprié
+### Dans un milieu approprié
 
-* Chez coléoptères nécrophores, ils enterrent des cadavres  et déposent leur oeuf dans le cadavre.
+* Chez coléoptères nécrophores, ils enterrent des cadavres  et déposent leur oeufs dans le cadavre.
 
-* C'est les hyménoptères, son organe de ponte **ovipositeur** n'est pas trasformer en éguillon vénéneux.  Ils pondent les oeufs dans une larve d'un autre insecte (souvent chenilles)  qui vont écolore dans celle-ci. La chenille est paralysée mais est toujours vivante, les larves vont donc se nourrir de la chenille de l'intérieur.
+* C'est les hyménoptères, son organe de ponte **ovipositeur** n'est pas transformer en éguillon vénéneux.  Ils pondent les oeufs dans une larve d'un autre insecte (souvent chenilles)  qui vont écolore dans celle-ci. La chenille est paralysée mais est toujours vivante, les larves vont donc se nourrir de la chenille de l'intérieur.
 
-###  Collecter la nourrir pour l'apporter à la progéniture
+###  Collecter la nourriture pour l'apporter à la progéniture
 
 * Chez les oiseaux , le petits se débrouillent tout seul **nidifuge**
 
@@ -129,9 +129,9 @@ Une **implatation différente** est une implantation qui va attendre différents
 
 ### Utiliser les sécrétions nutrituves
 
-* Chez les pigeons, leur jabot est capable de sécréter du *lait* et de nourrir son petit
+* Chez les pigeons, leur jabot est capable de sécréter du "lait" et de nourrir son petit
 
-> Le lait des mammifères
+### Le lait des mammifères
 
 ![Le lait des mammifères](Images/Fig36.JPG)
 
@@ -141,11 +141,11 @@ Une **implatation différente** est une implantation qui va attendre différents
 
 ### Mécanisme de la synthèse du lait
 
-Produit par les cellules aciineuses:
+Produit par les cellules acineuses:
 
-* Filtration du sang qui se trouve au niveau des globulnes , la filtration sélective de l'eau et sels, albumines et globulines du sang et de la lymphe
+* Filtration du sang qui se trouve au niveau des globules , la filtration sélective de l'eau et sels, albumines et globulines du sang et de la lymphe
 
-* Secrétion de lactose, caséine, graisses et acide critique par éclatement des cellules
+* Secrétion de lactose, caséine, graisses et acide citique par éclatement des cellules
 
 Controle endocrine de la lactation:
 
@@ -155,21 +155,21 @@ Controle endocrine de la lactation:
 
 * La proclatine provoque la sécrétion de lait qui s'accumule dans les sinus galactophores
 
-* Lors de la tétée, la stimulation du trayon (mamelon chez la femme), simule par voie nerveuse l'hypophyse qui libère de l'ocytocine
+* Lors de la tété, la stimulation du trayon (mammelon chez la femme), simule par voie nerveuse l'hypophyse qui libère de l'ocytocine
 
 * L'ocytocine provoque l'excrétion du lait
 
 ![Reflexe neuro-endocrinien](Images/Fig39.JPG)
 
-## III) Soins à la progéniture apportés par d'autres individus
+## III) Soin à la progéniture apporté par d'autres individus
 
 ### La reproduction communautaire coopérative
 
-* Chez les manchots empereur, les jeunes sont rassemblés en *crèches* termes par des adultes pendant que les parents vont pêcher. Il n'y a pas d'échanges de nourriture.
+* Chez les manchots empereur, les jeunes sont rassemblés en "crèches" termes par des adultes pendant que les parents vont pêcher. Il n'y a pas d'échanges de nourriture.
 
 ![Construction d'un nid](Images/Fig40.JPG)
 
-* Chez les abeilles, il y a une protection physique mais aussi la nutrition des larves est assrué en , le pollen est utilisé  et le miel, le pollen est riche en protéine et le miel est riche en sucre. Le miel est une substance produite à partir du nectard. Lorsqu'elle rentre à la ruche,  elles va le faire passer dans le chapeau d'une autre ouvrière . Et rajouter des sécrétions salivaire et va être déposé dans des cellules spécifiques . Le venin va favoriser le conservation. Les abeilles vont le deshydrater et l'avéole sera recouvert d'une opercule pour nourrir les larves.
+* Chez les abeilles, il y a une protection physique mais aussi la nutrition des larves est assuré, le pollen et le miel sont utilisés. Le pollen est riche en protéine et le miel est riche en sucre. Le miel est une substance produite à partir du nectar. Lorsqu'elle rentre à la ruche,  elle va le faire passer dans le chapeau d'une autre ouvrière. Celle ci va y rajouter des sécrétions salivaire et va le déposer dans des cellules spécifiques. Le venin favorisera le conservation. Les abeilles vont le deshydrater et l'avéole sera recouvert d'une opercule pour nourrir les larves.
 
 ![Nutrition des larves](Images/Fig41.JPG)
 
@@ -179,12 +179,12 @@ Controle endocrine de la lactation:
 
 * Le moineau domestique s'empare parfois du nid de l'hirondelle 
 
-* La buse variable va pondre parfois l'un de ses oeufs dans le nid d'autres rapaces; idem chez les Anatidés
+* La buse variable va pondre parfois l'un de ses oeufs dans le nid d'autres rapaces, idem chez les Anatidés
 
-* Chez le coucou, il pond ses oeufs dans le nid d'autres espèces dont la coloration ressemble à celle des oeufs de Corvidés, ces oeufs sont pondus dans le nid de la deuxième espèce, après l'éclosion, le néonate expulse les oeufs des corvidés.**prarasitisme obligatoire**
+* Chez le coucou, il pond ses oeufs dans le nid d'autres espèces dont la coloration ressemble à celle des oeufs de Corvidés, ces oeufs sont pondus dans le nid de la deuxième espèce, après l'éclosion, le néonate expulse les oeufs des corvidés.**parasitisme obligatoire**
 
 ### Les fourmis esclavagistes
 
-* La fourmi rousse pénètre des les fourmillières de *Serviformea fusca*, tue les femelles reproductrices et fait élever sa ponte par la formilière parasitée.
+* La fourmi rousse pénètre des les fourmillières de *Serviformea fusca*, tue les femelles reproductrices et fait élever sa ponte par la fourmilière parasitée.
 
 * Les fourmis sanguines dérobent des nymphes de *Serviformica glabaris*, à leur naissance, ces dernières forment une caste de nourrices
