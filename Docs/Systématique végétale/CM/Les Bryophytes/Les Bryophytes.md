@@ -38,7 +38,7 @@ Toute partie du gamétophyte est capable d'engendrer un nouvel individu complet
 Mais il y a aussi une reproduction végétative par:
 
 * Aposporie possible
-* Apogamie possible(formation d'un zygote à partir du cellule végétative)
+* Apogamie possible (formation d'un zygote à partir du cellule végétative)
 
 On a déjà un regroupement de tissus qui ont déjà commencé leur maturation sexuelles et qui redonne un individu complet sans fécondation. C'est un facteur déclencheur qui reste inconnu.
 
@@ -52,7 +52,7 @@ L'appareil végétatif est de petite taile sans tissu lignifié ni de tissus con
 
 Les traits écologiques
 
-* statégie de reproduction **r**, individu qui produisent énormément de déscendants
+* statégie de reproduction **r**, individu qui produisent énormément de descendants
 * résistance aux stress, contraintes physiques
 * plantes pionnières (blocage succession), substance allélopathiques
 
@@ -70,7 +70,7 @@ Bryophytes sl : 3 embranchements classiquement présentées
 * **Anthocérotes** = Anthocérophyta
 * **Bryophyta ss** = mousses
 
-### A) Embt Hépatophyta = Marchantiophyta
+### A) Hépatophyta = Marchantiophyta
 
 Il existe 6 ordres, 250 genres 6 000 espèces
 
@@ -240,7 +240,7 @@ C'est le seul cormophyte qui ne synthétise pas de flavonoides
 
 * Grand chloroplaste à pyrénoide (zone non pigmentée, présence d'amidon possible)
 * Présence de stomates sur gamétophyte et sporophyte
-* Croissance du sporophyte entretenue par une strcture basale
+* Croissance du sporophyte entretenue par une structure basale
 * Croissance du sporophyte indéfinie
 * Sporophyte vert : assise photosynthétique
 * Présence d'une cuticule
@@ -266,7 +266,7 @@ Sporophyte:
 * Pseudopode (n) surélevant le sporophyte
 * Pas de péristome
 
-C'est un groupe très homogène, il est caractériqé par sa capacité à se developper dans des milieux extrêmement acides et humides (**tourbières**) et une grande importance dans le stockage du carbone (**décomposition lente**).
+C'est un groupe très homogène, il est caractérisé par sa capacité à se developper dans des milieux extrêmement acides et humides (**tourbières**) et une grande importance dans le stockage du carbone (**décomposition lente**).
 
 #### Andrédales(o)
 
@@ -325,7 +325,7 @@ Possèdent comme points communs:
 * cycle de reproduction
 * fécondation
 * sporopollenine
-* présence d'une protection des premiers stades du sporophyte (et d'un embryon multecellulaire)
+* présence d'une protection des premiers stades du sporophyte (et d'un embryon multicellulaire)
 
 ## III) La recherche du groupe frère
 
