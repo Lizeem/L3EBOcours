@@ -55,7 +55,7 @@ Les voies génitales vont permettre aux gamètes de sortir.
 
 ![Zoologie](Images/Fig3.JPG)
 
-> Contrôle de la différenciation des voies génitales
+### Contrôle de la différenciation des voies génitales
 
 Par défaut, les canaux de Wolff régressent et les canaux de Miller subistent dans les embryons en absence de gonades. **On a donc en absence de gonades, le phénotype femelle**.
 
