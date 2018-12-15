@@ -10,7 +10,7 @@ Chez certaines espèces/groupe actuelles comme par exemple les foraminifères, d
 
 Lorsque les gamètes sont identiques, il y a **isogamie**. En général, il y a une **anisogamie** avec un gros gamète (gamète femelle) et un petit gamète qui se déplace vite (gamète mâle).
 
-On pense qu'au cours de l'évolution, les espèces avaient des gamètes semblables (**isogamie**), l'apparence de la **anisogamie** est dû à une sélection disruptive (deux formes séparées -> gamète volumineux et petit gamète qui se déplace vite).
+On pense qu'au cours de l'évolution, les espèces avaient des gamètes semblables (**isogamie**), l'apparition de l' **anisogamie** est dû à une sélection disruptive (deux formes séparées -> gamète volumineux et petit gamète qui se déplace vite).
 
 Les gamètes auront de plus de plus de chance à se rencontrer:
 
@@ -26,7 +26,7 @@ Pour désigner un organisme capable de se déplacer par lui même et un **motili
 
 ## II) Différenciation des gonades et des voies génitales chez les vertébrés
 
-> Dvp des gonades
+### Developpement des gonades
 
 Les gamètes peuvent être produits dans des gonades.
 
