@@ -91,7 +91,7 @@ La ramification va se faire par un bourgeon latéral qui peut être de trois typ
 
 ![Hypo, amphi, épi](Images/tonie.JPG)
 
-### C) Différenciation morphologiqe des axes
+### C) Différenciation morphologique des axes
 
 #### 1) Orthotropie, plagiotropie et axes mixtes
 
