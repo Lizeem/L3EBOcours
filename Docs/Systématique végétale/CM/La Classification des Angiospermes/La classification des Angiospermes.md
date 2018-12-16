@@ -149,7 +149,7 @@ Deux cotylédons = dicotylées
 
 Un cotylédon = monocotylées
 
-Développpement de l'albumem: 
+Développement de l'albumem: 
 
 * deux types chez les dicotylées:
 
