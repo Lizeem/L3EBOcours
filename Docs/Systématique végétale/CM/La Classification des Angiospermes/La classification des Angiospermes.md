@@ -178,7 +178,7 @@ Classification de Cronquist (1981)
 
 Dernier système sur caractères morphologiques et chimiques
 
-![](Images/Fig57.JPG)
+![Dernier système sur caractères morphologiques et chimiques](Images/Fig57.JPG)
 
 ### E) Les caractères moléculaires
 
@@ -187,7 +187,7 @@ L'utilisation de l'ARN et de l'ADN pour les comparaisons entre organismes. A l'o
 
 Génome chloroplastique:
 
-Stable à l'échelle spaécifique réarrangements suffisamment rares pour séparer les grands groupes. Deux séquences inversées symétriques.
+Stable à l'échelle spécifique réarrangements suffisamment rares pour séparer les grands groupes. Deux séquences inversées symétriques.
 
 rbcL: gène codant pour la sous-unité de la rubisco, existant chez presque toutes les plantes.
 
