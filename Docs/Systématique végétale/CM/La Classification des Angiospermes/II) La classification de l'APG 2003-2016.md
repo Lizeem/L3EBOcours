@@ -58,7 +58,7 @@ Ressort des analyses cladistiques comme l'angiosperme le plus basal.
 Caractères floraux:
 
 Plante dioïque (les deux sexes sont présents sur chaque fleur mais un seul des deux termine son développement).
-Les fleurs possède un périanthe de pétales et sépales indifférenciés arrangés en spirale.
+Les fleurs possèdent un périanthe de pétales et sépales indifférenciés arrangés en spirale.
 
 **Nymphéales**
 
@@ -88,7 +88,7 @@ Groupe solidement appuyé à importance écologique majeure dans les systèmes �
 
 #### Ceratophyllales
 
-6espèces, à mode de vie asautique (secondaire). Position longtemps incertaines (groupe frère des Monocts, des Eudicots voire des Angiospermes...)
+6 espèces, à mode de vie asautique (secondaire). Position longtemps incertaines (groupe frère des Monocts, des Eudicots voire des Angiospermes...)
 Actuellement groupe frère des Eudicots.
 (Stomates 0, Aperture 0, Exine 0, vaisseaux 0, Cambium 0, Racine 0...)
 
@@ -130,7 +130,7 @@ A partir du fonds des Tricolpées :
 
 Synapomorphies:
 
-* Méristèmeracinairefermé
+* Méristème racinaire fermé
 * Fleurs pentamères, à 3 faisceaux pour les sépales et un pour les pétales
 * Placentation axile
 * Stigmates non décurrents
@@ -205,7 +205,7 @@ Synapomorphie:
 * Non mycorrhiziennes
 * Contient les familles des cactacées, didiéracées, aizoacées, polygonacées, caryophyllacées...
 
-steridées:
+Steridées:
 
 * Gamopétales
 * Ovules unitegminés
@@ -215,7 +215,7 @@ Ericales + Euasterids: Ovules ténuinucellés
 
 Ericales: Primulacées –Théacées –Ericacées
 
-Euasterids: Acide cafféique présent, Androcée épipétale
+Euasterids: Acide caféique présent, Androcée épipétale
 
 * Euastérids I (Lamiids): Inflorescences définies
 * Borraginacées
@@ -243,10 +243,10 @@ Astérales:
 
 ## Conclusion
 
-La classification phylogénétique apporte des changements dans la vision qu’ on a de l’ évolution des Angiospermes. La polarisation du caractère «nombre des cotylédons » fait disparaître les dicotylédones anciennes. Des points classiquement reconnus restent vrais (position très dérivée des Astérales). Des caractères sont homoplasiques : la zygomorphie en particulier.
+La classification phylogénétique apporte des changements dans la vision qu’ on a de l’ évolution des Angiospermes. La polarisation du caractère "nombre des cotylédons" fait disparaître les dicotylédones anciennes. Des points classiquement reconnu restent vrai (position très dérivée des Astérales). Des caractères sont homoplasiques : la zygomorphie en particulier.
 
-Au prix d’ un effort de recherche soutenu, on pourra expliciter toujours davantage les nœuds de cette phylogénie.
-Taux d’ extinction. Une fois la phylogénie acquise, il deviendra possible de retracer l’histoire des caractères.
+Au prix d’un effort de recherche soutenu, on pourra expliciter toujours davantage les nœuds de cette phylogénie.
+Taux d’extinction. Une fois la phylogénie acquise, il deviendra possible de retracer l’histoire des caractères.
 
 Les organismes étant globalement adaptés, à des niveaux phylogénétiques plus fins des groupements de caractères pourront être reconnus et utilisés pour définir des stratégies concernant les grandes fonctions végétatives et reproductrices (pollinisation et dissémination). La phylogénèse globale permet d’en décrire l’histoire.
 
@@ -254,4 +254,4 @@ Les organismes étant globalement adaptés, à des niveaux phylogénétiques plu
 * Les flores restent d’actualité : l’acte de détermination n’est pas modifié par les changements apportés par la systématique cladistique, les familles sont à regarder avec prudence.
 * Le fait de connaître les grandes familles reste d’actualité
 * Les relations de parenté n’en font pas moins apparaître des découvertes inattendues : disparition des dicotylédones, position très dérivée des caprifoliacées
-* Les anciennes familles de «Dicotylédones archaïques» trouvent une place plus en relation avec les connaissances anatomiques
+* Les anciennes familles de "Dicotylédones archaïques" trouvent une place plus en relation avec les connaissances anatomiques

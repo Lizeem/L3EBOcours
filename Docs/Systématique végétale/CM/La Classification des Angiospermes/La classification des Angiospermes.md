@@ -143,13 +143,13 @@ un caractère important est la structure des plastes des tubes criblés: types S
 
 ### C) L'embryologie
 
-L'embryon est l'albumem sont les deux parties qui résultent de la fécondation chez les Angiospermes. Typiquement, on a un axe dont une extrémité est la racine (radicule) et l'autre la tigelle (épicotyle).
+L'embryon est l'albumen sont les deux parties qui résultent de la fécondation chez les Angiospermes. Typiquement, on a un axe dont une extrémité est la racine (radicule) et l'autre la tigelle (épicotyle).
 
 Deux cotylédons = dicotylées
 
 Un cotylédon = monocotylées
 
-Développement de l'albumem: 
+Développement de l'albumen: 
 
 * deux types chez les dicotylées:
 
