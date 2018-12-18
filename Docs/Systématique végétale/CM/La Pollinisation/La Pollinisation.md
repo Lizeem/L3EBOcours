@@ -27,7 +27,7 @@ Chez les animaux : critère utilisé pour distinguer les espèces = faculté pou
 
 Chez les végétaux : flux de gènes varient beaucoup (faible à important) et existent entre les groupes de plantes
 
-* des groupes reproducteurs à un ou quelques individus (individus autogames, clones asexués)
+* des groupes reproducteurs à un ou quelques individus (individus autogames, clones assexués)
 * des groupes ayant des assemblages morphologiques hétérogènes (hybridations)
 
 Le concept biologique de l'espèce (CBE) aboutirait donc à désigner comme espèce un nombre élevé d'individus autogames .. mais également à créer des espèces très vastes (hybridation).
@@ -86,7 +86,7 @@ trois types d'isolement communément cités
 
 * isolement spatial ou géographique :
 	* isolement extrinsèque à la biologie de l'espèce
-    * peut-être responsable de l'établisssement (par divergence) d'isolement reproductif
+    * peut-être responsable de l'établissement (par divergence) d'isolement reproductif
 
 * isolement environnemental ou écologique
 	* apparaît sous la pression de sélection contre les hybrides et leurs dérivés
@@ -151,7 +151,7 @@ Fleurs **bisexuées** : pollen peut se déposer aussi bien sur les stigmates de 
 
 #### 3) Fécondation croisée
 
-Fleurs bisexuées : dispositif autorise seulement la fécondation croisée; cas où l'on trouve la plus grande variété de stratégies pouvant être de nature
+Fleurs bisexuées : dispositif autorise seulement la fécondation croisée, cas où l'on trouve la plus grande variété de stratégies pouvant être de nature
 
 * anatomiques (en relation souvent avec la pollinisation par les insectes)
 * génétiques : quel que soit le transport du pollen sur le stigmate des fleurs, la poursuite des processus permettant la fécondation est contrôlée par des phénomènes d'**incompatibilité génétique** interdisant l'autofécondation
@@ -205,7 +205,7 @@ Maturité du pollen :
 * coalescence (loges polliniques)
 * déhiscence de l'anthère
 
-### E) Les tratégies de la pollinisation
+### E) Les stratégies de la pollinisation
 
 *Comment la plante attire t-elle les acteurs de la pollinisation ?*
 
