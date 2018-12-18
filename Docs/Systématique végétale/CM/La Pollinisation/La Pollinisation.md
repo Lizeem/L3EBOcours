@@ -164,7 +164,7 @@ Pour assurer sa descendance une plante doit :
 
 2) Favoriser la fécondation par des individus "pollen" de la même espèce tout en évitant l'autofécondation = autopollinsation -> maximiser l'échange entre individus amène à developper des vecteurs = transporteurs de pollen
 
-#### 1) Isolement temporelle
+#### 1) Isolement temporel
 
 Espèces étroitement apparentées fleurissent à des périodes différentes de l'année
 
