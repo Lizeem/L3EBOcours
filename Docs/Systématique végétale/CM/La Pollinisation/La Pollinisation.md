@@ -25,18 +25,18 @@ Deux objectifs pour une angiosperme
 
 Chez les animaux : critère utilisé pour distinguer les espèces = faculté pour les individus de se croiser, amène le concept biologique de l'espèce (CBE), concept à prévalu dans la littérature zoologique et qu'il y a peu dans la littérature botanique
 
-Chez les végétaux : flux de gènes varie beaucoup (faible à important) entre les groupes de plantes, existe
+Chez les végétaux : flux de gènes varient beaucoup (faible à important) et existent entre les groupes de plantes
 
 * des groupes reproducteurs à un ou quelques individus (individus autogames, clones asexués)
 * des groupes ayant des assemblages morphologiques hétérogènes (hybridations)
 
-Le concept biologique de l'espèce (CBE) aboutirait donc à désigner comme espèce un nombre élevé d'individus autogames .. mais également à créer des espèces très vaste (hybridation).
+Le concept biologique de l'espèce (CBE) aboutirait donc à désigner comme espèce un nombre élevé d'individus autogames .. mais également à créer des espèces très vastes (hybridation).
 
 Quelques concepts d'espèce :
 
 ### Concept biologique
 
-L'espèce est un ensemble de populations interfécondes isolé sur le plan reproductif d'autres  groupes similaires et qui occupe une niche particulière 
+L'espèce est un ensemble de populations interfécondes isolées sur le plan reproductif d'autres  groupes similaires et qui occupe une niche particulière 
 
 * approche populationnelle et génétique (l'espèce est un pool de gènes susceptibles de se mélanger à chaque génération)
 * la discontinuité sexuelle implique un/des systèmes de reconnaissance 
@@ -50,7 +50,7 @@ L'espèce est un ensemble d'individus interféconds et le flux de gènes est un 
 
 Repose sur la ressemblance globale entre les membres d'une espèce, qui sont séparés des autres espèces par une discontinuité de la variation.
 
-Espèce = ensemble des individus qui se ressemblent plus entre eux qu'ils ne resssemblent à aucun autre individu
+Espèce = ensemble des individus qui se ressemblent plus entre eux qu'ils ne ressemblent à aucun autre individu
 
 ### Concept évolutif 
 
@@ -73,7 +73,7 @@ Un processus clé chez les espèces = la **Reproduction**
 
 deux types de reproduction :
 
-* asexuée ou végétative
+* assexuée ou végétative
 * sexuée : production de graines
 
 ### Reproduction sexuée 
@@ -89,7 +89,7 @@ trois types d'isolement communément cités
     * peut-être responsable de l'établisssement (par divergence) d'isolement reproductif
 
 * isolement environnemental ou écologique
-	* apparaït sous la pression de sélection contre les hybrides et leurs dérivés
+	* apparaît sous la pression de sélection contre les hybrides et leurs dérivés
     * favorise l'isolement reproductif 
 	* rôle fondamental dans le mode de spéciation sympatrique
 
