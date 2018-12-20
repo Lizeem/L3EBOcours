@@ -84,7 +84,7 @@ Selon le facteur écologique (abiotique) considéré :
 	* espèces **sténohalines**
     * espèces **euryhalines**
 
-Le type de limites (limites larges ou restreintes) définit la **réponse écologique des espèces** par rapport aux variations du ou des facteurs écologiques considéres 
+Le type de limites (limites larges ou restreintes) définit la **réponse écologique des espèces** par rapport aux variations du/des facteurs écologiques considéres 
 
 ![Intensité ou facteur écologique mesuré](Images/ecologieespece.JPG)
 
@@ -101,4 +101,3 @@ Cette  notion  de **réponse  écologique** renvoie  à  la  notion d'**espèce 
 
 * Une **espèce spécialiste** est inféodée à un milieu aux caractéristiques bien définies
 * une **espèce généraliste** a la capacité de coloniser un milieu présentant une variation d'intensité des facteurs environnementaux
-

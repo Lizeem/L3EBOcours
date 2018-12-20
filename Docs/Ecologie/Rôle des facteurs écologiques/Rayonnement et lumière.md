@@ -1,10 +1,10 @@
 # Rayonnement et lumière
 
-Le rayonnement et la lumière font parti des facteurs climatiques qui subissent des **variations récurrentes**:
+Le rayonnement et la lumière font parties des facteurs climatiques qui subissent des **variations récurrentes**:
 
 Ex: Période glaciaire/Périodes interglacières
 
-* liées aux mododifications de la forme de l'orbite terrestre
+* liées aux modifications de la forme de l'orbite terrestre
 * liées à l'activité volcanique
 
 **Les facteurs climatiques** sont des **facteurs périodiques** en raison de l'organisation de la biosphère selon deux périodicités fondamentales:
@@ -14,7 +14,7 @@ Ex: Période glaciaire/Périodes interglacières
 
 Il en résulte:
 
-* des variations journalières **aléatoires**: T° et Précipitations
+* des variations journalières **aléatoires**: Température et Précipitations
 * des variations périodiques plus ou moins **prévisibles**: chaleur en été, froid en hiver
 
 Inclinaison de la Terre sur son axe, des modifications au niveau des quantités d'énergie reçues à la surface de la Terre.
@@ -40,9 +40,9 @@ La quantité d'énergie entrant dans l'atmosphère :
 Toutefois:
 
 Cette constante d'énergie n'est pas égale en tout point du globe
-La quantité d'énergie reçue par la croûte terrestre moins importante/ à ce qui entre dans l'atmosphère, du fait:
+La quantité d'énergie reçue par la croûte terrestre est moins importante à ce qui entre dans l'atmosphère, du fait:
 
-* de l'albédo: quantité rfléchie par l'atmosphère
+* de l'albédo: quantité réfléchie par l'atmosphère
 * des circulations atmosphériques: nébulosités
 * du point géographique où l'on se situe: la latitude influence l'angle d'inclinaison
 
@@ -67,9 +67,9 @@ Ces grands phénomènes de circulation atmosphérique s'organisent en **cellules
 
 ![Circulation atmosphérique](Images/cellulesdeconvection.JPG)
 
-UTILISATION de L’ENERGIE
+Utilisation de l’énergie
 
-Théoriquement : l'utilisation optimale de l'NRJ conduirait à un système dont la biomasse serait directement liée à la quantité disponible :
+Théoriquement : l'utilisation optimale de l'énergie conduirait à un système dont la biomasse serait directement liée à la quantité disponible :
 
 **Rayonnement fort -> Biomasse importante**
 
@@ -114,7 +114,7 @@ Ce sont des **périodicités prévisibles**
 
 ### 3) Variablitié du rayonnement solaire
 
-Nature de l'NRJ solaire atteignant une plante :
+Nature de l'énergie solaire atteignant une plante :
 
 * **Energie réfléchie** = réflectance (réflexion totale pour une longueur d’onde donnée)
 
@@ -126,10 +126,10 @@ Une partie de l'énergie absorbée est utilisée sous forme de chaleur latente: 
 
 La nature des échanges énergétiques dépend:
 
-* des longueurs d'onde (majoritairement)
+* des longueurs d'ondes (majoritairement)
 * mais également des caractéristiques des feuilles
 
--> **existe des différence entre espèces**
+-> **existe des différences entre espèces**
 
 La variablilité du rayonnement est fonction du couvert végétal
 
@@ -144,7 +144,7 @@ A l'intérieur du couvert végétal, le rayonnement solaire pénètre de façon 
 
 ## B) Importance de la lumière sur les organismes
 
-Fraction d'NRJ solaire entrant dans la photosynthèse : **< 1 %**
+Fraction d'énergie solaire entrant dans la photosynthèse : **< 1 %**
 
 Dans le bilan énergétique : elle est négligeable **mais** fondamentale sur le plan écologique
 
@@ -167,7 +167,7 @@ Dans le cas d'une intensité lumineuse extrême:
 
 Ex: le Chêne
 
-La germination des graines : meilleures avec une forte luminosité. Dès la 2<sup>eme</sup> année  : nécessité de diminuer la lumière sinon mortalité importante
+La germination des graines : meilleure avec une forte luminosité. Dès la 2<sup>eme</sup> année  : nécessité de diminuer la lumière sinon mortalité importante
 
 Ex: le Hêtre
 
@@ -183,7 +183,7 @@ Chez les **phanérogames**, elle influence:
 
 ### 1) Influence de la germination 
 
-Bilan demultiples expériences : nombreuses espèces sont affectées par la lumière lors de leur germination
+Bilan de multiples expériences : nombreuses espèces sont affectées par la lumière lors de leur germination
 
 **Sur 964 espèces testées**
 
@@ -191,15 +191,15 @@ Bilan demultiples expériences : nombreuses espèces sont affectées par la lumi
 
 Sensiblité à la lumière évolue avec l'âge des plantes
 
-ex: *Epilobium angustifolium*: perd ses exigences après quelques semaines
+ex: *Epilobium angustifolium* : perd ses exigences après quelques semaines
 
 *Epilobium parviflorum* : garde ses exigences pendant plus d'1 an
 
-Sensibilité est différente en fonction des conditions écologiquesdu milieu : variation en fonction de la température ou encore des teneurs en Nitrate de Sodium
+Sensibilité est différente en fonction des conditions écologiques du milieu : variation en fonction de la température ou encore des teneurs en Nitrate de Sodium
 
 ex : *Betula alba*: si la température est élevée, moins d'exigences lumineuse
 
-*Hypericum perforatum* (millepertuis): si [C] élevée en NaNO<sub>3</sub>, besoins en lumière seront moindres
+*Hypericum perforatum* (millepertuis): si le [C] est élevé en NaNO<sub>3</sub>, besoins en lumière seront moindres
 
 ### 2) Influence sur la morphogénèse 
 
@@ -226,9 +226,9 @@ Il y a également des adaptations locales:
 
 L'intensité lumineuse affecte la croissance et l'activité photosynthétique des végétaux
 
-* feuille d'ombre: plus efficaces pour l'utilisation de l'énergie en condition de faible éclairement : se traduit par 1 point de compensation lumineux (point où la fixation photosynthétique du C = les pertes respiratoires) est bas
+* feuille d'ombre: plus efficaces pour l'utilisation de l'énergie en condition de faible éclairement : se traduit par un point de compensation lumineux (point où la fixation photosynthétique du carbone = les pertes respiratoires) sont bas
 * fixation photosynthétique du CO2 par les feuilles d'ombres atteint une valeur saturante pour un éclairement plus faible par rapport aux feuilles de lumière
-* en condition naturelles :photosynthèse des feuilles de lumière supérieur à celle des feuilles d'ombre
+* en condition naturelle :photosynthèse des feuilles de lumière supérieur à celle des feuilles d'ombre
 
 Même parallèle entre espèces sciaphiles et héliophiles
 
@@ -275,7 +275,7 @@ Selon les espèces, le processus est différent, on distingue:
 
 **migration** : oiseaux migrent à la période hivernale. La diminution de la durée du jour est le déclencheur
 
-**diapause** : nombreux insectes stoppent leur cycle de developpent (souvent sous forme de larves dans le sol)
+**diapause** : nombreux insectes stoppent leur cycle de developpement (souvent sous forme de larves dans le sol)
 
 **hibernation** : certains grands mammifères entrent en hibernation (marmottes, lérots et chauves-souris)
 
@@ -291,7 +291,7 @@ Le **facteur écologique majeur** possédant
     
 Le facteur rarement isolé:
 
-* Action  souvent combinée avec d'autres facteurs physique:
+* Action  souvent combinée avec d'autres facteurs physiques :
 	* température
     * humidité
     
@@ -300,7 +300,6 @@ Les **réponses écologiques** des organismes affectent:
 * soit l'organisme entier (adaptation d'une plante)
 * soit certaines de ces organes
 * soit certaines processus biologiques
-
 
 Les réponses donnant lieu à des **adaptations**:
 
@@ -316,5 +315,3 @@ Les deux facteurs influençant les adaptations sont:
 Ils influent sur différents processus biologiques
 
 ![Intensité lumineuse et photopériode](Images/Intensitélumineuse.JPG)
-
-
