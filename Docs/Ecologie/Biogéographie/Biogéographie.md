@@ -1,3 +1,4 @@
+## La Biogéographie (I)
 
 ## I) Definition
 
@@ -26,7 +27,7 @@ Elles sont liées au patrimoine génétique du taxon.
 #### 1) La capacité de propagation
 
 Théoriquement, l'expension d'une espèce dépend tout d'abord de son **potentiel de reproduction** (taux de fécondité -> nombre de descendant, donné par unité de temps dans les meilleures conditions environnementales) et de son **pouvoir de dissémination** (faculté de se déplacer ou d'être dispersé à des distances plus ou moins importantes). Elles sont très variables entre les taxons.
-Il n'y a pas relation de précise entre entre les potentiellités reproductrices et augmenter son air de distribution.
+Il n'y a pas relation de précise entre entre les potentiellités reproductrices et augmenter son aire de distribution.
 Le nombre de descendant produit n'est pas le nombre de taxons qui se reproduira (pas de liaison à la potentiellité reproductrice de la génération suivante).
 
 La **dissémination** représente la faculté qu'on les organismes eux mêmes ou une partie de ces organismes de se déplacer ou d'être dispersé. Elle s'effectue par des processus divers:
@@ -47,12 +48,12 @@ Un taxon nouvellement différencié aura d'autant plus de chance d'acquérir une
 
 **Stenoèce** = espèce spécialiste (aura du mal à étendre son lieu de colonisation)
 
-On a des courbes théoriques pour chaque facteur, **niche écologique** (capacité d'un taxon a se dvp dans tel zone et toujours inférieur à la niche écologique théorique). On peut toujours se dvp au delà de la niche écologique théorique (des espèces vont pouvoir aider d'autres espèces à se developper).
+On a des courbes théoriques pour chaque facteur, **niche écologique** (capacité d'un taxon à se développer dans tel zone et toujours inférieur à la niche écologique théorique). On peut toujours se développer au delà de la niche écologique théorique (des espèces vont pouvoir aider d'autres espèces à se développer).
 
 
 #### 3) Le potentiel évolutif
 
-> La plasticité intraspécifique (phénotype)
+* **La plasticité intraspécifique (phénotype)**
 
 Les individus d'une même espèce présente en général une plus ou moins forte **variabilité de leur caractère**. Cette variabilité peut être influencé par les facteurs du milieu qui diffère des localités où sont présentes différentes population d'espèces. Ce sont des caractères plus ou moins variable pas forcément héréditaire. 
 
@@ -64,7 +65,7 @@ La **plasticité phénotypique** n'est pas toujours **adaptative**.
 
 *ex certains indivus de l'Afrique et venant en Europe étaient barbus et forts, les plus forts ont eu des descendance -> barbe en Europe et pas en Asie.*
 
-> Sélection et stratégie adaptatives (génotype)
+* **Sélection et stratégie adaptatives (génotype)**
 
 Les variations les plus conséquentes, concerne les **aptitudes à l'expension** sont le résultats de la sélection exercée par les facteurs environnementaux sur la diversité génétique des populations. Il n'y a jamais de génotype favorisés, **seulement des défavorisés par les facteurs environnementaux**, Tri des génotypes par sélection -> **Diversité génétique**
 
@@ -84,22 +85,22 @@ Le developpement de l'aire de répartition de chaque taxon se trouve tôt ou tar
 
 * **climatiques**
 
-> La techtonique des plaques
+**La techtonique des plaques**
 
 Plus la masse terrestre est fragmentée, plus la diversité est importante à l'échelle géologique, **processus de spéciation**
 
-> Les crises climatiques
+**Les crises climatiques**
 
 **Périodes glaciaires**: extension des espèces boréales et recul/disparition des espèces tempérées
 
 **Périodes interglaciaires** : Mouvemets inverses, mixité de la faune et flore et aires disjointes
 
-> Facteurs biotiques
+**Facteurs biotiques**
 
 Au cours des temps géologiques, il y a eu 5 périodes d'extinction.
 Aujourd'hui nous sommes dans la 6e liée à l'Homme. 
 
-** Extinction actuelle**
+* ** Extinction actuelle**
 
 *Durée de vie moyenne d'une espèce = 5 milliards d'années
 Calcul du taux d'extinction sur 100/5M = 0,02%*

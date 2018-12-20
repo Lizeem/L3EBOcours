@@ -1,3 +1,5 @@
+# Les Facteurs édaphiques (III)
+
 # D) Relation avec la disponibilité en eau
 
 ### 1) Les états de l'eau dans le sol
@@ -87,11 +89,11 @@ Les valeurs du pF aux points de ressuyage (pF 2,7) sont les mêmes pour tous les
 
 CSE = Capacité de Stockage pour l' Eau
 
-CSE d'1 horizon = volume maximal d'eau qu'il retient contre la seule force de gravité in situ (correspondance avec la capcité au champ).
+CSE d'1 horizon = volume maximal d'eau qu'il retient contre la seule force de gravité in situ (correspondance avec la capacité au champ).
 
 **CSE (en mm) = Hv x E**
 
-* Avec Hv = Humidité exprimée en % à la capcité au champ
+* Avec Hv = Humidité exprimée en % à la capacité au champ
 * Avec E = épaisseur en décimètres de l'horizon
 
 La somme des CSE des horizons d'un profil donne la CSE du sol, on la calcule souvent jusqu'à la profondeur utilisable maximale (1,5m).
@@ -117,7 +119,7 @@ RFU = Réservoir Facilement Utilisable Maximal
 
 ### pF et disponibilité en eau
 
-L'influence de l'eau du sol sur la végatation en fonction de la capacité des espèces à compenser ou non la force de rétention du sol. 
+L'influence de l'eau du sol sur la végetation en fonction de la capacité des espèces à compenser ou non la force de rétention du sol. 
 
 * Les **plantes hygrophiles** ont besoins de beaucoup d'eau facile à prélever donc à faible pF
 * Les **plantes xérophiles** peuvent subsister lorsque les valeurs du pF sont voisines du point de flétrissement 
@@ -131,11 +133,11 @@ La pression osmotique interne des plantes xérophytes peut-être très élevée 
 
 ### Rôle et importance de la texture pour la pédofaune
 
-Les vers de terre sont plus nombreux dans les sols limoneux ou argilo-sableux que dans ls sables, les graviers ou les argiles. Les sols les plus favorables à l'installation des Coléoptères endogés ont toujours une tenur élevée en éléments fins (A et L). La texture intervient dans la répartition des animaux des sables de plages ou des bords de rivières.
+Les vers de terre sont plus nombreux dans les sols limoneux ou argilo-sableux que dans les sables, les graviers ou les argiles. Les sols les plus favorables à l'installation des Coléoptères endogés ont toujours une teneur élevée en éléments fins (A et L). La texture intervient dans la répartition des animaux des sables de plages ou des bords de rivières.
 
 ### pF et besoins en eau de la pédofaune
 
-BONNET (1964) a montré qu'il existe des espèces de Thécamoebiens inféodés aux sols squelettiques dont l'eau, quoique peu abondante, est facilment disponible (pF faible) comme par exemple *Centropyxis halophila* ou *Geophyxella sylvicola*. D'autres espèces vivent dans des sols humides et riches en matières organiques, mais se comportant comme des milieux physiologiquemenet secs (pF élevé) comme par exemple *Assulina muscorum* ou *Heleopora sylvaticola*.
+BONNET (1964) a montré qu'il existe des espèces de Thécamoebiens inféodés aux sols squelettiques dont l'eau, quoique peu abondante, est facilement disponible (pF faible) comme par exemple *Centropyxis halophila* ou *Geophyxella sylvicola*. D'autres espèces vivent dans des sols humides et riches en matières organiques, mais se comportant comme des milieux physiologiquemenet secs (pF élevé) comme par exemple *Assulina muscorum* ou *Heleopora sylvaticola*.
 
 Les collemboles présentent trois types biologiques différents correspondant à des possibilités différentes de contrôle de la perte d'eau par transpiration à travers leur tégument :
 
@@ -145,4 +147,3 @@ Les collemboles présentent trois types biologiques différents correspondant à
 * le type **xérophile** : espèces qui fréquentent les milieux secs ou peuvent effectuer de long séjours dans la végétation hors de la litière (une couche de cire de l'épicuticule assure la régulation des pertes en eau pendant plusieurs heures chez certaines espèces).
 
 ![Les trois types d'adaptations des colléoptères](Images/coleopteres.JPG)
-

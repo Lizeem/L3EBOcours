@@ -1,3 +1,5 @@
+# Les Facteurs édaphiques (IV) 
+
 # E) Le pH
 
 Le pH (potentiel Hydrogène) permet d'évaluer la concentration de l'ion hydrogène dans une solution:
@@ -7,9 +9,9 @@ Le pH (potentiel Hydrogène) permet d'évaluer la concentration de l'ion hydrog�
 Dans le sol, on peut mesurer l'**acidité actuelle** ou l'**acidité** dite **potentielle* :
 
 * le pH de l'eau qui mesure l'acidité actuelle (active ou réellle) car il ne prend en compte que les H+ de la solution du sol, il n'y a pas d'échange.
-* Le pH de KCL qui mesure l'acidité d'échange ou potentielle, il prend en compte les H+ de la solution du sol et ceux fixés sure le complexe;
+* Le pH de KCL qui mesure l'acidité d'échange ou potentielle, il prend en compte les H+ de la solution du sol et ceux fixés sur le complexe;
 
-Le pH de l'eau est plus utile dans l'étude des relation sol-plante ou pour comprendre des processus fonctionnels à court terme (ex : lixiviation des cations).
+Le pH de l'eau est plus utile dans l'étude des relations sol-plante ou pour comprendre des processus fonctionnels à court terme (ex : lixiviation des cations).
 
 Le pH se mesure dans un rapport sol:eau (ou sol:KCL) de 1:2,5 (norme NF) ou 1:5 (norme ISO) le plus couramment.
 
@@ -35,15 +37,15 @@ Un seuil à connaître : pH<sub>eau</sub> < 5, présence de Al<sup>3+</sup> (ris
 
 La teneur en MO peut -être estimée par simple perte au feu à 550 °C. Le plus souvent, elle est estimée par la mesure de ses éléments majeurs (analyse élémentaire au CHN) :
 
-* le carbone (organique) : C;
-* l'azote (majoritairement sous forme organique dans les sols à plus de 95%) : N
+* le carbone (organique)
+* l'azote (majoritairement sous forme organique dans les sols à plus de 95%) 
 
-La teneur en C organique renseigne sur la teneur en MO globale qui joue un rôle majeure dans le fonctionnement des écosystèmes : 
+La teneur en carbone organique renseigne sur la teneur en MO globale qui joue un rôle majeur dans le fonctionnement des écosystèmes : 
 
 * Rôle dans l'absorption et la rétention de l'eau, des cations échangeables, du phosphore, de l'azote, des éléments traces métalliques, des pesticides, ...
-* Rôle positif sur la stabilité strcuturale des horizons de surface (lutte contre l'érosion si C org > 1,5 %; habitat pour la pédofaune);
+* Rôle positif sur la stabilité structurale des horizons de surface (lutte contre l'érosion si C org > 1,5 %; habitat pour la pédofaune);
 * Rôle biologique vis à vis de la pédofaune et des microorganismes (ressource)
-* Rôle dans le cycle biogéochimique du C : le sol contient 3 x plus de C que la biomasse végétale terrestre (importance stockage/déstockage du C organique des sols).
+* Rôle dans le cycle biogéochimique du carbone : le sol contient 3 x plus de carbone que la biomasse végétale terrestre (importance stockage/destockage du carbone organique des sols).
 
 Les **tolérances pour les teneurs en C organique** permettant de définir un horizon ou un matériau pédologique selon le *Réferentiel Pédologique* (2008) :
 
@@ -52,7 +54,7 @@ Les **tolérances pour les teneurs en C organique** permettant de définir un ho
 * Horizon **hémiorganique** : de 8 +/- 2 g/ 100g à 30 +/- 5 g/100g
 * Horizon **holorganique** : > 30 +/- 5 g/100g
 
-### 1) Teneur en C<sub>organique</sub> et N<sub>total</sub> de sols
+### 1) Teneur en carbone organique et Ntotal de sols
 
 
 Les ordres de grandeur pour les **sols minéraux** (% du sol sec) :
@@ -73,13 +75,13 @@ L'azote se présente sous deux formes dans le sol :
 * l'azote organique (plus de 95 % du total), rencontré dans des protéines (35-50 %), des acides nucléiques (3-10 %), des amino-sucres (5-10 %)
 * l'azote minéral, formé de nitrates (N-NO3-), de nitrites (N-NO2-) et d'ammonium (N-NH4+).
 
-Si les formes minérales sont à un niveau relativement faible dans le sol, ce sont elles qui sont absorbées par les plantes (notion de biodisponibilité).
+Si les formes minérales sont à un niveau relativement faible dans le sol, elles sont absorbées par les plantes (notion de biodisponibilité).
 
 NH<su>4</sub> <sup>+</sup> est retenu sur les colloïdes argileux et est mieux représenté dans les sols acides.
 
 NO<sub>3</sub> <sup>+</sup> et NO<sub>2</sub> <sup>-</sup> sont les plus solbules et plus présents dans les sols basiques.
 
-La disponibilité et la quantité relative de ces ions variant avec la saison et le climat. Le cycle biogéochimique de l'azote est aujourd'hui bien documenté.
+La disponibilité et la quantité relative de ces ions varie avec la saison et le climat. Le cycle biogéochimique de l'azote est aujourd'hui bien documenté.
 
 ## G) Teneur en éléments minéraux
 
@@ -127,7 +129,7 @@ Selon les normes SI, il vaut mieux désormais employer la mole qui définit la m
 
 Richesse en Ca <sup>2+</sup> = facteur prépondérant dans l'écologie des végétaux,  opposition **espèces calcifuges** et **calcicoles**. La présence de calcaire ou d'un complexe saturé en calcium.
 
-* Structure très stable favorable à le perméabilité et à l'aération; 
+* structure très stable favorable à le perméabilité et à l'aération; 
 * pH neutre ou basique, compris entre 7 et 8;
 * teneur en éléments minéraux assimilables faible ou élevées selon leur solubilité en milieu basique (solubilité Fe, Al, Mn, Zn, Cu et Br réduite par rapport aux sols siliceux); 
 * minéralisation Iaire élevée de microorgansimes neutro-basiphiles
@@ -148,71 +150,3 @@ Les espèces calcicoles ne constituent pas un groupe homogène, leur présence s
 * des **espèces xérophiles** sur calcaires fissurés peu profond (Graminées des pelouses calcaires)
 
 Aucune de ces espèces n'exige de manière  stricte la présence de calcaire actif dans le sol
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

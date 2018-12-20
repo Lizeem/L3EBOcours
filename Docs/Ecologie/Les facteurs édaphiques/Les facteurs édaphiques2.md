@@ -1,3 +1,5 @@
+# Les Facteurs édaphiques (II)
+
 # II) Propriétés physiques du sol
 
 ## A) La texture
@@ -20,9 +22,9 @@ Selon Martin en 1955:
 
 Selon LOZET et MATHIEU en 1990:
 
-*"L'agrégat élémentaire est l'agrégat le plus simple qui ne peut - être divisé en agrégats plus petits,  mais qui peut - être arrangé  avec d'autres pour former des agrégats composés d'un iveau plus élevé d'organisation (Brewer)."*
+*"L'agrégat élémentaire est l'agrégat le plus simple qui ne peut - être divisé en agrégats plus petits,  mais qui peut - être arrangé  avec d'autres pour former des agrégats composés d'un niveau plus élevé d'organisation (Brewer)."*
 
-Les agégats du sol sont constitués des particules minérales de sol, de ciments (organique, oxydes et hydroxydes...) et des vides intra-agrégats.
+Les agégats du sol sont constitués des particules minérales de sol, de ciment (organique, oxydes et hydroxydes...) et des vides intra-agrégats.
 
 Ils sont visibles à l'oeil nu (diamètres de l'ordre du mm).
 
@@ -46,7 +48,7 @@ La structure s'observe aux **échelles macroscopiques** ou **microscopique**.
 
 ## B) La porosité
 
-La **porosité** est l'ensemble des vides du sol. Celle-ci donne une bonne idée de l'état structural avec la possibilité de mesures comparatives.
+La **porosité** est l'ensemble des vides du sol. Celle-ci donne une idée de l'état structural avec la possibilité de mesures comparatives.
 
 On distingue:
 
@@ -54,7 +56,7 @@ On distingue:
 * la **mesoporosité**, 0,5 µm< vide < 50 µm,retenant l'eau utilisable par les plantes
 * la **microporosité**, vide < 0,2 µm, retenant l'eau inutilisable par les plantes; cette porosité dépend de la texture
 
-La porosité se mesure sur un échantillon de sol de volume connu, prélevé sans modifier sa strcture et pesé après passage à 105°C.
+La porosité se mesure sur un échantillon de sol de volume connu, prélevé sans modifier sa structure et pesé après passage à 105°C.
 
 La porosité totale P (%) est
 
@@ -74,7 +76,7 @@ La granulométrie se rapporte à la fraction considérée comme active dans le s
 
 **sables grossiers** > 200 µm > **sables fins** > 50 µm > **limes grossiers** > 20 µm > **limons fins** > 2 µm > **argiles**
 
-L'analyse granulométrique permet de fixer avec précision les pourcentages des divers constitunts minéraux du sol, il est alors possible de classer les différentes textures.
+L'analyse granulométrique permet de fixer avec précision les pourcentages des divers constituants minéraux du sol, il est alors possible de classer les différentes textures.
 
 Les **classes de texture** représentant la répartition des éléments constituants du sol selon leurs dimensions (sables, limons et argiles).
 
@@ -88,8 +90,8 @@ Dans la carte mondiale des sols, la FAO reconnaît 3 classes texturales principa
 
 Connaître la texture d'un sol permet de savoir la **tendance** du sol en terme de comportement physique : 
 
-* sols où dominent les SG sont prméables et "filtrants", se réchauffent vite et ne s'agglomèrent pas en mottes;
-* si, aux SG sont associés beaucoup d'éléments fins (SF et L), ceux-ci ont tendance à les colmater, rendant le sol imprméable en surface et "battant";
+* sols où dominent les SG sont perméables et "filtrants", se réchauffent vite et ne s'agglomèrent pas en mottes;
+* si, aux SG sont associés beaucoup d'éléments fins (SF et L), ceux-ci ont tendance à les colmater, rendant le sol imperméable en surface et "battant";
 * si, aux SF et L, sont associés suffisament d'argiles, les éléments se structurent, donnant au sol une bonne perméabilité.
 
 **Si la structure est massive, continue ou compact** : 
@@ -98,7 +100,7 @@ Le sol asphyxiant, défavorable à l'activité biologique (mauvaise pénétratio
 
 **Si la structure est particulaire**:
 
-Le sol mauble, filtrant, vite asséché; si la texture est limoneuse, il existe des risques d'imperméabilité superficielle.
+Le sol meuble, filtrant, vite asséché; si la texture est limoneuse, il existe des risques d'imperméabilité superficielle.
 
 **Si les structures avec agrégats arrondis** :
 
@@ -113,14 +115,11 @@ L'état de la structure influe directement des propriétés sur la fertilité gl
 
 La structure influence directement ces trois groupes de propriétés.
 
-
 La porosité renseigne sur les capacités hydriques ou atmosphériques d'un sol, en volume ou en flux :
 
 * la **circulation d'eau** dépend aussi des relations entre les vides et de leur mode d'arrangement, la connaissance de la seule mesure de la porosité ne suffit donc pas
-* le potentiel générale de circulation d'eau est mieux révélé par sa conductivité hydraulique qui reflète la capacité de transfert de l'eau dans le sol en intégrant structure, porosité, forme des connections (tortuosité) et degré de relation entre les vides (connectivité)
+* le potentiel général de circulation d'eau est mieux révélé par sa conductivité hydraulique qui reflète la capacité de transfert de l'eau dans le sol en intégrant structure, porosité, forme des connections (tortuosité) et degré de relation entre les vides (connectivité)
 * la **circulation d'air** est déterminante pour la croissance racinaire de la microflore, très sensible à l'anoxie.
 
 
 L'eau inutilisable par les plantes se rouve en dessous du point de flétrissment.
-
-

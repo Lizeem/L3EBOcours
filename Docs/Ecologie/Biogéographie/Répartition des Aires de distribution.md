@@ -1,7 +1,8 @@
+## La Biogéographie (II)
 
 ## III) Répartition des aires de distribution
 
-Il existe une très grande diversité d'aires de distribution mais on peut les classer selon leur étendues et leurs configurations Il existe 4 grands types d'aires de distribution
+Il existe une très grande diversité d'aires de distribution mais on peut les classer selon leur étendues et leurs configurations. Il existe 4 grands types d'aires de distribution
 
 ### A) Aires cosmopolites
 
@@ -49,26 +50,25 @@ Le nombre de taxons endémique va nous permettre determiner les territoires.
 
 * **Empires** = endémisme d'ordre ou de famille
 
-* **Régions** = endémime des famille ou genre
+* **Régions** = endémisme des famille ou genre
 
 * **Domaines** = endémisme de genre
 
 * **Secteurs** = endémisme d'espèce
 
-### E) Variation biogéographiques de la biodiversité
+## IV) Variation biogéographiques de la biodiversité
 
-#### 1) Le Cline de diversité
+### A) Le Cline de diversité
 
 On a plus d'espèce dans les basses latitudes que vers les pôles. 
 
 * **le niveau de productivité primaire**, energie lumineuse plus importante, chance d'avoir le plus de productivité primaire donc subvenir aux besoin de plus d'espèces
 
-* **le temps de spéciation plus important dans les zones tropicales**, equateur, maximum de zone terrestre et celle qui a été le moins impactée par le temps et étant un masse terrestre importante, ce qui a donc permis un taux de spéciation plus important
+* **le temps de spéciation plus important dans les zones tropicales**, equateur, maximum de zone terrestre et celle qui a été la moins impactée par le temps et étant un masse terrestre importante, ce qui a donc permis un taux de spéciation plus important
 
 * **taux de spéciation plus important et un taux d'extinction plus faible** dû à la grandeur du territoire et découle du temps de spéciation plus important
 
 
-#### 2) Gradient altitudinaux
+### B) Gradient altitudinaux
 
 La biodiversité a tendance à **diminuer avec l'altitude** car moins de productivité. Même chose pour les profondeurs.
-

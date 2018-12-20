@@ -68,6 +68,7 @@ L'écologie à besoin de biologie, science comportementale (ex type de musique),
 Organisation biologique = Hiérachie de niveaux structuraux
 
 **Un niveau** = ensemble d'unités élémentaires du niveau inf
+
 **Un niveau** = une unité élémentaire du niveau sup
 
 
@@ -79,7 +80,7 @@ Niveaux d'oragnisation:
 
 Atome -> Molécule -> Organite -> Cellule -> Organe -> **Organisme = individu -> Population -> Communauté = Peuplement -> Ecosystème -> Biome -> Biosphère**
 
-L'**ecologie** est une science qui étudie les **les relations entre les organismes vivants et leur milieu**, il y a une condition d'existence.
+L'**écologie** est une science qui étudie les **les relations entre les organismes vivants et leur milieu**, il y a une condition d'existence.
 C'est une science des **faits de l'évolution** notion rajoutée suite à la parution de l'ouvrage de DARWIN. 
 
 Travaux de WALLACE
@@ -87,9 +88,9 @@ Travaux de WALLACE
 * monde non immuable
 * processus évolutifs garduels
 * postulat d'une ascendance commune (l'Homme descend du singe)
-* existence d'une selection naturelle
+* existence d'une sélection naturelle
 
-Definition modifiée par KREBS en 1972
+Définition modifiée par KREBS en 1972
  
 Etude des écosystèmes:
  
@@ -132,7 +133,7 @@ Afin de connaître l'environnement des espèces,** étudier la distribution des 
 
 **Notion de facteurs écologiques** = facteurs de l'environnement = facteurs environnementaux
 
-**2e étape : étude de la bio des organismes**
+**2e étape : étude de la biologie des organismes**
 
 * performance écophysiologiques (suisse normande où il pleut très peu)
 
@@ -152,7 +153,7 @@ Une démarche à priviligier :
 
 * **Démarche hypothético - déductive** (constat par rapport à un problème où on mettra une hypothèse qui pourrait répondre au problème -> déduction qui pourra être formuler)
 
-**L'hypothèse est considéré comme scientifique si elle est falsifiable càd réfutable par l'expérimentation (l'homme descend du singe)**
+**L'hypothèse est considéré comme scientifique si elle est falsifiable c'est à dire réfutable par l'expérimentation (l'homme descend du singe)**
 
 VS
 
@@ -183,11 +184,11 @@ Introduction en Amérique -> colonisation de millions d'hectares de culture -> e
 
 Deux apporches dans la démarche expérimentale:
 
-* **Suivi diachronique** : au cours du temps, comparaison Etat initial ET Etat final, suivi des trajectoires de changement = dynamique du syst, établissement d'une chronoséquence
+* **Suivi diachronique** : au cours du temps, comparaison Etat initial et Etat final, suivi des trajectoires de changement = dynamique du système, établissement d'une chronoséquence
 
 Il n'est pas toujours réalisable à l'échelle humaine (semis de chêne : 120 ans pour que le système arrive à maturité)
 
-* **Suivi synchronique** : reconstituer la trajectoire su système, échantillonnage conditionné par le facteur étudié
+* **Suivi synchronique** : reconstituer la trajectoire du système, échantillonnage conditionné par le facteur étudié
 
 C'est une démarche gérable à l'échelle humaine, comparaison à un temps t de stades de maturité différents (*ex étude simultanée de plusieurs parcelles de forêt d'âge différent soumises à un traitement T*)
 
@@ -198,5 +199,3 @@ Il faut donc:
 * sélectionner un paramètre à tester 
 
 *  faire un échantillonnage stratifié : pour chaque stade les facteurs doivent être les mêmes (pH, T°, Humidité..)
-
-

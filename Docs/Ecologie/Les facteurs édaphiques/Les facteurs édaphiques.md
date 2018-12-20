@@ -1,3 +1,5 @@
+# Les Facteurs édaphiques (I)
+
 # I) Introduction
 
 ## A) Les facteurs écologiques
@@ -16,20 +18,20 @@ La fonction du sol est de recycler la matière organique, pour cela il faut une 
 
 * Distinction courante
 
-	* **facteur abiotiques** = ensemble des caractéristiques du milieu
-    * **facteur biotique** = ensemble des intéractions qui se réalisent entre les individus de la même espèce ou non
+	* **facteur abiotique** = ensemble des caractéristiques du milieu
+    * **facteur biotique** = ensemble des interactions qui se réalisent entre les individus de la même espèce ou non
     
 
 * Autre distiction possible:
 	
-    * **facteurs indépedants de la densité** qui agissent sur les organismes avec une intensité qui ne dépend pas de leur abondance: en général, les facterurs abiotiques tels que les facteurs climatiques (T°C, lumière, pluviométrie...) ou édaphiques
+    * **facteurs indépendants de la densité** qui agissent sur les organismes avec une intensité qui ne dépend pas de leur abondance: en général, les facteurs abiotiques tels que les facteurs climatiques (T°C, lumière, pluviométrie...) ou édaphiques
     * **facteurs dépendants de la densité** ont une action dont l'intensité augmente avec l'abondance des individus: en général, facteurs biotiques comme la prédation ou la compétition
 
 ## B) Descripteur écologique
 
 **Descripteur écologique** = tout élément ou toute condition caractérisant l'environnement 
 
-Descripteur écologique = tout caractère du milieu observé, relevé ou mesuré, **qu'il agisse ou non directement ou indirectement**, sur l'organismes, la population ou la communauté concernée.
+Descripteur écologique = tout caractère du milieu observé, relevé ou mesuré, **qu'il agisse ou non directement ou indirectement**, sur l'organisme, la population ou la communauté concernée.
 
 Distinction :
 
@@ -55,7 +57,7 @@ Loi de Shelford ou **loi de tolérance**:
 
 "*Pour tout facteur existe un domaine de valeurs dans lequel tout processus écologique sous la dépendance de ce facteur pourra s'effectuer normalement.*"
 
-Chaque organismes, présente vis-àvis des divers facteurs écologiques des **limites de tolérance** entre lesquelles se situe son **optimum écologique**.
+Chaque organisme, présente vis-à vis des divers facteurs écologiques des **limites de tolérance** entre lesquelles ce situe son **optimum écologique**.
 
 
 ## C) Les facteurs édaphiques
@@ -75,11 +77,9 @@ Facteurs édaphiques concernent donc les propriétés physiques et chimiques des
 
 **Edaphologie**:
 
-* Terme peu employé que certains identifient à la science du sol mais que la plupart affectent aux **relations existant entre le sol et la plante** (ou le sol et une culture).
+* Terme peu employé que certains identifient à la science du sol mais que la plupart affectent aux **relations existantes entre le sol et la plante** (ou le sol et une culture).
 
 * Elle concerne donc spécialement l'influence que peut avoir le sol sur le developpement des végétaux.
-
-
 
 Ex: Les sols de la réserve biologique dirigée du Mont du Fresne
 
@@ -106,7 +106,7 @@ La pédologie est une discipline relativement récente:
 **Vision moderne de la pédogénèse : le sol n'est pas un milieu inerte et stable, mais il se forme et se developpe.**
 
 
-Le sol évolue sous l'influence du climat, du relief et des organismes vivants (végétation, pédofaune et micro-organismes) aux dépends du **matériel minéral** (substratum géologique : matériel parental ou *roche mère*)...
+Le sol évolue sous l'influence du climat, du relief et des organismes vivants (végétation, pédofaune et micro-organismes) au dépend du **matériel minéral** (substratum géologique : matériel parental ou *roche mère*)...
 
 Durant son évolution, le sol s'approfondit et se différencie en couches successives, ou **horizons**, de plus en plus nombreuses, épaisses et distinctes, dont l'ensemble constitue le **profil**.
 
