@@ -87,7 +87,7 @@ Sur le couvert végétal, 2 flux de vapeur sont mesurées
 
 Flux global = Evapotranspiration = ET
 
-ET varie entre 0 et une valeur maximale atteinte quand : 
+Evapotranspiration varie entre 0 et une valeur maximale atteinte quand : 
 
 * surface d'évaporation bien alimentée en eau 
 * surface oppose une résistance minimale à la diffusion de l'eau
@@ -102,9 +102,9 @@ En condition réelles : mesures de l'ET réelle = ETR qui tient compte de:
 
 La mesure se fait à l'aide d'un lysimètre
 
-![Schéma d ’un évapotranspiromètre pesable et de son dispositif de mesures](Images/evapo.JPG)
+Schéma d ’un évapotranspiromètre pesable et de son dispositif de mesure
 
-Schéma d ’un évapotranspiromètre pesable et de son dispositif de mesures
+![Schéma d ’un évapotranspiromètre pesable et de son dispositif de mesures](Images/evapo.JPG)
 
 ETR = P + A - C
 

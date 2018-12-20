@@ -4,11 +4,9 @@
 
 Température = élément majeur (avec humidité) des macro-climats terrestres
 
-* hemisphère Sud : isothermes annuels ~ parallèles à l'équateur
-en raison des masses maritimes
+* hemisphère Sud : isothermes annuels ~ parallèles à l'équateur en raison des masses maritimes
 
-* hémisphère Nord : isothermes plus irréguliers
-masses continentales plus importantes
+* hémisphère Nord : isothermes plus irréguliers masses continentales plus importantes
 
 Température moyennes annuelles les plus fortes: >30°C en Afrique (contient le plus chaud)
 
@@ -18,7 +16,6 @@ Régions extratropicales = régime thermique bien marqué
 
 * Nord : chaud en juillet/août, froid en janvier 
 * Sud : inverse (pluies moins importantes sauf massifs montagneux)
-
 
 Intervalle thermique dans lequel la vie est possible :
 
@@ -53,7 +50,7 @@ Grandes différences entre les milieux naturels à température égales, car cel
 
 Propriétés caractérisées par :
 
-* capacité calorique : quantité en énergie nécessaire pour élever de 1°C un volume de 1cm<sup>3</sup> d'un corps
+* capacité calorique : quantité en énergie nécessaire pour élever de 1°C un volume de 1cm3 d'un corps
 
 eau >> humus >> silice > air
 
@@ -70,14 +67,15 @@ Le **régime thermique du sol** est très important en écologie
     * reproduction
     * activité physiologique
     
-* dépend:
-	* du bilan énergétique du système sol - atmosphère
-    * couvert végétal
-    * des caractéristiques propres du sol :
-    	* réflectance de la surface
-        * constituants solides
-        * prosité
-        * humidité
+Il dépend:
+
+* du bilan énergétique du système sol - atmosphère
+* couvert végétal
+* des caractéristiques propres du sol :
+    * réflectance de la surface
+    * constituants solides
+    * porosité
+    * humidité
         
 ## C) Température du sol et ses variations
 
@@ -132,9 +130,9 @@ Ex: Lac profond en zones tempérées ou froides
 	* variable avec les saisons
     * différente selon les conditions du climat
     
-[Stratification thermique schématique d’un lac profond en zone tempérée hiver vs été](Images/température.JPG)    
+![Stratification thermique schématique d’un lac profond en zone tempérée hiver vs été](Images/température.JPG)    
 
-[Mouvement de l'eau et stratification thermique](Images/mouvementdel'eau.JPG)
+![Mouvement de l'eau et stratification thermique] (Images/mouvementdel'eau.JPG)
 
 Ce sont des lacs dimictiques par opposition aux lac monomictiques qui présentent une stratification constante.
 
@@ -325,5 +323,3 @@ Réactions chez les **hétérothermes**
 Autre relations : plantes - animaux
 
 Les animaux utilisent les micro-climats en présence des plantes
-
-
