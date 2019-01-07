@@ -37,6 +37,23 @@ AIA est la principal auxine naturel constituée d'un cycle indole sur lequel est
 
 L'ANA est utilisé commercialement, l'hormone de bouturage. 2-4-D est utilisé comme herbicide. 
 
+Grande variété chimique
+
+* induction de l'élongation cellulaire
+* induction de la division cellulaire
+* induction de la différenciation racinaire latérale
+* croissance des fruits parthénocarpiques
+* induction formation éthylène
+
+Les anti-auxines sont des substances synthétiques qui présentent une structure analogue aux auxines, elles vont bloquer les recepteurs des auxines.
+
+Les auxines sont synthétisées essentiellement au niveau des graines, ou au niveau de l'apex des tiges
+
+
+
+
+
+
 
 
 
