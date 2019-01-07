@@ -126,6 +126,21 @@ Les requins prédateurs possèdent des detections sensorielles permettant de dé
 
 Les raies possèdent des écailles placoïdes. Les dents sont en pavés. Plusieurs espèces possèdent des organes electriques possédant plusieurs fonctions dont neutraliser les proies.
 
+##### b) Les Chimères 
+
+Les Chimères vivent dans des eaux très profondes.
+
+#### 2) Les Ostéichtyens, poissons osseux
+
+Les poissons osseux possèdent des sacs aériens connectés au tube digestifs. Il existe deux lignées : 
+
+* les Sarcoptérigiens 
+* les Actinoptérygiens,  poissons à nageoires rayonnées
+
+
+
+
+
 
 
 
