@@ -21,7 +21,13 @@ Les tissus des plantes ne sont pas spécifié pour une hormone donnée. Une horm
 
 L'auxine, suivant sa concentration, elle peut soit stimuler l'élongation cellulaire dans les feuilles et à même concentration peu inhiber l'élongation dans la partie racinaire.  
 
-Une phytohormone régule le developpement et la croissance de la plante et par ailleurs, ces phytohormones interviennent dans l'adaptation de la plante au stress environnementaux.
+Une phytohormone régule le developpement et la croissance de la plante et par ailleurs, ces phytohormones interviennent dans l'adaptation de la plante aux stress environnementaux, les stress biotique et abiotique vont faire intervenir des hormones différentes. La sécheresse va faire intervenir l'acide abscissique. La défense contre les pathogènes vont déclencher l'acide jasmonique, acide salicylique et les polyamines.
+
+La fonction de la phytohormone vont dépendre de la sensibilité du tissu cible, une cellule doit présenter à sa surface le recepteur. Les homornes vont agir en se liant à un recepteur, **phase de reception**. Suite au chamgement de conformation du recepteur, on aura la**transduction du signal** puis régulera l'expression de **réponse** de la cellule. Il y a un ratio entre différents hormones.  
+
+
+
+
 
 
 
