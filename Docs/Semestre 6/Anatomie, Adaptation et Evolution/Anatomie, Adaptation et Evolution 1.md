@@ -98,16 +98,33 @@ Les os ont deux origines possible. Le squelette axial est formé à partir des s
 
 ![Formation des os](Images/os.JPG)
 
+Les os sont formés à partir du cartilage. 
+
+La nageoire n'a pas la même architecture chez tous les Chondrictyens.
+
+* nageoire tribasale, on a trois os à la base reliant la nageoire à la ceinture puis sont inserer une grande quatité d'os
+
+##### a) Les Sélaciens 
+
+Les Sélaciens ont un appareil respiratoire comportant 5 paires de fentes branchiales fonctionnelles. Chaque fente possède un petit clapet est peu s'ouvrir indépendamment des autres. Ils possèdent des écailles placoïdes, écaille, formées à partir du derme. Elles sont fortement minéralisées, car constitué d'une partie basale osseuse recouverte par la dentine qui est recouverte par un émail. Ce sont des dents réparties sur l'ensemble du corps de l'animal.
 
 
+###### 1) Les requins = Pleurotrèmes
 
+Les fentes branchiales sont latérales. 
 
+Les requins possèdent des régimes alimentaires différents entre eux:
 
+* poissons (Requin taupe, dents étroites et pointes)
+* mammifères blancs (Requin blanc)
+* crustacés (Roussettes, dents en pavés)
+* plancton (Requin pèlerin, placton filtré par des branchiospines)
 
+Les requins prédateurs possèdent des detections sensorielles permettant de détecter les proies, dont les ampoules de Lorenzini, des organes sensoriels dispersés dans le tégument. Ils sont capable de detecter les champs electrique émis par les proies. 
 
+###### 2) Les hypotrèmes
 
-
-
+Les raies possèdent des écailles placoïdes. Les dents sont en pavés. Plusieurs espèces possèdent des organes electriques possédant plusieurs fonctions dont neutraliser les proies.
 
 
 
