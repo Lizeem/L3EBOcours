@@ -25,8 +25,17 @@ Une phytohormone régule le developpement et la croissance de la plante et par a
 
 La fonction de la phytohormone vont dépendre de la sensibilité du tissu cible, une cellule doit présenter à sa surface le recepteur. Les homornes vont agir en se liant à un recepteur, **phase de reception**. Suite au chamgement de conformation du recepteur, on aura la**transduction du signal** puis régulera l'expression de **réponse** de la cellule. Il y a un ratio entre différents hormones.  
 
+## I) Les auxines
 
+En 1880, Darwin observe que le coleoptile (protection de la futur tige dans la graine) d'une graminée se courbe lorsqu'elle est éclairée latéralement. Le phototropisme est une croissance différentielle qui est orienté en fonction d'un stimulus, elle est irreversible. 
 
+Darwin a démontré que c'est l'apex du coleoptile qui est sensible à se stimulus alors que la réponse se fera au niveau de l'élongation. On a une zone de perception différent de la zone de réponse C'est un signal pouvant passer certains support. La migration de l'auxine va se faire du côté des cellules non exposés à la lumière.
+
+Il existe des auxines naturels ainsi que des auxines de synthèse, plus puissante que les hormones naturelles.
+
+AIA est la principal auxine naturel constituée d'un cycle indole sur lequel est greffé une chaîne latérale d'acide acétique. 
+
+L'ANA est utilisé commercialement, l'hormone de bouturage. 2-4-D est utilisé comme herbicide. 
 
 
 
