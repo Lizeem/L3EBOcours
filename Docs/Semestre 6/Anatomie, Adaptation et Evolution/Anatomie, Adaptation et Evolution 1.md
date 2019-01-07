@@ -72,6 +72,44 @@ Chez les Tétrapodes, la mâchoire supérieur est directement liée au neurocrâ
 
 ### C) Origine des membres pairs 
 
+Les Téléostéens possèdent des nageoires pairs antérieurs appelés les pterygiens. 
+
+Sur des fossiles des Vertébrés dépourvus de nageoires paires, présentaient sur la face ventrale, deux replis du tégument longitudinaux faisant toute la longueur de l'animal. Les nageoires ptérygiens seraient apparus par fragmentation des deux bourrelets.  
+
+### D) Les grands groupes de Gnathostomes
+
+Au sein des Gnathostomes nous avons, 
+
+* Les Chondrichthyens 
+* Les Austélitiens
+
+#### 1) Les Chondryctiens
+
+Les Chondrychtiens ont un taux sanguin d'urée élevé, disparition des poumons et présence de ptérygopodes chez le mâle.
+
+Les Chondryctiens se divisent en deux groupes :
+
+* Les Sélaciens, requins et raies
+* Les Holocéphales ou Chimères
+
+Les Chondyctiens possèdent un cartilage, matrice extra cellulaire très importance. C'est un tissu souple et elastique, ainsi qu'un tissu osseux, matrice extra cellulaire minéralisé.
+
+Les os ont deux origines possible. Le squelette axial est formé à partir des somites.
+
+![Formation des os](Images/os.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
