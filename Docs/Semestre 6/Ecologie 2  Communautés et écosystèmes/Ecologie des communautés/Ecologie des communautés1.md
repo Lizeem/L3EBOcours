@@ -45,12 +45,4 @@ Questionnement général sur les interactions biotiques (nature, intensité, imp
 
 Une espèce clé de voûte maintient l'équilibre d'un écosystème.
 
-
-
-
-
-
-
-
-
-
+Une espèce parapluie facilite l'évolution d'autres espèces.
