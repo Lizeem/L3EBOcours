@@ -36,10 +36,12 @@ Les objectifs :
 
 ## Le concept central
 
-Notion d'association végétale, unité conceptuelle de base de laclassification phytosociologique, définie statistiquement, exprimant la composition floristique globale d'un ensemble de communautés végétales homogènes étroitement apparentées d'une région donnée.
+Notion d'association végétale, l'association est une combinaison originale d'espèces sont certaines, dites caractéristiques, lui sont plus particulièrement liées, les autres étant qualifiées campagnes. Concept abstrait qui se dégage d'un ensemble d'individus d'association possédant en commun à peu près les mêmes caractères florstiques, statistiques écologiques, dynamiques, chorologiques et historiques. 
 
+## L'individu d'association 
 
-
+Il ne faut pas confondre association végétale et "Formation végétale".
+Elle est pour l'association végétale l'équivalent de l'individu pour l'espèce. L'individu d'association est le relevé floristique.
 
 
 
