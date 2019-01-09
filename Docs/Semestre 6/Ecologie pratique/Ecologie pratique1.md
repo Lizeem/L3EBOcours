@@ -18,6 +18,29 @@ Une station, une surface à l'intérieur duquel les conditions géomorphologique
 
 Une Synusie, un ensemble d'individus d'une espèce végétale caractériser par la représentation forte d'une stratégie adaptative.
 
+Selon l'unité de base :
+
+* Phytosociologie Synusiale (Synusie) 
+* Phytosociologie Sigmatiste (Phytocénose, communauté végétale)
+
+## Historique de la Sigmatiste
+
+SIGMA = Station Internationale de Géobotanique Méditerrannéene et Alpine
+
+Les objectifs : 
+
+* Identifier et classer les groupements végétaux
+* Caractériser leur écologie
+* Caractériser leur dynamique  et leur distribution 
+* Faire émerger leur potentiel de bio-indication
+
+## Le concept central
+
+Notion d'association végétale, unité conceptuelle de base de laclassification phytosociologique, définie statistiquement, exprimant la composition floristique globale d'un ensemble de communautés végétales homogènes étroitement apparentées d'une région donnée.
+
+
+
+
 
 
 
