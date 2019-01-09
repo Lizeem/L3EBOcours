@@ -35,15 +35,21 @@ C'est grâce à l'existence de multiples interactions entre biotope et biocénos
 
 ![Représentation schématique d'un écosystème](Images/eco.JPG)
 
+Le concept d'hydrosystème fluvial est une interdépendance entre le cours d'eau et les écosystèmes riverains. C'est un système à **4 dimensions** : 3 dimensions spatiales et la dimension temporelle. C'est un système composé de **niveaux hiérarchiques emboîtés** : 3 niveaux (secteurs, ensembles et unités fonctionnelles).
 
+La plupart des éléments de l'hydrosystème fluvial sont des écosystèmes :
 
+* l'eau courante, 
+* un îlot 
+* un marais
+* un plan d'eau stagnante
+* une forêt riveraine 
+* un bras mort...
 
+L'hydrosystème fluvial : **ensemble d'écosystèmes interactifs** soumis à un même **régime de perturbations**, et dont l'**agencement spatial**, les relations particulières et l'histoire commune font émerger un fonctionnement propre.
 
+Par le biais des mouvements d'air et d'eau et grâce aux déplacements dont sont capables la plupart des êtres vivants, tous les écosystèmes sont en interrelation étroite au sein de la **biosphère**.
 
+**Biosphère** : partie superficielle de la planète renfermant l'ensemble des êtres vivants, et dans laquelle la vie est possible en permanence. Ce terme recouvre partiellement les 3 compartiments qui composent la terre : **lithosphère**, l'**hydrosphère** et l'**atmosphère**.
 
-
-
-
-
-
-
+Un écosystème doit donc considéré comme un **réseau fonctionnelle d'interractions** entre ses composantes (biotiques et abiotiques). Dans cet ensemble d'intéractions, complexe mais structuré naissent des propriétés globales nouvelles par rapport à celles des éléments en intéraction.
