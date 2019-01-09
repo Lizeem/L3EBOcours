@@ -86,5 +86,5 @@ Différentielle négative d'AV :
 Les syntaxons sont ordonnés dans un système hiérachisé. La construction du système se fait du niveau le plus bas vers le niveau le plus large: démarche ascendante. De par le caractère intégrateur des plantes, chaque groupement représente les conditions écologiques (biotiques et abiotiques) et géographiques qui lui permettent de s'exprimer. Le synsystème est décliné jusqu'au niveau de la sous- alliance pour le territoire français, fixé par le Prodrome des végétations de France. 
 
 
-
+(VOIR DIAPO)
 
