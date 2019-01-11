@@ -52,4 +52,4 @@ Par le biais des mouvements d'air et d'eau et grâce aux déplacements dont sont
 
 **Biosphère** : partie superficielle de la planète renfermant l'ensemble des êtres vivants, et dans laquelle la vie est possible en permanence. Ce terme recouvre partiellement les 3 compartiments qui composent la terre : **lithosphère**, l'**hydrosphère** et l'**atmosphère**.
 
-Un écosystème doit donc considéré comme un **réseau fonctionnelle d'interractions** entre ses composantes (biotiques et abiotiques). Dans cet ensemble d'intéractions, complexe mais structuré naissent des propriétés globales nouvelles par rapport à celles des éléments en intéraction.
+Un écosystème doit donc considéré comme un **réseau fonctionnelle d'interactions** entre ses composantes (biotiques et abiotiques). Dans cet ensemble d'interactions, complexe mais structuré naissent des propriétés globales nouvelles par rapport à celles des éléments en interaction.
