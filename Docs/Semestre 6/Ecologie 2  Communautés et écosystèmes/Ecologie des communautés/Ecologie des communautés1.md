@@ -11,7 +11,7 @@ Notion d'appartenance à un même groupe systématique ou appartenant à un mêm
 
 *Quelle est la limite d'une communauté ?*
 
-Notion d'aire minimale
+**Notion d'aire minimale**
 
 ## II) Structure des communautés 
 
@@ -77,14 +77,16 @@ Trade - off : compromis d'une espèce, developper une stratégie
 
 La croissance compensatoire, trade-off qui a finalement un effet positif sur la croissance de la plante.
 
+Introduire des espèces afin d'en réguler d'autres, ou de favoriser leur extinction.
 
+### B) La compétition
 
+Il existe la compétition intraspécifique et la compétition interspécifique.
 
+#### 1/ Compétition **directe** = compétition **par interférence**
 
+La compétition directe est une compétition entre deux espèces par l'**Allélopathie** par sécrétion de substance par la plante. Elles peuvent être lessivé ou volatiles sur les feuilles, peut aussi être d'origine racinaire. Ces substances empêchent la germination. Ce sont des métabolites secondaires. Elles peuvent être plus ou moins spécifiques. L'allélopathie peut être intraspécifique afin d'éviter la compétition intraspécifique et obtenir une meilleure qualité de dispersion.
 
-
-
-
-
+Le noyer va empêcher d'autres espèces compétitive de s'installer en produisant de la juglone. 
 
 
