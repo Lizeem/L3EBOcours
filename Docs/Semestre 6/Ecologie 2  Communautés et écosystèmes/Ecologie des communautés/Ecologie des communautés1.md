@@ -46,3 +46,45 @@ Questionnement général sur les interactions biotiques (nature, intensité, imp
 Une espèce clé de voûte maintient l'équilibre d'un écosystème.
 
 Une espèce parapluie facilite l'évolution d'autres espèces.
+
+### A) La prédation
+
+Interactions par exploitation, comment des espèces peuvent en manger d'autres.
+
+* prédation
+* herbivorie
+* parasitisme
+
+*Qu'est ce qui dinstingue prédation/herbivorie de parasite/pathogène?*
+
+Souvent, la prédation se déroule sous un temps court, contrairement au parasitisme. De plus, les prédateurs possèdent plusieurs proies que le parasite.
+
+Les prédateurs ont souvent des régimes alimentaires variés. Ils sont parfois qualifiés de "spécialistes" si ils montrent une forte préférence pour un type de proie.
+
+Les herbivores ont des régimes alimentaires relativement spécifiques et relativement peu d'espèces différentes consommées.
+
+Les organismes ont mises en places de nombreuses adaptations pour manger et ne pas être mangés.
+
+Il existe 5 adaptations possibles :
+
+ * défense physique
+ * mimmétisme
+ * camouflage
+ * effet de groupe
+ * défense chimique (toxines)
+
+Trade - off : compromis d'une espèce, developper une stratégie 
+
+La croissance compensatoire, trade-off qui a finalement un effet positif sur la croissance de la plante.
+
+
+
+
+
+
+
+
+
+
+
+
