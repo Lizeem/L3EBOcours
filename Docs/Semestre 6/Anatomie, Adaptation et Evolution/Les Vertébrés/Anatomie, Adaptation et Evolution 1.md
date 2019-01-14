@@ -137,11 +137,13 @@ Les poissons osseux possèdent des sacs aériens connectés au tube digestifs. I
 * les Sarcoptérigiens 
 * les Actinoptérygiens,  poissons à nageoires rayonnées, possédant les Chondrostéens et les Téléostéens.
 
-##### a) Les Chondrostéens
+##### a) Les Actinoptérygiens
+
+###### 1/ Les Chondrostéens
 
 "Poissons" qui ont un squelette encore largement cartilagineux. Ils sont peu diversifiés, se caractérisant par la présence de barbillions sensoriels en avant de la bouche. Leurs corps est recouvert de 5 rangées de plaques osseuses cuirassés qui protègent le corps. Leur nageoire caudale est hétérocerque. Groupe des esturgeons, poissons d'eau douce. 
 
-##### b) Les Téléostéens
+###### 2/ Les Téléostéens
 
 La nageoire caudale est homocerque. Les écailles sont élasmoïdes, écailles formés par le derme. Elles sont osseuse et moins minéralisés que les écailles placoïdes. On en distingue deux types : 
 
@@ -158,22 +160,16 @@ Les Téléostéens vont migrer, certaines vont s'effectuer dans le même milieu 
 
 D'autres migrations vont s'effectuer entre deux milieux. La migration est **amphibiotique** comme le saumon. Le saumon se reproduit près des sources dans les cours d'eau mais vit en milieu marin. Le saumon va passer 3 ans dans les cours d'eau et lorsqu'il atteint une taille suffisante, il va entamer une migration vers l'aval, **catadrome** (amont vers l'aval). Le Saumon va se modifier en arrivant dans l'estuaire (**smoltification**) engendrée par des bouleversements hormonaux qui vont adapter le saumon à la vie en milieu salée. A la maturitée sexuelle, ils se reproduisent, dans les cours d'eau où ils sont nés **Homing**, **migration de frai** où le saumon va se modifier. La migration de l'aval vers l'amont est **anadrome**. 
 
-La migration de l'anguille est l'inverse de la migration du saumon.
+La migration de l'anguille est l'inverse de la migration du saumon. L'anguille vit dans l'eau douce et va migrer vers le milieu marin en utilisant le courant marin pour se reproduire au large du golf du Mexique à 1000 - 2000 m.
 
+##### b) Les Sarcoptérygiens
 
+La nageoire des Sarcoptérygiens est monobasale, elle est reliée à la ceinture par un seul os.
 
+###### 1/ Les Actinistiens
 
+Ils sont representés par deux espèces, le coelacanthe, espèce vivant dans l'Océan Indien. C'est un taxon Lazare (diparaît puis réapparaît).
 
+###### 2/ Les Rhipidistiens
 
-
-
-
-
-
-
-
-
-
-
-
-
+Ce sont des espèces qui possèdent des poumons fonctionnels. Le coeur possède deux oreillettes dont les dipneuses faisant la double respiration "poissons vivant dans des eaux **eutrophes**, chargés en MO. Ces "poissons" vont chercher de l'air en surface et le CO2 est rejeté via les branchies. 	
