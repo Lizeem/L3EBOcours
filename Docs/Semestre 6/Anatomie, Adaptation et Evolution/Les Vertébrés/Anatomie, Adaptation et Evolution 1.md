@@ -109,7 +109,7 @@ La nageoire n'a pas la même architecture chez tous les Chondrictyens.
 Les Sélaciens ont un appareil respiratoire comportant 5 paires de fentes branchiales fonctionnelles. Chaque fente possède un petit clapet est peu s'ouvrir indépendamment des autres. Ils possèdent des écailles placoïdes, écaille, formées à partir du derme. Elles sont fortement minéralisées, car constitué d'une partie basale osseuse recouverte par la dentine qui est recouverte par un émail. Ce sont des dents réparties sur l'ensemble du corps de l'animal.
 
 
-###### 1) Les requins = Pleurotrèmes
+###### 1/ Les requins = Pleurotrèmes
 
 Les fentes branchiales sont latérales. 
 
@@ -122,7 +122,7 @@ Les requins possèdent des régimes alimentaires différents entre eux:
 
 Les requins prédateurs possèdent des detections sensorielles permettant de détecter les proies, dont les ampoules de Lorenzini, des organes sensoriels dispersés dans le tégument. Ils sont capable de detecter les champs electrique émis par les proies. 
 
-###### 2) Les hypotrèmes
+###### 2/ Les hypotrèmes
 
 Les raies possèdent des écailles placoïdes. Les dents sont en pavés. Plusieurs espèces possèdent des organes electriques possédant plusieurs fonctions dont neutraliser les proies.
 
@@ -135,7 +135,39 @@ Les Chimères vivent dans des eaux très profondes.
 Les poissons osseux possèdent des sacs aériens connectés au tube digestifs. Il existe deux lignées : 
 
 * les Sarcoptérigiens 
-* les Actinoptérygiens,  poissons à nageoires rayonnées
+* les Actinoptérygiens,  poissons à nageoires rayonnées, possédant les Chondrostéens et les Téléostéens.
+
+##### a) Les Chondrostéens
+
+"Poissons" qui ont un squelette encore largement cartilagineux. Ils sont peu diversifiés, se caractérisant par la présence de barbillions sensoriels en avant de la bouche. Leurs corps est recouvert de 5 rangées de plaques osseuses cuirassés qui protègent le corps. Leur nageoire caudale est hétérocerque. Groupe des esturgeons, poissons d'eau douce. 
+
+##### b) Les Téléostéens
+
+La nageoire caudale est homocerque. Les écailles sont élasmoïdes, écailles formés par le derme. Elles sont osseuse et moins minéralisés que les écailles placoïdes. On en distingue deux types : 
+
+* type cycloïdes possédant des stries concentriques permettant de calculer l'âge du poisson
+* type cténoïde, possédant des épines à la base
+
+Les nageoires pairs (pelviennes et pectorales) sont des nageoires rayonnées/ pluribasales reliés aux os de la ceinture par de nombreux os.
+
+Les Téléostéens se forment une vessie gazeuse, qui est une ex-croissance se formant sur le pharynx au stade embryonnaire. Elle garde sa liaison avec le tube digestif. Lorsqu'elle est en relation avec celui ci, la disposition est **physostome**. Cependant, durant le developpement, elle va se détacher du tube digestif, la disposition est **physoclyste**. Elle va servir de flotteur et baisser la densité et l'animal va pouvoir se stabiliser à faible profondeur. Du côté ventrale, une glande gazeuse va permettre de faire passer par transport actif, le sang vers la vessie gazeuse. 
+
+La ligne latéral est un organe sensoriel qui s'étire sur tout le côté de l'animal, ligne au niveau de laquelle, les écailles sont percées d'un petit canal qui permet à l'eau de venir en contact de cellules sensorielles cillées à la pression et au mouvement de l'eau.
+
+Les Téléostéens vont migrer, certaines vont s'effectuer dans le même milieu de vie, **migration holobiotique** comme le hareng qui l'effectue en milieu marin (**thalassique**).
+
+D'autres migrations vont s'effectuer entre deux milieux. La migration est **amphibiotique** comme le saumon. Le saumon se reproduit près des sources dans les cours d'eau mais vit en milieu marin. Le saumon va passer 3 ans dans les cours d'eau et lorsqu'il atteint une taille suffisante, il va entamer une migration vers l'aval, **catadrome** (amont vers l'aval). Le Saumon va se modifier en arrivant dans l'estuaire (**smoldification**) engendrée par des bouleversements hormonaux qui vont adapter le saumon à la vie en milieu salée. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
