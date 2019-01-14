@@ -156,9 +156,9 @@ La ligne latéral est un organe sensoriel qui s'étire sur tout le côté de l'a
 
 Les Téléostéens vont migrer, certaines vont s'effectuer dans le même milieu de vie, **migration holobiotique** comme le hareng qui l'effectue en milieu marin (**thalassique**).
 
-D'autres migrations vont s'effectuer entre deux milieux. La migration est **amphibiotique** comme le saumon. Le saumon se reproduit près des sources dans les cours d'eau mais vit en milieu marin. Le saumon va passer 3 ans dans les cours d'eau et lorsqu'il atteint une taille suffisante, il va entamer une migration vers l'aval, **catadrome** (amont vers l'aval). Le Saumon va se modifier en arrivant dans l'estuaire (**smoldification**) engendrée par des bouleversements hormonaux qui vont adapter le saumon à la vie en milieu salée. 
+D'autres migrations vont s'effectuer entre deux milieux. La migration est **amphibiotique** comme le saumon. Le saumon se reproduit près des sources dans les cours d'eau mais vit en milieu marin. Le saumon va passer 3 ans dans les cours d'eau et lorsqu'il atteint une taille suffisante, il va entamer une migration vers l'aval, **catadrome** (amont vers l'aval). Le Saumon va se modifier en arrivant dans l'estuaire (**smoltification**) engendrée par des bouleversements hormonaux qui vont adapter le saumon à la vie en milieu salée. A la maturitée sexuelle, ils se reproduisent, dans les cours d'eau où ils sont nés **Homing**, **migration de frai** où le saumon va se modifier. La migration de l'aval vers l'amont est **anadrome**. 
 
-
+La migration de l'anguille est l'inverse de la migration du saumon.
 
 
 
