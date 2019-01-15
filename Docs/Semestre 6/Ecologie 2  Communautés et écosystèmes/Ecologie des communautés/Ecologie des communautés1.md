@@ -128,18 +128,3 @@ Les fabacées enrichissent le sol et donc ce sont des espèces nurses. Certaines
 
 Mutualisme : bénéfice réciproque
 
-Mycorrhyzes permettent de récupérer des nutriments pour les plantes et récupèrent des nutriments lié à la photo-synthèse.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
