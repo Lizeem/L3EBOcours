@@ -118,7 +118,17 @@ Tilman : compétition constante, si la compétition racinaire diminue, la compé
 
 ### C) La facilitation
 
+La facilitation est lorsqu'une espèce nurse à un effet positif sur une autre espèce. Cet effet positif peut - être sur la survie, la croissance ou la reproduction. L'espèce facilité est l'**espèce cible**.
 
+Souvent on parle d'une balance entre la compétition ou la facilitation. Il ne peut pas avoir de facilitation sans un peu de compétition.
+
+Les fabacées enrichissent le sol et donc ce sont des espèces nurses. Certaines espèces vivant dans des zones arides peuvent avoir des réseaux racinaire assez importante qui peuvent remonter de l'eau et humidifier le sol, **Ascenseur racinaire**.
+
+### D) Mutualisme et commensalisme
+
+Mutualisme : bénéfice réciproque
+
+Mycorrhyzes permettent de récupérer des nutriments pour les plantes et récupèrent des nutriments lié à la photo-synthèse.
 
 
 
