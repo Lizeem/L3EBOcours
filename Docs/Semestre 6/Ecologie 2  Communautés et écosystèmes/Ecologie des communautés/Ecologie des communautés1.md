@@ -89,4 +89,47 @@ La compétition directe est une compétition entre deux espèces par l'**Allélo
 
 Le noyer va empêcher d'autres espèces compétitive de s'installer en produisant de la juglone. 
 
+#### 2/ Compétition **indirecte** = compétition **par exploitation**
+
+
+Pour parler de compétition, il faut parler de deux notions :
+
+* principe d'exclusion compétitive : la compétition va éliminer une espèce, la moins compétitrice
+
+Holmes : pas toujours l'exclusion totale d'une des deux espèces, les espèces peuvent coexister mais vont devoir modifier leur niche.
+
+* distribution spatiale des deux espèces, l'espèce qui se décalera de niche sera la moins compétitrice
+
+L'**effet maternel** : conditions de croissance de la mère qui ont une influence sur les performances de ses descendants
+
+réponse compétitrice : comment une espèce est impacter par une seconde espèce
+
+l'effet compétiteur : comment l'espèce va impacter une autre espèce
+
+compétition symétrique : compétiteurs équivalents
+
+compétition asymétrique : compétiteurs non équivalents
+
+Si la compétition est très asymétrique, c'est négatif pour l'un et ça n'a pas d'impact pour l'autre, c'est l'**amensalisme**
+
+Grime : en écologie végétal, il existe un trade-off pour une plante, soit elle est compétitrice, soit stress-tolérante soit ruderale, résiste à la perturbation. On observe cela à l'aide du triangle CSR. Pour Grime, la compétition évolue en fonction du nombre de ressources. La compétition racinaire augmente en même temps que la compétition aérienne. **dynamique**
+
+Tilman : compétition constante, si la compétition racinaire diminue, la compétition aérienne augmente. **statique**
+
+### C) La facilitation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
