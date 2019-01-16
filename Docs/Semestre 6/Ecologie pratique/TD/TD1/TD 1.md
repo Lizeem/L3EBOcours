@@ -22,3 +22,6 @@ La démarche phytosociologique vise à réunir les individus d'association décr
 7. Les manipulations permettent de **diagonaliser** le tableau différentiel
 
 8. Réinsérer les espèces de fort et faible pourcentage d'occurence
+
+* Anth.. fauche
+* Cynosurion = Prairies pâturées
