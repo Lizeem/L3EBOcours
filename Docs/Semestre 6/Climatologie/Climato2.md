@@ -35,3 +35,26 @@ Le moins dense remonte
 
 ##### Rayonnement
 
+Destin de la radiation solaire dans l'atmosphère
+
+25% réfléchie vers l'espace
+
+* 19% réfléchie par les nuages
+* 6% diffusée par les gaz atmosphériques
+
+25% absorbée par les gaz atmosphériques
+
+* 18% : vapeur d'eau
+
+Les gaz à effet de serre piège les infrarouges émit par la Terre (96%). 
+
+L'ozone (O3) filtre les UV. 
+
+La vapeur d'eau est un cycle fermé.
+
+L'effet de serre piège les gaz à effet de serre des rayonnements infrarouge de la Terre. 
+
+L'energie émise du Soleil est plus grande que celle émise par la Terre
+
+
+
