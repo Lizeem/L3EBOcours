@@ -1,5 +1,9 @@
 # La Climat de la Terre présent
 
+Excès d'énergie dans l'hemisphère Sud avec l'inclinaison de la Terre.
+
+L'énergie arrivant pas en dessous est négligeable à celle arrivant par l'espace.
+
 L'échelle est primordiale. Un échelle de temps où on peut rajouter une échelle spatiale.
 
 **Météorologie** : Science qui étudie les phénomènes atmosphériques notamment en vue d'établir des prévisions.
@@ -17,6 +21,10 @@ On est situé à la distance parfaite pour avoir l'eau sur trois phases, et ains
 Lors de la formation des planètes, les poussières et roches forment la partie solide sphérique et les gaz s'accumulent autour, puisque plus léger.
 
 ## Notre atmosphère
+
+Le rôle de l'atmosphère est très importante.
+
+L'énergie rayonné par la Terre qui est emprisonner par les gaz à effet de serre.
 
 ### B) Bilan énergétique de la Terre
 
@@ -45,14 +53,23 @@ Destin de la radiation solaire dans l'atmosphère
 25% absorbée par les gaz atmosphériques
 
 * 18% : vapeur d'eau
+* par l'ozone
 
-Les gaz à effet de serre piège les infrarouges émit par la Terre (96%). 
+* 50% transmise au sol
 
-L'ozone (O3) filtre les UV. 
+Un rayonnement dans le domaine du visible. On a une radiation de la Terre correspondant à la température de la Terre (15°C) renvoie en IR. Les gaz à effet de serre piège les infrarouges émit par la Terre (96%). 
 
-La vapeur d'eau est un cycle fermé.
+Si on augmente la quantité de CO2, méthane ou gaz à effet de serre, on empêche encore plus de gaz à repartir donc les basses couches de l'atmosphère se réchauffe.
 
-L'effet de serre piège les gaz à effet de serre des rayonnements infrarouge de la Terre. 
+En terme de spectre, le Soleil renvoie dans le domaine du visible. Ainsi que le domaine de l'UV mais l'Ozone le filtre donc on ne le reçoit pas, nous ne sommes donc pas brulé par le rayonnement.
+
+Le spectre d'emission de la Terre est absorbé par le méthane et le gaz carbonique ce sont des cycles ouverts.
+
+L'effet de serre piègeage des gaz à effet de serre du rayonnements infrarouge de la Terre pas celui du Soleil. 
+
+La vapeur d'eau est un cycle fermé, on ajoute pas de vapeur d'eau dans l'atmopshère.
+
+Les nuages réfléchissent les rayonnement solaire ainsi que les déserts et les zones polaires.
 
 L'energie émise du Soleil est plus grande que celle émise par la Terre
 
