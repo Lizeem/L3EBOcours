@@ -2,7 +2,7 @@
 
 ## I) Apomorphies
 
-Les tétrapodes possèdent un cou (ceinture scapulaire séparée de la tête). On a aussi l'apparition de l'oreille, avec un stape, os qui va tansmettre les vibrations à l'oreille interne. Ce stade est l'homologue de l'os hyomandibulaire. La première vertebres va se modifier et va former l'atlas permettant de bouger le cou. Ainsi que l'apparition des membres chridiens. 
+Les tétrapodes possèdent un cou (ceinture scapulaire séparée de la tête). On a aussi l'apparition de l'oreille, avec un stape, os qui va transmettre les vibrations à l'oreille interne. Ce stade est l'homologue de l'os hyomandibulaire. La première vertèbre va se modifier et va former l'atlas permettant de bouger le cou. Les tétrapodes présentent aussi des membres chridiens. 
 
 ## II) Origine des membres chridiens
 
@@ -12,11 +12,11 @@ Les tétrapodes possèdent un cou (ceinture scapulaire séparée de la tête). O
 
 ### B) Paléonthologie
 
-Quelques particularités avec l'Acanthostega, possédant des membres antérieurs semblables à Eustonopteron, queue aplatie. Il possède des poumons et des branchies. Ce membre chridien est developper chez les animaux aquatiques et il  avait d'autres fonctions.
+Quelques particularités avec l'Acanthostega, possédant des membres antérieurs semblables à Eustonopteron, queue aplatie. Il possède des poumons et des branchies. Ce membre chridien est developpé chez les animaux aquatiques et il  avait d'autres fonctions.
 
 Le deuxième fossile est celui de Ichthyostega, capable de se déplacer comme les phoques. 
 
-Avant de permettre de marcher, les membres chridiens auraient permis de sortir la tête de l'eau pour respirer (Acanthostega); ou marche sur le fond; ou pagaies. Facilité par la répartition des doigts en éventail.
+Avant de permettre de marcher, les membres chridiens auraient permis de sortir la tête de l'eau pour respirer (Acanthostega),  marche sur le fond, ou on servit à pagayer. Facilité par la répartition des doigts en éventail.
 
 ## 	III) Les grandes lignées de Tétrapodes
 
@@ -38,6 +38,6 @@ Le mésonephros (rein) est dépourvu d'anse de Henlé important dans le rein pou
 
 L'Amphibien d'Arizona est capable de stocker 25% de son poids en eau dans sa vessie sous forme d'urine diluée.
 
-La grenouille du Zimbabwe prend la couleur blanche avec de limiter ses pertes en eau par réchauffement. Cette grenouille fait de l'uricotelie avec d'économiser l'eau.
+La grenouille du Zimbabwe prend la couleur blanche afin de limiter ses pertes en eau par réchauffement. Cette grenouille fait de l'uricotelie permettant d'économiser de l'eau.
 
-La grenouille du Paraguay, fait de l'urécotélie et stocke l'eau dans sa vessie. Elle possède des glandes cutanés sireuse la protegeant des pertes en eau par l'évaporation.
+La grenouille du Paraguay, fait de l'urécotélie et stocke l'eau dans sa vessie. Elle possède des glandes cutanés sireuses la protégeant des pertes en eau par l'évaporation.
