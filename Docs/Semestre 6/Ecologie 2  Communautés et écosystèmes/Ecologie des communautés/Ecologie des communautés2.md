@@ -39,6 +39,8 @@ dispersion, les contraintes abiotiques et les interactions biotiques s’exerça
 Concept 1 : La diversité diffère entre des communautés en raison de variations dans le
 pool régional d’espèces, des conditions abiotiques et des interactions interspécifiques.
 
+![Concept1](Images/1.png)
+
 ## II) Division / partitionnement des ressources – Mc ARTHUR (1958-1959)
 
 Principe du partage des ressources entre les espèces.
@@ -46,6 +48,8 @@ Deux espèces peuvent coexister si elles se partagent les ressources.
 Des espèces cohabitent quand elles se partagent une ressource de façon **complémentaire** avec
 parfois du **chevauchement** dont on peut calculer l’indice (plus celui-ci est fort, plus la
 compétition est élevée).
+
+![Ressources](Images/2.JPG)
 
 On peut avoir une augmentation de la **richesse spécifique** au sein d’une communauté si on a
 une **ségrégation écologique** plus forte (variation de caractères) qui va limiter le
@@ -66,6 +70,8 @@ Le caractère hétérogène est important car il relève de la complexité de l�
 
 Les 3 premiers facteurs sont le **stress**, les **perturbations** et la **prédation**.
 Ces 3 facteurs permettent de libérer et mettre à disposition des ressources pour des espèces.
+
+![Libération des ressources](Images/3.JPG)
 
 La perturbation (régulière) permet la coexistence des deux espèces.
 Idem pour le stress et la perturbation qui limitent la dominance d’une espèce et permettent
@@ -114,6 +120,8 @@ Prise en compte des interactions positives (Hacker & Gaines 1997)
 Interactions interspécifiques modulables (intensité et direction) en fonction de facteurs biotiques ou abiotiques.
 
 Stress gradient hypothesis.
+
+![Stress](Images/4.JPG)
 
 **Faible niveau de perturbation**: la compétition réduit la diversité.
 
