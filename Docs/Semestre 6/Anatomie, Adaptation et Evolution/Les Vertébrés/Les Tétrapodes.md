@@ -56,4 +56,13 @@ Type de developpement direct chez la grenouille rousse, pas de stade larvaire. L
 
 ##### c) Acquisition d'un developpement vivipare direct
 
+Chez les rhinoderme, les oeufs puis les jeunes, vont être protéger dans les sac du mâle. Les Gastrotheca, incubation dans l'estomac. 
+
+#### 3) Production de substances toxiques
+
+Les couleurs vives des salamandre est un moyen d'indiquer quelles sont toxiques. Ce sont des protéines sécréter dans les glandes séreuses se trouvant au niveau du derme. 
+
+#### 4) Déclin actuel des Amphibiens
+
+Les raisons de ce déclin sont liés à l'action humaine, dont la perte ou la fragmentation de l'habitat, les zones humides disparaissent ou sont pollués ou des maladies ou des pesticides.  
 
