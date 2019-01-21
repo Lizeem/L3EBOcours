@@ -41,3 +41,11 @@ L'Amphibien d'Arizona est capable de stocker 25% de son poids en eau dans sa ves
 La grenouille du Zimbabwe prend la couleur blanche afin de limiter ses pertes en eau par réchauffement. Cette grenouille fait de l'uricotelie permettant d'économiser de l'eau.
 
 La grenouille du Paraguay, fait de l'urécotélie et stocke l'eau dans sa vessie. Elle possède des glandes cutanés sireuses la protégeant des pertes en eau par l'évaporation.
+
+#### 2) Reproduction des Amphibiens et affranchissement du  milieu aquatique
+
+Le tétard possède une nageoire caudale, respire par des branchies. Ces particularités font que le tétard à besoin d'un milieu aquatique pour se developper. Le passage à l'état adulte se fait durant la métamorphose. Les pattes de l'adulte apparaissent de façon décalé. Lorsque la patte arrière droite sort par l'orifice respiratoire (le spiracle). Les pattes vont apparaitrent petit à petit, la queue va régresser. Les branchies vont disparaitre et les poumons vont se developper. L'hémoglobine du tétard va être remplacer par une autre hémoglobine au stade adulte. 
+
+[http://www.snv.jussieu.fr/bmedia/xenope1/M%8EtamorphXenope/Metamxen.html#](Métamorphose d'un amphibien)
+
+
