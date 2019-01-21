@@ -44,8 +44,16 @@ La grenouille du Paraguay, fait de l'urécotélie et stocke l'eau dans sa vessie
 
 #### 2) Reproduction des Amphibiens et affranchissement du  milieu aquatique
 
-Le tétard possède une nageoire caudale, respire par des branchies. Ces particularités font que le tétard à besoin d'un milieu aquatique pour se developper. Le passage à l'état adulte se fait durant la métamorphose. Les pattes de l'adulte apparaissent de façon décalé. Lorsque la patte arrière droite sort par l'orifice respiratoire (le spiracle). Les pattes vont apparaitrent petit à petit, la queue va régresser. Les branchies vont disparaitre et les poumons vont se developper. L'hémoglobine du tétard va être remplacer par une autre hémoglobine au stade adulte. 
+##### a) La tétard
 
-[http://www.snv.jussieu.fr/bmedia/xenope1/M%8EtamorphXenope/Metamxen.html#](Métamorphose d'un amphibien)
+Le tétard possède une nageoire caudale, respire par des branchies. Ces particularités font que le tétard à besoin d'un milieu aquatique pour se developper. Le passage à l'état adulte se fait durant la métamorphose. Les pattes de l'adulte apparaissent de façon décalé. Lorsque la patte arrière droite sort par l'orifice respiratoire (le spiracle). Les pattes vont apparaitrent petit à petit, la queue va régresser. Les branchies vont disparaitre et les poumons vont se developper. L'hémoglobine du tétard va être remplacer par une autre hémoglobine au stade adulte pour pouvoir faciliter le relarguage d'oxygène au stade adulte. Chez l'adulte, l'hémoglobine présente un effet Bohr (variation de l'affinité en fonction du pH). 
+
+[http://www.snv.jussieu.fr/bmedia/xenope1/M%8EtamorphXenope/Metamxen.html#](Métamorphose d'un Amphibien)
+
+##### b) Acquisition d'un developpement ovipare direct
+
+Type de developpement direct chez la grenouille rousse, pas de stade larvaire. Les nectophrynes ne passent plus par le stade larvaire. 
+
+##### c) Acquisition d'un developpement vivipare direct
 
 
