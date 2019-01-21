@@ -84,6 +84,5 @@ Les adaptations au vol sont multiples :
 
 #### 4) Le chant
 
-Le chant est produit par la syrinx constitué de deux trachées permettant de faire deux chants différents. 
-
+Le chant est produit par la syrinx constitué de deux trachées permettant de faire deux chants différents. Les chants permettent de localiser les partenaires. Certains sont capable d'imiter les chants des prédateurs, ils permettent d'effrayer des espèces partageant le milieu de vie.
 
