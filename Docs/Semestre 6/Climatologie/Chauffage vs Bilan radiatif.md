@@ -21,19 +21,73 @@ Energie du Soleil interceptée par la Terre : ~176 000 000 000 MW. Elle représe
 
 ![Spectre d'émission du Soleil](Images/spectre.JPG)
 
+Etoile chaude : 15 000 °C, couleur bleue (~75% UV, ~25% visible)
+
+Soleil : 6 000 °C, couleur jaune (~50% visible, ~50% IR "proche")
+
+Etoile froide : 3 000 °C, couleur rouge (~25% visible, ~75% IR "proche")
+
+## III) La rotondité de la Terre
+
+Le fait que le Soleil illumine une Terre qui soit sphérique a une conséquence fondamentale
+
+* les pôles de la Terre reçoivent des rayons solaires fortement inclinés à longueur d'année
+* les régions tropicales/ équatoriales reçoivent des rayons solaires faiblement inclinés
+* résulats : les pôles sont froids et l'équateur est chaud.
+
+## IV) Les saisons
+
+L'isolation est plus grande en été car
+
+* L'angle d'incidence des rayons solaires est plus grand
+* Les jours sont plus longs que les nuits
+* Les rayons solaires traversent une couche atmosphérique plus mince
+
+L'inverse est vrai dans l'hémisphère d'hiver
+
+* L'angle d'incidence des rayons solaires est plus faible
+* Les jours sont plus courts que les nuits
+* Les rayons solaires traversent une couche atmosphérique plus épaisse
+
+L'effet des saisons est maximal aux pôles et minimal à l'équateur. Sous les latitudes moyennes et polaires, l'inclinaison de l'axe de rotation de la Terre amplifie (l'été) ou diminue (l'hiver) l'angle d'incidence des rayons solaires.
+
+Sous les latitudes tropicales, l'angle d'incidence des rayons solaires demeure élevé à l'année longue.
+
+## V) Le devenir des rayons solaires en traversant l'atmosphère
+
+Le rayonnement en provenance du Soleil peu subir, lorsque qu'il rencontre l'atmosphère l'un des trois destins suivants :
+
+* il peut - être réfléchi par l'atmosphère
+* il peut - être diffusé par l'atmosphère
+* il peut - être absorbé par l'atmosphère
+
+![Le devenir des rayonnements solaire](Images/rs.JPG)
+
+La transmission représente le rayonnement dans le faisceau de lumière à l'issu de l'absorption, la diffusion et la réflexion.
+
+C'est la longueur d'onde du rayonnement ainsi que la nature du milieu qu'il traverse qui déterminent s'il est absorbé, diffusé, réfléchi ou simplement transmis.
+
+### A) La diffusion
+
+La diffusion est le processus par lequel une onde électromagnétique est dispersée lorsqu'elle intéragit avec la matière
+
+En augmentant l’épaisseur de la couche atmosphérique traversée par la radiation, on favorise la diffusion complète du bleu. Le seul rayonnement nous parvenant à l’oeil est donc le rouge.
+
+En augmentant l’épaisseur de la couche atmosphérique traversée par la radiation, on favorise la diffusion complète du bleu. Le seul rayonnement nous parvenant à l’oeil est donc le rouge.
+
 Destin de la radiation solaire dans l'atmosphère
 
 25% réfléchie vers l'espace
 
 * 19% réfléchie par les nuages
-* 6% diffusée par les gaz atmosphériques
+* 6% diffusée par les gaz atmosphériques (diffusion de Rayleigh)
 
 25% absorbée par les gaz atmosphériques
 
-* 18% : vapeur d'eau
-* par l'ozone
+* 18% : vapeur d'eau troposphérique
+* 7%  : ozone stratosphérique
 
-* 50% transmise au sol
+50% transmise au sol
 
 Un rayonnement dans le domaine du visible. On a une radiation de la Terre correspondant à la température de la Terre (15°C) renvoie en IR. Les gaz à effet de serre piège les infrarouges émit par la Terre (96%). 
 
