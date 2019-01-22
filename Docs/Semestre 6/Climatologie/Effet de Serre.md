@@ -1,8 +1,8 @@
-# La Climat de la Terre présent
+# Le Système Climatique
 
 Excès d'énergie dans l'hemisphère Sud avec l'inclinaison de la Terre.
 
-L'énergie arrivant pas en dessous est négligeable à celle arrivant par l'espace.
+L'énergie arrivant par en dessous est négligeable à celle arrivant par l'espace.
 
 L'échelle est primordiale. Un échelle de temps où on peut rajouter une échelle spatiale.
 
@@ -14,24 +14,63 @@ L'échelle est primordiale. Un échelle de temps où on peut rajouter une échel
 
 La climatologie peut avoir un impact sur la météorologie.
 
+## I) Mise en contexte
+
+Le Soleil :
+
+* Etoile ordinaire en périphérie de notre Galaxie (la Voie Lactée) contenant quelques 200 milliards d'étoiles
+* Etoiles : boules de gaz d'hydrogène incandescent générant des quantités colossales d'énergie provenant de la fusion nucléaire de leur hydrogène en hélium dans le noyau
+* Le Soleil est prévu pour fournir cette énergie pour encore 5 milliards d'années, avant de s'éteindre
+
+Le Système solaire :
+
+* Huit planètes majeures gravitant autour du Soleil
+* Astéroïdes, comètes, planètes naines (Pluton etc..), poussières
+* Formation : il y a 4,5 milliards d'années par accrétion de la matière interstellaire. La Terre est en quelque sorte un amas de poussières rocheuses et de gaz, agglutinés par gravité.
+
+La Terre : 
+
+* 3e planète en distance, à ~150 millions de km du Soleil
+* 5e planète en taille (diamètre de ~12 700 km)
+* Planète rocheuse comme Mercure, Vénus et Mars
+
 On est situé à la distance parfaite pour avoir l'eau sur trois phases, et ainsi créer un cycle hydrologique.
 
-## Les atmosphère planétaires
+![Cycle hydrologique](Images/t.JPG)
 
-Lors de la formation des planètes, les poussières et roches forment la partie solide sphérique et les gaz s'accumulent autour, puisque plus léger.
+### Les atmosphère planétaires
 
-## Notre atmosphère
+Lors de la formation des planètes, les poussières et roches forment la partie solide sphérique et les gaz s'accumulent autour, puisque plus légers.
 
-Le rôle de l'atmosphère est très importante.
+L'atmosphère est conséquence naturelle de la formation des planètes.
 
-L'énergie rayonné par la Terre qui est emprisonner par les gaz à effet de serre.
+Seules les planètes les plus massives conservent leur atmosphère. Toutes les planètes majeures, sauf Mercure, en possèdent une.
 
-### B) Bilan énergétique de la Terre
+### Notre atmosphère
 
-#### L'énergie et la météo
+La Terre est entourée d'une mince pellicule de gaz appelée l'atmosphère. Principalement composée d'azote (N2) et d'Oxygène (O2). Epaisseur avoisinant la centaine de km (ligne de Kàrmàn).
 
-Tous les phénomènes météorologiques sont le résultat de transferts d'énergie (chaleur). Tout transfert de chaleur
+* limite aéronotique de l'atmosphère
 
+Poids total : 5 000 000 000 000 000 tonnes
+
+Le rôle de l'atmosphère est très importante. Elle nous protège des rayons x, UV du Soleil, des météorites et des écarts extrêmes de températures grâce à son effet de serre. Elle permet à la vie d'exister.
+
+L'énergie rayonné par la Terre est emprisonnée par les gaz à effet de serre.
+
+
+## II) Bilan énergétique de la Terre
+
+### L'énergie et la météo
+
+Tous les phénomènes météorologiques sont le résultat de transferts d'énergie (chaleur). Tout transfert de chaleur requiert une différence de température. Trois mécanismes de transfert de chaleur par différence de température :
+
+* conduction
+* convection
+* rayonnement (radiation)
+* changement d'état
+
+![Types de transfert de chaleur](Images/3.JPG)
 
 ##### Conduction
 
