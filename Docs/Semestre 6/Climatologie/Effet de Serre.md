@@ -38,7 +38,7 @@ On est situé à la distance parfaite pour avoir l'eau sur trois phases, et ains
 
 ![Cycle hydrologique](Images/t.JPG)
 
-### Les atmosphère planétaires
+### A) Les atmosphère planétaires
 
 Lors de la formation des planètes, les poussières et roches forment la partie solide sphérique et les gaz s'accumulent autour, puisque plus légers.
 
@@ -46,7 +46,7 @@ L'atmosphère est conséquence naturelle de la formation des planètes.
 
 Seules les planètes les plus massives conservent leur atmosphère. Toutes les planètes majeures, sauf Mercure, en possèdent une.
 
-### Notre atmosphère
+### B) Notre atmosphère
 
 La Terre est entourée d'une mince pellicule de gaz appelée l'atmosphère. Principalement composée d'azote (N2) et d'Oxygène (O2). Epaisseur avoisinant la centaine de km (ligne de Kàrmàn).
 
@@ -59,28 +59,20 @@ Le rôle de l'atmosphère est très importante. Elle nous protège des rayons x,
 L'énergie rayonné par la Terre est emprisonnée par les gaz à effet de serre.
 
 
-## II) Bilan énergétique de la Terre
 
-### L'énergie et la météo
 
-Tous les phénomènes météorologiques sont le résultat de transferts d'énergie (chaleur). Tout transfert de chaleur requiert une différence de température. Trois mécanismes de transfert de chaleur par différence de température :
 
-* conduction
-* convection
-* rayonnement (radiation)
-* changement d'état
 
-![Types de transfert de chaleur](Images/3.JPG)
 
-##### Conduction
 
-Tranfert des vibrations moléculaires par contact direct avec molécules voisines.
 
-##### Convection
 
-Le moins dense remonte
 
-##### Rayonnement
+
+
+
+
+
 
 Destin de la radiation solaire dans l'atmosphère
 
