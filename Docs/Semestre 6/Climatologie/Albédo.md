@@ -15,7 +15,9 @@ On estime à 31% le taux d'albédo global planétaire. L'albédo est réparti de
 
 Albédo est très fort au pôle grâce à la glace. Au Nord, on a plus d'amplitude si c'est très étroit ou qu'on descend plus bas en altitude car le Groeland descend beaucoup plus bas en latitude et on a beacoup de glace de mer (couche de glace sur l'Océan).
  
-![](Images/albédo.JPG)
+![Albédo planétaire](Images/albédo.JPG)
+ 
+En somme, l'albédo est la fraction du rayonnement solaire frappant une surface qui est réfléchie vers le haut. Cette énergie est perdue car non utilisée pour réchauffer la surface en question. L'albédo le plus élevé dans la nature est la neige fraîchement tombée (90%). L'albédo le plus bas se retrouve au - dessus des océans. 
  
 On a une variabilité de l'albédo en fonction des saison. Quand il va tomber de la neige dans une grande surface de l'hémisphère Nord (plus de continent que l'hémisphère Sud, l'albédo sera très fort, 85 à 90% de l'énergie est réfléchie.
 
@@ -25,6 +27,8 @@ Pas de neige, l'albédo baisse et piègeage de la chaleur, tout dépend de l'occ
 * champs : 10-30%
 * eau : 3-100%
 * neige : 40-95%
+
+![Albédo](Images/a2.JPG)
 
 Disparition des glaciers à un rôle aussi énergétique. Le fait de disparaitre les calottes de glace fait disparaitre la glace flottante, la banquise,  au lieu d'avoir de la banquise qui réfléchie à 90%, on a un Océan, un sol qui absorbera à 90%, on va donc réchauffer encore plus.
 
