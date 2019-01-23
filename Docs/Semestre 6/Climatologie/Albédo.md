@@ -5,13 +5,17 @@ Effet d'albédo : renvoie le rayonnement au lieu de l'absorber
 L'albédo de la Terre est le rayonnement solaire réfléchi vs rayonnement solaire incident, ratio entre ce qui arrive et ce qui part.
 
 
-Un albédo faible 5 à 10 % est au niveau des océans. Les océans vont donc se dilater, augmentation du niveau marin. à% de ce qui arrive du rayonnement dans l'Océan repart dans l'atmosphère. L'albédo faible capte beaucoup d'énergie donc l'océan se réchauffe et va se dilater, hausse du niveau marin.
+
+
+Un albédo faible 5 à 10 % est au niveau des océans. Les océans vont donc se dilater, augmentation du niveau marin. 0% de ce qui arrive du rayonnement dans l'Océan repart dans l'atmosphère. L'albédo faible capte beaucoup d'énergie donc l'océan se réchauffe et va se dilater, hausse du niveau marin.
 
 Les deserts sont des lieux où on a un albédo très fort donc beaucoup d'énergie renvoyé dans l'atmosphère donc dans l'espace.
 
 On estime à 31% le taux d'albédo global planétaire. L'albédo est réparti de façon très hétérogène.
 
 Albédo est très fort au pôle grâce à la glace. Au Nord, on a plus d'amplitude si c'est très étroit ou qu'on descend plus bas en altitude car le Groeland descend beaucoup plus bas en latitude et on a beacoup de glace de mer (couche de glace sur l'Océan).
+ 
+![](Images/albédo.JPG)
  
 On a une variabilité de l'albédo en fonction des saison. Quand il va tomber de la neige dans une grande surface de l'hémisphère Nord (plus de continent que l'hémisphère Sud, l'albédo sera très fort, 85 à 90% de l'énergie est réfléchie.
 

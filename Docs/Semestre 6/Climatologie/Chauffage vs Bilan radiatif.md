@@ -89,7 +89,14 @@ Destin de la radiation solaire dans l'atmosphère
 
 50% transmise au sol
 
-Un rayonnement dans le domaine du visible. On a une radiation de la Terre correspondant à la température de la Terre (15°C) renvoie en IR. Les gaz à effet de serre piège les infrarouges émit par la Terre (96%). 
+![Schéma bilan du rayonnement](Images/bilan.JPG)
+
+L'atmosphère n'absorbe (donc n'utilise) que le quart de la radiation solaire incidente. Les trois quarts restants sont en majorité transmis vers la surface (2/3 de ces trois quarts). C'est la surface qui absorbe la majorité des rayons solaires. L'albédo planétaire est dominé par les reflexions atmosphériques des nuages et de la diffusion de Rayleigh.
+
+** La réflexion des rayons solaires est effectuée principalement par l'atmosphère. L'absorption des rayons solaires est effectuée principalement par la surface. L'atmosphère est donc réchauffée par en - dessous.**
+
+
+On a une radiation de la Terre correspondant à la température de la Terre (15°C) renvoie en IR. Les gaz à effet de serre piège les infrarouges émit par la Terre (96%). 
 
 Si on augmente la quantité de CO2, méthane ou gaz à effet de serre, on empêche encore plus de gaz à repartir donc les basses couches de l'atmosphère se réchauffe.
 
@@ -97,10 +104,20 @@ En terme de spectre, le Soleil renvoie dans le domaine du visible. Ainsi que le 
 
 Le spectre d'emission de la Terre est absorbé par le méthane et le gaz carbonique ce sont des cycles ouverts.
 
+![Rayonnement solaire vs terrestre](Images/ra.JPG)
+
 L'effet de serre piègeage des gaz à effet de serre du rayonnements infrarouge de la Terre pas celui du Soleil. 
 
 La vapeur d'eau est un cycle fermé, on ajoute pas de vapeur d'eau dans l'atmopshère.
 
+![Rayonnement solaire vs terrestre](Images/ra2.JPG)
+
 Les nuages réfléchissent les rayonnement solaire ainsi que les déserts et les zones polaires.
 
-L'energie émise du Soleil est plus grande que celle émise par la Terre
+![Nuage](Images/nuage.JPG)
+
+L'energie émise du Soleil est plus grande que celle émise par la Terre.
+
+L'atmosphère terrestre est relativement transparente au rayonnement solaire, mais essentiellement opaque aux IR "lointains". L'atmosphère absorbe 96% du rayonnement IR émis par la surface, puis la réémet en partie vers la surface. En conséquence, la surface dispose de deux sources de chaleur au lieu d'une seule.
+
+La source IR est x2 plus intense que la source solaire. La surface est réchauffée davantage par notre atmosphère que par le Soleil lui - même. L'effet de serre atmosphérique naturel est substantiel : il maintient la température à la surface de la Terre 33 °C plus élevée qu'en son absence; sa présence est essentielle à toute vie sur la Terre.
