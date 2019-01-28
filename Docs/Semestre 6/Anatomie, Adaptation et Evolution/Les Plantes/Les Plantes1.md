@@ -25,3 +25,24 @@ Stratégie trachéophytique
 * développement des structures de soutien permettant l'accès à cette ressource
 * développement d'un appareil végétatif et d'une période d'activité permettant d'accéder à cette ressource dans un contexte compétitif.
 
+L'ensemble de ces contraites s'exercent dans un contexte :
+
+* de développement du végétal devant s'accomoder tout au long de sa vie
+* de compétition avec les autres végétaux
+
+Or, trois mécanismes photosynthétiques existent avec des budgets énergétiques considérés comme similaires 
+
+* C3 : classique
+* C4 : séparation spatiale
+* CAM : séparation temporelle
+
+Pour s'en sortir : réponse végétative d'un végétal devra être différente de celle de son voisin
+
+* expression de cette différence visible aux niveaux :
+	* morphologique
+    * anatomique
+    * chronologique
+    * chimique
+    
+Différences en termes d'allocation de ressources : privilèges à la croissance en hauteur , privilège à la reproduction... (notion de **trade - off**).
+
