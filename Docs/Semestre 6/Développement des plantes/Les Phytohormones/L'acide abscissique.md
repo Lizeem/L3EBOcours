@@ -1,0 +1,3 @@
+# L'Acide Abscissique 
+
+C'est une hormone de stress, intervient essentiellement lors de stress abiotique (sécheresse, froid..). Elle fait partie également des phytohormones classiques, identifiée en 1963. L'acide abscissique agit essentiellement comme un inhibiteur de la croissance. Elle contrôle l'ouverture des stomates et joue un rôle important dans l'entrée en dormance des bourgeons et des graines. 
