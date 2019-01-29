@@ -1,108 +1,33 @@
-# Le Système Climatique
+# Effet de serre
 
-Excès d'énergie dans l'hemisphère Sud avec l'inclinaison de la Terre.
+L'eau a un rôle important dans le gaz à effet de serre. Il a fallu 40 ans pour résorber le trou de la couche d'Ozone après la décision d'arrêter ces effets (traité de Montréal) grâce à une prise de conscience international même si les chinois on continué dans relarguer un peu.
 
-L'énergie arrivant par en dessous est négligeable à celle arrivant par l'espace.
+![Effet de serre](Images/effet.JPG)
 
-L'échelle est primordiale. Un échelle de temps où on peut rajouter une échelle spatiale.
+L'Ozone stratosphérique nous protège. L'Ozone troposphérique (smog) est néfaste pour nous, il a une forte augmentation l'été dans les villes, effet toxique sur l'Homme et la végétation.
 
-**Météorologie** : Science qui étudie les phénomènes atmosphériques notamment en vue d'établir des prévisions.
+L'Ozone Stratosphérique comprimé ferait 3 mm d'épaisseur. Elle permet la vie sur Terre car bloque les UV.
 
-**Climatologie** : Etude de la succession de conditions météorologiques sur de longues périodes de temps
+Contribution à l'effet de serre 50% de CO2
 
-**Paléoclimatologie** : Discipline qui documente les climats passés à l'échelle des temps géologiques.
+Le potentiel de réchauffement des gaz. Le CO2 est prit comme référence, est ce que ça emmagasine plus de chaleur que le CO2 ou pas.
 
-La climatologie peut avoir un impact sur la météorologie.
+On compte 1 an pour le CO2, au bout de 100 ans nous ne reserberons pas la couche de méthane, protoxyde d'azote : augmentation 100 ans après. Il suffit d'avoir une très faible quantité pour avoir un réchauffement très fort.
 
-## I) Mise en contexte
+L'origine du CO2 est 91% de l'utilisation d'énergie fossile type ciment.
 
-Le Soleil :
+Les suies sont pieger par l'atmosphère, 25% dans les forêts, si on veut tout pieger il faut énormément d'arbre. 25% va dans les Océans.
 
-* Etoile ordinaire en périphérie de notre Galaxie (la Voie Lactée) contenant quelques 200 milliards d'étoiles
-* Etoiles : boules de gaz d'hydrogène incandescent générant des quantités colossales d'énergie provenant de la fusion nucléaire de leur hydrogène en hélium dans le noyau
-* Le Soleil est prévu pour fournir cette énergie pour encore 5 milliards d'années, avant de s'éteindre
+L'augmentation du CO2 est historique depuis 1960, depuis qu'on s'en rend compte. L'augmentation du CO2 est en dent de scie, 2014 on a atteint la barre des 400ppm. Dent de scie : saisons, plus de continents dans l'hémisphère Nord, pendant l'été boréale, on piège plus de CO2 que pendant l'été australe.
 
-Le Système solaire :
+![Augmentation du CO2](Images/co2.JPG)
 
-* Huit planètes majeures gravitant autour du Soleil
-* Astéroïdes, comètes, planètes naines (Pluton etc..), poussières
-* Formation : il y a 4,5 milliards d'années par accrétion de la matière interstellaire. La Terre est en quelque sorte un amas de poussières rocheuses et de gaz, agglutinés par gravité.
+Le CO2 est dans l'atmosphère à cause des industries.
 
-La Terre : 
+Les sources du méthane : feu de biomasse, les ruminants, les zones humides (si en Sibérie il fait plus chaud, neige va fondre, donc marécages, zone humides : zone de méthane, c'est une bombe climatique), sources fossiles, thermites, hydrate de gaz sur les talus continentaux qu'on veut chercher pour le carburant
 
-* 3e planète en distance, à ~150 millions de km du Soleil
-* 5e planète en taille (diamètre de ~12 700 km)
-* Planète rocheuse comme Mercure, Vénus et Mars
+L'Ocean piège le méthane.  Il est en augmentation depuis 1983. 
 
-On est situé à la distance parfaite pour avoir l'eau sur trois phases, et ainsi créer un cycle hydrologique.
+C'est augmentation sont dû à la population qui ne cesse de croitre.
 
-![Cycle hydrologique](Images/t.JPG)
-
-### A) Les atmosphère planétaires
-
-Lors de la formation des planètes, les poussières et roches forment la partie solide sphérique et les gaz s'accumulent autour, puisque plus légers.
-
-L'atmosphère est conséquence naturelle de la formation des planètes.
-
-Seules les planètes les plus massives conservent leur atmosphère. Toutes les planètes majeures, sauf Mercure, en possèdent une.
-
-### B) Notre atmosphère
-
-La Terre est entourée d'une mince pellicule de gaz appelée l'atmosphère. Principalement composée d'azote (N2) et d'Oxygène (O2). Epaisseur avoisinant la centaine de km (ligne de Kàrmàn).
-
-* limite aéronotique de l'atmosphère
-
-Poids total : 5 000 000 000 000 000 tonnes
-
-Le rôle de l'atmosphère est très importante. Elle nous protège des rayons x, UV du Soleil, des météorites et des écarts extrêmes de températures grâce à son effet de serre. Elle permet à la vie d'exister.
-
-L'énergie rayonné par la Terre est emprisonnée par les gaz à effet de serre.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Destin de la radiation solaire dans l'atmosphère
-
-25% réfléchie vers l'espace
-
-* 19% réfléchie par les nuages
-* 6% diffusée par les gaz atmosphériques
-
-25% absorbée par les gaz atmosphériques
-
-* 18% : vapeur d'eau
-* par l'ozone
-
-* 50% transmise au sol
-
-Un rayonnement dans le domaine du visible. On a une radiation de la Terre correspondant à la température de la Terre (15°C) renvoie en IR. Les gaz à effet de serre piège les infrarouges émit par la Terre (96%). 
-
-Si on augmente la quantité de CO2, méthane ou gaz à effet de serre, on empêche encore plus de gaz à repartir donc les basses couches de l'atmosphère se réchauffe.
-
-En terme de spectre, le Soleil renvoie dans le domaine du visible. Ainsi que le domaine de l'UV mais l'Ozone le filtre donc on ne le reçoit pas, nous ne sommes donc pas brulé par le rayonnement.
-
-Le spectre d'emission de la Terre est absorbé par le méthane et le gaz carbonique ce sont des cycles ouverts.
-
-L'effet de serre piègeage des gaz à effet de serre du rayonnements infrarouge de la Terre pas celui du Soleil. 
-
-La vapeur d'eau est un cycle fermé, on ajoute pas de vapeur d'eau dans l'atmopshère.
-
-Les nuages réfléchissent les rayonnement solaire ainsi que les déserts et les zones polaires.
-
-L'energie émise du Soleil est plus grande que celle émise par la Terre
-
-
-
+L'Ozone stratosphérique, aux pôles car réaction à très faible température.

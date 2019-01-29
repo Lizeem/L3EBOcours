@@ -2,16 +2,19 @@
 
 Végétaux vasculaires :
 
-* developpement dans contexte de ressources spatialement ségrégées
+* développement dans un contexte de ressources spatialement ségrégées
 * ségrégation : organes spécialisés dans la capture des ressources
+
+* Organes épigés : feuilles (CO2, lumière)
+* Organes endogés : racines (eau, sels minéraux)
 
 Stratégie trachéophytique
 
 1) Connexion entre ces deux organes riches en ressources différentes, existence d'un axe contenant des structures conductrices
 
-2) Soutien de ces structures : absence de la poussée d'Archimède, existence de structures de soutien : tissus de soutien simples (primaires = xylème, secondaire = bois) également conducteurs
+2) Soutien de ces structures : absence de la poussée d'Archimède, existence de structure de soutien : tissus de soutien simples (primaires = xylème, secondaire = bois) également conducteurs
 
-3) Contrôle des flux d'eau : nécéssaires au métabolisme, au soutien. Différentes formes : solvant pour les sels minéraux, les photosynthétats... 
+3) Contrôle des flux d'eau : nécéssaire au métabolisme, au soutien. Différentes formes : solvant pour les sels minéraux, les photosynthétats... 
 
 * maximisation des entrées 
 * contrôle du volume interne
@@ -44,5 +47,4 @@ Pour s'en sortir : réponse végétative d'un végétal devra être différente 
     * chronologique
     * chimique
     
-Différences en termes d'allocation de ressources : privilèges à la croissance en hauteur , privilège à la reproduction... (notion de **trade - off**).
-
+Différence en termes d'allocation de ressources : privilèges à la croissance en hauteur , privilège à la reproduction... (notion de **trade - off**).
