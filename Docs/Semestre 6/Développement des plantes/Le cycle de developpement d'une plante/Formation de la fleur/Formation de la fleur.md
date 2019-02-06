@@ -12,6 +12,8 @@ Les pièces fertiles
 * femelle, **gynécée** : le pistil, l'ensemble des carpelles
 * mâles, l'**androcée** : l'ensemble des étamines
 
+![Angiosperme](Images/angio.JPG)
+
 Présentation de la fleur de graminée, on a une organisation florale différente. Constitué de plusieurs fleurs formant un épi situé à l'extrémité des chaumes (tiges). 
 
 ![L'épillet](Images/épillet.jpg)
@@ -20,10 +22,14 @@ Le gynécée est constitué d'un ensemble de carpelles et un carpelle est consti
 
 Le gynécée peut être constitué d'un carpelle unique ou de plusieurs carpelles. Si on a plusieurs carpelles, ils peuvent être soudés, ou bien libres à la surface du receptacle, dans ce cas, on parle d'**ovaires polycarpiques**.
 
+![Carpelles](Images/carpelle.JPG)
+
 On peut avoir deux types d'organisation d'ovaires, 
 
 * ovaire infère, l'ovaire est dans le receptacle 
 * ovaire supère, l'ovaire est en position supérieur au niveau du réceptacle floral
+
+![Ovaires](Images/ovaire.JPG)
 
 ## II) Formation du gamétophyte femelle
 
@@ -31,8 +37,11 @@ Les ovules sont situés dans l'ovaire et sont destinés à se transformer en gra
 
  Au sein de l'ovule se forme le gamétophyte femelle, la **macrosporogénèse**. L'ovule va se former par un bourgeonnement de la surface ovarienne, un cellule mère, l'**archespore** va donner un **mégasporocite diploïde**. Ce mégasporocite diploïde va subir une méïose où il va y avoir la formation de 4 cellules hamploïdes appelés **macrospore**. Avant la méoïse, sporocyte et après spore. Un seul macrospore va se former, celui se trouvant au niveau du **micropyle**. 
  
+![Mitose](Images/mitose.JPG)
 
 La macrospore qui survit va subir trois mitoses successives qui vont aboutir à sept cellules haploïdes et à huit noyaux. Les trois cellules situés aux pôles chalazien, les antipodes. Les synergides dans le pôle mycropilaire. 
+
+![Gamétophyte en developpement](Images/dvp.JPG)
 
 MMC: archespore qui va évoluer pour donner un mégasporocyte. Cellule mère des megaspores
 
@@ -63,23 +72,29 @@ Chez les graminées on n’a pas la dégénération des 3 cellules antipode, ell
 diviser. Rôle dans la transition alimentaire, elles vont former des papilles.
 
 Rôle crucial du gamétophyte femelle dans le développement des plantes.
+
 La phytohormone auxine joue un rôle déterminant dans la formation du gamétophyte femelle chez
 cette plante.
+
+![auxine](Images/auxine.JPG)
 
 Au départ de la formation du gamétophyte final on avait un source d’**auxine** qui était présente au
 niveau du **nucelle**. Transport polarisé de l’auxine. L’auxine arrive du coté du micropyle,
 progressivement on va avoir un **gradient d’auxine** au travers du gamétophyte femelle. Le pôle qui
 va avoir une forte concentration d’auxine c’est le **micropyle** et celui qui va avoir une faible
 concentration c’est le pôle de la **chalaze**. Ce gradient va être responsable de l’**identité cellulaire**
-des cellules constituant le gamétophyte. La concentration d’auxine va diminuer ensuite. La
-concentration maximale d’auxine observé au niveau du micropyle au stade FG2 est du à 2 facteurs: expression du gène **YUC1**. Cette expression se fait au niveau du micropyle au **stade G1**.
-Ensuite au stade G2 on a un transport de l’auxine et on a un second gène qui va rentrer en jeu,
-gène **PIN1** transporteur d’auxine.
+des cellules constituant le gamétophyte. La concentration d’auxine va diminuer ensuite. La concentration maximale d’auxine observé au niveau du micropyle au stade FG2 est du à 2 facteurs: expression du gène **YUC1**. Cette expression se fait au niveau du micropyle au **stade G1**.
+Ensuite au stade G2 on a un transport de l’auxine et on a un second gène qui va rentrer en jeu, gène **PIN1** transporteur d’auxine.
+
+![Gènes](Images/gene.JPG)
 
 ## III) Formation du gamétophyte mâle
 
-Une **anthère**: deux loges reliées par un connectif. Chacune des loges contient deux sacs
-polliniques. Quand l’anthère arrive à maturité les sacs pollinique vont fusionner.
+![Gamétophyte mâle](Images/male.JPG)
+
+Une **anthère**: deux loges reliées par un connectif. Chacune des loges contient deux sacs polliniques. Quand l’anthère arrive à maturité les sacs pollinique vont fusionner.
+
+![Anthère](Images/anthere.JPG)
 
 L’**assise mécanique** va être constituée par des cellules qui vont avoir une parois présentant des
 **dépôts de lignine** (en u) qui vont se rajouter à la paroi précédente. La lignine permet une
@@ -111,12 +126,4 @@ Auxine importante dans le développement des anthères et dans le grain de polle
 
 Le grain de pollen résiste à la dessication.
 
-
-
-
-
-
-
-
-
-
+![Grain de pollen](Images/grain.JPG)
