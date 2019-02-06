@@ -1,8 +1,4 @@
-# Introduction à l'écologie des écosystèmes
-
-## I) Introduction : l'écologie des écosystèmes
-
-### A) Ecosystème, écocomplexe et biosphère
+# Ecosystème, écocomplexe et biosphère
 
 L'écologie est l'étude des intéractions entre les organismes vivants et le milieu, et des organismes vivants entre eux dans les conditions naturelles.
 
