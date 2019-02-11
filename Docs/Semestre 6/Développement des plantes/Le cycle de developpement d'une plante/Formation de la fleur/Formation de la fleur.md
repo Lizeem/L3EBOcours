@@ -10,7 +10,7 @@ Les pièces stériles : le périanthe
 Les pièces fertiles 
 
 * femelle, **gynécée** : le pistil, l'ensemble des carpelles
-* mâles, l'**androcée** : l'ensemble des étamines
+* mâle, l'**androcée** : l'ensemble des étamines
 
 ![Angiosperme](Images/angio.JPG)
 
@@ -127,3 +127,41 @@ Auxine importante dans le développement des anthères et dans le grain de polle
 Le grain de pollen résiste à la dessication.
 
 ![Grain de pollen](Images/grain.JPG)
+
+## IV) Les modes de pollinisation
+
+La répartition des fleurs chez les plantes Angiospermes sont de type hermaphrodite. Au sein d'une même fleur, on va retrouver des carpelles et des étamines. On a aussi des plantes monoïques, qui, sur un même individu possèdent des fleurs mâles et femelles mais au sein des fleurs sont séparés.
+Chez les plantes dioïque, on a des individus mâles et femelles.
+
+On va avoir des modes de pollinisation (transport du grain de pollen de l'anthère vers le stigmate) autogame ou allogame. 
+
+**Autogamie** : Auto fécondation, une plante va être pollinisée par du pollen qui provient du même individu, soit à l'intérieur d'une même fleur, ou bien de fleur différente. Ce mode de pollinisation n'est pas favorable au brassage génétique et malgré le fait qu'on à 80% de fleur hermaphrodites, la plupart de sont pas autogames.
+
+**Allogamie** : pollinisation croisée, le grain de pollen est transporté sur le stigmate d'une autre plante de la même espèce.
+
+Les espèces dïoiques seront favorables à l'allogamie. Mécanisme génétique ou adaptation atomique qui limite l'autofécondation chez les plantes hermaphrodites et monoïques. 
+
+(voir photo)
+
+Les étamines vont libérer le grain de pollen alors que la partie femelle ne sera pas encore arrivée à maturité.
+
+**Protoginie** : La fleur femelle va arrivée à maturité en premier, les étamines de la même fleur, ne sont pas encore à maturité. Les carpelles sont situés au niveau supérieur des étamines chez les plantes monoïques, limitent l'autofécondation.
+
+**L'hétérostylie** : 50% de plantes brévistylées (style très court et étamines très longues), 50% des plantes sont longistylées (partie femelle longue et partie mâle très courte) afin de favoriser l'allogamie.
+
+Chez les campanules, on va avoir de la **protandrie**, quand on a un bouton floral en cours de maturation, on à la présence des étamines qui sont formés et vont avoir à leur surface les grains de pollens. Les carpelles ne seront pas encore arrivée à maturité. Lorsqu'elle éclos, les étamines se fanent. Au moment où la fleur s'évanouie, les carpelles vont se developper ainsi que le style et les stigmates. Si il n'y a pas eu de pollinisation, le stigmate va s'enrouler et va arriver en contact des grains de pollen qui se sont accrochés au niveau du style. Au tout dernier moment, on aura de l'autogamie.
+
+Lorsque le grain de pollen se dépose sur les stigmates, on aura des incompatibilité au sein du même espèce, **auto - incompatibilité**. Le pollen ne pourra pas germer si elle provient d'une même fleur et plante. Il existe des sytèmes auto - incompatibilité génétique pour rendre obligatoire la fécondation croisée. Ce mécanisme est basé sur l'expression de gène d'auto - compabilité qui sont les gènes S. Ils existent sous la forme de nombreux allèles. Les gènes vont former des glycoprotéines. Ces glycoprotéines peuvent être présentes à différents endroits, à la fois sur la partie mâle et sur la partie femelle.  
+
+* les glycoprotéines seront au niveau de l'exine du tapis résulte de l'expression des deux allèles du gène
+* les glycoprotéines seront localisés au niveau de l'intine (paroi interne du grain de pollen) résultera de l'expression d'un seul allèle du gène
+
+Pour la partie femelle, on va retrouver des glycoprotéines soit :
+
+* au niveau des stigmates
+* au niveau du style
+
+On aura deux types d'auto - incompatibilité
+
+* sporophytique (diploide) : les glycoprotéines sont situés au niveau de l'exine, rejet précoce du grain de pollen, il ne va pas pouvoir germer car on aura reconnaissance entre les glycoprotéines à la surface du grain de pollen et les glycoprotéines du stigmate. 
+* gamétophytique (grain de pollen) : les gycoprotéines sont synthétiser par le gamétophyte mâle, et sont situés au niveau de l'intine.   
