@@ -174,22 +174,10 @@ On aura deux types d'auto - incompatibilité
 
 3. La croissance du tube pollinique, c'est une croissance scallariforme. Tout au long de la croissance, on va avoir formation de bouchon de callose d'une forme d'"échelle". Moyen de pousser l'extrémité du tube le contenu du cytoplasme pour qu'il puisse arriver jusqu'au gamétophyte femelle. Malgré la croissance du tube pollinique, le volume du cytoplasme ne bouge pas. Le tube à forte activité métabolique puisque qu'il doit synthétiser des polymères pariétaux. Il faut des moyens pour guider la croissance du tube pollinique, on a une hiérarchie de signaux pour guider le tube pollinique jusqu'au gamétophyte femelle. La croissance de ce tube sera guidé différemment suivant si on a un style creux ou un style avec un tissu de transmission gélifié.
 
-Lorsque le grain de pollen va germer, il va croitre le long de l'épiderme du tissu de transmission.
+Lorsque le grain de pollen va germer, il va croitre le long de l'épiderme du tissu de transmission. Des molécules sont capables d'attirer par chimiotactisme la croissance de ce tube, les molécules qui sont capable d'orienter la croissance du tube. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Dans le cas du Lys c'est la chemoscyanine, qui sera de plus en plus important du stigmate vers l'ovaire. La protéine SCA appartient à la famille des adhésine et on la retrouve au niveau du style et du stigmate. Elle va se lier avec une pectine pour former une matrice sur lequel le grain de pollen va adhérer. 
+Dans le cas du tabac, le style sera gélifier. Les mécanismes qui vont permettre la croissance et l'adhésion seront différentes du Lys. Vitesse de la croissance du tube pollinique (1,7 mm.h-1). Le tube va croitre à l'intérieur d'un gel où on retrouvera des pectines et AGP. Des populations d'AGP sont spécifique au style et au stigmate. Ils jouent aussi un rôle important dans la défense de la racine. Ce qui va permettre de contrôler la croissance du tube est un gradient de glycosylation des AGP qui va guider le tube pollinique.
 
 
 
