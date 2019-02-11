@@ -165,3 +165,33 @@ On aura deux types d'auto - incompatibilité
 
 * sporophytique (diploide) : les glycoprotéines sont situés au niveau de l'exine, rejet précoce du grain de pollen, il ne va pas pouvoir germer car on aura reconnaissance entre les glycoprotéines à la surface du grain de pollen et les glycoprotéines du stigmate. 
 * gamétophytique (grain de pollen) : les gycoprotéines sont synthétiser par le gamétophyte mâle, et sont situés au niveau de l'intine.   
+
+## V) La croissance du tube pollinique
+
+1. Réhydration du grain de pollen. Le grain de pollen dans un état déshydrater, il est en dormance. Elle se fera de façon différente selon le type de stigmate : stigmate hydratée (gel qui va le recouvrir) ou stigmate sec (présence de papilles). Pour pouvoir germer et se réhydrater, il doit être sur un stigmate receptif qui peut durer en 1h à plusieurs jours.
+
+2. Lorsque le grain de pollen arrive sur ce stigmate, on aura une hydratation du pollen très régulée. Lorsqu' on a des stigmates hydratés, si il est compatible il va se retrouver dans un environnnement aqueux et va pouvoir prélever de l'eau. Dans le cas des stigmates secs, il y aura dans un premier temps une phase d'adhésion cellulaire qui va mettre en oeuvre les consituants de l'exine afin de former une zone de contact (mobilisation de molécule de l'exine) et renforcer l'adhésion entre le pollen et le stigmate. Ainsi il y aura une hydratation régulée du grain de pollen qui va faire intervenir des canaux à eaux. 
+
+3. La croissance du tube pollinique, c'est une croissance scallariforme. Tout au long de la croissance, on va avoir formation de bouchon de callose d'une forme d'"échelle". Moyen de pousser l'extrémité du tube le contenu du cytoplasme pour qu'il puisse arriver jusqu'au gamétophyte femelle. Malgré la croissance du tube pollinique, le volume du cytoplasme ne bouge pas. Le tube à forte activité métabolique puisque qu'il doit synthétiser des polymères pariétaux. Il faut des moyens pour guider la croissance du tube pollinique, on a une hiérarchie de signaux pour guider le tube pollinique jusqu'au gamétophyte femelle. La croissance de ce tube sera guidé différemment suivant si on a un style creux ou un style avec un tissu de transmission gélifié.
+
+Lorsque le grain de pollen va germer, il va croitre le long de l'épiderme du tissu de transmission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
