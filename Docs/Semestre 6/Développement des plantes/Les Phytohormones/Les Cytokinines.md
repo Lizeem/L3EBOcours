@@ -7,6 +7,9 @@ Les cytokinines ont des transporteurs localisés au niveau de la membrane plasmi
 
 Les mécanismes de ces hormones sont assez complexe. Les cytokinines provenant de la partie aérienne sont transportés vers la partie racinaire en utilisant le phloème. Leur fonction est de jour un rôle dans le système vasculaire racinaire, de réguler le transport polarisé de l'auxine et chez les légumineuses la formation des nodules racinaires.
 
-Il y a un rôle important des auxines et des cytokines dans le contrôle de l'orientation de l'organogénèse.
+Il y a un rôle important des auxines et des cytokines dans le contrôle de l'orientation de l'**organogénèse**.
+
+![Rôle de la cytokinine](Images/cyto.JPG)
 
 Si il y a plus d'auxine que de cytokinines, il y aura des boutures racinaires. Si les taux sont égaux, formation de la callogénèse (une strcture). Si il y a plus de cytokines, formation de bourgeon végétatif.
+

@@ -18,6 +18,8 @@ Grande variété chimique
 * croissance des fruits parthénocarpiques
 * induction formation éthylène
 
+![Effets de l'auxine](Images/auxine.JPG)
+
 Les anti-auxines sont des substances synthétiques qui présentent une structure analogue aux auxines, elles vont bloquer les recepteurs des auxines.
 
 Les auxines sont synthétisées essentiellement au niveau des graines, ou au niveau de l'apex des tiges
@@ -36,3 +38,5 @@ L'auxine est responsable
 * impliqué dans la formation des racines (la mésogénèse)
 * contrôler le developpement des fruits charnus
 * rôle dans le gravitropisme
+
+![Gravitropisme](Images/gravitropisme.JPG)
