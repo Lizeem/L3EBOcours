@@ -266,22 +266,175 @@ La formation de précipitation :
 
 La formation du brouillard : formé de petites gouttelettes d'eau, se produit lorsque l'humidité relative s'approche de 100% favorable pour la formation de gouttelettes d'eau par condensation. Une humidité relative 100% est atteinte de différentes façons, par exemple : l'air peut se refroidir de plusieurs façons en gardant sa quantité d'humidité presque constante. Radiation : Lorsque l'air se refroidit durant la nuit.
 
-## VII) Les vents et la circulation de latmosphère à l'échelle planétaire
+## VII) Les vents et la circulation de l'atmosphère à l'échelle planétaire
 
+### Physique élémentaire : vitesse et forces
 
+*Qu'est ce que la vitesse d'un objet?*
 
+* Distance parcourue dans un temps donné
+* La direction dans laquelle l'objet se déplace
 
+En physique, lorsque la vitesse d'un objet change (en grandeur et/ou en direction), on dit qu'il y a accélération lorsque :
 
+* seulement la direction change ou,
+* seulement la grandeur change
+* ou les deux changent
 
+Toute accélération d’un objet est le résultat d’une force agissant sur l’objet (si aucune force n’agit, la vitesse de l’objet restera constante et en grandeur, et en direction). Donc si un objet va plus vite, ou s’il va moins vite, ou s’il change de direction, il est accéléré, et cela est dû à une force agissant sur lui. La direction et la vitesse du vent dépend donc de la nature des forces agissant sur l’air.
 
+### Les forces agissant sur le vent
 
+* Force de gradient de pression
+* Force de Coriolis
+* Force centripède
+* Force de friction
 
+#### Force du gradient de pression
 
+![Force du gradient de pression](Images/pression.JPG)
 
+Sur une carte de surface, la force du gradient de pression FGP est toujours dirigée des hautes pressions vers les basses pressions. Plus les isobares sont rapprochés, plus la FGP est grande. Elle est perpendiculaire aux isobares. Les isobares rapprochées correspondent à de forts vents. Les isobares plus lâches correspondent à des vents plus faibles.
 
+#### Force de Coriolis
 
+La FGP est la cause d'origine du vent. Dès que l'air se met à bouger, à cause de la FGP, il est immédiatement dévié de sa course par la force de Coriolis.
 
+La force de Coriolis sur un objet se déplaçant au - dessus d'une Terre en rotation dépend de :
 
+* la vitesse de l'objet
+* la latitude de l'objet
+
+La force de Coriolis ne **change que la direction du vent** jamais la vitesse.
+
+Lorsque le vent est à l'équilibre, entre le FGP et la force de Coriolis, il souffle à vitesse constante et dans la même direction, et se nomme **vent géostrophique**. Le vent est purement géostrophique le long d'isobares **rectilignes**. Le vent géostrophique en altitude peut - être estimé comme suit : 
+
+* Direction : parallèle aux isobares
+* Vitesse : inversement proportionnelle à l'espacement des isobares (rapprochées = vents forts; éloignées = vents faibles)
+* Donc : même en l'absence de mesures directes du vent, le vent réel peut - être estimé (à 10% près) par les mesures de pression seulement.
+
+Force fictive agissant perpendiculairement à la direction du mouvement d'un corps en déplacement dans un référentiel. Les mouvements des masses d’air (résultant de différences de pression) entre les différentes régions du globe vont être affectés par cette force due à la rotation de la Terre et être déviés.
+
+#### Force centripède
+
+Les isobares des cartes météo ne sont pas seulement rectilignes, mais présentent très souvent une courbure plus ou moins importante. La courbure des isobares cause **un déséquilibre** entre la force du
+gradient de pression et la force de Coriolis, causant à son tour un
+changement dans la direction du vent. La force nette se nomme **force centripète**, puisqu’elle agit vers le centre du système afin de changer la direction du vent.
+
+#### Force de friction
+
+La surface de la Terre, avec toutes ses irrégularités et sa topographie variée, cause une force de friction importante sur le vent, qui se fait sentir typiquement jusqu’à 1000m d’altitude. Cette couche de l'atmosphère dans laquelle l'effet de la surface terrestre est notable se nomme la **couche limite planétaire**. La force de friction cause une diminution de la vitessse du vent, et donc de la force de Coriolis. Il s’ensuit une **domination du gradient** de pression sur la force de Coriolis, qui
+amène le vent à tourner vers les basses pressions de sorte que la direction du vent croise les isobares vers les basses pressions selon un angle d’environ 30° en moyenne. Autour d'une dépression en surface, le vent tourne donc dans le sens anti - horaire dans l'hémisphère Nord (horaire dans l'hémisphère Sud) et **converge** vers son centre. Autour d'un anticyclone en surface, le vent tourne dans le sens horaire dans l'hémisphère Nord (anti - horaire dans l'hémisphère Sud) et **diverge** de son centre.
+
+La convergence des vents de surface autour d'une dépression provoque l'ascension de l'air au centre. Vers 5-6 Km d'altitude, cet air commence à diverger. La pression centrale de la dépression changera si la convergence en surface n'est pas égale à la divergence en altitude. Le **développement** d'une depression dépend donc du **déséquilibre** entre la convergence de surface et la convergence d'altitude. 
+
+Résumé des forces :
+
+* Force de gradient de pression : produite par la différence due à une différence de température.
+* Force de Coriolis (force apparente) : dévie la circulation atmosphérique vers la droite dans l'hémisphère Nord à cause de la rotation de la Terre.
+* Force centripède : force nette dirigeant le vent vers l'intérieur des systèmes de basse et de haute pression.
+* Friction : frottement dû à la surface de la Terre.
+
+![Résumé des forces](Images/forces.JPG)
+
+## VIII) La circulation de l'atmosphère à l'échelle planétaire
+
+### Les vents à l'échelle planétaire : la circulation générale 
+
+Nous verrons que la Terre, étant un objet sphérique, n’est pas réchauffée
+uniformément par le Soleil, les tropiques recevant toujours plus d’énergie
+que les pôles (l’effet étant modulé par l’inclinaison l’axe de rotation de la Terre et les saisons). La rotondité de la Terre provoque ainsi un
+**réchauffement différentiel latitudinal**.
+
+Si la Terre n’avait pas d’atmosphère ni d’océans, il s’ensuivrait un équilibre **radiatif** entre la surface et l’espace interplanétaire grâce auquel, à chaque latitude, des quantités égales d’énergie infra-rouge émise et d’énergie solaire reçue seraient observées. Dans ce cas, le contraste entre l’équateur et les pôles serait extrême. Par exemple, sur la Lune, le contraste entre l’équateur et les pôles peut atteindre plus de 300°C (+100°C à l’équateur vs. -200°C aux pôles).
+
+A l'echelle globale, la Terre est à l'équilibre radiatif : elle émet autant d'énergie qu'elle en reçoit du Soleil. Cependant, l'ensoleillement oblique sur le globe cause un réchauffement plus marqué à l'équateur qu'aux pôles et un transport de chaleur des laltitudes ayant un surplus énéergétique vers les latitudes ayant un déficit en résulte.
+
+### La circulation générale
+
+La circulation atmosphérique : les perturbations atmosphériques (hautes et basses pressions) entraînent l'air chaud vers les pôles et l'air froid vers l'Equateur.
+
+La circulation océanique : les courants marins contribuent efficacement à amoindrir les écarts de température sur la planète.
+
+La présence d'une atmosphère autour de la Terre modifie la réponse de la planète au réchauffement différenAel à la manière d’une gigantesque brise de mer nord-sud. Dans ce contexte, la circula1on planétaire transportera l’excès de chaleur équatoriale vers les pôles, de sorte que le contraste pôle-équateur n’est plus que d’environ 70°C en moyenne (+30° à l’équateur vs. -40°C aux pôles). L'effet de l'atmosphère terrestre est donc de **redistribuer globalement la chaleur solaire et minimiser le contraste nord - sud des températures**.
+
+![Circulation générale](Images/circulation.JPG)
+
+### Les courants jet sous - tropical et polaire
+
+Le régime des vents d’ouest prend naissance des gradients nord-sud de température entre les tropiques et les pôles, lesquels produisent des gradients nord-sud de pression en altitude. Combiné à la force de Coriolis, des vents d’ouest en altitude résultent nécessairement, et ce dans les deux hémisphères. Par définition, le gradient nord-sud de température est très élevé le long du front polaire. Il s’ensuit un fort gradient nord-sud de pression en altitude, et donc un fort vent d’ouest. Ces vents particulièrement forts se situent à la tropopause, et sont fondamentalement
+reliés à la présence du front polaire : c’est le **courant jet polaire**, que l’on observe généralement près de 60° de latitude. De manière similaire, l’air convergent au-dessus des anticyclones sous-tropicaux concentre les températures en altitude le long du front sous-tropical (mais qui n’existe pas en surface), et forme le **courant jet sous-tropical** à la tropopause près de 30° de latitude. Les courants jet s’assimilent donc à des « rivières » rapides d’air qui englobent la Terre aux latitudes sous-tropicales et moyennes.
+
+![Formation des courants jet](Images/jet.JPG)
+
+### Des rivières d'air autour du globe
+
+Les courants dominants se situent en altitude où les vents soufflent le plus fort. Il y a moins de friction en altitude qu'à la surface de la Terre. La différence de température entraîne la formation du courant polaire et subtropical. En hiver, la plus grande différence de température entre l'équateur et le pôle intensifie le courant jet. Ces vents sont dirigés d'ouest en est à cause de la force de Coriolis.
+
+La circulation générale est la circulation moyenne de l'air atmosphérique. Le vent instantané est très différent de la valeur moyenne. Les conditions moyennes nous aident à identifier les causes majeures de l'écoulement de l'air. La cause fondamentale de la circulation atmosphérique est le réchauffement différentiel de la planète : 
+
+* l'air chaud est transféré de l'équateur vers les pôles
+* l'air froid est transféré des pôles vers l'équateur
+
+Le modèle à une cellule suppose :
+
+* Une surface uniforme d’eau
+* Le rayonnement solaire est perpendiculairement à l’équateur
+* La Terre ne tourne pas autour de son axe
+
+Le modèle à trois cellules
+
+* La Terre est en rotation autour de son axe = trois cellules (Hadley, Ferrell,Polar)
+* Formation de ceintures de hautes et basses pressions alternativement (avec une ceinture de basses pressions à l’équateur)
+* Des ceintures de vents de direcAon différente en commençant par des vents de NE au nord de l’Équateur et SE au sud.
+
+Les vents et la pression à la surface : centres de haute et basse pression semi permanents. Circulation générale et patrons de précipitation :
+
+* Pluvieux où l'air monte (dépressions à la surface)
+* Régions sèches ou même désertiques où l'air descend (anticyclones à la surface).
+
+Ecoulement moyen et pression en altitude
+
+* Le gradient de température sud – nord et le gradient de pression en altitude est à l’origine des vents Ouest – Est, surtout où les gradients sont le plus élevés : aux latitudes moyennes.
+* Formation des courants-jet : des forts vents de 100-200 nd à l’altitude de 10-15 km, des rubans entourant la planète de milliers kilométres de longueur et de 100 km de largeur et quelques kilomètres de hauteur. Courant-jet polaire et courant jet sous tropical.
+
+### La circulation globale
+
+L'océan et l'atmosphère interagissent entre eux par des échanges d'énergie. Il se génère ainsi des différences dans les zones de pressions donnant les **dépressions** (ou cyclones) et les **anticyclones**.
+
+![La circulation globale](Images/cycle.JPG)
+
+## XIX) Masses d'air et fronts
+
+### Variabilité des conditions météorologiques
+
+L'observation et l'analyse des conditions atmosphériques mettent en évidence des variations parfois brusques des divers éléments météorologiques :
+
+* Rotation soudaine des vents;
+* Variation importante et rapide de la température;
+* Bouleversement rapide du type de temps, par exemple passage d'un temps froid et sec à un temps doux et humide ... etc....
+
+Pour interpréter ces phénomènes, on admet que l'atmosphère n'est pas une
+masse de fluide homogène, mais un ensemble de grandes **masses d'air**, plus
+au moins individualisées, plus au moins homogènes en elles-mêmes, séparées
+les unes des autres par des **zones de transition**, parfois abruptes, qui peuvent être assimilées à des discontinuités.
+
+Une masse d'air est un concept uAle dans les laAtudes moyennes et correspond à une grande étendue horizontale d'atmosphère où les caractéristiques de température et d'humidité sont similaires.
+
+* Elle couvre plusieurs millions de kilomètres carrés.
+
+* En bonne partie, la prévision du temps à nos latitudes consiste à diagnostiquer et catégoriser les masses d’air du jour et à prévoir leur mouvement et leurs interacAons le long du front polaire.
+
+Régions source d'une masse d'air
+
+* Surfaces relativement plates et de composition uniforme
+* Vents faibles
+
+Des bonnes régions source de masses d'air sont donc les plaines de l'arctique recouvertes de neige et les océans aux latitudes tropicales et équatoriales. Les masses d'air interagissent aux latitudes moyennes le long du front polaire.
+
+### Les systèmes météorologiques aux latitudes moyennes
+
+Les sytèmes météorologiques aux latitudes moyennes redistribuent l'énergie dans l'atmosphère. Ils sont les principaux artisants de la météo. L'étude des ces sytèmes météorologiques a vu le jour suite à un désastre maritime survenu lors de la guerre de Crimée. Napoleon III demanda à l'astronome français Le Verrier si on aurait pu prévoir cette tempête. Ils ont été l'objet d'études extensives du groupe de scientifiques à Bergen, Norvège (Vilhelm et Jakob Bjerknes, Halvor Solberg, et Tor Bergeron). C'est dans les années 1920 que ce groupe de scientifiques développa la théorie du front polaire pour décrire la formaAon et l'évolution des systèmes aux laAtudes moyenne.
 
 
 Vortex polaire -> origine boucle de convection
