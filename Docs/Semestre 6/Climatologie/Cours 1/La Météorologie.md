@@ -41,14 +41,5 @@ Les isolignes ou isobares sont des lignes reliant des points de mesures l'egales
 
 * Le gradient de pression : rapport entre la variation de pression sur la variation de distance. La variation de la pression en fonction de l'altitude. La décroissance de la pression est de 1hPa pour 8m d'élévation. Un vacation de 1hPa équivaut à 60m.
 
-La température de l'air : résultat de différents échanges d'énergie. L'unité est le °K, dans la pratique en France on utilise le °C. T(°K)= T(°C) + 273,15
+* La température de l'air : résultat de différents échanges d'énergie. L'unité est le °K, dans la pratique en France on utilise le °C. T(°K)= T(°C) + 273,15
 
-La température est un paramètre fluctuant pour un endroit donné. Les températures varient en fonction de l'heure de la journée. Il y a une amplitude diurne entre la minimale et la maximale quotidienne. Il y a aussi des amplitudes annuelles entre hiver et été. Il y a aussi des amplitudes avec l'altitude et une variation avec  la laltitude. L'amplitude journalière est plus élevé aux tropiques qu'au pôles.
-
-La température dans la troposphère est moins élevée aux pôles. 
-
-* L'humidité de l'air : la teneur de l'air en vapeur d'eau varie en même température en fonction des possiblités australes d'alimentation hors cette dernière est assurée par l'évaporation quasi permanente.  La teneur en vapeur d'eau décroit en altitude à mesure qu'on séloigne de ses sources. L'eau dans l'atmosphère se présente sous trois états selon la température. Entre ces trois états, on une transformation endogène (qui absorbe de la chaleur), la **solidification**, **condensation**, **liquéfaction** sont des transformations exogène (libère de la chaleur). A chaque transformation correspond trois chaleurs latentes. Une valeur pour la **fusion**, la **vaporasition** et la **sublimation**. 
-
-En météorologie, il y a deux changements de l'état de l'eau qui se rencontrent régulièrement : l'évaporation et la condensation. Ces deux composants se composent comme des gaz parfaits, ce fait permet d'appliquer la loi physique des fluides. 
-
-Un nuage possède de la vapeur d'eau et de l'eau liquide. Brouillard givrant, nuage glacé cohexiste de la glace et de la vapeur d'eau. 
