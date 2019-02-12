@@ -37,6 +37,8 @@ Anticyclone : endroit de l'atmosphère où la pression est élevée par rapport 
 
 La dépression : endroit de l'atm où la pression est basse par rapport au voisinage à un même niveau horizontale et s'oppose à l'anticyclone. Il se caractérise par un système de lignes isobares insérant des valeurs de pression plus basses que celles qui existent à l'extérieur. Il donne lieu à une config si on considère le rayon X et le centre géopotentiel.
 
+Les isolignes ou isobares sont des lignes reliant des points de mesures l'egales pression surface de la mer. Les isolipses sont des lignes dans l'atm en altitude. Le fait de représenter une surface isbare, il va y avoir des bosses quand il s'agit d'anticyclone en surface, et des creux lors de dépressions en surface. On constate des variations de pression mais aussi en altitude. En France, les isobares sont de 5 en 5hPa.
 
+* Le gradient de pression : rapport entre la variation de pression sur la variation de distance. La variation de la pression en fonction de l'altitude. La décroissance de la pression est de 1hPa pour 8m d'élévation. Un vacation de 1hPa équivaut à 60m.
 
 
