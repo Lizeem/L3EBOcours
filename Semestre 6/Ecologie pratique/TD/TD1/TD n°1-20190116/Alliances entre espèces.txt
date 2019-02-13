@@ -1,0 +1,17 @@
+Pâturée
+Trifolium repens -> Veronico serpyllifoliae - Cynosurenalia cristati
+Lolium perenne -> Veronico serpyllifoliae - Cynosurenalia cristati
+Phleum pratense -> Veronico serpyllifoliae - Cynosurenalia cristati
+Cynosurus cristatus -> Veronico serpyllifoliae - Cynosurenalia cristati
+Daucus carota -> Onopordetalia acanthii subsp. acanthii
+
+Fauchée
+Arrhenatherum elatius -> Arrhenatherenalia elatioris subsp. elatioris
+Centaurea jacea -> Arrhenatherenalia elatioris subsp. elatioris
+Anthoxanthum odoratum -> Nardetea strictae
+Heracleum sphondylium -> Aegopodion podagrariae
+Stellarie graminea -> Arrhenatheretalia elatioris subsp. elatioris
+Alopecurus pratensis -> Loto pedunculati - Cardaminenalia pratensis subsp. pratensis
+Pimppinella major -> Arrhenatherion elatioris subsp. elatioris
+Leucanthemum vulgare Lam. -> Arrhenatherion elatioris subsp. elatioris
+
