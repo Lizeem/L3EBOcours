@@ -404,7 +404,7 @@ L'océan et l'atmosphère interagissent entre eux par des échanges d'énergie. 
 
 ![La circulation globale](Images/cycle.JPG)
 
-## XIX) Masses d'air et fronts
+## IX) Masses d'air et fronts
 
 ### Variabilité des conditions météorologiques
 

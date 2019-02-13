@@ -1,5 +1,3 @@
-voir diapo cours 3 p43
-
 ### Le "débit" des courants océaniques
 
 débit : unité sv
@@ -14,7 +12,7 @@ Remontée d'eau -> condensation -> création nuage -> cyclone
 
 L'équateur, des vents qui converge et diverges, les alizées. Il faut de l'eau remonte pour équilibrer. Le niveau de la mer n'est pas homogène à l'échelle du globe. L'océan est bombé où il fait chaud et moins quand il fait froid. L'eau est très bombé en Australie car eau chaude, upwelling sur les côtes.
 
-## 10) Couplage océan atmosphère
+## X) Couplage océan atmosphère
 
 ### ENSO El nino southern oscillation
 
