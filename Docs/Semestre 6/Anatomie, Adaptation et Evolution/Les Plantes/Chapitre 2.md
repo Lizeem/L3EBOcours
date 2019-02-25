@@ -108,3 +108,11 @@ La morphologie dans un cas simple : feuilles opposées décussées
 
 ![Formation d'une paire de feuille](Images/form.JPG)
 ![Formation d'une paire de feuille](Images/form2.JPG)
+
+Primordia foliaires = très tôt le siège de la différenciation du procambium. Des cellules étroites, au cytoplasme dense, forment un cordon continu dans le soubassement foliaire et la jeune ébauche. Cordons semblent disparaître sur la coupe longitudinale lorsqu'ils arrivent au niveau des cordons procambiaux de la feuille n-1. En fait, ils se divisent en deux au dessus de l'insertion de la paire de feuilles de rang n puis se raccorde au procambium précédents = fenêtres foliaires
+
+1,3,5 cordons par feuille ou plus (dico/mono)
+
+![Squelette conducteur d'une tige](Images/squelette.JPG)
+![Disposition des faisceaux conducteurs](Images/faisceaux.JPG)
+
