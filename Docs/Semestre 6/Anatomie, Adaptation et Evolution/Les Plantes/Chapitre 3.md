@@ -33,3 +33,26 @@ Origine endogène : dans le péricycle
 
 Les systèmes racinaires ne montrent pas de rhizotaxie
 
+## D) La morphologie et la différenciation
+
+![Morphologie et différenciation de la racine](Images/racine2.JPG)
+![Morphologie et différenciation de la racine](Images/racine3.JPG)
+
+Ptéridophytes et origine de la racine
+
+Les plus primitives : ex *Psilotum*
+
+* dépourvues de racines -> uniquement des rhizoïdes
+
+Chez les autres ptéridophytes : 
+
+* racine vraie existe -> toujours adventive (prend naissance sur une tige)
+
+Etude fragmentaires sur l'anatomie de la racine des fougères montrent :
+
+* une coiffe réduite ou inexistante, dans un premier cas : faible durée de vie de la racine
+* coiffe différenciée par l'apicale
+
+Dans les deux cas, 
+
+* les trachéophytes primitifs présentent une fonction méristématique devient plus large avec des territoires plus définis chez les spermaphytes
