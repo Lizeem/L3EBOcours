@@ -91,3 +91,20 @@ Ces deux phénomènes assurés par des ensembles organisés de cellules -> conse
 * primaires 
 * secondaires
 
+**Méristèmes primaires** = histogènes et organogènes
+
+* Apparition très tôt : au cours du développement de l'embryon
+* Mise en place : lors des premières étapes de la croissance végétative 
+
+**Méristèmes secondaires** = histogènes
+
+* Apparition plus tardive : une fois le développement végétatif bien avancé
+* Provenance : soit de l'évolution de certains méristèmes primaires, soit de la dédifférenciation de cellules parenchymateuses
+* Position latérale dans les axes (doubles manchons) 
+
+La morphologie dans un cas simple : feuilles opposées décussées
+
+![Feuilles opposées décussées](Images/meristeme.JPG)
+
+![Formation d'une paire de feuille](Images/form.JPG)
+![Formation d'une paire de feuille](Images/form2.JPG)
