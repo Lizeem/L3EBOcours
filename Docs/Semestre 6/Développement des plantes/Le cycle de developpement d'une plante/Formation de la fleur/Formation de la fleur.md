@@ -135,13 +135,15 @@ Chez les plantes dioïque, on a des individus mâles et femelles.
 
 On va avoir des modes de pollinisation (transport du grain de pollen de l'anthère vers le stigmate) autogame ou allogame. 
 
+![Les modes de pollinisation](Images/polli.JPG)
+
 **Autogamie** : Auto fécondation, une plante va être pollinisée par du pollen qui provient du même individu, soit à l'intérieur d'une même fleur, ou bien de fleur différente. Ce mode de pollinisation n'est pas favorable au brassage génétique et malgré le fait qu'on à 80% de fleur hermaphrodites, la plupart de sont pas autogames.
 
 **Allogamie** : pollinisation croisée, le grain de pollen est transporté sur le stigmate d'une autre plante de la même espèce.
 
 Les espèces dïoiques seront favorables à l'allogamie. Mécanisme génétique ou adaptation atomique qui limite l'autofécondation chez les plantes hermaphrodites et monoïques. 
 
-(voir photo)
+![Allogamie](Images/polli2.JPG)
 
 Les étamines vont libérer le grain de pollen alors que la partie femelle ne sera pas encore arrivée à maturité.
 
@@ -174,11 +176,15 @@ On aura deux types d'auto - incompatibilité
 
 3. La croissance du tube pollinique, c'est une croissance scallariforme. Tout au long de la croissance, on va avoir formation de bouchon de callose d'une forme d'"échelle". Moyen de pousser l'extrémité du tube le contenu du cytoplasme pour qu'il puisse arriver jusqu'au gamétophyte femelle. Malgré la croissance du tube pollinique, le volume du cytoplasme ne bouge pas. Le tube à forte activité métabolique puisque qu'il doit synthétiser des polymères pariétaux. Il faut des moyens pour guider la croissance du tube pollinique, on a une hiérarchie de signaux pour guider le tube pollinique jusqu'au gamétophyte femelle. La croissance de ce tube sera guidé différemment suivant si on a un style creux ou un style avec un tissu de transmission gélifié.
 
+![Formation tube pollinique](Images/tube.JPG)
+
 Lorsque le grain de pollen va germer, il va croitre le long de l'épiderme du tissu de transmission. Des molécules sont capables d'attirer par chimiotactisme la croissance de ce tube, les molécules qui sont capable d'orienter la croissance du tube. 
 
 Dans le cas du Lys c'est la chemoscyanine, qui sera de plus en plus important du stigmate vers l'ovaire. La protéine SCA appartient à la famille des adhésine et on la retrouve au niveau du style et du stigmate. Elle va se lier avec une pectine pour former une matrice sur lequel le grain de pollen va adhérer.  La fonction des synergides  secrètent des molécules  pour attirer le tube pollinique. 
 
-Dans le cas du tbac,  on a un gel gélifié, les mécanismes vont permettrent la croissance et l'adhésion vont être différents. La tube pollinique va croitre à l'intérieur d'un gel dans lequel on aura de l'AGP et des pectines. L'APG est situé au niveau du style ou des stigmates. On a des APG spécifiques à le défense de la racine ainsi qu'à la croissance du tube. Le gradient de glycolysation va guider le tube pollinique vers l'ovaire. Les synergides sécrètent des molécules pour attirer le tube pollinique. Quand le tube pollinique arrive dans la synergide, les synergides vont mourir.  Au cours de la croissance du tube, on va avoir la deuxième mitose qui va avoir lieu.
+Dans le cas du tabac,  on a un gel gélifié, les mécanismes vont permettrent la croissance et l'adhésion vont être différents. La tube pollinique va croitre à l'intérieur d'un gel dans lequel on aura de l'AGP et des pectines. L'APG est situé au niveau du style ou des stigmates. On a des APG spécifiques à le défense de la racine ainsi qu'à la croissance du tube. Le gradient de glycolysation va guider le tube pollinique vers l'ovaire. Les synergides sécrètent des molécules pour attirer le tube pollinique. Quand le tube pollinique arrive dans la synergide, les synergides vont mourir.  Au cours de la croissance du tube, on va avoir la deuxième mitose qui va avoir lieu.
+
+![Comparaison Lys vs Tabac](Images/comparaison.JPG)
 
 ## VI) La double fécondation
 
