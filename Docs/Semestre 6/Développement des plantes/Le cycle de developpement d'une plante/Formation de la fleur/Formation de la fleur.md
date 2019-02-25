@@ -179,3 +179,72 @@ Lorsque le grain de pollen va germer, il va croitre le long de l'épiderme du ti
 Dans le cas du Lys c'est la chemoscyanine, qui sera de plus en plus important du stigmate vers l'ovaire. La protéine SCA appartient à la famille des adhésine et on la retrouve au niveau du style et du stigmate. Elle va se lier avec une pectine pour former une matrice sur lequel le grain de pollen va adhérer.  La fonction des synergides  secrètent des molécules  pour attirer le tube pollinique. 
 
 Dans le cas du tbac,  on a un gel gélifié, les mécanismes vont permettrent la croissance et l'adhésion vont être différents. La tube pollinique va croitre à l'intérieur d'un gel dans lequel on aura de l'AGP et des pectines. L'APG est situé au niveau du style ou des stigmates. On a des APG spécifiques à le défense de la racine ainsi qu'à la croissance du tube. Le gradient de glycolysation va guider le tube pollinique vers l'ovaire. Les synergides sécrètent des molécules pour attirer le tube pollinique. Quand le tube pollinique arrive dans la synergide, les synergides vont mourir.  Au cours de la croissance du tube, on va avoir la deuxième mitose qui va avoir lieu.
+
+## VI) La double fécondation
+
+Temps variable de la fécondation selo les espèces. Le tube pollinique va progresser dans les tissus du style pour arriver à l'ovule. Toutes les cellules ne vont pas avoir le même devenir.
+
+On va avoir une dégénérescence du style. Les antipodes vont avoir une fonction dans l'alimentation de l'ovule. L'orosphère va fusionner avec l'un des spermatozoïde et les deux noyaux de la cellules centrale vont fusionner avec le deuxième gamète.
+
+Le spermatozoide fusionnant avec l'orosphère va former le zygote principal. L'autre spermatozoïde va fusionner avec les deux noyaux polaires qui vont donner un embryon triploïde que l'on appelle le zygote accessoire et qui va former l'albumen au niveau de la graine.
+
+Au niveau des autres compartiments, les téguments de l'ovule après la double fécondation vont former les téguments de la graine. Une graine va être composée de ces trois compartiments : embryon, albumen et tégument.
+
+L'ovaire suite à la double fécondation va également subir des transformation et l'ovaire va former le fruit qui va contenir la graine. Les pétales et sépales, le style, le stigmates et les étamines vont dégénerer. La paroi de l'ovaire va se transformer pour donner la paroi du fruit et le péricarpe est consitué de trois tissus : lépicarpe ( le tissu le plus ext), le mésocarpe et l'endocarme (le plus interne). 
+
+Suite à cette double fécondation, on aura la formation de la graine.
+
+## VII) La formation de la graine
+
+La formation de la graine est découpée en trois phases.
+
+*  La période de 0 à 30 jours après pollinisation, phase d'embryongénèse précoce de la graine : la graine ne grossit pas, essentiellement de nombreuses mitoses, différenciation de l'axe embryonnaire, l'apparition des cotylédons
+
+* Entre 30 et 95 jours, phase de croissance importante, la graine va accumuler des réserves
+
+* La graine se stabilise, **uniquement chez les graines orthodoxes qui tolèrent la dessication**. Les graines vont être capable de subir une désidratation totale et va entrer en dormance.
+
+Les autres graines vont devoir  germer aussi tot : graines recalcitrantes
+
+### A) L'embryogénèse de la graine
+
+(Voir diapo)
+
+A : une zygote diploïde, cellule allongée et qui va posséder une large vacuole centrale au niveau de la partie basale du côté du nicropyle. Très tot, on aura une polarité.
+
+B : On aura une première division de mitose asymétrique = petite cellule apicale + grosse cellule basale du côté du nycropile. La petite cellule apicale deviendra l'embryon. La cellule basale va devenir le suspenseur. Il aura un rôle transitoire de nutrition lors de la formation de l'embryon.
+
+C+D : Les deux cellules vont subir des divisions
+
+E+F : Stade embryoglobulaire, l'embryon a grossit, les cellules se sont différenciées. On a apparition des cellules du protoderme (formera ensuite le tissu de revêtement). Embryon cordiforme, on a une symétrie qui va s'installer . On a des ébauches de cotylédons qui vont commencer à apparaitre de chaque côté de l'embryon. On a la mise en différence des méristèmes et du procambium. Les méristèmes seront présents tout au long de la plante.
+
+G : Embryon torpillen allongement de celui - ci. L'embryon se renverse à l'intérieur de la graine : stade "u" renversé.
+
+H : stade "u" renversé, le suspenseur va dégénerer, l'embryon est formé. 
+
+Chez Arabiopsis, 
+
+A: on a déjà les deux cellules en première phase A. La cellule basale va aussi donner le suspenseur.
+
+B+C+D+E: Cellule apicale va être la pratie d'origine de l'embryon, la cellule apicale va se diviser et les cellules situés sur la partie apicale vont former les cotylédons et le méristème colinaire. Les issus situés basalement, vont se diviser et former l'hypocotyle et les parties sup du système racinaire. Le suspenseur va donner l'hypophyse qui va donner naissance au centre aquiscent raicnaire et le méristème de coiffe.
+
+La partie racinaire provient donc de la cellule apicale et aussi de la cellule basale.
+
+L'enveloppe de l'embryon va être finement régulée et faire intevenir un certain nombre de gènes hautement régulés.
+
+Les différents gènes vont être exprimée durant différents stades.
+
+Le gène GURKE va contrôler le dvp de la partie aérienne de la plante. Il va s'exprimer dès le stade codiforme. On va avoir un phénotype altéré.Si le gène est muté, on va retrouver que la racine et l'hypocotyle. 
+
+Le gène MONOPTEROS contrôle le dvp de la racine. Si ce gène est muté, le système racinaire ne peut pas se dvp.
+
+Le gène GNOM s'exprime dès le stade zygote. Il est impliqué dans le contrôle des parties aériennes et racinaires. Si ce gène se trouve muté, on aura des cellules indifférenciés ou les seuls tissus seront l'épiderme, parenchyme cortical et une ébauche de tissu vasculaire.
+
+On va retrouver un contrôle de l'embryogénèse par des gradients l'auxine. L'auxine va contrôler cette étape de dvp. Les transporteurs sont PIN1 4 et 7, ABCD1 et 19. On s'aperçoit que dès le stade zygote, on aura le transporteur PIN 7 qui sera sur la partie apicale du suspenseur qui vont permettre un flux d'auxine du suspenseur vers l'embryon. L'auxine va être acheminé par PIN7 puis PIN1 va permettre une répartition homogène de l'auxine dans tout l'embryon. Stade globulaire, réarrangement des transporteurs d'auxines qui vont être acheminés en sens inverse. Au niveau de l'hypophyse et au niveau des cotylédons ainsi qu'au niveau du procambium. 
+
+Chez les graminées, on aura les mêmes étapes, si ce n'est que pas de stade codiforme car un seul cotylédon sera formé. Deux structures membranaires vont se former qui vont permettre de protéger la tige lors de sa croissance, le coléoptile qui protéger le méristème et la coléorhize qui va protéger la partie racine.
+
+### B) Formation de l'albumen
+
+L'albumen va se former par la fécondation d'un spermatozoïde avec les deux noyaux polaires pour former le zygote accessoire triploïde qui provient de la fécondation des deux noyaux polaires. Le zygote accessoire va subir des mitoses sans cloisonnement cellulaire : Stade syncitial.
+
