@@ -116,3 +116,10 @@ Primordia foliaires = très tôt le siège de la différenciation du procambium.
 ![Squelette conducteur d'une tige](Images/squelette.JPG)
 ![Disposition des faisceaux conducteurs](Images/faisceaux.JPG)
 
+Gymnospermes : très similaire
+
+Ptéridophytes : Fougères, méristème jeune et méristème âgé
+
+Des dérivées du méristème dépendent la croissance et la mise en place de l'appareil végétatif aérien.
+
+
