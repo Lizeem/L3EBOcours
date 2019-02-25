@@ -260,3 +260,28 @@ Albumen cellulaire (myosotis) : se cloisonne rapidement
 
 Albumen à cloisonnement incomplet : graine contenue dans la noix de coco ( la partie centrale reste liquide et la partie périphérique est solide et forme le coprah).
 
+### C) Les différents types de graines
+
+Le nucelle : tissu qui entoure le sac embryonnaire dans l'ovule.
+
+Suivant les familles, le nucelle subit une destruction soit une prolifération lors de la formation de l'albumen. Cependant, il existe certaines familles pour lesquelles le nucelle persiste et s'enrichit de réserves : le périsperme. 
+
+Soit on classe les graines en fonction de l'endroit où ils stockent les graines ou en fonction du type de réserve.
+
+(voir diapo Les trois types de graines chez les angiospermes).
+
+Chaque plante ne va pas accumuler le même type de réserve.
+
+* céréales : glucides pédominent, graines amylacées (amidon)
+* colza : lipides prédomine, graines oléagineuses
+* légumineuse : protéine prédomine, graines protéagineuses
+
+Réserves proviennent des transferts des produits de la photosynthèse de la plante mère vers la graine. Ce transport va se faire par plusieurs étapes successives. Elles vont être transportées via le phloème. Va passer par le funicule et les tissus conducteurs vont se ramifier dans les téguments externes de l'ovule mais après plus de connexions pour aller jusqu'à l'albumen. Le transport se fera différemment en arrivant aux téguments.
+
+Les assimilats vont dans un premier temps sortir des tubes criblés et vont être véhiculés de façon symplastique (c à c) au niveau du parenchyme phloémien des téguments. Ces assimilats vont être déversés dans un parenchyme constitué de lacunes appelé aérenchyme. Les assmilats vont être véhiculés à l'exterieur des cellules -> transport apoplastique. Lorqu'ils arrivent à l'extrémité des téguments, sont déchargés dans l'albumen et l'embryon. Ces assimilats sont du saccharose et des aa vont être assimlés soit au niveau de l'embryon soit de l'albumen pour synthétiser des grosses molécules en substance de réserve. 
+
+L'amidon va petre synthétiser à partir du saccharose. Ce saccharose va être hydrolysé en fructose et en glucose et grâce à l'amidon synthétase, on va avoir formation d'amylose (enchainement de glucose) auquel se rajoute des ramification pour former de l'amylopectine.
+
+L'amidon ainsi former va être transporter dans des amyloplastes. Ces amyloplastes sont constitués de structures ayant un ou plusieurs points centraux (hile) et vont former des cercles concentriques de dépot d'amidon. La position du hile et les stries et la taille des grains permettent l'identification. Les grains d'amidon se retrouvent dans le cytoplasme de l'albumen (mais et blé) ou bien dans le cytoplastes des cotylédons (pois, haricot).
+
+La mise en réserve de glucide sous forme hémi-cellulose. Le milieu de mise en réserve n'est plus le cytoplasme. On va retrouver une paroi très épaisse hémi-cellulosique et va permettre une grande dureté aux cellules de l'albumen. On retrouve des galactomannanne ou des xyloglucane. Albumen cornet est l'albumen rigidifier et très dur.
