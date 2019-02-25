@@ -246,5 +246,17 @@ Chez les graminées, on aura les mêmes étapes, si ce n'est que pas de stade co
 
 ### B) Formation de l'albumen
 
-L'albumen va se former par la fécondation d'un spermatozoïde avec les deux noyaux polaires pour former le zygote accessoire triploïde qui provient de la fécondation des deux noyaux polaires. Le zygote accessoire va subir des mitoses sans cloisonnement cellulaire : Stade syncitial.
+L'albumen va se former par la fécondation d'un spermatozoïde avec les deux noyaux polaires pour former le zygote accessoire triploïde qui provient de la fécondation des deux noyaux polaires. Le zygote accessoire va subir des mitoses sans cloisonnement cellulaire : Stade syncitial. Pas de paroi cellulaire au départ, les premiers noyaux vont se disperser tout au tour d'une grande vacuole centrale. 
+
+Lorsque la croissance de l'albumen se poursuit, on aura le cloisonnement cellulaire de l'albumen qui va se former et va se faire en débutant du micropyle à la chalaze. Ce stade d'albumen cellulaire va avoir lieu du stade embryon globulaire - stade embryon cordiforme.  
+
+A partir de ce dernier stade, l'albumen va accumuler des réserves et va se former au dépend du nucelle. Dans certains cas on aura un stade où l'embryon va digéré les réserves de l'alumen et va stocker ces reserves dans ses propres cotylédons. Les cellules stockent l'amidon (amyloplaste), protéines(grains d'aleurone), lipides(cytoplasme) ou des composés pariétaux comme la cellulose (paroi de l'albumen).
+
+L'albumen nourrit l'embryon après la germination en attendant que la plante soit autonome et fasse la photosynthèse. L'albumen est la base de notre alimentation (farine) : 60% de l'apport nutritionnel de la pop mondiale.
+
+Albumen nucléaire (bourrache) : albumen syncitial persiste longtemps
+
+Albumen cellulaire (myosotis) : se cloisonne rapidement
+
+Albumen à cloisonnement incomplet : graine contenue dans la noix de coco ( la partie centrale reste liquide et la partie périphérique est solide et forme le coprah).
 
