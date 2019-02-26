@@ -155,3 +155,81 @@ on aura un rôle plus important des processus réduisant l’exclusion compétit
 
 ## IV) Conséquence de la Diversité
 
+La diversité peut contrôler plusieurs fonctions assurées par les communautés : qualité de l'eau, résistance à la perturbation ... Ces fonctions requiert des services écosystémiques. 
+
+La question qui se pose actuellement : Période d'extinction très forte -> *En perdant les espèces on altère les fonctions, on altère aussi les services écosystémiques ?*
+
+![Richesse plante](Images/graph.JPG)
+
+Les quadrats présentant une plus forte richesse, repartent plus vite que les autres l'année suivant la sécheresse. En effet, meilleure résistance à la sécheresse lorsque qu'il y a plus de diversité (d'après le graph). 
+
+Tilman cherche à voir si il y a la même chose avec une autre fonction : (graph B) avec un proxy de productivité primaire : la couverture végétale. Plus il y a de richesse, plus y a de la diversité
+
+Il y a donc une relation positive entre la diversité et les fonctions mesurées.
+
+A partir d'une moment, la complémentarité diminue car la nouvelle espèce n'apportera pas plus de fonctions car tout est déjà présent dans la communauté. Toutes les espèces qui vont être amené par la suite vont être de la redondance. Mais cette redondance permet une assurance fonctionnelle contre l'érosion de la diversité. 
+
+Donc lorsque l'on a une grande diversité dans une communauté, on aura une plus grande résistance aux perturbations.
+
+![Généralisation](Images/graph2.png)
+
+C'est un modèle général de la relation entre la diversité et les fonctions. Chaque espèce apporte la même intensité d'un point de vue fonctionnelle (graph en ligne), soit elles ont une intensité différente (graph denté). On obtient 4 modèles différents. 
+
+1er modèle : **Hypothèse de la complémentarité fonctionnelle**, même intensité, chaque espèce assure une complémentarité.
+
+2e modèle : même intensité où on introduit de la redondance, **Hypothèse de la redondance**. Complémentarité au départ, puis redondance (chevauchement entre espèces au niveau de leur fonction).
+
+3e modèle : faible redondance, intensité qui diffère entre espèces, **Hypothèse des conducteurs et des passagers**, certaines espèces vont mener les fonctions et d'autres vont les accompagnés car ils n'apporteront qu'une petite fonction.
+
+4e modèle : forte redondance, forte intensité **Hypothèse des conducteurs et passsagers avec redondance**. 
+
+Conducteurs : 
+
+* Espèces ingénieurs qui vont modifier leur milieu de vie au delà de leur durée de vie (vers de terre, castor). 
+
+* Espèces fondatrices : Espèce qui détermine un écosystème par sa biomasse, exemple : Arbres
+
+Hypothèse de la redondance est la plus utilisée. 
+
+Ces modèles ne prennent pas en compte les interactions entre espèces. Alors que les interactions peuvent créer de nouvelles fonctions -> **modèle idiosyncrasique**. 
+
+idiosyncrasique : propre à soi
+
+On a une relation positive entre diveristé et fonction, ainsi que de nombreuses hypothèses sous - jacentes.
+
+Prairie et biocarburants : 
+
+![Graphique biocarburant](Images/graph3.png)
+
+Ces graphiques présentent la balance énergétique. Ils montrent ce qui reste en utilisation une fois la production faite.
+
+Ethanol : très équivalent mais pour le gazol c'est supérieur en production
+
+![Graphique biocarburant](Images/graph4.png)
+
+Utiisation de fertilisants et de pesticides : très nettement inférieurs en cas de prairie qu'en monoculture.
+
+Les herbicides sont très spécifiques, en monoculture, ils représentent une grosse menace. Alors que dans les prairies, avec la redondance fonctionnelle, ce sont des herbivores.
+
+La diversité en prairie est supérieur à la monoculture et possède donc une plus grande résistance aux contraintes par les herbivores.
+
+Les traditions de biocarburants ne sont presque plus utilisé, on est plus rentable économiquement parlant avec la monoculture.
+
+Les prairies très diversifiés peuvent être utilisé mais seulement si elle est bien diversifiée.
+
+![Graphique biocarburant](Images/graph5.png)
+
+Si on utilise beaucoup moins de fertilisants et de pesticides -> emission de gaz à effet de serre important.
+
+Autre exemple de relation Diversité - Fonction / Service
+
+Tout commmence par le décès de plusieurs personnes dans le Sud des USA, dont un jeune  sportif alors qu'ils n'ont aucun problème immunitaire, on ne sait pas pourquoi, des gens très différents mais vivant très proches les uns des autres. On découvre que c'est le virus SNV, un nouveau virus qui est transmis par des souris sylvestre. Le nombre de souris sylvestre porteur par le virus augmentait, lorsque la diversité diminuait. 
+
+Plusieurs hypothèse :
+
+* compétition / prédation
+* probabilité de contact
+* résistance
+
+Rôle de la diversité des communautés dans la protection sanitaire : Au cours des 60 dernières années : 62% des nouvelles maladies sont transmises par des animaux (Zika, Ebola, grippe aviaire).
+
