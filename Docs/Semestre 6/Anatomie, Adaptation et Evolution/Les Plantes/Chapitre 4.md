@@ -72,6 +72,55 @@ Nécessité de fabriquer des éléments qui seront susceptibles d'être allongé
 
 ![Les trachéides](Images/choix.JPG)
 
+Les cellules de contact (CC) = Cellules accompagnatrices de vaisseaux (CAV)
+
+* cellules vivantes, à proximité des éléments conducteurs 
+* haute activité métabolique (comparable aux cellules compagnes du phloème)
+* communication avec les cellules mortes conductrices via ponctuations
+* pas d'accumulation de réserves
+
+Le parenchyme et les fibres
+
+Parenchyme :
+
+* viant (paroi cellulosique parfois lignifiée)
+* communique avec les CAV par des plasmodesmes, rôle de réserve (amidon, sucre, protéines)
+
+Fibres :
+
+* cellules à parois secondaires très épaisses, souvent tristratifiées
+* mortes au terme de leur différenciation (laquelle dure parfois plusieurs mois)
+* pauvres en ponctuations
+* rôle dans le soutien de la plante (parfois dans la circulation de substances comme la lignine)
+
+![Bilan protoxylème](Images/bilan.JPG)
+![Bilan métaxylème](Images/bilan2.JPG)
+
+Pour les éléments du xylème primaire, différence majeure réside dans le type cellulaire des éléments conducteurs : tendance évolutive va vers
+
+* des éléments de plus gros diamètre
+* avec des communications verticales entre eux de plus en plus vastes
+
+Un dilemme fonctionnel : efficacité vs sécurité
+
+Un très faible pourcentage de l'eau conduite par le sylème sert à l'accroissement des tissus : environ 98% est évapotranspiré. L'évolution des végétaux vasculaires s'est accompagnée d'une hausse du débit de sève brute.
+
+![Loi de Poiseuille](Images/loi.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
