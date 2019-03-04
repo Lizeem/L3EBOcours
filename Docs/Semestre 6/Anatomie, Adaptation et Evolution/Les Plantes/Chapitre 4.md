@@ -107,19 +107,66 @@ Un très faible pourcentage de l'eau conduite par le sylème sert à l'accroisse
 
 ![Loi de Poiseuille](Images/loi.JPG)
 
+La sève brute circule dans les vaisseaux sous tension. S'il y a rupture de la colonne d'eau ou création d'une bulle d'air, annulation du moteur de la circulation -> **embolie** (piqûre, gel, blessure, invasions par un parasite, insuffisance d'un apport racinaire...)
 
+Les moyens d'empêcher les embolies existent : 
 
+* régulation stomatique
+* photosynthèse à stomates fermés, la défense ultime se résume à limiter la propagation de l'embolie : thylles.
 
+Fermeture de la ponctuation (torus) permettant de limiter la propagation de l'embolie.
 
+**Les espèces végétales montrent une importante variabilité dans la taille et le nombre des vaisseaux du xylème primaire mis en place**.
 
+## II) Le phloème
 
+Différencie les cellules conductrices de la sève élaborée. Cellules ont perdu leur noyau mais ont conservé la quasi-totalité de leur cytoplasme : membrane plasmique conservée, ainsi que quelques mitochondries, quelques plastes. Cellules conductrices communiquent entre elles : plasmodesmes qui forment des pores ou perforations.
 
+Tubes criblés : 
 
+* cellules allongées, bout à bout (15-60µm)
+* pas d'épaississement longitudinal
+* cellules restent vivantes
+* présence de cribles sur les faces terminales (C1) et latérale (C2, plus petits) permettant la diffusion de la sève élaborée (vitesse : 0.3 - 1.5 m/h)
+* entourés de cellules compagnes
 
+Cellules compagnes :
 
+* conservent la totalité de leur fonctionnalité
+* synthétisent des protéines de remplacement nécessaires aux éléments criblés
+* assurent les échanges des assimilats avec les tubes criblés
+* assurent les échanges des assimilats aec les tubes criblés
+* communiquent avec les tubes criblés par des plasmodesmes
 
+Parenchyme :
 
+* cellules vivantes
+* accumule les réserves, dans les tiges présence parfois de plastes + thyllakoïdes
+* participe au système vertical
+* paroi non lignifiée
+* ressemble à celui du xylème
 
+Fibres phloémiennes : 
+
+* fréquentes chez les Angiospermes 
+* peuvent rester cellulosiques chez les plantes herbacées (Lin...)
+* ou se lignifier : participent à la formation du liber dit stratifié
+
+Tissu conduisant la sève élaborée
+
+La sève élaborée diffère par sa composition de la sève brute (au 1g/l de substances dissoutes)
+
+Les moteurs de la circulation de la sèv élaborée sont encore discutés
+
+Munch 1927 : proposition de flux de masse
+
+La sève élaborée s'écoulerait suivant un gradient osmotique : des zones de productions = zones sources vers les zones de consommation = zones puits
+
+Observation contradictoires : 
+
+Les assimilats sont souvent plus concentrés dans le complexe tube criblé/cellule compagne que dans le mésophylle : circulation se fait donc contre le gradient de concentration (nécessite une pompe). Certains parenchymes à réserves accumulent du saccharose en position vacuolaire. Le déchargement a donc également lieu en gradient inverse.
+
+![Circulation du phloème](Images/phloème.JPG)
 
 
 
