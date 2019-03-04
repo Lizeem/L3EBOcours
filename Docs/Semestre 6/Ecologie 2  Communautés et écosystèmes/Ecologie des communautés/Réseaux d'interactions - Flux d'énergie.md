@@ -2,15 +2,15 @@
 
 ## Introduction
 
-Decription des relations trophique ou alimentaire entre organismes, on est donc à cheval entre l'écologie des communautés et l'écologie des écosystèmes. Les réseaux d'interactions trophique permet la jonction des 2. Principe de base énergétique : Déperdition d'énergie à chaque transfert entre 2 entités.
+Description des relations trophiques ou alimentaires entre organisme, on est donc à cheval entre l'écologie des communautés et l'écologie des écosystèmes. Les réseaux d'interactions trophiques permettent la jonction des 2. Principe de base énergétique : Déperdition d'énergie à chaque transfert entre 2 entités.
 
-(voir schéma)
+![Réseaux d'interactions](Images/énergie.JPG)
 
 Pyramide des biomasse et des énergies
 
-(Voir schéma)
+![Pyramide des biomasse et des énergies](Images/pyramide.JPG)
 
-Ecosystème terrestre : Plus on monte dans la chaine, plus on perd de l'énergie. De même pour la biomasse
+Ecosystème terrestre : Plus on monte dans la chaine, plus on perd de l'énergie, de même pour la biomasse.
 
 Ecosystème aquatique : Le phytoplancton a un taux de croissance important, avec un cycle de vie très court. Il met donc rapidement de la biomasse en haut de la chaine. Pyramide de biomasse est donc inversé. 
 
@@ -22,7 +22,9 @@ Ecosystème aquatique : Le phytoplancton a un taux de croissance important, avec
 
 ### A) Prélèvement de biomasse
 
-Relation positive entre la quantité de biomasse disponible et la consommation. Plus la biomasse augmente, plus la consommation augmente. En moyenne 13% de la NPP terrestre est consommée par les herbivores et 35% pour la NPP aquatique. On a des taux de consommation différents entre le milieu terrestre et le milieu aquatique. On a beauocup plus de biomasse en milieu aquatique pour une même biomasse disponible. 
+Relation positive entre la quantité de biomasse disponible et la consommation. Plus la biomasse augmente, plus la consommation augmente. En moyenne 13% de la NPP terrestre est consommée par les herbivores et 35% pour la NPP aquatique. On a des taux de consommation différents entre le milieu terrestre et le milieu aquatique. On a beaucoup plus de biomasse en milieu aquatique pour une même biomasse disponible. 
+
+![Prélèvement de biomasse](Images/biomasse.JPG)
 
 Il y a très peu de structure de défense chez les producteurs primaires aquatique contrairement aux producteurs primaires terrestres.
 
@@ -34,14 +36,13 @@ Plusieurs hypothèses :
 
 ### B) L'efficience trophique - Rendement écologique
 
-(voir schéma)
+![Rendement trophique](Images/graph6.JPG)
 
 Les endothermes n'ont pas un gros rendement écologique (biomasse) car ils perdent beaucoup d'énergie à réguler leur température contrairement aux ectothermes. 
 
-
 ### C) Qualité nutritive / Stoechiométrie
 
-Lio de mer en Alaska : Diminution relativement forte à partir des années 70. Pas de chasse, parasites, maladies. Les lions de mer des années 2000 sont plus petits et moins de reproduction. Ils consomment plus de poissons qu'avant et sont plus efficace en stratégie alimentaire donc dépense moins d'énergie. 
+Lion de mer en Alaska : Diminution relativement forte à partir des années 70. Pas de chasse, parasites, maladies. Les lions de mer des années 2000 sont plus petits et moins de reproduction. Ils consomment plus de poissons qu'avant et sont plus efficace en stratégie alimentaire donc dépense moins d'énergie. 
 
 Ce qui a changé c'est la qualité de la nourriture, on retrouve dans leur estomac majoritairement des poissons de type anchois dans les années 70 alors qu'à partir des années 80, on a un changement d'alimentation, favorisant le cabillau. Les cabillaux n'ont pas la même qualité nutritive que l'anchois. Donc chagement de régime alimentaire et pas la même qualité car on a pas les mêmes ratio de ressources. On pense que le changement climatique à eu un lien avec le changement d'alimentation (?)
 
