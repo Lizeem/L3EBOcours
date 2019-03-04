@@ -166,7 +166,44 @@ Observation contradictoires :
 
 Les assimilats sont souvent plus concentrés dans le complexe tube criblé/cellule compagne que dans le mésophylle : circulation se fait donc contre le gradient de concentration (nécessite une pompe). Certains parenchymes à réserves accumulent du saccharose en position vacuolaire. Le déchargement a donc également lieu en gradient inverse.
 
-![Circulation du phloème](Images/phloème.JPG)
+![Circulation du phloème](Images/phloeme.JPG)
+
+Chargement : 3 possibilités
+
+* chargement apoplastique : montré chez le mais et la betterave
+* chargement symplastique : mis en évidence chez la courge
+* chargement symplastique et apoplastique simultanés : apoplastique dans le protophloème, sympastique dans le métaphloème
+
+Distribution vers : 
+
+* organes puits
+* zones en croissance 
+* zones de stockages
+* zones de fructification et de production de graines
+
+La sève élaborée circule dans les deux sens (vers le haut et le bas), au sein des mêmes faisceaux et dans des tubes voisins 
+
+Cas particuliers : plantes à faisceaux bicollatéraux, bourgeons / fleurs / fruits par le phloème interne racines par le phloème normal.
+
+Egalement mise en évidence de flux alternés : bourgeons / fleurs / fruits le jour, racines la nuit chez le potiron.
+
+Déchargement : voie apoplastique : graines, accumulation vacuolaire (betterave, canne à sucre), accumulation d'amidon 
+
+Voie symplastique : feuilles en croissance, méristèmes.
+
+Mécanismes de sécurité associés à la circulation de la sève élaborée : système sous pression, dans lequel la moindre lésion entraine une perte d'énergie importante.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
