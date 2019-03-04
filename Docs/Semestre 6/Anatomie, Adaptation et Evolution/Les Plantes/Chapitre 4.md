@@ -193,23 +193,29 @@ Voie symplastique : feuilles en croissance, méristèmes.
 
 Mécanismes de sécurité associés à la circulation de la sève élaborée : système sous pression, dans lequel la moindre lésion entraine une perte d'énergie importante.
 
+Les cribles : 
 
+* peuvent s'obstruer très rapidement en cas de baisse de la pression : protéines P s'accumulent en une fraction de seconde, la callose forme des bouches en moins d'une minute, les cellules compagnes fourniraient les enzymes nécessaires à la biosynthèse de la callose
+* bouchons de callose sont digérés au moment de la reprise d'activité de la plante : chez les pérennes.
 
+Chez les monocotylédones pérennantes, le métaphloème demeure fonctionnel pendant la vie du végétal.
 
+## III) Epaississement et tissus secondaires
 
+Contexte : 
 
+* compétition pour la lumière
+* relative fragilité des vaisseaux
 
+Végétaux investissent une partie importante de leur budget énergétique dans :
 
+* la croissance en diamètre
+* le soutien
+* la production régulière d'éléments conducteurs
 
+Les végétaux qui produisent du bois en quantité importante :
 
-
-
-
-
-
-
-
-
-
-
+* tous les gymnospermes actuels
+* une partie des Eudicotylédones
+* certaines dicotlédones produisent peu de bois et de liber = plantes annuelles = plantes herbacées
 
