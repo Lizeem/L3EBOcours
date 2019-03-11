@@ -217,5 +217,20 @@ Les végétaux qui produisent du bois en quantité importante :
 
 * tous les gymnospermes actuels
 * une partie des Eudicotylédones
-* certaines dicotlédones produisent peu de bois et de liber = plantes annuelles = plantes herbacées
+* certaines dicotylédones produisent peu de bois et de liber = plantes annuelles = plantes herbacées
+
+Assises génétratrices assurent la croissance en diamètre :
+
+* assise libéro - ligneuse : le cambium
+* assise subéro - phellodermique : le phellogène (proche de l'épiderme)
+
+Trois communs à ces deux assises : 
+
+* des divisions majoritairement tangentielles = périclines
+* des origines plurielles dans une même plante
+* un fonctionnement rythmique
+
+Origine du cambium  : cellules parenchymateuses d'emballages ou de comblement
+Quand les deux types de cambium, inter et intra ne se différencient pas en même temps : bois pas initier de façon syncrones, les deux bois n'auront pas des bois similaires donc une certaine fragilité. Le cambium n'aura pas les mêmes divisions cellulaires au cours du temps.
+
 
