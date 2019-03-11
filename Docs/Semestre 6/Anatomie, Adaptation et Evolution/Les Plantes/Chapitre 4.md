@@ -326,3 +326,24 @@ La position des cribles : simple chez les gymnospermes, simple et composé chez 
 
 Tissu exposé : présence importante de fibres
 
+Le phéllogène : 
+
+* Assise beaucoup plus simple dans son fonctionnement que le cambium
+* Un seul type d'initiale, et une très grande dissymétrie dans les dérivées
+* Le phelloderme ne s'enrichit parfois que d'une assise tous les 3 à 5 ans
+
+![Le phéllogène](Images/bois3.JPG)
+
+Le liège : polymère de lipides, qui incruste toutes les face des cellules  dérivées à l'extérieur du phéllogène. Protège des attaques de parasites, et fournit une isolation thermique.
+
+Origine de l'assise génératrice : variable 
+
+* epiderme 
+* assise sous épidermique
+* parenchyme cortical
+* assises profondes du parenchyme cortical et pericycle dans la racine
+* liber
+
+Exitence fréquente de phellogènes de remplacement chez les ligneuses longévives -> souvent origine dans le liber
+
+![Ecorce](Images/ecorce.JPG)
