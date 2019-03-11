@@ -230,7 +230,15 @@ Trois communs à ces deux assises :
 * des origines plurielles dans une même plante
 * un fonctionnement rythmique
 
-Origine du cambium  : cellules parenchymateuses d'emballages ou de comblement
-Quand les deux types de cambium, inter et intra ne se différencient pas en même temps : bois pas initier de façon syncrones, les deux bois n'auront pas des bois similaires donc une certaine fragilité. Le cambium n'aura pas les mêmes divisions cellulaires au cours du temps.
+![Anatomie d'une dicotylédone](Images/anat.JPG)
 
+Le cambium : différenciation à partir de procambium : cellules intrafasciculaire, différenciation de cellules de parenchymes : cellules interfasciculaire
 
+![Cas de la tige](Images/tige.JPG)
+
+Si la tige est ligneuse : quasi synchronisme entre la mise en place des deux cambiums. Si elle est herbacée, il peut y avoir :
+
+* différenciation du seul cambium fasciculaire, plante à pachyte discontinu (Courge)
+* différenciation des deux zones, mais en général les dérivées diffèrent (la Mercuriale), la zone fasciculaire assume l'essentiel de la fonction circulatoire, la zone interfasciculaire davantage le soutien
+
+![Synthèse](Images/synthèse.JPG)
