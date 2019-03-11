@@ -276,5 +276,53 @@ Cellules initiales des rayons produisent :
 * cellules des rayons ligneux
 * cellules des rayons libériens, disposition horizontale
 
+Les dérivées :
 
+Le bois : xylème secondaire, tissu qui chez les plantes ligneuses assure la double fonction du soutien et de la conduction de la sève brute.
+
+Bois : fibre trachéides, ponctuations à torus entre les fibres
+
+Chez les Angiospermes : bois hétéroxylé
+
+Bois initial (printemps) : nombreux vaisseaux et larges, peu de fibres
+
+Bois final (été) : vaisseaux moins nombreux , étroits, beaucoup de fibres, communication par des perforations simple
+
+Deux fonctions, assurées par deux types cellulaires différents :
+
+* vaisseaux pour la conduction, faible durée d'efficacité des vasseaux, forte conductivité pour la sève brute
+* fibres pour le soutien
+
+Bois à pores en anneaux ou bois à pores diffus
+
+Viellissement du bois : perte des fonctions et transformation
+
+Aubier = partie conductrice de sève, zone clair
+
+Duramen : coeur, partie centrale, non fonctionnelle, plus foncée, accumulation des substances -> mort des cellules 
+
+![Structure du bois](Images/bois.JPG)
+
+Chez les gymnospermes : bois homoxylé
+
+Structure relativement homogène.
+Les deux fonctions (conduction et soutien) du tissu sont assurées par un seul type cellulaire : les fibres - trachéides.
+La variation de leur épaisseur permettra de faire jouer au bois un rôle davantage orienté vers l'une ou l'autre fonction.
+
+Poche schizogène qui va se developpé sur une surface importante avec un lumière et des cellules sécrétrices qui entourent la lumière entourées de cellules vivantes. Il y a aussi des rayons. Avec des poches résilifères, apétance de la plante (sève de bois). Colmatage des cellules de la plante.
+
+![Bois](Images/bois2.JPG)
+
+Papier, mouchoirs, sopalin : fibres trachéides
+
+Le liber : phloème secondaire
+
+Ce tissu conducteur de sève élaborée diffère entre les gymnospermes et les angiospermes par :
+
+* la présence de cellules compagnes chez les angiospermes, tissu plus complexe et diversifié 
+* la présence de cellules de Straburger, analogues fonctionnels chez les gymnospermes.
+
+La position des cribles : simple chez les gymnospermes, simple et composé chez les angiospermes
+
+Tissu exposé : présence importante de fibres
 
