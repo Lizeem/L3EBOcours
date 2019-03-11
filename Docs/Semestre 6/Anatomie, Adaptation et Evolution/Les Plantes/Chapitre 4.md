@@ -242,3 +242,39 @@ Si la tige est ligneuse : quasi synchronisme entre la mise en place des deux cam
 * différenciation des deux zones, mais en général les dérivées diffèrent (la Mercuriale), la zone fasciculaire assume l'essentiel de la fonction circulatoire, la zone interfasciculaire davantage le soutien
 
 ![Synthèse](Images/synthèse.JPG)
+
+Cas de la racine : croissance secondaire rare chez les dicotylées annuelles et monocots
+
+Deux origine du cambium : 
+
+* zone de procambium : entre le xylème I et le phloème I
+* zone du péricycle : dédifférenciation des cellules : cambium de raccord
+
+![Racine](Images/racine4.JPG)
+
+Différenciation possible :
+
+* de cambium discontinu
+* de cambium hétérogène dans les dicot herbacées
+* de mise en place synchrone et rapide chez les ligneuses
+
+La mise en place du cambium et son fonctionnement ont pour conséquence de faire disparaitre le cortex de la racine.
+
+![Racine](Images/racine5.JPG)
+
+![Synthèse](Images/synthèse2.JPG)
+
+2 types cellulaires dans le cambium :
+
+Cellules initiales fusiformes donnent : 
+
+* élément conducteurs
+* fibres à disposition verticale
+
+Cellules initiales des rayons produisent :
+
+* cellules des rayons ligneux
+* cellules des rayons libériens, disposition horizontale
+
+
+
