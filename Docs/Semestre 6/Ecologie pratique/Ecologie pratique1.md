@@ -23,7 +23,7 @@ Selon l'unité de base :
 * Phytosociologie Synusiale (Synusie) 
 * Phytosociologie Sigmatiste (Phytocénose, communauté végétale)
 
-![Exemple](Images/capture.JPG)
+![Exemple](Images/Capture.JPG)
 
 ## Historique de la Sigmatiste
 
