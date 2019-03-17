@@ -103,7 +103,7 @@ Tous les phénomènes météorologiques sont le résultat de transferts d'énerg
 
 #### 1/ Conduction
 
-Tranfert des vibrations moléculaires par contact direct avec molécules voisines. Energie transférée **sans déplacement macroscopique des molécules elles - mêmes**. 
+**Transfert des vibrations moléculaires par contact direct** avec molécules voisines. Energie transférée **sans déplacement macroscopique des molécules elles - mêmes**. 
 
 Impératif : la présence de matière (solide, liquide ou gaz).
 
@@ -160,7 +160,7 @@ Un corps chaud :
 
 Un corps froid :
 
-* émet moisn d'énergie totale
+* émet moins d'énergie totale
 * émet la majorité de cette énergie à des longueurs d'ondes relativement longues (moins énergétiques ou plus "molles"). (Terre, notre propre corps car émet dans l'IR)
 
 ## III) Bilan énergétique de la Terre : Chauffage vs Bilan radiatif
@@ -192,7 +192,7 @@ Soleil : 6 000 °C, couleur jaune (~50% visible, ~50% IR "proche")
 
 Etoile froide : 3 000 °C, couleur rouge (~25% visible, ~75% IR "proche")
 
-### La rotondité de la Terre
+### La rondité de la Terre
 
 Le fait que le Soleil illumine une Terre qui soit sphérique a une conséquence fondamentale
 
@@ -220,7 +220,7 @@ Sous les latitudes tropicales, l'angle d'incidence des rayons solaires demeure �
 
 ### Le devenir des rayons solaires en traversant l'atmosphère
 
-Le rayonnement en provenance du Soleil peu subir, lorsque qu'il rencontre l'atmosphère l'un des trois destins suivants :
+Le rayonnement en provenance du Soleil peut subir, lorsque qu'il rencontre l'atmosphère l'un des trois destins suivants :
 
 * il peut - être réfléchi par l'atmosphère
 * il peut - être diffusé par l'atmosphère
@@ -254,7 +254,7 @@ Destin de la radiation solaire dans l'atmosphère
 
 ![Schéma bilan du rayonnement](Images/bilan.JPG)
 
-#### 2/ La reflexion
+#### 2/ La réflexion
 
 L'atmosphère n'absorbe (donc n'utilise) que le quart de la radiation solaire incidente. Les trois quarts restants sont en majorité transmis vers la surface (2/3 de ces trois quarts). C'est la surface qui absorbe la majorité des rayons solaires. L'albédo planétaire est dominé par les reflexions atmosphériques des nuages et de la diffusion de Rayleigh.
 
@@ -426,16 +426,16 @@ Plus l'altitude augmente, plus la température chute. Si on est au dessus de la 
 
 La météorologie se passe dans la troposphère car on étudie les atomes qui sont potentiellement en dessous de la stratosphère où il ne s'y passe pas grand chose.
 
-Statropsphère 10 à 50Km d'altitude
+Stratosphère 10 à 50Km d'altitude
 
 La ligne de Carman, 100 Km d'altutide. Il faut 1Km avant que 2 molécules ne se rencontrent.
 
 ### Aurores boréales
 
-Les Aurores boréales arrivent aux poles notamment. Nos pôles sont des points faibles en champ magnétique. On a des entrées de pluies de particules princpalement provenant du Soleil qui pénetrent par les poles car ailleurs le champs magnétique est assez fort. Les couleurs dépendent de l'altitude où pénètrent ces vents solaires. Bleu et rouge : oxygène qui est stimulé, vert :azote et oxygène, rouge : azote 
+Les Aurores boréales arrivent aux pôles notamment. Nos pôles sont des points faibles en champ magnétique. On a des entrées de pluies de particules principalement provenant du Soleil qui pénètrent par les pôles car ailleurs le champs magnétique est assez fort. Les couleurs dépendent de l'altitude où pénètrent ces vents solaires. Bleu et rouge : oxygène qui est stimulé, vert :azote et oxygène, rouge : azote 
 
 ### La pression atmosphérique à l'origine des vents
 
 Densité, colonne de particules sur nos épaules, elle est hétérogène
 
-vent : pression atmosphérique qui cherche à se réequilibré suite à des différence de pression, transfert de particules d'atome.
+vent : pression atmosphérique qui cherche à se rééquilibré suite à des différence de pression, transfert de particules d'atome.

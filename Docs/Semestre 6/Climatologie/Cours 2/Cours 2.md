@@ -21,7 +21,7 @@
 Trois conséquences majeures pour l’atmosphère
 
 * Accumula1on d’oxygène libre (O2) dans l’atmosphère
-* Séquestra1on addi1onnelle de gaz carbonique (CO2) par la photosynthèse et enfouissement d’énormes quanAtés de carbone dans les organismes morts aux fonds des océans
+* Séquestra1on additionnelle de gaz carbonique (CO2) par la photosynthèse et enfouissement d’énormes quanAtés de carbone dans les organismes morts aux fonds des océans
 * Appari1on d’une couche d’ozone capable de filtrer les rayons UV nocifs et permetant à la vie de foisonner sur les continents
 
 Concentrations augmentent graduellement de moins de 1% jusqu'à ~20% aujourd’hui. Résultat final : atmosphère majoritairement azotée et contenant une frac1on importante d’oxygène.
@@ -107,7 +107,7 @@ l’atmosphère terrestre. Limite supérieure : **la mésopause**.
 
 La thermosphère : Limite inférieure de « l’espace »
 
-* Ligne de Karman : définie à 100 km d’alAtude, c’est la porte officielle de l’espace (altitude à laquelle le vol balistique est plus efficace que le vol atmosphérique)
+* Ligne de Karman : définie à 100 km d’altitude, c’est la porte officielle de l’espace (altitude à laquelle le vol balistique est plus efficace que le vol atmosphérique)
 
 Domaine des satellites artificiels, de la navette spatiale et de la
 Station spatiale internationale. La température augmente rapidement avec l’altitude, jusqu’à des centaines de °C à des centaines de km d’altitude. Cependant, la notion de température devient floue dans ce milieu extrêmement
@@ -131,7 +131,7 @@ Niveau moléculaire : force, par unité de surface, qu’un gaz exerce contre un
 
 ### Le concept de la pression
 
-Si on augmente la vitesse des molécules en augmentant la température, on pourrait croire que la pression augmentera puisque les collisions seront plus violentes. Oui en parAe, mais pas si on diminue la densité du gaz
+Si on augmente la vitesse des molécules en augmentant la température, on pourrait croire que la pression augmentera puisque les collisions seront plus violentes. Oui en partie, mais pas si on diminue la densité du gaz
 en question :
 
 * Un gaz chaud mais peu dense peut donc exercer la même pression sur une surface que s’il était froid et dense
@@ -139,7 +139,7 @@ en question :
 
 ### La loi des gaz parfaits
 
-La pression, la température et la densité ou masse volumique d’un gaz comme l’air au températures et pressions caractérisAques de notre atmosphère sont en tout temps reliées entre elles par la loi des gaz parfaits : p = ρRT
+La pression, la température et la densité ou masse volumique d’un gaz comme l’air au températures et pressions caractéristiques de notre atmosphère sont en tout temps reliées entre elles par la loi des gaz parfaits : p = ρRT
 
 En plus d’obéir à la loi des gaz parfaits, l’air de l’atmosphère terrestre subit une autre contrainte fondamentale : la gravité, qui attire l’air irrémédiablement vers le sol.
 
