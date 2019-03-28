@@ -4,7 +4,7 @@
 
 Systèmes biologiques : -> organisés hiérarchiquement et organisation reposant sur une hiérarchique de niveaux structuraux 
 
-(schéma)
+![Oragnisation des systèmes](Images/schéma.JPG)
 
 L'approche en biologie : souvent centrée sur un ou quelques niveaux structuraux : biochimie, bio cellulaire, physiologie, dynamique des pop, 
 
@@ -94,7 +94,7 @@ Il s'agit du développement d'un parenchyme aquifère. Stockage d'eau dans les t
 Deux voies se sont différenciées pour permettre au végétal d'acquérir du C02 en limitant les pertes en eau :
 
 * Voie en C4 : Séparation dans l'espace -> deux phases dans deux types de cellules différentes, stockage du C02 (que le jour)
-* 
+* Voie en CAM : stomates fermés le jour et ouverts la nuit
 
 Les autres niveaux structurant 
 
@@ -108,6 +108,6 @@ L'architecture des plantes : modifications nombreuses, les végétaux adaptés �
 
 Le cycle de reproduction : certains végétaux peuvent raccourcir leur cycle suffisamment pour profiter des rares épisodes pluvieux (Ephémérophytes).
 
-(voir schéma)
+![Schéma bilan](Images/schéma2.JPG)
 
 Multiplicité des stratégies de réponses mais nécéssité de l'intégration de la solution entre les différents niveaux structuraux
