@@ -17,3 +17,5 @@ Liège = isolant thermique (retarder l'ébullition en cas de feu, c'est un tissu
 Poche schhizogène : division de cellules vers l'intérieur (pin)
 
 Poche schizolisigène : cellules se divisent (agrumes)
+
+Pachyte : se qui provient d'un épaississement = liber + bois
