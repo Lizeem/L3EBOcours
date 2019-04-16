@@ -2,7 +2,7 @@
 
 Pas de racine chez les Ptéridophytes les plus primitifs
 
-Les racines sont spécilisées dans :
+Les racines sont spécialisées dans :
 
 * utilisation des ressources eaux et sels minéraux 
 * ancrage

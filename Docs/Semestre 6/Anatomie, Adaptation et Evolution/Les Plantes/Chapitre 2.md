@@ -99,7 +99,7 @@ Ces deux phénomènes assurés par des ensembles organisés de cellules -> conse
 **Méristèmes secondaires** = histogènes
 
 * Apparition plus tardive : une fois le développement végétatif bien avancé
-* Provenance : soit de l'évolution de certains méristèmes primaires, soit de la dédifférenciation de cellules parenchymateuses
+* Provenance : soit de l'évolution de certains méristèmes primaires, soit de la  dédifférenciation de cellules parenchymateuses
 * Position latérale dans les axes (doubles manchons) 
 
 La morphologie dans un cas simple : feuilles opposées décussées
