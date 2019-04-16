@@ -2,9 +2,9 @@
 
 ## I) L'organisation hiérarchique des systèmes biologiques
 
-Systèmes biologiques : -> organisés hiérarchiquement et organisation reposant sur une hiérarchique de niveaux structuraux 
+Systèmes biologiques -> organisé hiérarchiquement et organisation reposant sur une hiérarchique de niveaux structuraux 
 
-![Oragnisation des systèmes](Images/schéma.JPG)
+![Organisation des systèmes](Images/schéma.JPG)
 
 L'approche en biologie : souvent centrée sur un ou quelques niveaux structuraux : biochimie, bio cellulaire, physiologie, dynamique des pop, 
 
@@ -45,7 +45,7 @@ Plantin corne de cerf : indicateur du surpiétinement, dernier seuil d'alerte
 
 ## III) L'adaptation
 
-Notion d'**adaptation** indissociable de celle de contrainte -> sous entend la nécessité d'une contrainte durable : stress ou régime de perturbation plutôt que perturbation.
+Notion d'**adaptation** indisociable de celle de contrainte -> sous entend la nécessité d'une contrainte durable : stress ou régime de perturbation plutôt que perturbation.
 
 Deux types de réponses fondamentales existent :
 

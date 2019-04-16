@@ -18,4 +18,4 @@ Poche schhizogène : division de cellules vers l'intérieur (pin)
 
 Poche schizolisigène : cellules se divisent (agrumes)
 
-Pachyte : se qui provient d'un épaississement = liber + bois
+Pachyte : ce qui provient d'un épaississement = liber + bois

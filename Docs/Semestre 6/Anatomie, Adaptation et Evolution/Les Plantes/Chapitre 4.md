@@ -23,7 +23,7 @@ Les contraintes fonctionnelles :
 
 * L'eau : pénétration par toutes les surfaces non subérifiées des racines, absorption majoritairement apicale ou sous - apicale.
 * Notion de potentiel hydrique : il est égal mais de signe opposé à l'énergie qu'il faut appliquer à un milieu (tissu végétal, sol..) pour en libérer 1g d'eau, il est toujours négatif : plus il est bas, plus la liaison est forte
-* L'entrée dans la racine : poils absorbants et filaments mycéliens, poils présentent une convergence morphologique liée à la contrainte fonctionelle de l'absorption et de la conduction : forme filamenteuse fine, paroi mince, facteur multiplicatif de 2 à 10 par rapport à la surface racinaire
+* L'entrée dans la racine : poils absorbants et filaments mycéliens, poils présentent une convergence morphologique liée à la contrainte fonctionnelle de l'absorption et de la conduction : forme filamenteuse fine, paroi mince, facteur multiplicatif de 2 à 10 par rapport à la surface racinaire
 
 Absorption racinaire : possible via l'existence d'un potentiel hydrique inférieur dans la racine par rapport à celui du sol. Il est inférieur par :
 
@@ -31,7 +31,7 @@ Absorption racinaire : possible via l'existence d'un potentiel hydrique inférie
 * une succion existant dans les tissus internes de la racine (due à la pression osmotique des vacuoles et à la pression des colloïdes)
 * la transpiration de l'appareil aérien, qui entraîne un déficit et un flux d'eau
 
-L'appel d'eau ainsi crée fait focntionner le système de conduction de la sève brute "sous tension". L'eau est attirée vers le haut et la cohésion de la colonne d'eau est assurée par les liaisons hydrogènes existant entre molécules d'eau.
+L'appel d'eau ainsi crée fait fonctionner le système de conduction de la sève brute "sous tension". L'eau est attirée vers le haut et la cohésion de la colonne d'eau est assurée par les liaisons hydrogènes existant entre molécules d'eau.
 
 ![L'origine des tissus conducteurs](Images/tissus.JPG)
 
@@ -83,7 +83,7 @@ Le parenchyme et les fibres
 
 Parenchyme :
 
-* viant (paroi cellulosique parfois lignifiée)
+* vivant (paroi cellulosique parfois lignifiée)
 * communique avec les CAV par des plasmodesmes, rôle de réserve (amidon, sucre, protéines)
 
 Fibres :
@@ -96,7 +96,7 @@ Fibres :
 ![Bilan protoxylème](Images/bilan.JPG)
 ![Bilan métaxylème](Images/bilan2.JPG)
 
-Pour les éléments du xylème primaire, différence majeure réside dans le type cellulaire des éléments conducteurs : tendance évolutive va vers
+Pour les éléments du xylème primaire, différence majeure réside dans le type cellulaire des éléments conducteurs
 
 * des éléments de plus gros diamètre
 * avec des communications verticales entre eux de plus en plus vastes
@@ -135,7 +135,6 @@ Cellules compagnes :
 * conservent la totalité de leur fonctionnalité
 * synthétisent des protéines de remplacement nécessaires aux éléments criblés
 * assurent les échanges des assimilats avec les tubes criblés
-* assurent les échanges des assimilats aec les tubes criblés
 * communiquent avec les tubes criblés par des plasmodesmes
 
 Parenchyme :
@@ -290,12 +289,12 @@ Bois final (été) : vaisseaux moins nombreux , étroits, beaucoup de fibres, co
 
 Deux fonctions, assurées par deux types cellulaires différents :
 
-* vaisseaux pour la conduction, faible durée d'efficacité des vasseaux, forte conductivité pour la sève brute
+* vaisseaux pour la conduction, faible durée d'efficacité des vaisseaux, forte conductivité pour la sève brute
 * fibres pour le soutien
 
 Bois à pores en anneaux ou bois à pores diffus
 
-Viellissement du bois : perte des fonctions et transformation
+Viellissement du bois : perte des fonction et transformation
 
 Aubier = partie conductrice de sève, zone clair
 
@@ -334,7 +333,7 @@ Le phéllogène :
 
 ![Le phéllogène](Images/bois3.JPG)
 
-Le liège : polymère de lipides, qui incruste toutes les face des cellules  dérivées à l'extérieur du phéllogène. Protège des attaques de parasites, et fournit une isolation thermique.
+Le liège : polymère de lipides, qui incruste toutes les faces des cellules  dérivées à l'extérieur du phellogène. Protège des attaques de parasites, et fournit une isolation thermique.
 
 Origine de l'assise génératrice : variable 
 
