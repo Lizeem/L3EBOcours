@@ -59,3 +59,21 @@ Plus la masse terrestre est fragmentée, plus la diversité est importante à l'
 **Périodes glaciaires** : extension des espèces boréales et recul/disparition des espèces tempérées
 
 **Périodes interglaciaires** : mouvements inverses, mixité de la faune et de la flore avec des aires disjointes.
+
+## III) Répartition des aires de distribution
+
+4 grands types d'aires de distribution
+
+* aire cosmopolites : aires qui recouvrent l'**ensemble de la surface du globe**, soit sur la surface majorité émmergée soir sur la surface majorité immergée -> les espèces se rapprochant à l'Homme (rat, mouche).
+
+* aire circumterrestres : aires s'étendant **autour du globe par des latitudes données** -> aire circum boréale (Manchot), aire circum - tempérée (Groseiller).
+ 
+* aires disjointes : **espèce apparraissant sur un seul point est s'étend** -> **régression de l'espèce** (morcellemnent) ou **extension de l'espèce** (migration).
+
+* aires endémiques : **aire stricte à un territoire donné** -> **Empires** (ordre ou famille), **Régions** (famille ou genre), **Domaines** (genre), **Secteurs** (espèce).
+
+## IV) Variation biogéographiques
+
+Plus d'espèces en basses latitudes que vers les pôles : **niveau de productivité primaire** (énergie lumineuse), **temps de spéciation plus important dans les zones tropicales** (moins impactées par le temps), **taux de spéciation plus important et un taux d'extinction plus faible**.
+
+Biodiversité **diminue avec l'altitude**, moins de productivité.
