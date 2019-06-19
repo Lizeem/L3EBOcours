@@ -39,8 +39,7 @@ ces trois notions
 
 - ne sont pas nécessairement régies par les mêmes mécanismes 
 - ne sont pas indépendantes les unes des autres
-- sont les premiers degrés de compréhension du fonctionnement 
-d’une population
+- sont les premiers degrés de compréhension du fonctionnement d’une population
 
 2 types d’approches peuvent être envisagées :
 
@@ -95,16 +94,15 @@ Soit pour un intervalle de temps t :
 
 dN / dt = r N t-1
 
-r directement lié :aux conditions du milieu aux caractéristiques des individus
+r directement lié aux conditions du milieu aux caractéristiques des individus
 
 r peut présenter une valeur max, ressources non limitantes 
 
 ex : colonisation d’un nouveau milieu
 
-si effectif augmente : ressources peuvent devenir i
-nsuffisantes, r décroît
+si effectif augmente : ressources peuvent devenir insuffisantes, r décroît
 
--> r est directement dépendant de l’effecti
+-> r est directement dépendant de l’effectif
 
 r devient nul quand N = K
 croissance de la population est dite régulée par sa

@@ -21,9 +21,9 @@ Adaptation des variables démographiques aux conditions du milieu, fixée sur le
 
 Dans les années 60, Mac Arthur et Wilson ont distingué 2 types de **selection** (basé sur un modèle de compétiton entre génotype)
 
--> selection r = s'exerce dans population à basse densité entraîne une reproduction la plus élevée possible
+-> sélection r = s'exerce dans population à basse densité entraîne une reproduction la plus élevée possible
 
--> selection K = s'exerce dans une population à forte densité favorise une meilleure conversion des ressources trophiques 
+-> sélection K = s'exerce dans une population à forte densité favorise une meilleure conversion des ressources trophiques 
 
 Découlent directement de la cinétique des populations animales
 
@@ -56,7 +56,7 @@ K = faible fluctuation des effectifs, régulation liée directement à la densit
 
 Autre stratégie developpée : **beyond K** (au - delà de K) due à Greenslade :
 
-**beyond K** = population se maintient au delà des capacités du milieu, il y a alors **diminution importante des capacités des individus : S**
+**beyond K** = population se maintient au delà des capacités du milieu, il y a alors **diminution importante des capacités des individus -> S**
 
 Grime représente sa stratégie dans un triangle : 
 
