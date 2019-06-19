@@ -16,7 +16,7 @@ Les particules alimentaires fines peuvent être en **suspension**, déposées **
 
 #### Les filtreurs (= suspensivores)
 
-Les filtreurs sont aquatiques, ils peuvent créer le courant d'eau nécéssaire à la filtration, **filtreurs actifs**
+Les filtreurs sont aquatiques, ils peuvent créer le courant d'eau nécessaire à la filtration, **filtreurs actifs**
 
 Ou bien profiter du courant d'eau, **filtreur passifs**
 
@@ -26,7 +26,7 @@ Les cirripèdes localisés dans la zone intertidale ne se nourrissent qu’à ma
 
 ![Régulation de la filtration par les Lamellibranches en fonction de la concentration des particules en suspension](Images/filtration.JPG)
 
-Le taux de pompage est ajusté à la concntration de la nourriture en suspension, afin de maintenir constante la quantité de nourriture ingérée. Lorsque le maximum d'ingestion est atteint, la vitesse de pompage diminue progressivement. Si la concentration d'algues continue d'augmenter, la nourriture en excès est alors rejetée sous forme de "pseudo-fecès". Pour ce mécanisme, les Filibranches participent à la sédimentation fine dans les milieux ou ils sont abondants.
+Le taux de pompage est ajusté à la concentration de la nourriture en suspension, afin de maintenir constante la quantité de nourriture ingérée. Lorsque le maximum d'ingestion est atteint, la vitesse de pompage diminue progressivement. Si la concentration d'algues continue d'augmenter, la nourriture en excès est alors rejetée sous forme de "pseudo-fecès". Pour ce mécanisme, les Filibranches participent à la sédimentation fine dans les milieux ou ils sont abondants.
 
 #### Les détritivores
 
@@ -42,7 +42,7 @@ Chez les Echinodermes, il n'y a pas d'appareil de capture mais une bouche consti
 
 Importance écologique
 
-Rôle écologique important, en fouissant le sol ces animaux jouent un rôle très important dans la dynamique de sédimenttation.
+Rôle écologique important, en fouissant le sol ces animaux jouent un rôle très important dans la dynamique de sédimentation.
 
 ![Chez les Annélides terrestres](Images/annélides.JPG)
 
@@ -108,7 +108,7 @@ Chez les parasites osmotrophes, on a une disparition complète de l'appareil dig
 
 Les mâchoires mobiles sont garnies de dents : organes de **préhension** et de **contention** des aliments.
 
-Ce sont des organes **durs**, fortement **minéralisés** (au moins 75% du poids sec). Il faut distinguer les dents vraies des formations **odontoïdes** : qui sont des strctures **épidermiques** et qui se forment à partir de rides ou de papilles de l'épithélium buccal. Elles ne sont pas minéralisées. (ex: phanons des baleines, "dents" des Lamproies...).
+Ce sont des organes **durs**, fortement **minéralisés** (au moins 75% du poids sec). Il faut distinguer les dents vraies des formations **odontoïdes** : qui sont des structures **épidermiques** et qui se forment à partir de rides ou de papilles de l'épithélium buccal. Elles ne sont pas minéralisées. (ex: phanons des baleines, "dents" des Lamproies...).
 
 Leur rôle primitif est la préhension des aliments, chez les Mammifères, elles acquièrent des fonctions nouvellles (ex : la mastication), la morphologie, la structure, l'implantation, la croissance et le renouvellement de ces dents se trouvent alors modifiés.
 
@@ -131,7 +131,6 @@ Chez les Vertébrés aquatiques
 * ou par Ankylose – soudure directement sur l’os (Ostéichthyens,  Amphibiens) 
 
 Les dents sont nombreuses et très largement réparties dans la cavité buccale (mâchoire sup. et  inf., voûte palatine, pharynx et même œsophage) .
-
 
 Chez les Tétrapodes, on note une diminution progressive du nombre et de la localisation des dents (Amphibiens par ex.) 
 
@@ -170,43 +169,3 @@ Mammifères à dents brachyondontes (croissance limitée et usure faible)
 #### Dérivés
 
 ![Dérivés de tube digestif](Images/dérivés.JPG)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

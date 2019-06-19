@@ -24,7 +24,7 @@ L'énergie est  utilisée pour :
 * les dépenses du **métabolisme de base**
 * les dépenses liées à des **activités particulières**
 
-### Les nutriments énéergétiques
+### Les nutriments énergétiques
 
 Les **glucides** dont le glucose stocké sous forme de glycogène, source exclusive d’énergie pour certaines cellules (rétine, cerveau par ex.), le tréhalose chez les insectes.  
 Les **lipides** forme d’énergie stockée la plus importante quantitativement chez l’Homme (tissu adipeux blanc).  
@@ -66,29 +66,3 @@ On peut donc classer les animaux d’après la **nature des aliments** qu’ils 
 * Saprophages
 * Phagotrophes
 * Osmotrophes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
