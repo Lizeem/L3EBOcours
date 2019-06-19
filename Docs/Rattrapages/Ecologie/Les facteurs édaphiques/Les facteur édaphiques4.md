@@ -6,7 +6,7 @@ Le pH (potentiel Hydrogène) permet d'évaluer la concentration de l'ion hydrog�
 
 **pH = -log<sub>10</sub> [H<sub>3</sub>O<sup>+</sup>]**
 
-Dans le sol, on peut mesurer l'**acidité actuelle** ou l'**acidité** dite **potentielle* :
+Dans le sol, on peut mesurer l'**acidité actuelle** ou l'**acidité** dite **potentielle** :
 
 * le pH de l'eau qui mesure l'acidité actuelle (active ou réellle) car il ne prend en compte que les H+ de la solution du sol, il n'y a pas d'échange.
 * Le pH de KCL qui mesure l'acidité d'échange ou potentielle, il prend en compte les H+ de la solution du sol et ceux fixés sur le complexe;
@@ -146,7 +146,7 @@ Les espèces acidiphiles qui redoutent une trop grande saturation en ions calciu
 Les espèces calcicoles ne constituent pas un groupe homogène, leur présence sur sols calcaires est liée, bien souvent à certaines propriétés physiques inhérentes à ce type de sol, ce sont :
 
 * des **espèces neutrophiles** exigeant un complexe absorbant presque saturé (Cornouiller sanguin, Fusain)
-* des **espèces thermophiles** sur les sols roxheux bien exposés (Chêne pubescent, Buis)
-* des **espèces xérophiles** sur calcaires fissurés peu profond (Graminées des pelouses calcaires)
+* des **espèces thermophiles** sur les sols rocheux bien exposés (Chêne pubescent, Buis)
+* des **espèces xérophiles** sols calcaires fissurés peu profond (Graminées des pelouses calcaires)
 
 Aucune de ces espèces n'exige de manière  stricte la présence de calcaire actif dans le sol

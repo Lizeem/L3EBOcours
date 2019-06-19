@@ -19,10 +19,9 @@ Constat 2 : population oscille autour d’une valeur moyenne d’
 équilibre
 
 Généralement : capacité d’accroissement absolue d’une population 
-est plus importante que l’amplitude de fluctuation observée ,dans le cas d’une oscillation ou fluctuation régulière :mise en évidence d’une stabilisationde la population
+est plus importante que l’amplitude de fluctuation observée ,dans le cas d’une oscillation ou fluctuation régulière :mise en évidence d’une stabilisation de la population
 
-*Quels sont les mécanismes contrôlant ces fluctuatio
-ns ?*
+*Quels sont les mécanismes contrôlant ces fluctuations ?*
 
 Objet d’étude de la dynamique des populations
 

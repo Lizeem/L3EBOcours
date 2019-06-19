@@ -50,7 +50,7 @@ Le déplacement d'eau si **différence de niveau d'énergie potentielle** entre 
 Le potentiel hydrique (Ψ) dépend,
 
 * de la **pression atmosphérique** = Pp
-* **forces de tensions superficielles** s'exerçant sur les interfcaes eau-air et au-solides = **Pm** ou potentiel matriciel (phénomène de capillarité)
+* **forces de tension superficielles** s'exerçant sur les interfcaes eau-air et au-solides = **Pm** ou potentiel matriciel (phénomène de capillarité)
 * **pression osmotique** liée aux substances dissoutes = **Ps**
 * **potentiel gravitationnel** = **Pg**
 
@@ -178,7 +178,7 @@ Fondalementalement, il existe deux types d'adaptations
 * **réponse réversible** = notion de plasticité/ élasticité = accomodats
 * **réponse irréversible** = notion d'adaptation
 
-**réversibilité** : réponses affectent essentiellement les caractères morphologiques de l'organisme = **xéromorphoses** 
+**réversibilité** : réponses affectant essentiellement les caractères morphologiques de l'organisme = **xéromorphoses** 
 
 * taille 
 * port 
@@ -213,7 +213,7 @@ Cas de beaucoup d'espèces peu évoluées
 
 Cela implique des adaptations morphologiques ou physiologiques 
 
-* système souterrain très developpé pour puiser l'eau
+* système souterrain très développé pour puiser l'eau
 * présence de poils sur les surfaces foliaires
 * réduction des pertes d'eau :
 	* chute des feuilles 
@@ -227,7 +227,7 @@ Cela implique des adaptations morphologiques ou physiologiques
 
 Remarque : notion d'élasticité et de plasticité
 
-**Elasticité** : organisme retrouve sa morphologique ou caractéristiques d'avant contrainte 
+**Elasticité** : organisme retrouve sa morphologique ou caractéristique d'avant contrainte 
 
 **Plasticité** : organisme enregistre une part de la réponse due à l'action de la contrainte
 

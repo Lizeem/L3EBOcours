@@ -1,6 +1,6 @@
 # Rayonnement et lumière
 
-Le rayonnement et la lumière font parties des facteurs climatiques qui subissent des **variations récurrentes**:
+Le rayonnement et la lumière font partis des facteurs climatiques qui subissent des **variations récurrentes**:
 
 Ex: Période glaciaire/Périodes interglacières
 
@@ -158,7 +158,7 @@ Les réponses  écologiques  et  optimum écologique  des  espèces sont  variab
 L'adaptation de certaines espèces à la lumière et d'autres à l'ombre permet une **stratification** des espèces dans les systèmes tels que les écosystèmes forestiers.
 
 * **espèces sciaphiles : jamais en canopée**
-* **espèces héliophiles : forment le couvert**
+* **espèces héliophiles : forme le couvert**
 
 Dans le cas d'une intensité lumineuse extrême:
 
@@ -173,7 +173,7 @@ Ex: le Hêtre
 
 Germination des graines: nécessite une faible luminosité. Dès la 2<sup>eme</sup> année :  nécéssité d'augmenter la lumière sinon survie limitée
 
-**Lumière** : influence de nombreux processus biologiques par les réactionsphotochimiques qu'elle provoque
+**Lumière** : influence de nombreux processus biologiques par les réactions photochimiques qu'elle provoque
 
 Chez les **phanérogames**, elle influence:
 
@@ -217,7 +217,7 @@ Il y a également des adaptations locales:
 
 * au niveau des organes:
 
-	* augmentation de la surface foliaire et diminution de l'épaisseur = **ration surface / poids sex augmente**
+	* augmentation de la surface foliaire et diminution de l'épaisseur = **ration surface / poids augmente**
     * structure du limbe différente: parenchyme palissadique est moins différencié, réseau de nervures plus lâche, densité des stomates plus faible, cuticule plus fine.
     
    * phénomène de phototropisme : modification de l'architecture de la plante (hormone) orientation vers le gradient lumineux.
@@ -239,7 +239,7 @@ Au sein des espèces héliophiles (= héliophytes) : possible de mettre en évid
 * deux catégories d'héliophytes: 
 	* les C4 : beaucoup de poacées tropicales
     * les C3
-Les C4 n'ont pas de plateau de saturation en conditions de fort éclairement contrairement aux C3
+Les C4 n'ont pas de plateau de saturation en condition de fort éclairement contrairement aux C3
 
 Pour les espèces sciaphiles : leur adaptation est pondérée par un ensemble de conditions : 
 
@@ -265,7 +265,7 @@ L'action de la lumière est couplée à l'action de la photopériode. Par exempl
 
 Selon les espèces, le processus est différent, on distingue:
 
-* les plantes de jour long = plante **héméropériodiques**
+* les plantes de jour long = plantes **héméropériodiques**
 * les plantes de jour court = plantes **nyctipériodiques**
 * les plantes indifférentes = plantes **photo-apériodiques**
 
