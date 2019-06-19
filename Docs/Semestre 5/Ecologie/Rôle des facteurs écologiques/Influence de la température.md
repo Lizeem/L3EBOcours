@@ -132,8 +132,6 @@ Ex: Lac profond en zones tempérées ou froides
     
 ![Stratification thermique schématique d’un lac profond en zone tempérée hiver vs été](Images/température.JPG)    
 
-![Mouvement de l'eau et stratification thermique] (Images/mouvementdel'eau.JPG)
-
 Ce sont des lacs dimictiques par opposition aux lac monomictiques qui présentent une stratification constante.
 
 Sous les tropiques : lacs **holomictiques** = pas de stratification car pas de saison froide

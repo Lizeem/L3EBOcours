@@ -77,7 +77,7 @@ La Commission européenne dans sa communication "Vers une stratégie thématique
 * la contamination,
 * la diminution des teneurs en matières oragniques,
 * la salinisation,
-* le tassement du sols, 
+* le tassement du sol, 
 * les glissements de terrain,
 * les inondations,
 * manque acidification des sols

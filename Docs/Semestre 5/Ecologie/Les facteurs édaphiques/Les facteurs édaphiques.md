@@ -1,3 +1,4 @@
+
 # Les Facteurs édaphiques (I)
 
 # I) Introduction
@@ -14,7 +15,7 @@ Des facteurs écologiques agissent à tous les niveaux d'organisation des écosy
 
 Pour qu'un **sol** se forme il faut minimum 1 000 ans. En zone tropical, les sols ont plus de 100 000 ans. C'est un compartiment fonctionnel de l'écosystème et une interface entre le monde vivant et minéral. C'est une source non- renouvelable à l'échelle de temps humain.
 
-La fonction du sol est de recycler la matière organique, pour cela il faut une activité biologique. Les champignons et bactéries aident au recyclage.
+Le sol recycle la matière organique : il faut une activité biologique. Les champignons et bactéries aident au recyclage.
 
 * Distinction courante
 
@@ -35,9 +36,9 @@ Descripteur écologique = tout caractère du milieu observé, relevé ou mesuré
 
 Distinction :
 
-* descripteurs qualitatifs (sans grandeur)
-* descripteurs quantitatifs (variables quantitatifs chiffrées = statistiques applicables)
-* descripteur semi-quantitatifs (s'ordonne selon un gradient)
+* descripteur qualitatif (sans grandeur)
+* descripteur quantitatif (variables quantitatives chiffrées = statistiques applicables)
+* descripteur semi-quantitatif (s'ordonne selon un gradient)
 
 ### 1) Notion de facteurs limitants
 
@@ -103,7 +104,7 @@ La pédologie est une discipline relativement récente:
 * Origine : école russe de Vassili Dokutchaëv, fin du XIX e siècle 
 * Dokutchaïev : nature et répartition des sols liées à la roche sous jacente certes mais aussi au climat, au relief, aux agents biologiques (végétation, faune du sol et micro-organismes) et au temps.
 
-**Vision moderne de la pédogénèse : le sol n'est pas un milieu inerte et stable, mais il se forme et se developpe.**
+**Vision moderne de la pédogénèse : le sol n'est pas un milieu inerte et stable, mais se forme et se développe.**
 
 
 Le sol évolue sous l'influence du climat, du relief et des organismes vivants (végétation, pédofaune et micro-organismes) au dépend du **matériel minéral** (substratum géologique : matériel parental ou *roche mère*)...

@@ -66,7 +66,7 @@ Ce potentiel correspond à l'énergie résultant de la pression de l'eau due:
 * aux effets de liaison autour des particules solides, 
 * aux effets de capillarités dans les pores.
 
-Les quatres valeurs habituelles du pH sont donc à retenir.
+Les quatres valeurs habituelles du pF sont donc à retenir.
 
 * La **capacité au champ** qui correspond à pF 1,8 (moment où l'eau de gravité à écoulement rapide est partie et où l'eau de gravité à écoulement lent comment à disparaître)
 * La **capacité de rétention** ou **humidité équivalente** (à la capacité au champ, déterminée au laboratoire) correspond à une force de 1/3 d'atmosphère donc à un pF de 2,5.
@@ -121,7 +121,7 @@ RFU = Réservoir Facilement Utilisable Maximal
 
 L'influence de l'eau du sol sur la végetation en fonction de la capacité des espèces à compenser ou non la force de rétention du sol. 
 
-* Les **plantes hygrophiles** ont besoins de beaucoup d'eau facile à prélever donc à faible pF
+* Les **plantes hygrophiles** ont besoin de beaucoup d'eau facile à prélever donc à faible pF
 * Les **plantes xérophiles** peuvent subsister lorsque les valeurs du pF sont voisines du point de flétrissement 
 * C'est à partir de l'observation des **plantes mésophiles**, intermédiaire entre les 2 cas précédent, que la valeur référence du point de flétrissement permanent à été fixé à 1,6 MPa ou pF = 4,2
 

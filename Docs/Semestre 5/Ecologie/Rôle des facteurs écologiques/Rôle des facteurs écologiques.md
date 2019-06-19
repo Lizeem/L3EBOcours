@@ -11,7 +11,7 @@ Les facteurs sont divisés en deux catégories:
 
 ### A) Les facteurs abiotiques
 
-Les facteurs abiotiques font intervenir les caractéristiques physico-chimiques du milieu, cest le **biotope**. Ils sont généralement **indépendants** de la densité des organismes.
+Les facteurs abiotiques font intervenir les caractéristiques physico-chimiques du milieu, c'est le **biotope**. Ils sont généralement **indépendants** de la densité des organismes.
 
 * les facteurs climatiques:
 	* lumière

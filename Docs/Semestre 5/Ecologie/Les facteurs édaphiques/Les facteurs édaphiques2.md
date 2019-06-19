@@ -10,7 +10,7 @@ La **texture minérale** = "*Composition granulométrique définie d'après la p
 
 20mm< **graviers** < 2mm < **sables** < 50µm < **limon** < 2µm < **argiles**
 
-Les argiles sont des éléments minéraux chargés négativement. Ce sont des **coloïdes**.
+Les argiles sont des éléments minéraux chargés négativement. Ce sont des **colloïdes**.
 
 La texture est une **propriété stable** ne variant que sur l'évolution à long terme du sol.
 
