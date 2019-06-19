@@ -10,11 +10,11 @@ Actuellement,
 
 * ensemble d'individus d'une espèce occupant un territoire commun
 * capables de se reproduire entre eux
-* caractérisés généralement par un polymorphissme génétique important (permet l'adaptation à un milieu sans cesse changeant)
+* caractérisés généralement par un polymorphisme génétique important (permet l'adaptation à un milieu sans cesse changeant)
 
-**Espèce** : peu - être constituée de plusieurs populations communiquant entre elles, les échanges de gènes via des individus migrateurs (notion de **méta-population**)
+**Espèce** : peut - être constituée de plusieurs populations communiquant entre elles, les échanges de gènes via des individus migrateurs (notion de **méta-population**)
 
-Entre population, différentes **intéractions** existent : 
+Entre population, différentes **interactions** existent : 
 
 * Compétition pour une ressource, un espace..
 * Mutualisme (obligatoire) : forme la plus évoluée des associations (symbiose)
@@ -33,7 +33,7 @@ L'effectif d'une population dépend des **propriétés des individus** :
 * âge 
 * valeur compétitive
 
-Dépend également de l'**environennement**
+Dépend également de l'**environnement**
 
 Système population –environnement 
 
@@ -96,10 +96,9 @@ Peupliers : 1000 à 1500 ramets peuvent se développer pour un genet et peuvent 
 
 Exemples : 
 
-Population de pigeons frugivores sur l'île de Rapa (Polynésie française), *Viola hispida* : espèce très rare présente uniqumenet dans l'Eure et la Seine maritime
+Population de pigeons frugivores sur l'île de Rapa (Polynésie française), *Viola hispida* : espèce très rare présente uniquenent das l'Eure et la Seine Maritime.
 
 Pour les populations animales plus abondantes : étude réaliste sur des territoires plus restreints (Parcs, réserves...), population à répartition spatiale restreinte à un moment de leur cycle (Morses, phoques, amphibiens au moment de leur reproduction).
-
 
 #### Dénombrement par échantillonnage
 
@@ -153,7 +152,7 @@ N = effectif de la population
 
 Si c grand (>20) alors N = ab/c
 
-Si c -> 0 : pas de re-capture, N -> ∞ 
+Si c -> 0 : pas de recapture, N -> ∞ 
 
 Signifie que : 
 
@@ -244,11 +243,11 @@ Pour un paysage donné
 
 -> Beaucoup d'espèces réduites à des populations isolées, extinction possible sous l'action de processus aléatoires, si les individus sont capable de se disperser et franchir les espaces alors la colonisation peut compenser l'extiction
 
-**Méta-population** = ensemble de sous poulations interconnectés par des individus qui se dispersent
+**Méta-population** = ensemble de sous populations interconnectés par des individus qui se dispersent
 
 Il existe 4 types de méta-populations : 
 
-1) Insipiré du modèle de Levins :
+1) Inspiré du modèle de Levins :
 
 * ensemble de petites populations vivant dans des milieux quasi identiques 
 * sous populations en équilibre dynamique par suite de processus de colonisation et d'extinction
@@ -275,9 +274,9 @@ Pour les corridors : même chose
 * possible d'évaluer la connectivité de ces éléments linéaires
 * description des connections entre les éléments linéaires
 
-Plus le réseau est connecté -> plus il est fonctionnel et permet le déplancement des organismes
+Plus le réseau est connecté -> plus il est fonctionnel et permet le déplacement des organismes
 
-## C) Strcture d'âge d'une population = structure démographique 
+## C) Structure d'âge d'une population = structure démographique
 
 Répartition des individus : 
 
@@ -347,7 +346,7 @@ Polymorphisme révélé par l'analyse biochimique (isoenzymes) pouvant être ét
 * action des facteurs écologiques limite l'accroissement 
 * facteurs agissent sur :
 	* les individus 
-    * leur processus démograpihques (natalité, fécondité..)
+    * leur processus démographiques (natalité, fécondité..)
 	* traits de vie = mode reproduction, système de reproduction
 
 différents cas :

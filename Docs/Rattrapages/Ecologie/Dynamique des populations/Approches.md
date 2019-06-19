@@ -79,7 +79,7 @@ Réponse écologique s'apparente à une stratégie des espèces entre deux extr�
 
 **Niche écologique** = étude du domaine de vitalité des populations d'une espèce en fonction des principaux facteurs écologiques, hyper volume d'occurence de l'espèce dans un espace à n dimensions
 
-Tout comme les stratégies biologiques, les paramètres de la niche écologique peuvent varier en fonction des intéractions (intra ou inter).
+Tout comme les stratégies biologiques, les paramètres de la niche écologique peuvent varier en fonction des interactions (intra ou inter).
 
 Stratégies biologiques = moyen d'expliquer les niches écologiques des espèces, tel trait favorisé par tel type de facteur écologique
 

@@ -15,11 +15,11 @@ Description des populations permet de décrire les variables démographiques li�
     
 Cycle de vie d'un organisme directement lié à ces traits contribuant à sa survie et sa reproduction -> donne une valeur sélective à l'organisme = **fitness darwinienne**
 
-Variables démographiques également liées à l'environnnement :
+Variables démographiques également liées à l'environnement :
 
 * présence ou non de prédateur
 * présence ou non de compétiteur
-* resssources du milieu = K
+* ressources du milieu = K
 
 Variables également liées aux paramètres biologiques de l'organisme :
 
@@ -42,7 +42,7 @@ Les combinaisons sont :
 
 Combinaisons réunissent des traits fonctionnant et évoluant ensembles -> traduisent l'adaptation de la population à son environnement 
 
-Paramètres subissent des **contraintes** internes et/ ou externes 
+Paramètres subissant des **contraintes** internes et/ ou externes 
 
 * présentent donc des fluctuations
 * impliquent une sélection des traits les plus favorables à la situation -> notion de **compromis** ou de **choix -> trade off**
@@ -93,7 +93,7 @@ progressive   de   la   proportion   de   ressources   allouée   à   la produc
 
 D'un point de vue évolutionniste : 
 
-" La  sélection  naturelle  devrait  favoriser  les  génotypes  qui,  entre  les différentes  stratégies  possibles,  adoptent  celles  qui  leur  confèrent  de génération en génération le taux de multiplication (= valeur sélective) le plus important "
+" La  sélection  naturelle  devrait  favoriser  les  génotypes  qui,  entre  les différentes  stratégies  possibles,  adoptent  celles  qui  leur  confère/t  de génération en génération le taux de multiplication (= valeur sélective) le plus important "
 
 **Les  traits  bio-démographiques  sont  donc  des ensembles de traits co-adaptés, modelés par le jeu de  la  sélection  naturelle  pour  résoudre  des problèmes écologiques particuliers -> Profil bio-démographique d'une population = expression de l'adaptation de l'organisme à son environnement**
 
@@ -235,7 +235,7 @@ Ex : crabes verts, *Carcinus maenas*
 * proie : moules de taille réduites, facile à briser -> rentabilité plus importante
 * "profitabilité" maximum de cette proie se situe pour une taille d'environ 2,7 cm
 
-! Les crabes peuvent se nourrir de proies moins profitables
+Les crabes peuvent se nourrir de proies moins profitables
 
 La stratégie adoptée peut - être orientée par le **temps** de recherche de la proie la plus profitable -> dans le même temps, le prédateur s'expose à ses propres prédateurs
 
