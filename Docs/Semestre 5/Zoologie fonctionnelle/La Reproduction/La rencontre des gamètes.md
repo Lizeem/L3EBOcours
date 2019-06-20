@@ -10,7 +10,7 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 ### les géniteurs vont s'accoupler **avec appariement**
 
-* Chez les homards, il y a chez le mâle un orifice au niveau de la dernière pâte du thorax. Chez  les deux premières paires abdominaux, les **cléopodes** vont porter les oeufs, ils possèdent de petites excroissances. Les homards vont s'accoupler en s'unissant, face-ventrale-face ventrale. La femelle va lacher ses ovules et le mâle va les arroser avec sa semence. Il y a donc peu de pertes. Les oeufs vont rester fixés sur la face ventrale de la femelle. Les individus sont vulnérables face aux prédateurs.
+* Chez les homards, il y a chez le mâle un orifice au niveau de la dernière patte du thorax. Chez  les deux premières paires abdominaux, les **cléopodes** vont porter les oeufs, ils possèdent de petites excroissances. Les homards vont s'accoupler en s'unissant, face-ventrale-face ventrale. La femelle va lacher ses ovules et le mâle va les arroser avec sa semence. Il y a donc peu de pertes. Les oeufs vont rester fixés sur la face ventrale de la femelle. Les individus sont vulnérables face aux prédateurs.
 
 * Chez les amphibiens anoures, on a un accouplement **amplexus**. Il est axillaire quand le mâle est sur la femelle, lambaire quand le mâle est au niveau du bassin. La femelle va émettre les ovules et le mâle va les arroser. La peau de la femelle doit être humide pour que les spermatozoïdes puissent nager à la surface.
 
@@ -18,7 +18,7 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 * Chez les épinoches (poissons), le mâle est rouge avec des épines sur le dos et la femelle a des couleurs ternes (**dimorphisme sexuel**). Au moment de la reproduction, les mâles vont construire des nids sur le fond des cours d'eau, au niveau de la végétation. Lorsque les femelles passent, le mâle les motive afin de savoir si elle pond ou pas dans son nid. si le nid lui convient, elle va y déposer des ovules et s'en aller. Le mâle va garder les oeufs et les protéger tout le long de leur developpement. 
 
-## II) La fécondation interne directe
+## II) La fécondation interne indirecte
 
 ### Fécondation interne indirect fait appelle au **spermatophore** (sac qui enveloppe les spermatozoïdes)
 
@@ -42,7 +42,7 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 ### Pas d'organe copulateur
 
-* Chez les collembolles, le mâle va déposer les spermatozoïdes dans la femelle avec ses pièces bucales.
+* Chez les collemboles, le mâle va déposer les spermatozoïdes dans la femelle avec ses pièces bucales.
 
 * Chez les oiseaux, pour féconder la femelle, le mâle va coller son cloaque contre celui de la femelle.
 
@@ -50,7 +50,7 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 * Chez les Odonates, il existe deux sous ordres (Zygoptère et Anésoptères). Le male est plus joli, la femelle est plus terne (**dimorphisme sexuel**). Le mâle maintient la tête de la femelle. La femelle va mettre son orifice génitale au contact de l'appareil reproducteur mâle. Avant l'accouplement, le mâle doit se recourber afin de recharger en spermatozoïde ses organes copulateurs. 
 
-* Chez les araignées mâles, les orifices sont sur la région postérieur mais les organes copulateurs se trouvent dans les parties d'appendices, les **pédipalpes**. Le mâle doit charger ses organes copulateurs en semence. Sur sa toile il déposera donc son sperm, et va l'aspirer avec l'organe copulateur qui est constitué d'un **bulbe** (réservoir) qui se prolonge d'un petit canal le **style**.
+* Chez les araignées mâles, les orifices sont sur la région postérieur mais les organes copulateurs se trouvent dans les parties d'appendices, les **pédipalpes**. Le mâle doit charger ses organes copulateurs en semence. Sur sa toile il déposera donc son sperme, et va l'aspirer avec l'organe copulateur qui est constitué d'un **bulbe** (réservoir) qui se prolonge d'un petit canal le **style**.
 
 ### Reliés aux voies génitales
 
@@ -62,14 +62,14 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 ### Adaptations favorisant l'accouplement
 
-* Chez les dytiques (coléoptères), le mâle doit monter sur le dos de la femelle qui est recouvert par les **élytes** (ailes glissantes et rigides). Chez la femelle , les ailes présentent une zone plane qui présente une striation assez importante. Le mâle possède des ventouse au niveau de ses pattes pour pouvoir se fixer à la femelle.
+* Chez les dytiques (coléoptères), le mâle doit monter sur le dos de la femelle qui est recouvert par les **élytres** (ailes glissantes et rigides). Chez la femelle , les ailes présentent une zone plane qui présente une striation assez importante. Le mâle possède des ventouses au niveau de ses pattes pour pouvoir se fixer à la femelle.
 
 * Chez les animaux parasites,	
 	* le shistosoma mansoni les sexes sont séparés, le mâle possède une goutière sur sa face ventrale **canal gynécophore** qui permet de porter la femelle. ils vivent accolés l'un à l'autre. La femelle va être nourrit par le mâle. 
     
     * la sacculine, le mâle sera en parasite chez la femelle réduit à un testicule et vit sur l'**extrenat** l'ovaire de la femelle
     
-    * diplozon paradoxum, vit fixé sur une branchie de Cyprimidés (poissons comme la Carpe), ce sont des hermaphrodites, la fusion est plus poussée. Le vagin est fusionnée avec le canal déférent de l'autre individu.
+    * diplozon paradoxum, vit fixé sur une branchie de Cyprinidés (poissons comme la Carpe), ce sont des hermaphrodites, la fusion est plus poussée. Le vagin est fusionné avec le canal déférent de l'autre individu.
    
 ## IV) Mecanismes favorisant le rapprochement  des partenaires
 
@@ -78,7 +78,7 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 * Chez les insectes, 
 	* cigales, les mâles vont faire des émissions sonores **stridulation** grâce à des tambours qui se trouve sur la face ventrale du thorax. Parfois le tambours sont recouverts par des opercules **cymbacalyptes**. Ils sont consitués d'une caisse de raisonnance avec au dessus des petites lamelles faites de cuticules. Leur mouvement va permettre le signal sonore
 
-	* sauterelles et grillons (Orthoptères), on observe ce même phénomène mais les organes sont différents que chez la cigale.  La stridulation est dû au frottement entre les ailes postérieures et les ailes inférieures. Sur l'aile antérieure, il y a une nervure possèdant des épines **harchées** vont frotter contre une nervure spécialisée **la corde**. Les vibrations émises sont amplifiées par une structure **le miroir**. La femelle possède des organes **tympaniques** qui se trouve sur le tibia		
+	* sauterelles et grillons (Orthoptères), on observe ce même phénomène mais les organes sont différents que chez la cigale.  La stridulation est dûe au frottement entre les ailes postérieures et les ailes inférieures. Sur l'aile antérieure, il y a une nervure possèdant des épines **harchées** vont frotter contre une nervure spécialisée **la corde**. Les vibrations émises sont amplifiés par une structure **le miroir**. La femelle possède des organes **tympaniques** qui se trouve sur le tibia		
     
     * les criquets, le mâle utilise les ailes antérieures qui vont frotter le fémur des pattes postérieur
     
@@ -88,7 +88,7 @@ Le premier grand type de stratégie, et la fécondation externe. Cette fécondat
 
 ### Signaux olfactifs
 
-* Chez les papillons de nuit (hétérocères), la femelle possède une phéromone qui attire les mâles **bombycol**, cette substance attire des mâles jusqu'à plusieurs km (0,01 μg pour 4km). Le mâle possède des antennes plus larges que chez les femelles, elles ont des ramifications sur les côtés formant deux peignes **bipectinées** (très allongés chez le mâle). Chez les femelles ce sont des antennes en massues **rhopalocères**
+* Chez les papillons de nuit (hétérocères), la femelle possède une phéromone s **bombycol**, cette substance attire des mâles jusqu'à plusieurs km (0,01 μg pour 4km). Le mâle possède des antennes plus larges que chez les femelles, elles ont des ramifications sur les côtés formant deux peignes **bipectinées** (très allongés chez le mâle). Chez les femelles ce sont des antennes en massues **rhopalocères**
  
 ### Signaux visuels
 

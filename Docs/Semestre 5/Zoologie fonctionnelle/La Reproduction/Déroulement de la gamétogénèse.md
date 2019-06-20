@@ -1,11 +1,11 @@
-# Déroulement de la gamétogénèse
+# Déroulement de la gamétogenèse
 
-## Gamétogénèse femelle
+## Gamétogenèse femelle
 
 ### L'origine des réserves
 
 L'orsque l'on fait un gamète femelle, les reserves qui sont dans les ovules sont de type energétique dans le **vitellus** possédant en majorité des lipides et des protéines. En plus, on a d'autres types des **réserves informationnelles** (ARN maternelle, protéines, mitochondrie).
-Ces reserves sont dans l'ovocyte, peuvent soit synthétiser directement dans l'ovocyte (cas des reserves informationnelles) mais le vitellus est en général produit par d'autres cellules soit **cellules folliculaire somatiques** vont synthétiser le vitellus.
+Ces reserves sont dans l'ovocyte, peuvent soit synthétiser directement dans l'ovocyte (cas des reserves informationnelles). Le vitellus est en général produit par d'autres cellules soit **cellules folliculaire somatiques** vont synthétiser le vitellus.
 
 ### Le déroulement de l'ovogenèse
 
@@ -23,7 +23,7 @@ La thèque interne secrète des substances mâle et sont convertis en oestrogèn
 
 ![Zoologie](Images/Fig18.JPG)
 
-* Chez les amphibiens l'ovocyte va synthétiser lui même son vittelus, la quantité folliculaire autour est plus faible. Au niveau du noyau il y a bcp d'éléments de synthèse. Les chromosomes prennent un aspect très varié.
+* Chez les amphibiens l'ovocyte va synthétiser lui même son vitellus, la quantité folliculaire autour est plus faible. Au niveau du noyau il y a bcp d'éléments de synthèse. Les chromosomes prennent un aspect très varié.
 
 ![Zoologie](Images/Fig19.JPG)
 
@@ -33,7 +33,7 @@ L'ADN est décondensé au niveau des boucles.
 
 ![Zoologie](Images/Fig20.JPG)
 
-### Contrôle de l'ovogénèse
+### Contrôle de l'ovogenèse
 
 L'activité des gonades est modulée par les sécrétions dans l'hypophyse où il y a des cellules capables de secreter des substances comme l'hormone FSH qui intervient à partir du stade follicule tertiaire. Les stades de la croissance sont stimulés par des sécrétions locales. Dans l'ovaire des cellules vont secreté EGF qui stimule la croissance en passant de  l'étape primaire à secondaire et va stimuler les recepteurs de la FSH.
 
@@ -41,7 +41,7 @@ L'apparition d'un corps jaune provoque une augmentation du temps de progestéron
 
 ![Zoologie](Images/Fig21.JPG)
 
-> Gamétogénèse mâle
+> Gamétogenèse mâle
 
 ![Zoologie](Images/Fig22.JPG)
 

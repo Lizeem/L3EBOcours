@@ -43,13 +43,13 @@ Les voies génitales vont permettre aux gamètes de sortir.
 
  Rappels :
 
-* Chez grenouille mâle, les testicules sont situés à côté des reins, le conduit entre les deux est appelé urosperiducte ou **canal de Wolff**, **les canalicules** reliant à un réseau de canaux issus des **tubes séminifères** appellé **rete testi**. **Mésomephros** n'est pas le premier rein, les testicules se forment d'abord dans le **pronephros** qui se forme et disparaît et où le deuxième rein se formera dans la partir postérieur
+* Chez grenouille mâle, les testicules sont situés à côté des reins, le conduit entre les deux est appelé urosperiducte ou **canal de Wolff**, **les canalicules** reliant à un réseau de canaux issus des **tubes séminifères** appellé **rete testi**. **Mésonéphros** n'est pas le premier rein, les testicules se forment d'abord dans le **pronéphros** qui se forme et disparaît et où le deuxième rein se formera dans la partir postérieur
 
-* Chez la souris mâle, l'organisation est différente, chez les mammifères le canal évacuant l'urine et le sperm est le **speriducte** lié au developpement embryonnaire. On forme d'abord un premier rein le **promephros**, ensuite le mésonephros qui va aussi disparaître pour former le **métanephros**, le canal de Wolff ne sert qu'à évacuer le sperm.
+* Chez la souris mâle, l'organisation est différente, chez les mammifères le canal évacuant l'urine et le sperm est le **speriducte** lié au developpement embryonnaire. On forme d'abord un premier rein le **pronéphros**, ensuite le mésonéphros qui va aussi disparaître pour former le **métanephros**, le canal de Wolff ne sert qu'à évacuer le sperm.
 
 * Chez l'appareil génital femelle de la grenouille, la gonade est un ovaire, qui est relié à un canal qui est complètement indépendant du canal de Wolff, qui est un **oviducte**. Le rein,  lui a un canal de Wolff pour expulser l'urine
 
-* Chez la souris femelle, l'ovaire est relié à un **oviducte**, on ne retrouve pas le canal de Wolff, le **canal de Miller** est fait pour évacuer les ovules.*
+* Chez la souris femelle, l'ovaire est relié à un **oviducte**, on ne retrouve pas le canal de Wolff, le **canal de Miller** est fait pour évacuer les ovules.
 
 **On a d'abord formation d'une gonade indifférenciée et les deux canaux Miller/Wolff. Lorsque les gonades évoluent pour faire les testicules, le canal de Miller disparaît, si les gonades forment des ovaires, chez les mammifères le canal de Wolff disparaît.**
 
@@ -75,7 +75,7 @@ Le contrôle génétique est dans un premier temps à l'**échelle du caryotype*
 Chez les vertébrés, on a remarqué que chez bcp d'espèces, il y avait souvent une paire de chromosomes qui était différente entre les deux sexes.
 
 Les chromosomes sexuels ou **hétérochromosomes**, sont identiques chez la femelle et différents chez le mâle, il est **hétérogamétique**.
-Chez d'autre groupe que les mammifères, c'est la femelle qui est hétérogamétique, par exemple chez les abeilles, il y a une différence caryotypique entre le mâle (X0) et la femelle (XX), ce qui est lié au mode de reproduction des abeilles, en effet, elles utilisent la **parténogénèse facultative**, **la reine décide si elle fait de la parténogénèse (mâle) ou fécondation (femelle)**.
+Chez d'autre groupe que les mammifères, c'est la femelle qui est hétérogamétique. Chez les abeilles, il y a une différence caryotypique entre le mâle (X0) et la femelle (XX), ce qui est lié au mode de reproduction des abeilles, en effet, elles utilisent la **parthénogénèse facultative**, **la reine décide si elle fait de la parténogénèse (mâle) ou fécondation (femelle)**.
 
 *Le syndrome de Klinefelter affecte un nouveau né sur 1000 ceux-ci ont deux chromosomes XX et un chromosome Y. Cela se traduit par des modifications phénotypique comme l'apparition d'une grande taille pas tout à fait proportionnée et d'autres troubles comme les caractères sexuels secondaires. On a aussi un dvp anormal des glandes mammères (**la gynécomastie**), une grande pilosité corporelle et le dvp de caractères sexuels secondaires comme l'appararition des testicules. Le nouveau né a donc un phénotype mâle mais est stérile.*
 

@@ -4,7 +4,7 @@
 
 **Reproduction sexuée** = biparentale, où intervient des cellules spécialisées  (gamètes) et provoquant la fécondation mais parfois il n'y aura pas de fécondation
 
-Il y a une reproduction assexuée dans lequel intervient une gamète mais il n'y aura pas de fécondation = **la parténogénèse**
+Il y a une reproduction asexuée dans lequel intervient une gamète mais il n'y aura pas de fécondation = **la parthénogenèse**
 
 Chez la majeure partie des animaux, la formation des gamètes se fait à partir de cellules (**cellules germinales**) qui vont former les gamètes. Au départ ce ne seront pas de cellules germinales non différenciées et diploïdes. Lorsque cellules germinales commencent à se différencier des autres ce qu'on appelle des **gonies**, elles deviennent des cellules diploïdes (2n).
 
