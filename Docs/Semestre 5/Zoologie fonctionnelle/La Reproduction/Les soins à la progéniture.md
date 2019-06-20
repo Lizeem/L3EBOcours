@@ -6,7 +6,7 @@
 
 **Jeune** = stade de dvp qui ne diffère de l'adulte que par sa taille et son incapacité à se reproduire
 
-**Larve** = stade de developpement différent 
+**Larve** = stade de développement différent 
 
 ## I) La protection de la progéniture augmente ses chances de survie:
 
@@ -40,7 +40,7 @@
 4) **Incuber sa progéniture**
 
 * région exterieur
-	* crapeau accoucheur, les mâles collecte les oeufs qui vont être coller sur la face dorsale du mâle restant tout le long de leur developpement
+	* crapaud accoucheur, les mâles collecte les oeufs qui vont être coller sur la face dorsale du mâle restant tout le long de leur developpement
 
 	* chez les homards, face ventrale de la femelle
 
@@ -48,14 +48,14 @@
 	
     * hippocampe, le mâle à une poche sur son abdomen
     
-    * chez les crapeaux gastroteca, l'incubation des oeufs se fait dans l'estomac, le mâle va cesser de se nourrir. Ils peuvent se situer chez d'autres crapeaux dans des cavités buccales
+    * chez les crapauds gastroteca, l'incubation des oeufs se fait dans l'estomac, le mâle va cesser de se nourrir. Ils peuvent se situer chez d'autres crapeaux dans des cavités buccales
   
 ## II) La nutrition de la progéniture, stade embryonnaire
   
 ### De l'oviparité chez les Chondrichtyens
    
 * **lécithotrophie**
-	* Les requins possède un grand sac rempli de vittelus qui va nourrir l'embryon 
+	* Les requins possède un grand sac rempli de vitellus qui va nourrir l'embryon 
   
 * **histotrophie**
     * Chez la raie, l'oeuf est retenu dans les voies génitales, la paroi utérine va provoquer des tampons qui viennent au contact génital de la femelle, **trophonemata**, qui vont sécréter du lait pour nourrir l'embryon.
