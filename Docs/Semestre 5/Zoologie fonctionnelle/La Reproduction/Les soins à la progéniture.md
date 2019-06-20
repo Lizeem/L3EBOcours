@@ -127,7 +127,7 @@ Une **implatation différente** est une implantation qui va attendre différents
 
 * Chez le bousier, il va enrouler une pelote jusqu'à son terrier, ensuite le bousier dépose son oeuf à l'intérieur de la boulette. Le petit va pouvoir manger la pelote avant sa métamorphose. 
 
-### Utiliser les sécrétions nutrituves
+### Utiliser les sécrétions nutritives
 
 * Chez les pigeons, leur jabot est capable de sécréter du "lait" et de nourrir son petit
 
@@ -145,17 +145,17 @@ Produit par les cellules acineuses:
 
 * Filtration du sang qui se trouve au niveau des globules , la filtration sélective de l'eau et sels, albumines et globulines du sang et de la lymphe
 
-* Secrétion de lactose, caséine, graisses et acide citique par éclatement des cellules
+* Secrétion de lactose, caséine, graisses et acide citrique par éclatement des cellules
 
 Controle endocrine de la lactation:
 
-* Pendant la gestation, la folliculine et la progestérone (corps jaune) provoquent la multiplication des celulles sécrétrices et la ramification des canaux glactophores
+* Pendant la gestation, la folliculine et la progestérone (corps jaune) provoquent la multiplication des cellules sécrétrices et la ramification des canaux glactophores
 
 * Pendant la parturition, la folliculine placentaire disparait ce qui permet la synthèse de prolactine hypophysaire
 
 * La proclatine provoque la sécrétion de lait qui s'accumule dans les sinus galactophores
 
-* Lors de la tété, la stimulation du trayon (mammelon chez la femme), simule par voie nerveuse l'hypophyse qui libère de l'ocytocine
+* Lors de la tété, la stimulation du trayon (mamelon chez la femme), simule par voie nerveuse l'hypophyse qui libère de l'ocytocine
 
 * L'ocytocine provoque l'excrétion du lait
 
@@ -173,7 +173,7 @@ Controle endocrine de la lactation:
 
 ![Nutrition des larves](Images/Fig41.JPG)
 
-* Chez la guepe commune,  le nid est construit par une substance ressemblant à du carton
+* Chez la guêpe commune,  le nid est construit par une substance ressemblant à du carton
 
 ### Le parasitisime reproducteur
 
