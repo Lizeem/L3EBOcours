@@ -22,7 +22,6 @@ Ainsi on peut dire que :  L’excrétion recouvre deux fonctions importantes pou
  
 * Le maintien de l’homéostasie 
  
- 
 Certains composés azotés sont toxiques (ammoniac par ex) 
  
 * reins d’élimination 
@@ -43,44 +42,3 @@ Les voies de l’excrétion azotée sont indépendantes des structures anatomiqu
 Lien étroit entre les différents appareils excréteurs et les taxons, avec le degré de compartimentation et de complexité. 
 
 Importance de l’acquisition et de l’évolution de la cavité cœlomique. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
