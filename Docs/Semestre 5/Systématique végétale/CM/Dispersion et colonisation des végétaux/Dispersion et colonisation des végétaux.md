@@ -1,6 +1,6 @@
 # Dispersion et colonisation des végétaux
 
-Les végétaux sont mobiles, l'enracinement est obligatoire ce qui provoque des problèmes:
+Les végétaux sont immobiles, l'enracinement est obligatoire ce qui provoque des problèmes:
 
 * Habitat favorable
 * Partenaires sexuels
@@ -129,13 +129,13 @@ Ils possèdent des structures spécialisées
 Mais aussi des structures non spécialisées        
  
 * Fragmentation aérienne et rhizogénèse postérieur
-	* Bouturage spontanné
+	* Bouturage spontané
 * Fragmentation de touffe pour les espèces cespiteuses
 	* Bouturage spontané
 * Bourgeons adventifs
 	* Dédifferenciation cellulaire, nouveau mérisème, nouveau bourgeon, nouveau rameau 
 * Fragmentation du rizhome
-	* Dégénéréscence des parties agées avec séparation des rizhomes latéraux du rizhome principal (autant de nouveaux individus que de ramifications)
+	* Dégénérescence des parties agées avec séparation des rizhomes latéraux du rhizome principal (autant de nouveaux individus que de ramifications)
 
 Des méthodes existent pour éviter la semaison.
 
@@ -151,10 +151,10 @@ Mais cela peut provoquer des adventices de cultures favorisées par le travail d
 
 Tout est une question de stratégie
 
-* Sexuée *versus* assexuée
-* Graine <-> brassage génétique (méïose et fécondation)
-* Anuelles et ligneux (sexuée préférentiellement)
-* Plantes d'habitat difficile (assexuée préférentiellement, établissement difficile)
+* Sexuée *versus* asexuée
+* Graine <-> brassage génétique (méiose et fécondation)
+* Annuelles et ligneux (sexuée préférentiellement)
+* Plantes d'habitat difficile (asexuée préférentiellement, établissement difficile)
 
 Les deux voies de reproduction :
 
@@ -173,4 +173,4 @@ La voie assexuée à des désavantages:
 * Génome identique
 * Accumulation des tares
 * Accélération des attaques parasitaires
-* Inadaption aux changements environnementaux
+* Inadaptation aux changements environnementaux
