@@ -34,9 +34,9 @@ L'eau métabolique produite est supérieur aux pertes totales donc le rat kangou
 
 Cette adaptation à la vie desertique repose aussi sur la capacité du rein à élaborer une urine très **hypertonique**.
 
-## II) Strctures et mécanismes de l'économie hydrique
+## II) Structures et mécanismes de l'économie hydrique
 
-### Les strctures anatomiques
+### Les structures anatomiques
 
 **Imperméabilisation du tégument**
 
@@ -44,11 +44,12 @@ Les **animaux à peau nue** sont les moins bien armés contre l’évaporation, 
 
 **Les animaux à exosquelette** : L’ exocuticule et l’épicuticule recouverte d’une couche cireuse, sont une excellente protection contre l’évaporation. Ces animaux ont le mieux « réussi » dans la conquête du milieu aérien. Sauf dans le cas où la température extérieure est proche de la température de fusion de la cire ou bien dans le cas d’Arthropodes terrestres dépourvus de cires cuticulaires (ex : cloportes très sensibles à la déshydratation dans les habitations).
 
-**Les animaux à tégument étanche**: Chez les Vertébrés le tégument présente un
-épithélium pluristratifié kératinisé, c’est une barrière imperméable de cellules mortes chargées de kératine. La kératinisation est plus ou moins poussée, de plus chez les Oiseaux et les Mammifères, il existe des annexes supplémentaires (plumes et poils) qui améliorent l’isolation de l’épiderme.
+**Les animaux à tégument étanche**: Chez les Vertébrés le tégument présente un épithélium pluristratifié kératinisé, c’est une barrière imperméable de cellules mortes chargées de kératine. La kératinisation est plus ou moins poussée, de plus chez les Oiseaux et les Mammifères, il existe des annexes supplémentaires (plumes et poils) qui améliorent l’isolation de l’épiderme.
 Ils utilisent cependant l’eau pour empêcher l’élévation de leur température corporelle en milieu chaud : **Perspiration** et **Transpiration**.
 
-**Protection des organes respiratoires**: Exemple chez certains Insectes :Les **stigmates**. Quant ils existent, les stigmates ne s’ouvrent que lorsque le taux de CO2 atteint un taux trop élevé dans les trachées.
+**Protection des organes respiratoires**: Exemple chez certains Insectes 
+
+Les **stigmates**. Quant ils existent, les stigmates ne s’ouvrent que lorsque le taux de CO2 atteint un taux trop élevé dans les trachées.
 
 Ex chez la Blatte : si CO2 contenu dans les trachées est > à 2%. (Taux normal dans l’air 0.03%).
  

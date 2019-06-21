@@ -12,9 +12,7 @@ En plus des ions, l'eau de mer contient de petites quantités de tous les élém
 
 Il existe différents types d’adaptation des animaux à l’eau de mer, on distingue les osmoconformes et les osmorégulateurs.
 
-Certaines espèces osmoconformes seront dites **sténohalines** (sténos = étroit, halin : qui se rapporte au sel) sont cantonnées à des milieux où la salinité
-varie peu, d’autres capables de supporter des variations de salinité plus importantes comme dans les zones intertidales ou les estuaires sont dites
-**euryhalines**.
+Certaines espèces osmoconformes seront dites **sténohalines** (sténos = étroit, halin : qui se rapporte au sel) sont cantonnées à des milieux où la salinité varie peu, d’autres capables de supporter des variations de salinité plus importantes comme dans les zones intertidales ou les estuaires sont dites **euryhalines**.
 
 * Chez la Myxine (Cyclostome marin et sténohalin) la concentration saline est voisine de celle de l’eau de mer donc pas d’osmorégulation. Par contre, chez les Sélaciens et le Coelacanthe, la concentration saline du milieu intérieur est différente de celle de l’eau de mer et pourtant, ces organismes sont en équilibre osmotique avec l’eau de mer. Ceci est lié à l’accumulation dans l’organisme de composés organiques «*osmotiquement actifs*» appelés Osmolytes donc pas de mouvements d’eau (exemple : urée, TMAO et autres amines méthylées).
 
@@ -22,9 +20,7 @@ varie peu, d’autres capables de supporter des variations de salinité plus imp
 	* par le rein (mésonéphros)
     * par un divercule intestinal : La glande rectale
     
-Les Téléostéens marins et les Lamproies (Cyclostomes) sont **hypo-osmotiques**
-par rapport au milieu, l’animal est constamment soumis à une **perte hydrique**
-par **osmose** (surtout au niveau branchial) et du fait du déséquilibre ionique à un **flux entrant d’ions** (de l’eau de mer vers ses tissus).
+Les Téléostéens marins et les Lamproies (Cyclostomes) sont **hypo-osmotiques** par rapport au milieu, l’animal est constamment soumis à une **perte hydrique** par **osmose** (surtout au niveau branchial) et du fait du déséquilibre ionique à un **flux entrant d’ions** (de l’eau de mer vers ses tissus).
 
 La déshydratation est compensée par une faible quantité d’urine émise
 (filtration faible, rein souvent aglomérulaire) et par l’absorption d’une grande quantité d’eau. Mais l’eau chargée de sels aggrave le problème de surcharge saline. De plus, le rein des Téléostéens ne permet pas de produire une urine concentrée et n'évacue que des ions divalents.
@@ -55,7 +51,7 @@ Les espèces perdent de l'eau donc boivent beaucoup pour compenser la perte hydr
 
 #### Adaptations au milieu sur-salé
 
-* Élimination des ions divalents (Mg2+, SO42-,Ca2+ ..) et du potassium au niveau des. fécès
+* Élimination des ions divalents (Mg2+, SO42-,Ca2+ ..) et du potassium au niveau des fécès
 * Absorption intestinale du chlorure de Sodium et expulsion des ions Na+ et Cl– au niveau de cellules spécialisées des branchies des phyllopodes antérieurs (cellules identiques aux ionocytes branchiaux des Téléostéens) ou chez la Larve (sans appendices thoraciques) au niveau de l’organe nucal (face dorsale de la région céphalique)
 
 ### Cas des espèces vivant en eau saumâtre
@@ -98,8 +94,7 @@ Cet osmorégulateur limite les entrées d'eau et la sortie d'ions avec:
 
 ### Adaptations liées
 
-Chez les tétrapodes amniotes sauropsidés marins (Chéloniens = tortues) - diapsides lépidosauriens (serpents et lézards) - diapsides archosauriens (Crocodiliens et Néornithes = Oiseaux actuels) la respiration pulmonaire implique **une perte d’eau** et l’ingestion d’eau et d’aliments salés entraîne
-**une entrée de sels**.
+Chez les tétrapodes amniotes sauropsidés marins (Chéloniens = tortues) - diapsides lépidosauriens (serpents et lézards) - diapsides archosauriens (Crocodiliens et Néornithes = Oiseaux actuels) la respiration pulmonaire implique **une perte d’eau** et l’ingestion d’eau et d’aliments salés entraîne**une entrée de sels**.
 
 L’excès de sel ne peut pas être éliminé par les reins, en effet chez ces animaux l’urine produite est isotonique au plasma ou elle est faiblement hypertonique (ex : chez les Oiseaux urine 700 à 800mOsm/L)
 
@@ -116,13 +111,11 @@ Résumé «*vie en milieu marin*»:
 
 ### Hyper-osmolarité des animaux d'eau douce
 
-La salinité (variable cf. tableau page suivante) des eaux douces est toujours
-inférieure à celle des organismes vivants (~300 mosmol/L).
+La salinité (variable cf. tableau page suivante) des eaux douces est toujours inférieure à celle des organismes vivants (~300 mosmol/L).
 
 Les animaux dulcicoles sont donc **hyper-osmotiques** par rapport à leur milieu.
 
-Le flux d’ions se fait au travers du tégument vers l’**extérieur** et l’**eau** àtendance **à pénétrer dans l’organisme** et envahir le compartiment
-extracellulaire de l’animal.
+Le flux d’ions se fait au travers du tégument vers l’**extérieur** et l’**eau** à tendance **à pénétrer dans l’organisme** et envahir le compartiment extracellulaire de l’animal.
 
 ### Mécanismes de régulation osmotique
 
@@ -142,8 +135,7 @@ Chez les espèces dulcicoles ce sont les branchies qui ont un rôle dans le tran
 
 #### L'excrétion rénale
 
-Tous les animaux d’eau douce éliminent l’eau en excès en produisant une urine
-abondante, parallèlement le rein doit être capable de récupérer les ions.
+Tous les animaux d’eau douce éliminent l’eau en excès en produisant une urine abondante, parallèlement le rein doit être capable de récupérer les ions.
 Donc l’animal est tributaire de ses performances rénales ou excrétrices.
 
 **Dans tous les cas , il doit y avoir un mécanisme de récupération des ions
