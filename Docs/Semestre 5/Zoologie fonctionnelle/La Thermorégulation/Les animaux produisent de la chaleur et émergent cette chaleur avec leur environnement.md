@@ -18,7 +18,7 @@ La température corporelle reflète l'équilibre entre les gains et les pertes d
 
 Les échanges doivent être tout le temps équilibrés avec une température centrale qui va représenter chaque groupe d'espèce (37°C pour l'Homme). En fonction des gains ou des pertes, notre organisme va tout le temps essayer de compenser (pertes de chaleur **thermolyse** et gains de chaleur **thermogénèse**).
 
-La thermogénèse est une production de chaleur liée au métabolisme energétique.
+La thermogenèse est une production de chaleur liée au métabolisme energétique.
 
 Le rendement énergétique des réactions exothermique est d'environ 25%, le reste est dissipé sous forme de chaleur. 
 
@@ -40,7 +40,7 @@ Les **homéothermes**, animaux dont la température corporelle est constante en 
 
 Les espèces **homéothermes** peuvent exercer leurs activités usuelles dans un rang important de variation de la température externe: en terme de **répartition**, ils peuvent conquérir de nombreuses **niches écologiques**.  
 
-Les espèces **poïkilothermes** dont la température centrale varie avec celle de l'environnement ont une activité dépendante de la température externe. Ces espèces n'ont pas les moyens énéergétiques d'assurer la thermorégulation. Elles n'ont pas la capacité de production de chaleur nécessaire pour compenser les pertes dans des conditions extérieurs variables, la pluaprt des animaux ectothermes sont poïkilothermes.
+Les espèces **poïkilothermes** dont la température centrale varie avec celle de l'environnement ont une activité dépendante de la température externe. Ces espèces n'ont pas les moyens énéergétiques d'assurer la thermorégulation. Elles n'ont pas la capacité de production de chaleur nécessaire pour compenser les pertes dans des conditions extérieurs variables, la plupart des animaux ectothermes sont poïkilothermes.
 
 Les **hétérothermes**, certains animaux endothermes ne sont pas strictement homéothermes, placés dans des conditions extrêmes vont adopter des stratégies comportementales qui vont leur permettre de maintenir la température. De même certains ectothermes ne sont pas strictement poïkilothermes.
 

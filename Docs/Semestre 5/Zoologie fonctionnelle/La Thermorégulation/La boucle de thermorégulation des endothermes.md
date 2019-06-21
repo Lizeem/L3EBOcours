@@ -24,7 +24,7 @@ Au niveau des muscles, des gros vaisseaux internes mais surtout au niveau des ce
 
 ## II) L'intégration
 
-Chez les Mammifères, **l'aire préoptique (dans l'hypothalamus)** joue un rôle majeur dans la régulation de la température alors que chez les oiseaux, la sensibilité de la **moelle épinière** jouerait un rôle prédominant.
+Chez les Mammifères, **l'aire pré-optique (dans l'hypothalamus)** joue un rôle majeur dans la régulation de la température alors que chez les oiseaux, la sensibilité de la **moelle épinière** jouerait un rôle prédominant.
 
 **L'aire préotique contient un grand nombre de neurones sensibles à la chaleur**, ces neurones sont activés lorsque la température augmente (10 fois pour une augmentation de température de 10°C).
 

@@ -4,7 +4,7 @@
 
 ### La sudation
 
-La densité des glandes sudoripares est importante chez l'Homme, la vache et le cheval. Elle est faibe chez les carnivores
+La densité des glandes sudoripares est importante chez l'Homme, la vache et le cheval. Elle est faible chez les carnivores
 
 ### La polypnée
 

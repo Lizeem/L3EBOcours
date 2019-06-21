@@ -10,7 +10,7 @@ Facilement observé ce comportement est fatiguant donc de durée limitée
 
 Région dorso-médiane de l'hypothalamus postérieur normalement inhibé par l'aire préoptique.
 
-Contractions de tès courtes durées qui n'entraîenent pas de mouvement et répétées de façon cyclique de muscles squelettiques agonistes et antagonistes.
+Contractions de très courtes durées qui n'entraîenent pas de mouvement et répétées de façon cyclique de muscles squelettiques agonistes et antagonistes.
 
 ## II) La thermogénèse (sans frisson) liée à l'augmentation du métabolisme
 
@@ -23,7 +23,7 @@ Ces hormones sont sécrétées en cas de stress ou d'exposition brutale au froid
 
 A l'opposé, si l'exposition au froid se fait graduellement, au cours des saisons par ex, on observera une augmentation du taux d'hormones **thyroïdiennes**, qui favorisera une augmentation du métabolisme oxydatif des mitochondries d'organes cibles.
 
-**Hormones d'accllimatement au froid**
+**Hormones d'acclimatement au froid**
 
 Cas particulier de thermogénèse métabolique: celle du tissu adipeux brun
 

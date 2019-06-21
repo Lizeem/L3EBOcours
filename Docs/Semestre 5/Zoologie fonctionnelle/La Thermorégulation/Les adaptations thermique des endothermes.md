@@ -10,12 +10,12 @@ Un endotherme est un animal capable d'élever sa température interne lorsque la
 	
     * emprisonne l'air (mauvais conducteur thermique)
     * elles sont légères
-    * elles sont vasculariser (protège les vaisseaux au niveau de la peau)
+    * elles sont vascularisées (protège les vaisseaux au niveau de la peau)
     * peuvent éventuellement recouvrir les pattes et le bec
    
 La **piloerection** chez les oiseaux est un mécanisme rapide qui permet de faire évoluer l'isolation afin d'emprisonner plus d'air sur un temps très court.
 
-* La fourrure, efficace contre le froid avec un sous poil très dense. Les animaux peuvent se retrouver dans un milieu très froid qui va varier. Elle va donc varier selon les saisons. Chez l'ours brun, la mue d'été permet une diminution de 50% du pouvoir isolant de la fourure de l'animal 
+* La fourrure, efficace contre le froid avec un sous poil très dense. Les animaux peuvent se retrouver dans un milieu très froid qui va varié. Elle va donc varier selon les saisons. Chez l'ours brun, la mue d'été permet une diminution de 50% du pouvoir isolant de la fourure de l'animal 
 
 * La graisse
 
@@ -37,7 +37,7 @@ Selon la règle dite de Bergmann, les petits animaux comme le renard seraient pl
 
 S/V doit être faible car, plus il est faible moins il n'y aura de perte d'énergie sous forme de chaleur
 
-D'une manière générale, les aniamaux des régions polaires sont trapus et ceux des régions chaudes élancés.
+D'une manière générale, les animaux des régions polaires sont trapus et ceux des régions chaudes élancés.
 
 Les animaux trapus des régions chaudes vivent dans l'eau ou ont des structures particulières facilitant les pertes de calories.
 
@@ -51,7 +51,7 @@ Plus la masse corporelle est forte, plus le rapport S/V est faible, donc moins l
 
 ### Les adaptations circulatoires
 
-La température corporelle des endothermes est **constante** mais elle n'est **pas homogène** au sein de l'organsime il existe des tranferts de chaleur entre les différents organes grâce au flux sanguin (les plus chauds internes vers les plus froids externes): du noyau central à la périphérie.
+La température corporelle des endothermes est **constante** mais elle n'est **pas homogène** au sein de l'organsime il existe des transferts de chaleur entre les différents organes grâce au flux sanguin (les plus chauds internes vers les plus froids externes): du noyau central à la périphérie.
 
 **Zone interne stable** thermiquement (noyau central) et zone **externe** (enveloppe = peau, extrémités) variable thermiquement 
 
@@ -81,13 +81,13 @@ Ce qui est valable pour les gains de chaleur peut l'être aussi pour les pertes
 
 Chez les oiseaux par exemple, une partie des pattes et des doigts est dépourvue de plumes.
 
-Les cellules des tissus en contact avec le substrat froid sont adaptées. Les acides gras des membranes sont en majorité des adcides gras insaturés (avec au moins une liaison c=c entre les deux atomes de carbone). Ces acides gras insaturés ont la particularité de rester fluides à basse température.
+Les cellules des tissus en contact avec le substrat froid sont adaptées. Les acides gras des membranes sont en majorité des acides gras insaturés (avec au moins une liaison c=c entre les deux atomes de carbone). Ces acides gras insaturés ont la particularité de rester fluides à basse température.
 
 Ainsi, la membrane cellulaire garde ses fonctions en particulier pour les échanges gazeux de part et d'autre et la cellule reste fonctionelle.
 
 ## III) Comportementales
 
 * Le choix de l'environnement
-* La construction de microenvironnements
+* La construction de micro - environnements
 * Les migrations 
 * Comportements spécifiques

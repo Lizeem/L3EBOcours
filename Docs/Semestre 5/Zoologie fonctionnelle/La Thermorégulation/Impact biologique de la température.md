@@ -30,7 +30,7 @@ Il y a toujours des exceptions sauf pour certains cas particuliers dû aux forme
 
 Certains organismes sont **ectotherme** luttant contre la congelation en systhétisant des substances "anti-gel". Ces substances sont des **osmolytes** (glycérol, sels..) ou des protéines qui diminuent le point de congélation, c'est le mécanisme de **surfusion**.
 
-*Chez certains Lépidoptères, on mesure un taux de glycérol croissant à l'approche de l'hiver, ils peuvent geler complètement et supporter des températures inférieurs à -50°C. Pas de mouvement, pas de respiration, pas de battements cardiaques. La chenille peut subir ces mécanisme de congélation décongélation plusieurs fois au cours de son cycle de vie (jusqu'à 7 ans de vie larvaire)*
+*Chez certains Lépidoptères, on mesure un taux de glycérol croissant à l'approche de l'hiver, ils peuvent geler complètement et supporter des températures inférieurs à -50°C. Pas de mouvement, pas de respiration, pas de battements cardiaques. La chenille peut subir ces mécanismes de congélation décongélation plusieurs fois au cours de son cycle de vie (jusqu'à 7 ans de vie larvaire)*
 
 *Chez les poissons des eaux polaires, on retrouve des AFGP (Anti-Freeze GlycoProteins)*
 
