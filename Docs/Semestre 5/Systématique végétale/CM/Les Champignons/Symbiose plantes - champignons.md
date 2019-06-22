@@ -17,7 +17,7 @@ Il existe des contraintes liées à la colonisation des milieux terrestres:
 
 Il y  a un besoin de différenciation de l'appareil racinaire et de l'exploration du grand volume de sol
 
-* mais poils absobants fragiles, leur durée de vie assez courte
+* mais poils absorbants fragiles, leur durée de vie assez courte
 
 *Rhynia sp*: apparaît au Dévonien (Paléozoïque, 410-360 M années)
 
@@ -101,7 +101,7 @@ Mise en évidence des échanges:
 
 2) Différentes substances se retrouvent marquées : dans le donneur, puis dans le receveur
 
-Mise en évience de flux de composés **depuis la plante**:
+Mise en évidence de flux de composés **depuis la plante**:
 
 * vitamines et hormones non synthétisable par le champignon
 * surtout des composés C: passant la zone d'apposition sous forme de sucres simples, puis stockés dans les champignons sous forme de glycogène et de mannitol. 20 à 40% de la production photosythétique de la plante est transmise au partenaire fongique.
@@ -203,7 +203,7 @@ On a une hypertrophie des cellules végétales.
 
 **Endomycorhizes éricoïdes**:
 
-* Patenaires végétaux sont des Ericacées
+* Partenaires végétaux sont des Ericacées
 * Partenaires fongiques sont surtout des Ascomycètes (Helotiales), des Basidiomycètes (Sebacinales)
 
 Les champignons ont des similitudes anatomiques avec d'autres mycorhizes : 

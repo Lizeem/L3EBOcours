@@ -162,6 +162,6 @@ Le pathogène va se developper sur une plante-hôte en
 
 C'est une stratégie proche des saprophytes.
 
-En situation de déséquilibre de l'intéraction, il y aura possibilité de dégâts très importants.
+En situation de déséquilibre de l'interaction, il y aura possibilité de dégâts très importants.
 
 ![agent de la graphiose de l'orme](Images/orne.JPG)
