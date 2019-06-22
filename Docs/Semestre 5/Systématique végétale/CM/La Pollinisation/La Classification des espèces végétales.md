@@ -106,7 +106,7 @@ Plantes semi cachées, elles persistent par les bourgeons situés au ras du sol
 Plantes vivaces dont les organes pérennants sont enfouis dans le sol. Organes pouvant prendre des formes différentes :
 
 * bourgeons à la base de la tige mais sous le niveau 0 du sol
-* rhizomes : tiges à developpement horizontal, portant des feuilles écailleuses
+* rhizomes : tiges à développement horizontal, portant des feuilles écailleuses
 
 Developppement d'une tige aérienne par an à partir d'un bourgeon axillaire, croissance du bourgeon terminal
 

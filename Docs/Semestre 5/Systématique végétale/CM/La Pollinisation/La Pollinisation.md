@@ -106,7 +106,7 @@ trois types d'isolement communément cités
 
 Le mécanisme de la **pollinisation** correspond à la période qui comprend le départ du grain de pollen jusqu'à son arrivée sur le stigmate
 
-Le grain de pollen : protection des gamètes mâles, protection lors du transport
+Le grain de pollen : protection des gamètes mâle, protection lors du transport
 
 Ornementation : Exine Intine
 
