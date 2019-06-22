@@ -83,7 +83,7 @@ Existence d'appendices rigides (poil incolore)
 
 ![Coleo](Images/av2.JPG)
 
-Extémité de certains filaments :
+Extrémité de certains filaments :
 
 * developpement de spermatocyste
 	* libération d'un petit spermatozoïde
@@ -107,7 +107,7 @@ Particularité : Un recouvrement provenant du gamétophyte recouvre le zygote et
 
 **CYCLE TRES IMPORTANT AU PLAN EVOLUTIF**
 
-Si des mitoses végétatives s'intercalent entre la formation du zygote et la méïose : **obtention d'un sporophyte parasite du gamétophyte**
+Si des mitoses végétatives s'intercalent entre la formation du zygote et la méiose : **obtention d'un sporophyte parasite du gamétophyte**
 
 ![La reproduction](Images/repro.JPG)
 

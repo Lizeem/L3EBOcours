@@ -52,7 +52,7 @@ L'appareil végétatif est de petite taile sans tissu lignifié ni de tissus con
 
 Les traits écologiques
 
-* statégie de reproduction **r**, individu qui produisent énormément de descendants
+* stratégie de reproduction **r**, individu qui produisent énormément de descendants
 * résistance aux stress, contraintes physiques
 * plantes pionnières (blocage succession), substance allélopathiques
 
@@ -122,7 +122,7 @@ Le sporophyte ou sporogone:
 * produit un mélange de méiospores et d'élatères
 * déhiscence : 4 orthostiques longitudinales
 
-#### Hépathique à thalle Sphaerocarpales
+#### Hépatique à thalle Sphaerocarpales
 
 * Plante dioïque
 * gamétophyte en forme de lame thalloïde 
@@ -137,7 +137,7 @@ Le sporophyte ou sporogone:
     * spores
     * cellules stériles = élatères
     
-#### Hépathique à thalle : Metzgeriales
+#### Hépatique à thalle : Metzgeriales
 
 Le gamétophyte
 

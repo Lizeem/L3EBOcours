@@ -74,7 +74,7 @@ Appartiennent à un groupe comprenant les **embryophytes** -> groupe **paraphyl�
 * Thylacoïdes emilés par 2 à 6 -> pouvant former des granas
 * amidon **intraplastidial**
 * groupe basé sur
-	* caractères ultrastructuraux des flagelles
+	* caractères ultra structuraux des flagelles
     * de la mitose
 
 Formes : majoritairement microscopiques
@@ -95,14 +95,12 @@ Ils sont parfois pathogènes
 
 ## F) Euglenophyceae = euglènes
 
-* Algues unicellulaires
-* flagellées
+* Algues unicellulaires flagellées
 * Réserves sous forme de paramylon (polymère du glucose, non soluble) **extraplastidial**
 * Plastes, lorsqu’ils sont présents, à **3 membranes**
 * Chlorophylle a et b
 * Dulçaquicoles, marines, saumâtres,intestin de batracien ...
-* Formation de film vert dans les estuaires 
-* provoquent des blooms toxiques
+* Formation de film vert dans les estuaires provoquent des blooms toxiques
 
 ## G) Les Chlorarachniophyceae
 

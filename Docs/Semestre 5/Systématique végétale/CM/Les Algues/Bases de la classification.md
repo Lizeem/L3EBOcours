@@ -127,7 +127,7 @@ Trois :
 
 **Eucaryotes**
 
-Composé de microtubules non homologues ds flagelles bactériens, homologues des cils des ciliés
+Composé de microtubules non homologues dans flagelles bactériens, homologues des cils des ciliés
 
 Mouvement est ondulatoire
 
