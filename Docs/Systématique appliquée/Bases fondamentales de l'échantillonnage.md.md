@@ -19,9 +19,9 @@ On aura des marches d'escaliers en fonction de l'échelle croissante.
 
 ### I) Les généralités
 
-L'objectif de l'échantillonage est de permettre d'inférer à partir des propriétés d'un ensemble d'échantillons, celle de la *pop mère*
+L'objectif de l'échantillonage est de permettre d'inférer à partir des propriétés d'un ensemble d'échantillons, celle de la *population mère*
 
-**Question méthodo**: comment déterminer les caractéristiques d'un plan d'échantillonnage  de façon à obtenir le maximum d'info pertinentes en fonction du pb posé.
+**Question méthodo**: comment déterminer les caractéristiques d'un plan d'échantillonnage  de façon à obtenir le maximum d'infos pertinentes en fonction du problème posé.
 
 **Problème** : Choisir une méthode et une stratégie d'utilisation de cette méthode permettant d'obtenir une représentation satisfaisante de l'objet étudié.
 
@@ -36,11 +36,11 @@ L'objectif de l'échantillonage est de permettre d'inférer à partir des propri
 * Un échantillon de ces systèmes est souvent lui même très complexe
 * Leur étude se limite à une image approximative, restreinte à un petit nombre de *caractères* ou *descripteurs* choisis en fonction d'une problématique précise
 
-*ex des milliers d'espèces dans certains ecosystèmes tropicaux, les insectes sont très variés*
+*exemple : des milliers d'espèces dans certains ecosystèmes tropicaux, les insectes sont très variés*
 
 ### III) Définitions
 
-**Echantillon**: Frangment d'un ensemble prelevé pour juger cet ensemble.
+**Echantillon**: Fragment d'un ensemble prelevé pour juger cet ensemble.
 
 **Descripteur** : variable qualitative ou quantitative utilisée pour décrire un échantillon conformément aux préoccupations de l'étude 
 
@@ -50,13 +50,13 @@ L'objectif de l'échantillonage est de permettre d'inférer à partir des propri
 
 ### IV) L'interférence statistique
 
->Le plan d'échantillonage doit permettre l'interférence statistique
+> Le plan d'échantillonage doit permettre l'interférence statistique
 
 L'estimation des propriétés *vraies* de l'objet global 
 
 > Importance du choix du descripteur
 
-**richesse spécique** = nombre d'espèces présentes
+**Richesse spécique** = nombre d'espèces présentes
 
 On ne sait pas pour quel groupe l'échantillonage, le représentera le mieux.
 
@@ -70,7 +70,7 @@ La meilleure estimation va être trouvé si:
 
 > Importance de la définition de la stratégie d'échantillonage
 
-### V) Les processus décisionnel
+### V) Les processus décisionnels
 
 ![Systématiqueappliquée](Images/Fig2.JPG)
 
@@ -100,20 +100,20 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 	* définis comme des quantités véritables
     unités de mesures numériques, permettant le calcul de rapports, moyennes, variance ect...
  
-*ex densité ou biomasse d'individu par taxon*
+*exemple : densité ou biomasse d'individu par taxon*
     
 * Les descripteurs qualitatifs
 	* Catégories ou modalités définies sans assignation de mesure
     * pas d'ordre possible
     * pas de calcul possible 
     
-*ex présence/ absence d'un taxon dans une communauté*
+*exemple : présence/ absence d'un taxon dans une communauté*
     
 * Les descripteurs semi-qualitatifs
 	* Catégorie ou modalité par l'existence d'une relation d'ordre
     * Pas de calculs possibles
     
-*ex  classes de densité par taxon*
+*exemple : classes de densité par taxon*
 
 ![Systématiqueappliquée](Images/Fig6.JPG)
 
@@ -129,8 +129,8 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 
 > Différents types de méthodes d'échantillonnage : 
 
-* Méthodes destructrices ( échantillonnage de sol, prélevement d'individus pour identification au laboratoire)
-* Méthode non destructrices ( comptage, libération d'individus, observations visuelles)
+* Méthodes destructrices (échantillonnage de sol, prélevement d'individus pour identification au laboratoire)
+* Méthode non destructrices (comptage, libération d'individus, observations visuelles)
 
 
 ### IX) Les  contraintes naturelles
@@ -138,8 +138,8 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 > Les contraintes naturelles
 
 * sont liés aux caractéristiques propres des descripteurs:	
-	* répartition spatiale et temporelle
-    * distribution stat
+    * répartition spatiale et temporelle
+    * distribution statistique
     
 * dépendent des échelles d'observation
 	* à la structure de l'écosystème considéré
@@ -150,7 +150,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 
 > Les descripteurs ne sont généralement pas répartis de façon homogène dans l'espace
 
-* problème d'autocorrélation spatiale et de l'**indépendance stat** des mesures
+* problème d'autocorrélation spatiale et de l'**indépendance statistique** des mesures
 * forte contrainte sur une distance minimale entre mesures
 * contrainte également sur l'emplacement des mesures
 * cette contrainte est fonction de l'échelle d'observation
@@ -158,7 +158,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 > Les descripteurs ne sont pas répartis de façon homogène dans le temps
 
 * forte contrainte sur le moment des mesures
-* choix de la date maus aussi de la fréquence des mesures
+* choix de la date mais aussi de la fréquence des mesures
 * cette contrainte est également fonction de l'echelle d'observation
 
 > Les contraintes techniques
@@ -167,10 +167,10 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 
 	* méthode d'échantillonnage adaptée (macrofaune, édaphique, macrofaune dulçaquicole)
 
-* Liéees aux contraintes du cadre d'étude et de la méthode choisie
-	* pb de main d'oeuvre dispo
-    * pb de temps dispo
-    * pb de  logistique 
+* Liées aux contraintes du cadre d'étude et de la méthode choisie
+	* pb de main d'oeuvre disponible
+    * pb de temps disponible
+    * pb de logistique 
     
 ### XI) Le plan d'échantillonnage
 
@@ -179,7 +179,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
 * Avantage : le seul qui permet d'éviter les biais
 * Problème : comment définit-on *aléatoire*
 
-> Plan d'échantillonnage structurés
+> Plan d'échantillonnage structuré
 
  * On introduit délibérément des informations en fonction d'une connaissance préalable, d'hypothèses de travail, d'une problématique, ect..
  * On utilise alors un *prémodèle*, forme de description recherchée à priori en fonction de laquelle le plan d'échantillonnage est défini
@@ -188,7 +188,7 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
  
 ![Systématiqueappliquée](Images/Fig8.JPG) 
  
-### XII) Les objetcifs scientifiques et pratiques
+### XII) Les objectifs scientifiques et pratiques
  
 ![Systématiqueappliquée](Images/Fig9.JPG)
 
@@ -206,13 +206,13 @@ La réponse à une question peut vraiment dépendre de l'échelle à laquelle on
  
  * Du gène, aux espèces et aux écosystèmes
  * Groupes taxonomiques, groupes fonctionnels, groupe de réponse
- * Peut etre mesurée à différentes échelles
+ * Peut être mesurée à différentes échelles
  * Peut être mesurée à l'aide d'une multitude d'indices
  
 Ces indices sont des *propriétés* des communautés que l'on peut mesurer sur un échantillon donné
  Il rendent compte de différentes facettes de ce que l'on appelle la ***biodiversité***
  
-**Diversité** = une mesure qui intègre d'une manière ou d'une autre à la fois le nombre de catégories présentes et la répartition de leurs représentants dans la pop.
+**Diversité** = une mesure qui intègre d'une manière ou d'une autre à la fois le nombre de catégories présentes et la répartition de leurs représentants dans la population.
  
 > La rareté moyenne des catégories
 
@@ -223,8 +223,8 @@ On pourrait comparer sur un mode paramétrique les diversités si elles obéisse
 Les indices non paramétriques les plus employés sont:
 
 * richesse spécifique = nombre d'espèce (S)
-	* peut -être calculée comme le total des espèces trouvées dans une station donnée
-    * Ou comme le nombre moyen d'espèces par échantillon
+	* peut-être calculée comme le total des espèces trouvées dans une station donnée
+        * ou comme le nombre moyen d'espèces par échantillon
     
 * indices de Shannon - Weaver = indice synthétique de mesure de la diversité spécifique
 
@@ -266,15 +266,15 @@ Les groupes indicateurs doit  être:
 
 ## A) Notion de niche écologique
 
-Premier à utiliser ce terme **Grinnell** 
-*Chaque espèce ayant ses propres limites physiologiques, morphologiques et éthologiques, ce qui l'a rend capable d'occuper des espaces particuliers offerts par la nature*
+Le premier à utiliser ce terme : **Grinnell** 
+*"Chaque espèce ayant ses propres limites physiologiques, morphologiques et éthologiques, ce qui l'a rend capable d'occuper des espaces particuliers offerts par la nature"*
 
 * La niche est une propriété de l'environnement, pas de l'espèce
 * Le rôle central de l'exclusion compétitive est reconnu
 
 > Une espèce sera donc indicatrice d'une niche qu'elle est seul à occuper à l'équilibre
 
-**Elton** insiste sur le **rôle fonctionel de l'espèce dans un réseau trophique. Les conditions abiotiques ne sont pas prises en compte. *Ce que fait l'espèce, pas ce qu'elle est*
+**Elton** insiste sur le **rôle fonctionel de l'espèce dans un réseau trophique**. Les conditions abiotiques ne sont pas prises en compte. *"Ce que fait l'espèce, pas ce qu'elle est."*
 
 ![Interactions](Images/Fig22.JPG)
 
@@ -296,7 +296,7 @@ La niche, sensu Hutchinson, est le domaine de tolérance vis à vis des pricipau
 
 ![Définition de Hutchinson](Images/Fig26.JPG)
 
-On peut généraliser la notion de niche sensu Hutchinson à un grand nombre de facteurs m^me s'il est difficile de les visualiser. Au final, le domaine de recouvrement devient nul dès que sur l'un des facteurs il y a un non-recouvrement. Les limites de tolérance ne sont pas nécessairement géométriques:
+On peut généraliser la notion de niche sensu Hutchinson à un grand nombre de facteurs même s'il est difficile de les visualiser. Au final, le domaine de recouvrement devient nul dès que sur l'un des facteurs il y a un non-recouvrement. Les limites de tolérance ne sont pas nécessairement géométriques:
 
 ![Définition de Hutchinson](Images/Fig27.JPG)
 
@@ -306,7 +306,7 @@ On peut généraliser la notion de niche sensu Hutchinson à un grand nombre de 
 
 ![Définition de Hutchinson](Images/Fig30.JPG)
 
-Les limites de tolérance à deux  ou pluseurs facteurs peuvent être corrélées
+Les limites de tolérance à deux ou plusieurs facteurs peuvent être corrélées
 
 ![Définition de Hutchinson](Images/Fig31.JPG)
 
@@ -320,9 +320,9 @@ Pour Hutchinnson, la niche est une propriété de son occupant, pas de l'environ
 
 Définition de Hutchinson : utile en termes de bioindication
 
-Définition d'Elton: opératoire en termes d'analyse de flux d'énergie
+Définition d'Elton : opératoire en termes d'analyse de flux d'énergie
 
-Définition d'Odum: utile pour prévoir l'évolution du système difficile à mettre en oeuvre sur des systèmes complexes.
+Définition d'Odum : utile pour prévoir l'évolution du système difficile à mettre en oeuvre sur des systèmes complexes.
 
 ## XIV) Les groupes - organismes indicateurs
 
@@ -335,12 +335,7 @@ Pour qu'un organisme puisse être considéré comme indicateur, il faut
 
 ![Indice indicateur](Images/Fig35.JPG)
 
-*Exemple : Les lichens et le bioindication de la pollution atmosphérique*
-*L'utilisation des lichens comme mesure de la pollution atmosphérique est (très )ancienne:*
-
-* *Erasme Darwin (1790)*
-* *Travaux sur les lichens du jardin du Luxembourg en 1866*
-* *Les pricipales applications se sont portées, dans les années 50-90, sur le suivi des pollutions acides (SO2), largement réduites depuis.*
+*exemple :les lichens et le bioindication de la pollution atmosphérique, l'utilisation des lichens comme mesure de la pollution atmosphérique est très ancienne (Erasme Darwin en 1790, travaux sur les lichens du jardin du Luxembourg en 1866). Les pricipales applications se sont portées, dans les années 50-90, sur le suivi des pollutions acides (SO2), largement réduites depuis.*
 
 ![Lichens](Images/Fig36.JPG)
 
@@ -348,7 +343,7 @@ Caracas : comparaison sur la base de la richesse spécifique
 
 ![Lichens](Images/Fig37.JPG)
 
-1970: "Golden Age": les lichens sont utilisés en tant que bioindicateurs de la pollution en SO2. Calibration de la résistance pour chaque espèce, puis relevés qualitatif.
+1970, "Golden Age": les lichens sont utilisés en tant que bioindicateurs de la pollution en SO2. Calibration de la résistance pour chaque espèce, puis relevés qualitatif.
 
 ![Lichens](Images/Fig38.JPG)
 
@@ -362,22 +357,22 @@ Puis la pollution en SO2 baisse grâce à l'usage des carburants raffinés, bais
 
 Explications: 
 
-* Leg de pollution (remobilisation)?
-* Capacité de colonisation différentielle entre les espèces ?
-* Interférence avec d'autres pollutions : Nitreuse
+* Leg de pollution (remobilisation)
+* Capacité de colonisation différentielle entre les espèces 
+* Interférence avec d'autres pollutions : nitreuse
 * Nouveaux lichens de zones polluées : plus nitratophiles
 
 ![Lichens](Images/Fig41.JPG)
 
->La bioindication de la pollution atmosphérique est aussi sensible à lla cinétique et au sens du changement
+> La bioindication de la pollution atmosphérique est aussi sensible à la cinétique et au sens du changement
 
-> Utilisation actuelle des lichens pour la pollution azotée aux Pays-BaS
+> Utilisation actuelle des lichens pour la pollution azotée aux Pays-Bas
 
 1) Définition d'un champ d'échantillonnage : les dépôts azotés faisant varier le pH, ne considérent que des écorces d'arbres dans la même fourchette de pH
 
 2) Construction d'un indicateur composite avec des espèces communes (20 espèces choisies)
 
-3) Comparaison des donées de l'indicateur composite avec des données isues de capteurs
+3) Comparaison des données indicateur composite avec des données issues de capteurs
 
 4) Validation par mesure de corrélation
 
@@ -389,7 +384,7 @@ Carte des zones trouvées par le calcul de l'indice *Nitrofiele Indicatie Waarde
 
 ![Indice de Nitrate](Images/Fig43.JPG)
 
-Regeression linéaire à l'échelle des sites (174 et 145)
+Régression linéaire à l'échelle des sites (174 et 145)
 
 ![Table1](Images/Fig44.JPG)
 
@@ -397,19 +392,14 @@ Régression linéaire à l'échelle des mailles de 5x5 km
 
 ![Mailles](Images/Fig45.JPG)
 
-Bilan Bioindiaction:
+Bilan bioindication:
 
 Choix des groupes : doit-être documenté
 
-Choix des écehelles : doit -être dimensionné au domaine des espèces
+Choix des échelles : doit-être dimensionné au domaine des espèces
 
-Pas de bioindicateur universel : Prise en compte des groupes
+Pas de bioindicateur universel : prise en compte des groupes
 
 Problème de la réactivité temporelle : doit-être également mesuré
 
 Garder à l'esprit de la dimension de la niche que l'on considère
-
-
-
-
-
