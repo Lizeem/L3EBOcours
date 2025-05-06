@@ -53,6 +53,9 @@ Les données récoltées sont traitées à l’aide du logiciel R (test Kruskal-
 
 ![Graphique représentant la richesse spécifique en plante vivace en fonction du mode de gestion](Images/CRPB.JPG)
 
+![Graphique représentant la richesse spécifique en plante vivace en fonction du mode de gestion](Images/sitePB.png)
+
+
 0 : sans exportation
 1 : avec exportation
 
